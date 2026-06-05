@@ -1,0 +1,44 @@
+name: 📰 Auto News Bot
+
+on:
+  schedule:
+    # اجرای خودکار هر ۳۰ دقیقه یک‌بار
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+    # دکمه اجرای دستی برای تست فوری
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # مجوز ذخیره history.json
+
+    steps:
+      - name: ⬇️ دریافت کدها
+        uses: actions/checkout@v4
+
+      - name: 🐍 راه‌اندازی Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 نصب وابستگی‌ها
+        run: |
+          pip install --upgrade pip
+          pip install feedparser groq requests
+
+      - name: 🚀 اجرای ربات
+        env:
+          GROQ_API_KEY:         ${{ secrets.GROQ_API_KEY }}
+          TELEGRAM_BOT_TOKEN:   ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID:  ${{ secrets.TELEGRAM_CHANNEL_ID }}
+        run: python bot.py
+
+      - name: 💾 ذخیره تاریخچه اخبار
+        run: |
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add history.json
+          git diff --cached --quiet || git commit -m "chore: update news history [skip ci]"
+          git push
