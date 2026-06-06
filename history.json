@@ -1,4 +1,14 @@
 {
+  "5a54c450226529c3bc896e119f0305b1": {
+    "url": "https://www.nytimes.com/2026/06/06/world/middleeast/israel-west-bank-infant.html",
+    "timestamp": "2026-06-06T19:28:04+00:00",
+    "source": "nyt"
+  },
+  "6e2e5abcce6ab2a97aed39fbb5a2332e": {
+    "url": "https://www.france24.com/en/tv-shows/spotlight/20260606-estonia-s-former-president-on-lessons-learnt-in-dealing-with-putin",
+    "timestamp": "2026-06-06T18:30:46+00:00",
+    "source": "afp"
+  },
   "ff04398439669de6a537d2396ad8816f": {
     "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
     "timestamp": "2026-06-06T17:14:03+00:00",
@@ -19,10 +29,45 @@
     "timestamp": "2026-06-06T14:46:20+00:00",
     "source": "world"
   },
+  "0ace4dea077f443ef9db7117c8c83ec4": {
+    "url": "https://www.france24.com/en/europe/20260606-hegseth-urges-europe-on-d-day-to-counter-present-day-invasion",
+    "timestamp": "2026-06-06T13:53:10+00:00",
+    "source": "afp"
+  },
+  "118d0022ad45a7a26eb4459fae1abcc4": {
+    "url": "https://www.nytimes.com/2026/06/06/world/middleeast/israel-strike-lebanese-soldiers-general.html",
+    "timestamp": "2026-06-06T13:49:03+00:00",
+    "source": "nyt"
+  },
+  "6ec9117f4f479aa14cdb0b21b7bef41e": {
+    "url": "https://www.france24.com/en/europe/20260606-albanians-protest-jared-kushner-backed-resort-plan-on-nature-reserve",
+    "timestamp": "2026-06-06T13:41:10+00:00",
+    "source": "afp"
+  },
+  "c553876a191e2bf7ee19cb6cf9c1e622": {
+    "url": "https://www.france24.com/en/europe/20260606-ukraine-launches-fresh-drone-attack-st-petersburg-region-final-day-russian-davos",
+    "timestamp": "2026-06-06T13:07:17+00:00",
+    "source": "afp"
+  },
+  "d9378635774984048cb394cd60f3c262": {
+    "url": "https://www.nytimes.com/2026/06/06/world/asia/india-protest-cockroach-janta-party.html",
+    "timestamp": "2026-06-06T13:06:51+00:00",
+    "source": "nyt"
+  },
+  "984dc92c40519f41085ac22abb200e0b": {
+    "url": "https://www.france24.com/en/radio-station-in-dr-congo-seeks-to-stop-misinformation-amid-spread-of-ebola",
+    "timestamp": "2026-06-06T12:59:25+00:00",
+    "source": "afp"
+  },
   "0264b0674f43ba32651e57e36e9ab6db": {
     "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
     "timestamp": "2026-06-06T11:56:25+00:00",
     "source": "world"
+  },
+  "802fdea8d831a16f7eae101d3a69102d": {
+    "url": "https://www.nytimes.com/2026/06/06/world/middleeast/white-phosphorous-israel-lebanon.html",
+    "timestamp": "2026-06-06T09:00:06+00:00",
+    "source": "nyt"
   },
   "b8e89407fb02f6e5ddf952f301778697": {
     "url": "https://www.bbc.com/news/articles/c74yl98kv37o?at_medium=RSS&at_campaign=rss",
@@ -43,6 +88,11 @@
     "url": "https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss",
     "timestamp": "2026-06-06T04:22:25+00:00",
     "source": "world"
+  },
+  "78f24fb1d1e6d78fe812496227d8c382": {
+    "url": "https://www.nytimes.com/2026/06/06/world/africa/mali-rebels-fighting-jnim-isis.html",
+    "timestamp": "2026-06-06T04:01:09+00:00",
+    "source": "nyt"
   },
   "2476995bd900fa4497de9143cff0fd7c": {
     "url": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
