@@ -2,7 +2,7 @@ name: 📰 Auto News Bot
 
 on:
   schedule:
-    - cron: '0 * * * *'  # هر ۱ ساعت رأس ساعت
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      
+
     steps:
       - name: ⬇️ Checkout Repository
         uses: actions/checkout@v4
