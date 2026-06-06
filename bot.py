@@ -31,7 +31,7 @@ GROQ_MODEL = "llama-3.3-70b-versatile"
 HISTORY_FILE = "history.json"
 MAX_HISTORY = 500
 EVENT_WINDOW_HOURS = 24
-MAX_WORKERS = min(len(GROQ_KEYS), 4)  # جلوگیری از ایجاد ترد اضافی
+MAX_WORKERS = min(len(GROQ_KEYS), 4)
 FEED_LIMIT = 10
 DELIMITER = "|||NEWS_SEPARATOR|||"
 SIGNATURE = "\n\nاخبار روز، ارشیا نیوز😁"
@@ -145,7 +145,8 @@ def normalize(text: str) -> str:
     return re.sub(r'\s+', ' ', text).strip()
 
 
-def get_fingerprint(title: str) -> str:    return hashlib.md5(normalize(title).encode('utf-8')).hexdigest()
+def get_fingerprint(title: str) -> str:
+    return hashlib.md5(normalize(title).encode('utf-8')).hexdigest()
 
 
 def clean_html(text: str) -> str:
@@ -194,7 +195,8 @@ def is_important_tasnim_fars(title: str, desc: str) -> bool:
 # ─────────────────────────────────────────────
 # ۵. جمع‌آوری اخبار
 # ─────────────────────────────────────────────
-def collect_news(feeds: list, history: dict, feed_type: str) -> list:    candidates = []
+def collect_news(feeds: list, history: dict, feed_type: str) -> list:
+    candidates = []
     for source, url in feeds:
         try:
             parsed = feedparser.parse(url)
@@ -233,7 +235,7 @@ def process_batch(news_batch: list, api_key: str) -> dict:
     """Returns a dict mapping news fingerprint to analysis text."""
     id_to_fp = {}
     batch_parts = []
-    
+
     for idx, n in enumerate(news_batch):
         uid = f"ID:{idx}"
         id_to_fp[uid] = n["fp"]
@@ -245,7 +247,7 @@ def process_batch(news_batch: list, api_key: str) -> dict:
     prompt = PROMPT_TEMPLATE.format(delimiter=DELIMITER, batched_news=batched_text)
     client = Groq(api_key=api_key)
     result_map = {}
-    
+
     try:
         resp = client.chat.completions.create(
             model=GROQ_MODEL,
@@ -255,7 +257,7 @@ def process_batch(news_batch: list, api_key: str) -> dict:
         )
         full_response = resp.choices[0].message.content.strip()
         analyses = [a.strip() for a in full_response.split(DELIMITER) if a.strip()]
-        
+
         for analysis in analyses:
             # استخراج ID از پاسخ مدل
             match = re.search(r'\[ID:(\d+)\]', analysis)
@@ -267,10 +269,10 @@ def process_batch(news_batch: list, api_key: str) -> dict:
                     result_map[id_to_fp[uid]] = clean_analysis
             else:
                 print(f"⚠️ پاسخ بدون ID یافت شد: {analysis[:50]}...")
-                
+
     except Exception as e:
         print(f"❌ خطای Groq: {e}")
-        
+
     return result_map
 
 
@@ -280,7 +282,7 @@ def process_batch(news_batch: list, api_key: str) -> dict:
 def send_to_telegram(text: str, max_retries: int = 3) -> bool:
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     payload = {"chat_id": CHANNEL_ID, "text": text, "parse_mode": "HTML"}
-    
+
     for attempt in range(max_retries):
         try:
             r = requests.post(url, json=payload, timeout=20)
@@ -292,10 +294,11 @@ def send_to_telegram(text: str, max_retries: int = 3) -> bool:
                 time.sleep(wait)
                 continue
             print(f"❌ خطای تلگرام: {r.status_code} - {r.text}")
-            break        except Exception as e:
+            break
+        except Exception as e:
             print(f"❌ خطای اتصال تلگرام: {e}")
             time.sleep(5)
-            
+
     return False
 
 
@@ -333,15 +336,16 @@ def main():
     fp_to_analysis = {}
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         future_to_batch = {
-            executor.submit(process_batch, batch, GROQ_KEYS[i % len(GROQ_KEYS)]): batch 
+            executor.submit(process_batch, batch, GROQ_KEYS[i % len(GROQ_KEYS)]): batch
             for i, batch in enumerate(batches)
         }
-        
+
         for future in as_completed(future_to_batch):
             try:
                 result_map = future.result()
                 fp_to_analysis.update(result_map)
-            except Exception as e:                print(f"❌ خطای پردازش دسته: {e}")
+            except Exception as e:
+                print(f"❌ خطای پردازش دسته: {e}")
 
     # ارسال نتایج
     processed_count = 0
@@ -349,7 +353,7 @@ def main():
         analysis = fp_to_analysis.get(news["fp"])
         if not analysis:
             continue
-            
+
         msg = (
             f"📰 {news['source_label']}\n\n"
             f"{analysis}\n\n"
