@@ -185,14 +185,24 @@ def is_important_tasnim_fars(title: str, desc: str) -> bool:
     return has_keyword and not is_opinion
 
 # ─────────────────────────────────────────────
-# ۵. جمع‌آوری اخبار
+# ۵. جمع‌آوری اخبار (با دور زدن کلودفلر)
 # ─────────────────────────────────────────────
 def collect_news(feeds: list, history: dict, feed_type: str) -> list:
     candidates = []
+    # هدر مرورگر تا سایت‌هایی مثل رویترز و ایران اینترنشنال ما را ربات تشخیص ندهند
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+    
     for source, url in feeds:
         try:
-            parsed = feedparser.parse(url)
+            # دریافت محتوا با requests به جای feedparser مستقیم
+            response = requests.get(url, headers=headers, timeout=15)
+            response.raise_for_status()
+            
+            parsed = feedparser.parse(response.content)
             entries = parsed.entries[:FEED_LIMIT]
+            
             for e in entries:
                 t = clean_html(e.get("title", ""))
                 l = e.get("link", "")
@@ -216,7 +226,7 @@ def collect_news(feeds: list, history: dict, feed_type: str) -> list:
                     "source_label": SOURCE_LABELS.get(source, source),  
                 })  
         except Exception as ex:  
-            print(f"❌ خطای RSS {url}: {ex}")  
+            print(f"❌ خطای RSS برای منبع {source}: {ex}")  
     return candidates
 
 # ─────────────────────────────────────────────
