@@ -2,42 +2,40 @@ name: 📰 Auto News Bot
 
 on:
   schedule:
-    # اجرای خودکار هر ۳۰ دقیقه یک‌بار
-    - cron: '*/30 * * * *'
+    - cron: '0 * * * *'  # هر ۱ ساعت رأس ساعت
   workflow_dispatch:
-    # دکمه اجرای دستی برای تست فوری
 
 jobs:
   run-bot:
     runs-on: ubuntu-latest
-
     permissions:
-      contents: write   # مجوز ذخیره history.json
-
+      contents: write
+      
     steps:
-      - name: ⬇️ دریافت کدها
+      - name: ⬇️ Checkout Repository
         uses: actions/checkout@v4
 
-      - name: 🐍 راه‌اندازی Python 3.11
+      - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: 📦 نصب وابستگی‌ها
-        run: |
-          pip install --upgrade pip
-          pip install feedparser groq requests
+      - name: 📦 Install Dependencies
+        run: pip install feedparser groq requests
 
-      - name: 🚀 اجرای ربات
+      - name: 🚀 Run News Bot
         env:
-          GROQ_API_KEY:         ${{ secrets.GROQ_API_KEY }}
-          TELEGRAM_BOT_TOKEN:   ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHANNEL_ID:  ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          GROQ_KEY_1: ${{ secrets.GROQ_KEY_1 }}
+          GROQ_KEY_2: ${{ secrets.GROQ_KEY_2 }}
+          GROQ_KEY_3: ${{ secrets.GROQ_KEY_3 }}
+          GROQ_KEY_4: ${{ secrets.GROQ_KEY_4 }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
         run: python bot.py
 
-      - name: 💾 ذخیره تاریخچه اخبار
+      - name: 💾 Commit & Push History
         run: |
-          git config --global user.name  "github-actions[bot]"
+          git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add history.json
           git diff --cached --quiet || git commit -m "chore: update news history [skip ci]"
