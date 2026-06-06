@@ -39,19 +39,22 @@ SIGNATURE = "\n\nاخبار روز، ارشیا نیوز😁"
 history_lock = threading.Lock()
 
 # ─────────────────────────────────────────────
-# ۲. منابع خبری
+# ۲. منابع خبری (آپدیت شده با بای‌پَس گوگل نیوز)
 # ─────────────────────────────────────────────
+# از گوگل نیوز برای دور زدن فیلتر آی‌پی (تسنیم/فارس) و لینک‌های مرده استفاده می‌کنیم
+
 DOMESTIC_FEEDS = [
-    ("iranintl",   "https://www.iranintl.com/rss/fa"),
-    ("radiofarda", "https://www.radiofarda.com/api/zu_oe-opy"),
-    ("tasnim",     "https://www.tasnimnews.com/fa/rss"),
-    ("fars",       "https://www.farsnews.ir/rss"),
+    ("iranintl",   "https://news.google.com/rss/search?q=site:iranintl.com+when:1d&hl=fa&gl=IR&ceid=IR:fa"),
+    ("radiofarda", "https://www.radiofarda.com/api/zu_oe-opy"), # بدون مشکل بود
+    ("tasnim",     "https://news.google.com/rss/search?q=site:tasnimnews.com+when:1d&hl=fa&gl=IR&ceid=IR:fa"),
+    ("fars",       "https://news.google.com/rss/search?q=site:farsnews.ir+when:1d&hl=fa&gl=IR&ceid=IR:fa"),
 ]
+
 FOREIGN_FEEDS = [
-    ("reuters", "https://feeds.reuters.com/reuters/worldNews"),
-    ("ap",      "https://rsshub.app/apnews/topics/ap-top-news"),
-    ("afp",     "https://www.france24.com/en/rss"),
-    ("nyt",     "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"),
+    ("reuters", "https://news.google.com/rss/search?q=site:reuters.com+when:1d&hl=en-US&gl=US&ceid=US:en"),
+    ("ap",      "https://news.google.com/rss/search?q=site:apnews.com+when:1d&hl=en-US&gl=US&ceid=US:en"),
+    ("afp",     "https://www.france24.com/en/rss"), # بدون مشکل بود
+    ("nyt",     "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"), # بدون مشکل بود
 ]
 
 SOURCE_LABELS = {
@@ -60,6 +63,7 @@ SOURCE_LABELS = {
     "reuters": "🌍 رویترز", "ap": "🌍 آسوشیتدپرس",
     "afp": "🌍 فرانس‌پرس", "nyt": "🌍 نیویورک تایمز",
 }
+
 
 FOREIGN_KEYWORDS = [
     "iran", "war", "crisis", "famine", "sanction", "nuclear", "attack",
