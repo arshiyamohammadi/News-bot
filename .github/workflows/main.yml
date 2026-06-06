@@ -11,34 +11,34 @@ jobs:
     permissions:
       contents: write  # مجوز لازم برای کامیت کردن history.json
 
-    steps:
-      - name: ⬇️ Checkout Repository
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: true  # حفظ اعتبارنامه برای push خودکار
+    steps:  
+      - name: ⬇️ Checkout Repository  
+        uses: actions/checkout@v4  
+        with:  
+          persist-credentials: true  # حفظ اعتبارنامه برای push خودکار  
 
-      - name: 🐍 Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+      - name: 🐍 Setup Python  
+        uses: actions/setup-python@v5  
+        with:  
+          python-version: '3.11'  
 
-      - name: 📦 Install Dependencies
-        run: pip install feedparser groq requests
+      - name: 📦 Install Dependencies  
+        run: pip install feedparser groq requests  
 
-      - name: 🚀 Run News Bot
-        env:
-          GROQ_KEY_1: ${{ secrets.GROQ_KEY_1 }}
-          GROQ_KEY_2: ${{ secrets.GROQ_KEY_2 }}
-          GROQ_KEY_3: ${{ secrets.GROQ_KEY_3 }}
-          GROQ_KEY_4: ${{ secrets.GROQ_KEY_4 }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
-        run: python bot.py
+      - name: 🚀 Run News Bot  
+        env:  
+          GROQ_KEY_1: ${{ secrets.GROQ_KEY_1 }}  
+          GROQ_KEY_2: ${{ secrets.GROQ_KEY_2 }}  
+          GROQ_KEY_3: ${{ secrets.GROQ_KEY_3 }}  
+          GROQ_KEY_4: ${{ secrets.GROQ_KEY_4 }}  
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}  
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}  
+        run: python bot.py  
 
-      - name: 💾 Commit & Push History
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add history.json
-          git diff --cached --quiet || git commit -m "chore: update history [skip ci]"
+      - name: 💾 Commit & Push History  
+        run: |  
+          git config --global user.name "github-actions[bot]"  
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"  
+          git add history.json  
+          git diff --cached --quiet || git commit -m "chore: update history [skip ci]"  
           git push
