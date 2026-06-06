@@ -31,13 +31,12 @@ HISTORY_FILE = "history.json"
 MAX_HISTORY = 150
 EVENT_WINDOW_HOURS = 12
 MAX_WORKERS = len(GROQ_KEYS)
-BATCHES_PER_GROUP = 4   # ⬅️ دقیقاً ۴ دسته برای داخلی + ۴ دسته برای خارجی
+BATCHES_PER_GROUP = 4
 FEED_LIMIT = 20
-
 DELIMITER = "|||NEWS_SEPARATOR|||"
 
 # ─────────────────────────────────────────────
-# ۲. منابع خبری (تفکیک شده به دو گروه)
+# ۲. منابع خبری
 # ─────────────────────────────────────────────
 DOMESTIC_FEEDS = [
     ("iran", "https://www.iranintl.com/rss/fa"),
@@ -47,8 +46,8 @@ DOMESTIC_FEEDS = [
 ]
 
 FOREIGN_FEEDS = [
-    ("world", "https://feeds.bbci.co.uk/news/world/rss.xml"),    ("world", "https://rss.cnn.com/rss/edition_world.rss"),
-    ("world", "https://feeds.reuters.com/reuters/worldNews"),
+    ("world", "https://feeds.bbci.co.uk/news/world/rss.xml"),
+    ("world", "https://rss.cnn.com/rss/edition_world.rss"),    ("world", "https://feeds.reuters.com/reuters/worldNews"),
     ("world", "https://english.alarabiya.net/.mrss/en.xml"),
 ]
 
@@ -64,49 +63,55 @@ CRISIS_KEYWORDS = [
 ]
 
 # ─────────────────────────────────────────────
-# ۳. مدیریت حافظه و توابع کمکی
+# ۳. توابع کمکی و مدیریت حافظه
 # ─────────────────────────────────────────────
-def load_history() -> dict:
+def load_history():
     if os.path.exists(HISTORY_FILE):
         try:
             with open(HISTORY_FILE, "r", encoding="utf-8") as f:
                 data = json.load(f)
                 return {} if isinstance(data, list) else data
-        except Exception: pass
+        except Exception:
+            pass
     return {}
 
-def save_history(history: dict):
+def save_history(history):
     sorted_items = sorted(history.items(), key=lambda x: x[1].get("timestamp", ""), reverse=True)
     trimmed = dict(sorted_items[:MAX_HISTORY])
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(trimmed, f, ensure_ascii=False, indent=2)
 
-def normalize(text: str) -> str:
+def normalize(text):
     text = re.sub(r'[^\w\s]', '', text.lower())
     return re.sub(r'\s+', ' ', text).strip()
 
-def get_fingerprint(title: str) -> str:
+def get_fingerprint(title):
     return hashlib.md5(normalize(title).encode('utf-8')).hexdigest()
 
-def clean_html(text: str) -> str:
+def clean_html(text):
     return re.sub(r'<[^>]+>', ' ', text).strip()
 
-def parse_entry_date(entry) -> datetime:
+def parse_entry_date(entry):
+    """استخراج امن تاریخ انتشار"""
     try:
         if hasattr(entry, 'published_parsed') and entry.published_parsed:
             return datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
-        if hasattr(entry, 'published'):
-            return parsedate_to_datetime(entry.published)    except Exception: pass
+        if hasattr(entry, 'published'):            return parsedate_to_datetime(entry.published)
+    except Exception:
+        pass
     return datetime.now(timezone.utc)
 
-def is_duplicate(history: dict, fp: str, url: str, pub_date: datetime) -> bool:
-    if fp not in history: return False
+def is_duplicate(history, fp, url, pub_date):
+    if fp not in history:
+        return False
     record = history[fp]
-    if record.get("url") == url: return True
+    if record.get("url") == url:
+        return True
     try:
         last_seen = datetime.fromisoformat(record["timestamp"])
         return abs((pub_date - last_seen).total_seconds()) / 3600 < EVENT_WINDOW_HOURS
-    except Exception: return True
+    except Exception:
+        return True
 
 # ─────────────────────────────────────────────
 # ۴. پرامپت‌های هوش مصنوعی
@@ -140,15 +145,15 @@ BATCH_ANALYSIS_PROMPT = """تو یک تحلیلگر ارشد ژئوپلیتیک 
 - ۳ هشتگ فارسی تخصصی در انتهای هر تحلیل
 - هیچ مقدمه یا توضیح اضافه‌ای ننویس
 - دقیقاً به همان تعداد اخبار ورودی، خروجی بده
-
 اخبار:
 {batched_news}"""
 
 # ─────────────────────────────────────────────
-# ۵. توابع تعامل با Groq و Telegram# ─────────────────────────────────────────────
-def assess_propaganda(title: str, desc: str, source: str) -> int:
-    # ⬅️ فقط تسنیم و فارس ارزیابی می‌شوند
-    if source not in ["tasnim", "fars"]: return 0
+# ۵. تعامل با Groq و Telegram
+# ─────────────────────────────────────────────
+def assess_propaganda(title, desc, source):
+    if source not in ["tasnim", "fars"]:
+        return 0
     client = Groq(api_key=random.choice(GROQ_KEYS))
     try:
         resp = client.chat.completions.create(
@@ -159,9 +164,10 @@ def assess_propaganda(title: str, desc: str, source: str) -> int:
         raw = resp.choices[0].message.content.strip()
         score = int(re.search(r'\d+', raw).group()) if re.search(r'\d+', raw) else 70
         return max(0, min(100, score))
-    except Exception: return 75
+    except Exception:
+        return 75
 
-def process_batch(news_batch: list[dict]) -> list[str]:
+def process_batch(news_batch):
     batched_text = f"\n{DELIMITER}\n".join([
         f"[منبع: {n['source_label']}]\nعنوان: {n['title']}\nمتن: {n['desc'][:1800]}"
         for n in news_batch
@@ -184,21 +190,21 @@ def process_batch(news_batch: list[dict]) -> list[str]:
         print(f"❌ خطای پردازش بچ: {e}")
         return []
 
-def send_to_telegram(text: str) -> bool:
+def send_to_telegram(text):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     payload = {"chat_id": CHANNEL_ID, "text": text, "parse_mode": "HTML"}
     try:
-        r = requests.post(url, json=payload, timeout=20)
-        if r.status_code == 200: return True
+        r = requests.post(url, json=payload, timeout=20)        if r.status_code == 200:
+            return True
         if r.status_code == 429:
             wait = r.json().get("parameters", {}).get("retry_after", 30)
             time.sleep(wait)
             return send_to_telegram(text)
-    except Exception as e:        print(f"❌ خطای تلگرام: {e}")
+    except Exception as e:
+        print(f"❌ خطای تلگرام: {e}")
     return False
 
-def collect_news(feeds: list, history: dict, apply_crisis_filter: bool = False) -> list[dict]:
-    """جمع‌آوری اخبار از یک گروه منابع"""
+def collect_news(feeds, history, apply_crisis_filter=False):
     candidates = []
     for cat, url in feeds:
         try:
@@ -210,7 +216,6 @@ def collect_news(feeds: list, history: dict, apply_crisis_filter: bool = False) 
                 pub_date = parse_entry_date(e)
                 fp = get_fingerprint(t)
 
-                # فیلتر سیاسی فقط برای تسنیم و فارس
                 if apply_crisis_filter and cat in ["tasnim", "fars"]:
                     if not any(kw in t.lower() or kw in d.lower() for kw in CRISIS_KEYWORDS):
                         continue
@@ -225,30 +230,27 @@ def collect_news(feeds: list, history: dict, apply_crisis_filter: bool = False) 
             print(f"❌ خطای RSS {url}: {ex}")
     return candidates
 
-def create_batches(candidates: list[dict], num_batches: int) -> list[list[dict]]:
-    """تقسیم اخبار به N دسته با اندازه پویا"""
+def create_batches(candidates, num_batches):
     if not candidates:
         return []
     batch_size = max(1, math.ceil(len(candidates) / num_batches))
     batches = []
     for i in range(0, len(candidates), batch_size):
         batches.append(candidates[i:i+batch_size])
-    return batches[:num_batches]  # حداکثر N دسته
+    return batches[:num_batches]
 
 # ─────────────────────────────────────────────
 # ۶. اجرای اصلی
 # ─────────────────────────────────────────────
 def main():
-    print(f"\n🕐 شروع: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}")
-    history = load_history()
+    print(f"\n🕐 شروع: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}")    history = load_history()
 
-    # مرحله ۱: جمع‌آوری جداگانه دو گروه
-    domestic = collect_news(DOMESTIC_FEEDS, history, apply_crisis_filter=True)    foreign = collect_news(FOREIGN_FEEDS, history, apply_crisis_filter=False)
+    domestic = collect_news(DOMESTIC_FEEDS, history, apply_crisis_filter=True)
+    foreign = collect_news(FOREIGN_FEEDS, history, apply_crisis_filter=False)
     
     random.shuffle(domestic)
     random.shuffle(foreign)
     
-    # مرحله ۲: تقسیم هر گروه به ۴ دسته
     domestic_batches = create_batches(domestic, BATCHES_PER_GROUP)
     foreign_batches = create_batches(foreign, BATCHES_PER_GROUP)
     
@@ -265,7 +267,6 @@ def main():
     processed_count = 0
     total_news = sum(len(b) for b in all_batches)
     
-    # مرحله ۳: پردازش موازی همه دسته‌ها با ۴ کلید
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         future_map = {executor.submit(process_batch, batch): batch for batch in all_batches}
         
@@ -274,7 +275,8 @@ def main():
             analyses = future.result()
             
             for idx, analysis in enumerate(analyses):
-                if idx >= len(batch): break
+                if idx >= len(batch):
+                    break
                     
                 news = batch[idx]
                 prop_score = assess_propaganda(news["title"], news["desc"], news["source"])
@@ -290,8 +292,8 @@ def main():
                     processed_count += 1
                     print(f"✅ [{processed_count}/{total_news}] {news['title'][:40]}...")
                     time.sleep(random.uniform(2, 6))
-
     save_history(history)
     print(f"\n🏁 پایان: {processed_count} تحلیل ارسال شد | حافظه: {len(history)} آیتم")
+
 if __name__ == "__main__":
     main()
