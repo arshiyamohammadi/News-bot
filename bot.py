@@ -35,17 +35,14 @@ FEED_LIMIT = 10
 DELIMITER = "|||NEWS_SEPARATOR|||"
 SIGNATURE = "\n\nاخبار روز، ارشیا نیوز😁"
 
-# قفل برای دسترسی ایمن به تاریخچه در محیط چندتردی
 history_lock = threading.Lock()
 
 # ─────────────────────────────────────────────
 # ۲. منابع خبری (آپدیت شده با بای‌پَس گوگل نیوز)
 # ─────────────────────────────────────────────
-# از گوگل نیوز برای دور زدن فیلتر آی‌پی (تسنیم/فارس) و لینک‌های مرده استفاده می‌کنیم
-
 DOMESTIC_FEEDS = [
     ("iranintl",   "https://news.google.com/rss/search?q=site:iranintl.com+when:1d&hl=fa&gl=IR&ceid=IR:fa"),
-    ("radiofarda", "https://www.radiofarda.com/api/zu_oe-opy"), # بدون مشکل بود
+    ("radiofarda", "https://news.google.com/rss/search?q=site:radiofarda.com+when:1d&hl=fa&gl=IR&ceid=IR:fa"),
     ("tasnim",     "https://news.google.com/rss/search?q=site:tasnimnews.com+when:1d&hl=fa&gl=IR&ceid=IR:fa"),
     ("fars",       "https://news.google.com/rss/search?q=site:farsnews.ir+when:1d&hl=fa&gl=IR&ceid=IR:fa"),
 ]
@@ -53,8 +50,8 @@ DOMESTIC_FEEDS = [
 FOREIGN_FEEDS = [
     ("reuters", "https://news.google.com/rss/search?q=site:reuters.com+when:1d&hl=en-US&gl=US&ceid=US:en"),
     ("ap",      "https://news.google.com/rss/search?q=site:apnews.com+when:1d&hl=en-US&gl=US&ceid=US:en"),
-    ("afp",     "https://www.france24.com/en/rss"), # بدون مشکل بود
-    ("nyt",     "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"), # بدون مشکل بود
+    ("afp",     "https://www.france24.com/en/rss"),
+    ("nyt",     "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"),
 ]
 
 SOURCE_LABELS = {
@@ -64,7 +61,7 @@ SOURCE_LABELS = {
     "afp": "🌍 فرانس‌پرس", "nyt": "🌍 نیویورک تایمز",
 }
 
-
+# کلمات کلیدی فقط برای منابع خارجی باقی ماند تا اخبار مهم جهانی فیلتر شوند
 FOREIGN_KEYWORDS = [
     "iran", "war", "crisis", "famine", "sanction", "nuclear", "attack",
     "missile", "protest", "revolution", "oil", "deal", "election", "coup",
@@ -72,46 +69,28 @@ FOREIGN_KEYWORDS = [
     "politics", "military", "economy", "conflict", "tension", "strike",
 ]
 
-TASNIM_FARS_KEYWORDS = [
-    "جنگ", "بحران", "قحطی", "سیاست", "تحریم", "هسته‌ای", "موشک", "حمله",
-    "اعتراض", "انقلاب", "نفت", "توافق", "انتخابات", "کودتا", "پناهنده",
-    "سیل", "زلزله", "ترور", "آتش‌بس", "نظامی", "اقتصاد", "امنیت", "مذاکره",
-]
-
-TASNIM_FARS_EXCLUDE = [
-    "اظهار کرد", "گفت", "بیان داشت", "تاکید کرد", "خاطرنشان کرد",
-    "یادآور شد", "ابراز کرد", "اشاره کرد",
-]
-
 # ─────────────────────────────────────────────
-# ۳. پرامپت‌ها
+# ۳. پرامپت‌ها (آپدیت شده برای زبان، فرمت و فاصله)
 # ─────────────────────────────────────────────
 PROMPT_TEMPLATE = """تو یک خبرنگار حرفه‌ای فارسی‌زبان هستی.
 خبرهای زیر با جداکننده '{delimiter}' از هم جدا شده‌اند. هر خبر دارای یک [ID] منحصر‌به‌فرد است.
 
-دستورالعمل‌ها بر اساس منبع:
-📌 ایران اینترنشنال / رادیو فردا:
-خلاصه فارسی روان (۳-۵ جمله)
-شباهت تاریخی: [نام رویداد + سال + نتیجه]
-دومینوی ژئوپلیتیک: [نتیجه احتمالی آینده]
+خروجی تو برای هر خبر باید دقیقاً طبق این قالب باشد (حتماً بین هر بخش یک خط خالی بگذار):
 
-📌 تسنیم / فارس:
+[ID خبر]
 خلاصه فارسی روان (۳-۵ جمله)
-شباهت تاریخی: [نام رویداد + سال + نتیجه]
-دومینوی ژئوپلیتیک: [نتیجه احتمالی آینده]
-🔴 پروپاگاندا: [درصد]٪ — [توضیح کوتاه]
 
-📌 بین‌الملل (رویترز، AP، AFP، NYT):
-ترجمه و خلاصه فارسی روان (۳-۵ جمله)
 شباهت تاریخی: [نام رویداد + سال + نتیجه]
+
 دومینوی ژئوپلیتیک: [نتیجه احتمالی آینده]
+🔴 پروپاگاندا (فقط اگر منبع خبر تسنیم یا فارس بود این خط را اضافه کن): [درصد]٪ — [توضیح کوتاه]
 
 ⚠️ قوانین حیاتی:
-1. خروجی هر خبر MUST شامل [ID] مربوطه در ابتدای خط اول باشد. مثال: [ID:3] ...
-2. خروجی‌ها را دقیقاً با '{delimiter}' جدا کن.
-3. هیچ مقدمه یا توضیح اضافی ننویس.
-4. دقیقاً به همان تعداد خبر ورودی، خروجی بده.
-5. از هیچ‌گونه فرمت‌بندی مارک‌داون (مثل ** یا #) استفاده نکن. متن باید کاملاً ساده باشد تا در تلگرام تداخل ایجاد نکند.
+1. خروجی هر خبر MUST شامل [ID] مربوطه در ابتدای خط اول باشد. مثال: [ID:3]
+2. فقط و فقط به زبان فارسی پاسخ بده. تحت هیچ شرایطی از کلمات انگلیسی، چینی (مثل 影响) یا زبان‌های دیگر استفاده نکن.
+3. خروجی‌ها را دقیقاً با '{delimiter}' جدا کن.
+4. هیچ مقدمه یا توضیح اضافی ننویس.
+5. از هیچ‌گونه فرمت‌بندی مارک‌داون (مثل ** یا #) استفاده نکن. متن باید کاملاً ساده باشد.
 
 اخبار:
 {batched_news}"""
@@ -182,25 +161,17 @@ def is_important_foreign(title: str, desc: str) -> bool:
     text = (title + " " + desc).lower()
     return any(kw in text for kw in FOREIGN_KEYWORDS)
 
-def is_important_tasnim_fars(title: str, desc: str) -> bool:
-    text = (title + " " + desc).lower()
-    has_keyword = any(kw in text for kw in TASNIM_FARS_KEYWORDS)
-    is_opinion = any(kw in title for kw in TASNIM_FARS_EXCLUDE)
-    return has_keyword and not is_opinion
-
 # ─────────────────────────────────────────────
-# ۵. جمع‌آوری اخبار (با دور زدن کلودفلر)
+# ۵. جمع‌آوری اخبار
 # ─────────────────────────────────────────────
 def collect_news(feeds: list, history: dict, feed_type: str) -> list:
     candidates = []
-    # هدر مرورگر تا سایت‌هایی مثل رویترز و ایران اینترنشنال ما را ربات تشخیص ندهند
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
     
     for source, url in feeds:
         try:
-            # دریافت محتوا با requests به جای feedparser مستقیم
             response = requests.get(url, headers=headers, timeout=15)
             response.raise_for_status()
             
@@ -219,9 +190,8 @@ def collect_news(feeds: list, history: dict, feed_type: str) -> list:
                 if is_duplicate(history, fp, l, pub_date):  
                     continue  
 
+                # فیلتر فقط روی اخبار خارجی اعمال می‌شود. اخبار داخلی همه تایید می‌شوند.
                 if feed_type == "foreign" and not is_important_foreign(t, d):  
-                    continue  
-                elif feed_type == "tasnim_fars" and not is_important_tasnim_fars(t, d):  
                     continue  
 
                 candidates.append({  
@@ -257,22 +227,20 @@ def process_batch(news_batch: list, api_key: str) -> dict:
             model=GROQ_MODEL,  
             messages=[{"role": "user", "content": prompt}],  
             max_tokens=4096,  
-            temperature=0.5,  
+            temperature=0.5,  # با پرامپت جدید، مشکل توهم در این دما هم حل می‌شود
         )  
         full_response = resp.choices[0].message.content.strip()  
         analyses = [a.strip() for a in full_response.split(DELIMITER) if a.strip()]  
 
         for analysis in analyses:  
-            # استخراج ID از پاسخ مدل با الگوی صحیح
             match = re.search(r'\[ID:(\d+)\]', analysis)  
             if match:  
                 uid = f"ID:{match.group(1)}"  
                 if uid in id_to_fp:  
-                    # حذف تگ ID از متن نهایی
                     clean_analysis = re.sub(r'\[ID:\d+\]\s*', '', analysis).strip()  
                     result_map[id_to_fp[uid]] = clean_analysis  
             else:  
-                print(f"⚠️ پاسخ بدون ID یافت شد: {analysis[:50]}...")  
+                print(f"⚠️ پاسخ بدون ID یافت شد.")  
 
     except Exception as e:  
         print(f"❌ خطای Groq: {e}")  
@@ -288,7 +256,7 @@ def send_to_telegram(text: str, max_retries: int = 3) -> bool:
         "chat_id": CHANNEL_ID, 
         "text": text, 
         "parse_mode": "HTML", 
-        "disable_web_page_preview": True # جلوگیری از پیش‌نمایش بزرگ لینک در تلگرام
+        "disable_web_page_preview": True
     }
 
     for attempt in range(max_retries):  
@@ -316,30 +284,21 @@ def main():
     print(f"\n🕐 شروع: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}")
     history = load_history()
 
-    iranintl_radiofarda = collect_news(  
-        [f for f in DOMESTIC_FEEDS if f[0] in ["iranintl", "radiofarda"]],  
-        history, "iranintl_radiofarda"  
-    )  
-    tasnim_fars = collect_news(  
-        [f for f in DOMESTIC_FEEDS if f[0] in ["tasnim", "fars"]],  
-        history, "tasnim_fars"  
-    )  
+    # حالا تمام منابع داخلی (موافق و مخالف) از یک مسیر یکسان و بدون فیلتر رد می‌شوند
+    domestic = collect_news(DOMESTIC_FEEDS, history, "domestic")  
     foreign = collect_news(FOREIGN_FEEDS, history, "foreign")  
 
-    # اخبار بدون برهم‌خوردگی (Shuffle) متصل می‌شوند تا مدل گیج نشود
-    all_news = iranintl_radiofarda + tasnim_fars + foreign  
+    all_news = domestic + foreign  
 
     print(f"📊 مجموع اخبار جدید: {len(all_news)}")  
     if not all_news:  
         print("✅ خبر جدیدی یافت نشد.")  
         return  
 
-    # تقسیم به دسته‌ها  
     batch_size = max(1, math.ceil(len(all_news) / MAX_WORKERS))  
     batches = [all_news[i:i + batch_size] for i in range(0, len(all_news), batch_size)]  
     batches = batches[:MAX_WORKERS]  
 
-    # پردازش موازی  
     fp_to_analysis = {}  
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:  
         future_to_batch = {  
@@ -354,7 +313,6 @@ def main():
             except Exception as e:  
                 print(f"❌ خطای پردازش دسته: {e}")  
 
-    # ارسال نتایج  
     processed_count = 0  
     for news in all_news:  
         analysis = fp_to_analysis.get(news["fp"])  
@@ -377,7 +335,6 @@ def main():
                 }  
             processed_count += 1  
             print(f"✅ [{processed_count}/{len(fp_to_analysis)}] {news['title'][:50]}...")  
-            # فاصله تصادفی بین ۲ تا ۶ ثانیه
             time.sleep(random.uniform(2, 6))  
 
     save_history(history)  
