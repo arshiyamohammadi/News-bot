@@ -38,14 +38,13 @@ SIGNATURE = "\n\nاخبار روز، ارشیا نیوز😁"
 history_lock = threading.Lock()
 
 # ─────────────────────────────────────────────
-# ۲. منابع خبری (استفاده از پروکسی برای منابع داخلی)
+# ۲. منابع خبری (بازگشت به حالت گوگل نیوز برای همه)
 # ─────────────────────────────────────────────
 DOMESTIC_FEEDS = [
     ("iranintl",   "https://news.google.com/rss/search?q=site:iranintl.com+when:1d&hl=fa&gl=IR&ceid=IR:fa"),
     ("radiofarda", "https://news.google.com/rss/search?q=site:radiofarda.com+when:1d&hl=fa&gl=IR&ceid=IR:fa"),
-    # استفاده از پروکسی AllOrigins برای دریافت مستقیم RSS و دور زدن تحریم آی‌پی گیت‌هاب
-    ("tasnim",     "https://api.allorigins.win/raw?url=https://www.tasnimnews.com/fa/rss/feed/0/8/0/"),
-    ("fars",       "https://api.allorigins.win/raw?url=https://www.farsnews.ir/rss"),
+    ("tasnim",     "https://news.google.com/rss/search?q=site:tasnimnews.com+when:1d&hl=fa&gl=IR&ceid=IR:fa"),
+    ("fars",       "https://news.google.com/rss/search?q=site:farsnews.ir+when:1d&hl=fa&gl=IR&ceid=IR:fa"),
 ]
 
 FOREIGN_FEEDS = [
@@ -166,8 +165,13 @@ def is_important_foreign(title: str, desc: str) -> bool:
 # ─────────────────────────────────────────────
 def collect_news(feeds: list, history: dict, feed_type: str) -> list:
     candidates = []
+    # هدرهای تقویت شده برای جلوگیری از خطای 503 گوگل
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Connection": "keep-alive",
+        "Upgrade-Insecure-Requests": "1"
     }
     
     for source, url in feeds:
