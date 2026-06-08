@@ -1,4 +1,129 @@
 {
+  "dccd2795186c29c646bb66a796f5db8a": {
+    "url": "https://www.nytimes.com/live/2026/06/08/world/iran-israel-lebanon-attacks",
+    "timestamp": "2026-06-08T12:34:55+00:00",
+    "source": "nyt"
+  },
+  "1d74fe8f99547dd81afe9905b44ccc55": {
+    "url": "https://www.france24.com/en/democratic-backsliding-armenia-s-extreme-polarisation-hate-speech-stigmatization-mar-election",
+    "timestamp": "2026-06-08T12:10:36+00:00",
+    "source": "afp"
+  },
+  "a9de379ce4a1a6742aeb1999fa554971": {
+    "url": "https://www.nytimes.com/2026/06/08/world/asia/pakistan-heat-wave.html",
+    "timestamp": "2026-06-08T11:46:07+00:00",
+    "source": "nyt"
+  },
+  "167156f558f991e8ac39c56736207be9": {
+    "url": "https://www.nytimes.com/2026/06/07/world/asia/philippines-earthquake-tsunami-warning.html",
+    "timestamp": "2026-06-08T11:43:03+00:00",
+    "source": "nyt"
+  },
+  "3de4f36fa644672252fafdf4c1917c69": {
+    "url": "https://www.france24.com/en/middle-east/20260608-middle-east-war-live-israel-plans-to-strike-iran-with-force-once-given-green-light",
+    "timestamp": "2026-06-08T11:38:34+00:00",
+    "source": "afp"
+  },
+  "21dd7a23ec9a07757d7abf1d8d1c02bd": {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNFd1SWJOdm5JcmNCOVlSSWtZektaRGxzQTkwWHBMUllKcUZlb1FYbEV0R3F3elU0NVVEUjlJOUVVVE9VR2NCU3d0V2F2RjY1N1Vhelh1UkNXdXRUbE5LbUhQQTNJRnZTa28teXBfNUg4X3UzWUw5dkQ1ODJmYzBOYlAyUmFvMzcyWFBINmpfWC1ZZHpHQ2h5Ykxn?oc=5",
+    "timestamp": "2026-06-08T11:34:00+00:00",
+    "source": "ap"
+  },
+  "62768fb6996800896341aefc18b9729c": {
+    "url": "https://www.france24.com/en/video/20260608-israel-iran-trade-fire-in-first-clash-since-truce",
+    "timestamp": "2026-06-08T11:22:38+00:00",
+    "source": "afp"
+  },
+  "205f2898db8f15fc70c4723c4c4c713c": {
+    "url": "https://www.france24.com/en/video/20260608-philippines-buildings-collapse-as-7-8-magnitude-quake-strikes",
+    "timestamp": "2026-06-08T11:04:54+00:00",
+    "source": "afp"
+  },
+  "5a86f6f0dc6fb4863c59710646e5bd72": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BVjAtalJteDZOajNrS1ZIbzk5eGgydnRPZ1pFVk9kVWU4UXhzaXl6dGdZNFhieE5IVjRxZXlGU0txSTRmUm9WRUdhNV8xVU1RcWc?oc=5",
+    "timestamp": "2026-06-08T10:50:18+00:00",
+    "source": "iranintl"
+  },
+  "6c5bd634eda849fe84c1e5e7fe6def05": {
+    "url": "https://www.france24.com/en/major-earthquake-kills-at-least-19-in-the-philippines",
+    "timestamp": "2026-06-08T10:49:37+00:00",
+    "source": "afp"
+  },
+  "62ae81d40a96e08a3ba78d18bec23944": {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR1UxMmp4emQxQWU2Tjl6RWJvdDYtWlJkNUlwNk43YmJFWngtVjhZWjdaeExFZjlWbVNLRTFIR19oSWhJX2xLcEd5VndSdmRVbzBmMWUxWElOR2M4Mjdxdm9CRUk2UlllTURoMDZoTjZjbTBvUUpXc1U5R1lkR3FaTVFTSnhqSmlHSFJmQWN3SQ?oc=5",
+    "timestamp": "2026-06-08T10:48:00+00:00",
+    "source": "ap"
+  },
+  "febdf5e4e598a6c64551f0fad3f42487": {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlo3bW5iaGsxMlBic090Q25vcEVTYmdiWmJyQlBKc3B6YThib0FlT0F2b0Fza2pkR3lTMzVBY1RwMjc2RGJsd0JaNHAzTkZLZkppUkRTVzc3R1hMOVJhMmhVdXpJVDJ6cDJlM0FKZ3p6ZEFvNGRUMnZWTFE4WEZyX3ZBWXpJV0hxRzdvdXhKZElQZ3ZGY3VuYnZLYXdUeGpXOEpyNGlnQ05xdVVESHd0YmJBcFFjZw?oc=5",
+    "timestamp": "2026-06-08T10:43:25+00:00",
+    "source": "reuters"
+  },
+  "c22b60f0c922cecb8f5994097b213149": {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTVmOXBHMnFmQXB2bi0tSEpvZjhTR2lzdXpSanBxTGRvaGNxbVotRnBHT3loRzNOYUVJMnJkMmFOMzl0c1JBWHNJdFZxQmJMOGNPQW5uTHp2R0VIR3NoenZJR1A0UDQ1T29KZXNuY0FzQmwwd1UyN09yYURrVVNTRUNFYl9CSzdWelBnWVZrWTZUYnhUWXE0?oc=5",
+    "timestamp": "2026-06-08T10:39:12+00:00",
+    "source": "reuters"
+  },
+  "dbbbc3b0177ad37ceb6678814c4477be": {
+    "url": "https://www.france24.com/en/armenia-confirms-turn-towards-west-in-election",
+    "timestamp": "2026-06-08T10:38:01+00:00",
+    "source": "afp"
+  },
+  "7a0b3592597a9d85d4e6f3b1e4a69f8a": {
+    "url": "https://www.france24.com/en/tension-rises-between-israel-and-the-us-amid-flare-up-with-iran",
+    "timestamp": "2026-06-08T10:37:03+00:00",
+    "source": "afp"
+  },
+  "d06c141c7fa22ee8d402ea65fdf2768c": {
+    "url": "https://www.france24.com/en/lebanon-a-playground-for-others-fresh-strikes-on-beirut-trigger-concern",
+    "timestamp": "2026-06-08T10:32:49+00:00",
+    "source": "afp"
+  },
+  "77039409406ed2ac68646c610cc7609f": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yaS1uVFVVMWJjc2Y4aWVRWkM2YzRkZjllUUxRZHp2QlB3MXoza1NiZnlzTmliMFJYTURyXzd0RGt3SWRET2gwUE5sUEU2WXYxVmc?oc=5",
+    "timestamp": "2026-06-08T09:08:38+00:00",
+    "source": "iranintl"
+  },
+  "88fda1d785ab172748d3f97e3d9e9335": {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWhTUXlxMHY0ZC1tTERXbkpUZ2NWUlRjSDVWQlBtVEw3SHV5S2RhV2sxakpIUWUzNzVZZnpBcUhaWjVvVnNZWXQtaFBkNXBSVldCNG9OTW5DdHo0c2tKR0VLWlVTbTJ0dHVZbzVLa0VMR2dha0ZDc0pLQkY0UWtMMnVoM29raUI4ZURlLUh3b1ZkN0xxZVQ1WGFxN1dhWFMzZHNiZQ?oc=5",
+    "timestamp": "2026-06-08T08:59:32+00:00",
+    "source": "reuters"
+  },
+  "7b512d9e822d3a9213ff181625d48c50": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVdDI1LTZ1dDM3Y0o0RjJ0RlhxT0l2N1VtdWFpYlRReUVMWXBsMzFKSDBHc2VwTzdaRHJvMGJVZGNHeWZ1RkdwMWxFNEYtT0paaXc?oc=5",
+    "timestamp": "2026-06-08T08:12:33+00:00",
+    "source": "iranintl"
+  },
+  "26dc1b56c28864cdca5ad5590a83bd25": {
+    "url": "https://www.nytimes.com/2026/06/08/world/europe/armenia-election-results.html",
+    "timestamp": "2026-06-08T08:12:25+00:00",
+    "source": "nyt"
+  },
+  "4020254db6bb9f3ca92c5490aa3ae891": {
+    "url": "https://www.nytimes.com/2026/06/08/world/asia/north-korea-kim-jong-un-pandemic-economy.html",
+    "timestamp": "2026-06-08T04:01:16+00:00",
+    "source": "nyt"
+  },
+  "7803826a5b122b535fd016d6c98692cd": {
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZQ3NmbUtuUWZtUmEtOVd0UXkzdkd4QU9zaEQ4aDNnVVpHR0ZNRTBmWUVoY3VOYVlGUGx0c3hSeWRCdEo2Ynlkb183NnFzd1MwUUpnWXl3?oc=5",
+    "timestamp": "2026-06-08T02:37:54+00:00",
+    "source": "radiofarda"
+  },
+  "fcaa8c6e0907e44d8ddd630ba0d9575d": {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTUR4X28zSUZqamE5ZkhYVlV0Umx4Q1RwZkMwMDdBaTU0aWw5Q0tueHRGTnAyZ0FSN2gwU2syR1k4cGRzMkc2cy13WFFOaW5TcTRVSHA4NTJNR2FPanBMclhpQjZ4cnk2UVRHOGhIWk9GZmt2WVNENk82UGNIN29jSy0wZGw0U0piM25RN0R4MEdmT2g1TV9xZFl3?oc=5",
+    "timestamp": "2026-06-08T00:32:00+00:00",
+    "source": "ap"
+  },
+  "aeec9e3e4a741f0f191e51a1dfd1896a": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zVXdkanRld3J2cFhVZVlrRHVSTWZWeHZuS0kxSVNGd0x3cnczUjk3ejdhcXdTWWlFRDIzQUg3ZnE0RFI5Q0xSNzBIbVBGUEV0SGc?oc=5",
+    "timestamp": "2026-06-07T22:07:20+00:00",
+    "source": "iranintl"
+  },
+  "30555433e60fef103689b8eb69dab29a": {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdF9BLXpaLVFOeHpmZC13eGVZTG92cjBuR2pBeHFoZGN0eVNPNzhOZmk4UmF6VTFPS0JDNlY1a0RvZTNDWTFnYWlScFJ5bll4bkkzQmd1OF9uVkxRdGNLempwM1U3TmFpZUQ2UEVlS1RtQ085a25FVFVMeTJsTWVqazRndzBHeUctV3F1ME02WmhPOVJaODBTYnd5OWc5MU83YlE3Q3JkYw?oc=5",
+    "timestamp": "2026-06-07T22:02:00+00:00",
+    "source": "ap"
+  },
   "1695d1f9d969d0a4d28bbc69fc40e392": {
     "url": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles",
     "timestamp": "2026-06-07T20:41:32+00:00",
@@ -8,6 +133,11 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTUR4X28zSUZqamE5ZkhYVlV0Umx4Q1RwZkMwMDdBaTU0aWw5Q0tueHRGTnAyZ0FSN2gwU2syR1k4cGRzMkc2cy13WFFOaW5TcTRVSHA4NTJNR2FPanBMclhpQjZ4cnk2UVRHOGhIWk9GZmt2WVNENk82UGNIN29jSy0wZGw0U0piM25RN0R4MEdmT2g1TV9xZFl3?oc=5",
     "timestamp": "2026-06-07T20:03:00+00:00",
     "source": "ap"
+  },
+  "1b36560dc03559e336d71e3c02720846": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HaU9MMHltdzdfVThjSm9rS1V0VmhpTjBrZWItaWJRZGlLNzdtMkJ5anJOb1VxMXJtQ1AtTWRMWEFkbWp5U2dpR01RTkt3LWhwb1E?oc=5",
+    "timestamp": "2026-06-07T19:53:36+00:00",
+    "source": "iranintl"
   },
   "fa50297ae68c401a22dba774eb1dab8e": {
     "url": "https://www.france24.com/en/middle-east/20260607-middle-east-live-us-downs-two-iranian-drones-targeting-hormuz-shipping-traffic",
@@ -39,6 +169,11 @@
     "timestamp": "2026-06-07T17:31:05+00:00",
     "source": "afp"
   },
+  "aa550657e77551e3124f5b8136c51da9": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yN2c5VkhVQlZ4MG01SlRvMDBoOXFNVURkVkZ2YWUxN0pzeExtakxWYWxVT0xBMVdQZGdORDl0dGFFckNqVzRIamNHTmVNSmxfUFE?oc=5",
+    "timestamp": "2026-06-07T17:16:54+00:00",
+    "source": "iranintl"
+  },
   "182a61ed92e3e52c611f17ae98b909fb": {
     "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html",
     "timestamp": "2026-06-07T17:03:13+00:00",
@@ -69,6 +204,11 @@
     "timestamp": "2026-06-07T15:26:42+00:00",
     "source": "reuters"
   },
+  "1a7b679f39d7577b37e36cbe23fc0ea0": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zaWRZTnlJajNLRzdEM3JfSHNPRExYYk9tMndmZDNtdUtuRmhDZUg5MnIyWm1NVHJfRmlLTzF0RWxvRWJ2emJMNUh0Z0JwMU13Smc?oc=5",
+    "timestamp": "2026-06-07T15:24:22+00:00",
+    "source": "iranintl"
+  },
   "81c3b3216cd887ecbe41fd5de871c065": {
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYjNBakMyWFQwSzEwLWtYTmc4TXNHb2h0RHJCYWdES3NmenJURzZWa2UwdE1TbHowVzhvRjhHLVBWX1V0YnRpeDZPcmJ2YjI1bXJ1Z05zay1FcEVlUFIxNjlCb09ydTFXVV9qVUJyZTl4Z0M5U3JpLU9MOXFjVjRNUjlRdjJnSE5RNVYta0pyWTh2S3dNNThKekUwcU9iNmxSN3hqaEw4c3RLQ1k?oc=5",
     "timestamp": "2026-06-07T14:23:37+00:00",
@@ -84,6 +224,11 @@
     "timestamp": "2026-06-07T14:18:27+00:00",
     "source": "afp"
   },
+  "71c9fd860e88ad791dacf494374b3cbb": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuZEhlX1ptQ01PR2sxZkZFM1ExLW5TaU5na0ZqSEo2R1lURHNMTmJmSUJLTFN2VWFKbG5fR0FrUjhjOTMxQ1VJWFAtR1M3VTRlRlE?oc=5",
+    "timestamp": "2026-06-07T14:11:00+00:00",
+    "source": "iranintl"
+  },
   "6c8f2c63cab8cc70ca5661c57bafad4c": {
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR0t2Sk5ISElDUHNqUWthaDlabUV5czBtSVVtQ05kOTJFVVFYRm01RWRnTkZ6U2JXdEUxVFJjdXpUYUhSbGdJVFRsdEhMYS1lNENNYjVMcWtJdnE4dExueWM5TzBLQlpVYmxQUjVObEN6dDUzcnpUeUpXV2h6cnFSeWllWElnMXlZdjN6MWg4S2NQamVfd2U4dDZaQjJlOFMwX2xwNTFvcWJ5VzNMR3RIY2EtMjBQeEIxYTFhdmlxOVBkbmc?oc=5",
     "timestamp": "2026-06-07T13:59:03+00:00",
@@ -93,6 +238,11 @@
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQenE5amZ2NmVSM2gzMXBWVjczMDdsZnRreUZObWlzUGJ2YVpBeU45cTNOdmt2Z1lOc1MtcmZqV2JSZ1RwaktBUzYyTDcwZVRjYnhiWk9xX2hQc3QxMUJ3NjVacWF2MTdwZ2hfOFozZEh3NzdyQWpza2xGRVNIYzAxV3hKaTJlM2dmTGxUdWRuR1RuaS1od2pWcEFpRXh6Tk5FV2lycE1Na2FaSjFlNlVGRDF6dEVfa09iZHN5dDhGTDFrSWM?oc=5",
     "timestamp": "2026-06-07T13:46:25+00:00",
     "source": "reuters"
+  },
+  "6834baad073c1b77c4965270c333d534": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEbXdkMXFIMmlIcF9JZEhVRmVRX2Z2T3FSdGcyaG1vaTNZMzI0VTY0RFR6SUszaXRIb3FUOXgxdkx0OWVSUU11dXdVRDV6RjdBekE?oc=5",
+    "timestamp": "2026-06-07T13:39:33+00:00",
+    "source": "iranintl"
   },
   "c5fedda13ee16c1c9250c9702d3c29e0": {
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUM3R3dKX21nNlNJX0RpUlpmRTlGWGc5THZwYXZjdXE2Z0M0dUVfaVpPTVhhajZZQTZIQ3JfTzNKMkZ6UUpMazRFbzFlSmRSdDFaVnRSbFl1OV9fSUs3QWU1S1RHMUJoVVQwbm9KejJnMXFOUXpudVhZaXd6a0lDV1pJYk5RdG1UaWhZOFE2b3poUU5RcFVnVmRPUFRNWmwtdi1jeGc4MXZmQWlkNVBQeGcyckRZSTh5SWRZ?oc=5",
@@ -228,11 +378,6 @@
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1b0pIT0lBVkxGRFM4TjVwcnM0MXhiQm1iMFYwbDhCU2VibF9ZcTRBemZKa0RyREJjLTA3N3N1ODZYVm5mamY1TVlWOUd5QWUxWWxpV21DR3QwcDF5dXc?oc=5",
     "timestamp": "2026-06-07T01:09:29+00:00",
     "source": "iranintl"
-  },
-  "7803826a5b122b535fd016d6c98692cd": {
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NcnA1WGFuTS1MeUdsYWZvN3JfV0NjV3o3ZnFIZTVKWlNPMU41RWxqWE92OTNkVFlsb2Fta1cxMTZvVVljS1JCQkZYcHVZRGtIR053Qjdn?oc=5",
-    "timestamp": "2026-06-07T00:37:17+00:00",
-    "source": "radiofarda"
   },
   "816e33938f274e6152b0eeccb523ba52": {
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkJ6ZHZGZjJwa19hMFY1QWJWbGs1VXAzdzlJOXZLbzZqWG5USDktOGNzcVlaZmhlYTJQd09QQVBLS3JnSEI5MzZwQVdreXAzX1ZxQlpDYnhFalZYNHd6c3U2SUVuY2Y3SE9LRE10dzNVVzJHLUhkZnRsM1FKOUhIaDdoRGk3cWJBcXlETXJQcXZQc3BhRG5iOGV6ZHlXLWU4ZlhhdjIzUGZPeDdvY1Qzc21xLUpEVjg?oc=5",
