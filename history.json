@@ -1,4 +1,44 @@
 {
+  "60068feabe1477d3d81ed05549029163": {
+    "url": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel",
+    "timestamp": "2026-06-11T21:51:51+00:00",
+    "source": "nyt"
+  },
+  "1fbf4e85a577dc735bc7522c829537c5": {
+    "url": "https://www.france24.com/en/middle-east/20260611-trump-says-iran-peace-deal-is-near-after-threatening-new-strikes",
+    "timestamp": "2026-06-11T21:47:25+00:00",
+    "source": "afp"
+  },
+  "4f701eca3920e97f33fb0a5a88bbe324": {
+    "url": "https://www.nytimes.com/2026/06/11/world/americas/us-cuba-trump-energy-fuel.html",
+    "timestamp": "2026-06-11T21:29:47+00:00",
+    "source": "nyt"
+  },
+  "7f679a605fe357fcbe772961db29680e": {
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUGlsUV9wSVM1UnE0dlRXc2I3TEl0bUZpUVFyNmhOT3ZfLVhzdkdqcEl6UUlHVDdVMDlSV1EzUTFKSjA2cEZVekZsVHVURHVjTEJPcDRaeThKM2d1VjAyX1ZBbjV2MHgxR0tRVmhMSHB3S1AyNS1vT0JENlpYQTh5d2RDQTkzNFl6Nm9DdGZLaDNUckZxOWlCanpEOVpLcFlzRjBnZGZUdEdlVnFyMjFtWXlqeENMTFZaNno3cVA0TkRPTGJ3ZzExSTBfUmdKT1NOR0d0cjdPSQ?oc=5",
+    "timestamp": "2026-06-11T21:14:10+00:00",
+    "source": "reuters"
+  },
+  "a390bbaf17cc2e173b34c0f9f50cc8cd": {
+    "url": "https://www.france24.com/en/tv-shows/a-propos/20260611-civilians-will-be-put-in-harm-s-way-expert-warns-as-first-autonomous-drone-kill-revealed",
+    "timestamp": "2026-06-11T21:09:48+00:00",
+    "source": "afp"
+  },
+  "a85dfb549f61c87fbb33e0d90ce6ae8b": {
+    "url": "https://www.france24.com/en/belfast-knife-attack-false-images-misinformation-fuel-anti-immigration-riots",
+    "timestamp": "2026-06-11T20:59:52+00:00",
+    "source": "afp"
+  },
+  "1ed9004a50c43aad46e9d82f796a1059": {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXJDUmdMVDJFc3hMaWZZSTd2M0RzdTVWZy1SQlZVbkdGTmg5TUU4WHRDeVJmRUxfcnZ4ZjZiTkVsNlI3d3BFYTRnVVlaaXZkT1k0S1VHMDFUMkFTRmpNVkVCUjM1b09YVUpkSHFhNVNTYUlBSGE0b0p5WEloTklqQlFLQ0o3WGRQTjAxc3V1UmtmcjhVZld1cFB2SjVVQzlMVVhZ?oc=5",
+    "timestamp": "2026-06-11T19:47:43+00:00",
+    "source": "reuters"
+  },
+  "8eb4bd98bae9e35dadf2cda9cda4e1ab": {
+    "url": "https://www.nytimes.com/2026/06/11/world/asia/afghanistan-pakistan-airstrikes-civilians.html",
+    "timestamp": "2026-06-11T19:23:02+00:00",
+    "source": "nyt"
+  },
   "508e896f72ea76e31486e75ec2eed1cc": {
     "url": "https://www.france24.com/en/trump-calls-off-latest-threats-to-strike-iran-citing-progress-in-negotiations",
     "timestamp": "2026-06-11T19:22:44+00:00",
@@ -8,6 +48,11 @@
     "url": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel",
     "timestamp": "2026-06-11T18:48:26+00:00",
     "source": "nyt"
+  },
+  "d8565e36f1862b4be876249176134dd1": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fTkxwRTJ3UlBtOEd5VkJacGRFTVUwaXRLTzZNbXZoQUVjZkE3QnQ2dmhvWTE0bk5vRmtUdVZyXzkySkFIZDU0S3lQQUJrMWZ4Y1E?oc=5",
+    "timestamp": "2026-06-11T18:46:15+00:00",
+    "source": "iranintl"
   },
   "2f322c143a97c4956df5ec807596fde5": {
     "url": "https://www.france24.com/en/video/20260611-world-cup-excitement-mounts-in-mexico-city-ahead-of-opening-game",
@@ -28,6 +73,11 @@
     "url": "https://www.france24.com/en/middle-east/20260610-middle-east-live-iran-announces-closure-of-strait-of-hormuz-after-us-attacks",
     "timestamp": "2026-06-11T17:42:57+00:00",
     "source": "afp"
+  },
+  "0a6444ef0cdc6a2c08212356d7ea5834": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41OWR1WGhQVjBpYTJlSjRaaUE1dllydlNUd1hEUUtpMVFOM08ycmhvZUVyckMxTWJ2dHA0d3E2R1RSVXFncHFTSkE2dmVFNGd2dGc?oc=5",
+    "timestamp": "2026-06-11T17:36:54+00:00",
+    "source": "iranintl"
   },
   "d84e3197ab0d630fc6615c5403df573f": {
     "url": "https://www.nytimes.com/2026/06/11/world/europe/uk-defense-secretary-resigns-healey-starmer.html",
