@@ -1,4 +1,59 @@
 {
+  "4398c2a6ac5595cb9e4e230cf3da4530": {
+    "url": "https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel",
+    "timestamp": "2026-06-12T09:30:56+00:00",
+    "source": "nyt"
+  },
+  "be8aedf3876ac2235aacb3e0bcd07367": {
+    "url": "https://www.france24.com/en/video/20260612-as-crises-mount-how-long-can-uk-s-starmer-survive",
+    "timestamp": "2026-06-12T09:29:01+00:00",
+    "source": "afp"
+  },
+  "d8630f15cfab721279ab9b3d8f659941": {
+    "url": "https://www.france24.com/en/video/20260612-trump-touts-imminent-iran-deal-as-tehran-says-no-decision-made",
+    "timestamp": "2026-06-12T09:22:55+00:00",
+    "source": "afp"
+  },
+  "4ab35dbb94a4f61b2c7a2cf642ebb7bf": {
+    "url": "https://www.france24.com/en/middle-east/20260612-the-future-is-peace-an-israeli-palestinian-call-for-reconciliation-aziz-abu-sarah-maoz-inon",
+    "timestamp": "2026-06-12T09:02:19+00:00",
+    "source": "afp"
+  },
+  "2c21f73aa419b1dca66b948525520b33": {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ0JVU1lqWFQwRVVvdGVhRjNsOWh4ZUJ3WHhia3doRlpEaW93allUbTROcXhqd2NrN2I3ZEZfQ2NibTZkbzVhYjBGRk1IR2dUY1kzYTJtQ2pMeGVfLW9zRDhDNEhidUtxdkRGWVJKQkRSWkNnM21aMEpGLTVKWXduN25xUDZTTGpXOWZ1NnNnNnZpUWJ0T0hQUmt0OExzSGZnYWpfNmp0UVg?oc=5",
+    "timestamp": "2026-06-12T08:41:00+00:00",
+    "source": "ap"
+  },
+  "6b27ef5bcde6d54c03e2b0610fe9b5ec": {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUxSdXNaSUpKdFBPUU45bTNwSU43cFRxY1VEY2UzcnFoZ0FmRXhjdUdmZVNaSk9WN3VodGJsS21VbzcwdXdoelhHcTFUSWtVUW9LRVhMUXZ4SmlNWEs4OUhwbWdjRVpLY2dNZHZLbk1pZmgzZE04cUhuNmtPZEJicXZjWVVMUjRqRld6R3FDVy03OFFGNTFKcTdaY1ktUEJLamNPMDA1azgzZ00?oc=5",
+    "timestamp": "2026-06-12T07:48:00+00:00",
+    "source": "ap"
+  },
+  "63cc7fd9b4387b5484348d6a979116b9": {
+    "url": "https://www.france24.com/en/tv-shows/spotlight/20260612-belfast-unrest-racists-and-groups-allied-to-the-far-right-are-now-unified-across-europe",
+    "timestamp": "2026-06-12T06:53:26+00:00",
+    "source": "afp"
+  },
+  "7a2a9f7f04dfe058ffe0a4215072ffcb": {
+    "url": "https://www.france24.com/en/europe/20260612-eu-adopts-major-landmark-asylum-reform-hardening-border-procedures",
+    "timestamp": "2026-06-12T06:01:12+00:00",
+    "source": "afp"
+  },
+  "80b67cae09c30b614f343c0695233c23": {
+    "url": "https://www.france24.com/en/tv-shows/spotlight/20260612-acknowledging-rights-and-needs-of-israelis-and-palestinians-shared-path-towards-a-safer-future",
+    "timestamp": "2026-06-12T05:25:20+00:00",
+    "source": "afp"
+  },
+  "04a2cc77eae024090d7b75f0e9738732": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfQUVOM1FReHZYR1hFdmdBS1NZRHA0YksxYVhiWGp4REtoaU85VHNXWkc5MHdUa1FyYUtISkFOR2xnQlBOSDhjZFViLUNXNUswcWc?oc=5",
+    "timestamp": "2026-06-12T05:18:41+00:00",
+    "source": "iranintl"
+  },
+  "d37894c5a565ba13434422f53ade4ced": {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObm10MkJxNWQza1RuZHR0YmpkZnFiU21wRE5MYWtXZ2drOEhHYnNBblFIeTV4eGV2M1BpQWdraVJSR0JGYUJHZ1FhU2cwdjZfTWV0T1d4TUVKaVFLLVdycmxxV09KamprZDgzNTNILTZEQWZheG96MWFLSTlQUzFFWlFYN3M?oc=5",
+    "timestamp": "2026-06-12T04:05:00+00:00",
+    "source": "ap"
+  },
   "ecc08cb72ed0851b87faafae252afc01": {
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWg3TG5xNExlOE40WERlbU5TdUMwQlNZSC1TYUVKZV9HN1M3LUNoRGlCdkQ4cmRhQ1UtUkdJSDBrMzN4dGlHOWZ0b18yTFo2SHR1UTBGYkoxTS11aGNMTHAzRGFtMVNSQzRRZUtwLXRxWGsyN3FwVm9XY2stOHN4X21BOU91THhlb0JIakhjVGNEWmpQTkxzZzhONlhlUzRGS1dZdWQtOXAzZWs?oc=5",
     "timestamp": "2026-06-12T01:04:00+00:00",
@@ -283,6 +338,11 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yOElSb2xjdUpDeExHQ3Ztb0k0LWVYYTNldkxJTUJRM2pOcndBQUU4T1pPZWFmekhQQmVLU3VIOEF0bEF0OWZ6Z3RKd0hON1FMYWc?oc=5",
     "timestamp": "2026-06-11T10:35:43+00:00",
     "source": "iranintl"
+  },
+  "96c6b8040c14f72518b89042c45b00a7": {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ1pIaHpmaVZfNDMtU3AwU0w4M1lrRDY2ODR2MG0wNEpUS1hLMHI4REdIeG9wZkEyeUVDMUJ0LUFpWE1BaHE1SWxVS0JCSUlLdDE4cXdtSXRfQ0l1eF9iM2YxaGozM1l0NVVyM1I0YnFYU1dwUWt1VnhmVGpDS2xMYmJxWWkyb25YMlFLLTZEaVJFRjZrYlE?oc=5",
+    "timestamp": "2026-06-11T10:17:00+00:00",
+    "source": "ap"
   },
   "a83039ed9c5cf0c32cc311957cc0c236": {
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcFRlVXd5MXpqYllSY2d3VUoydUViclBBZnd2Y1dWcGFQLWJrVnBhbGdlTy1aSlRETC1aUDNUSjUwcGRiYkhkSDlUbzRPOVVhNzJaeGNPY2Z2QXZVZ0ltcWk0bFlLMmY2Q1NOSU9jTnVKRkUzQVhCeFlTa0JVOHlVX3FDTkxRX0VpQ1h2WmJoTERfZkY1TVZrUUpiZi1fRGhqc2Q3OFB3bkZ1T3RZcGw1N2I0WUd4VjJoYXBBTl9HeTZmV1dHa1lRWA?oc=5",
