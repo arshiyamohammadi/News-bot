@@ -1,5 +1,55 @@
 {
+  "4dc07535934936da30c0e367844b3c02": {
+    "url": "https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel",
+    "timestamp": "2026-06-12T16:08:15+00:00",
+    "source": "nyt"
+  },
+  "af5821076fd292f4c2ee7c952f2ff521": {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVNLdko5VzdSeXBlazJGaW0wQk8wMjFsT210VFB4OUdhd3ZpWTdocDllY2RwR1hWdlhoYzRZYkQ5OFc4TUE4WWJmN0ZrRlIyVllaeFBZMGwtdk52TU1wdkhFckd0cEFRVDBqalN3T2FhanpySWJWRzBTZmNCeHpHbk5FX1lsd09abWJBamVpVnFhMUxIWVpobjdiWHhOZWtW?oc=5",
+    "timestamp": "2026-06-12T14:26:55+00:00",
+    "source": "reuters"
+  },
+  "b0c2e2b1e9f1aca362ea06e4a90caee0": {
+    "url": "https://www.france24.com/en/tv-shows/revisited/20260612-brexit-10-years-of-chaos-and-regret",
+    "timestamp": "2026-06-12T14:13:33+00:00",
+    "source": "afp"
+  },
+  "79fc014062088d38931ddc0b4a0f69a0": {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSnp2SzRDVFVBdVBxWWo5ajd4QzJ4SVE5bXZCOFM0LWdRRDVPaVliQkkwVGQwYVZJMk9adHdZZFB2NW1QSnBybExuSV9MLXcyTTQxY0x1SlF4eDQzTk1kRGVnUXk3cllzdjhOZ3hkdnBVMXN2dWdlTk84RXpBX2I0MGVzeTlvVTZVcUVsYlV5TUl4VC1iZ3Iw?oc=5",
+    "timestamp": "2026-06-12T14:13:00+00:00",
+    "source": "ap"
+  },
+  "3e86d2f394602827d47ea7c718e960d8": {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDBYMkd0R3ZCN2RjU0FVcm16UHNGeElVUGhsaE5LM0F6OEFyUkFVRmllS0FmMkFfazJ3ZUxoVmxVZUFHcGF6VUVUekxtYkRsa3RzZzliVHdZbmVod2NIcllJWEV1aW1PUktPY0czSWxsQ2p0SF9TSGl6bjhvZHg5VXI4SHViNDRKajBMRWRTZjlHZzNOSF9lQ3pvUmplTHBFTWpoZjcyZFRBUW5zZFNFaGhTRjdXaTItZVhONnRCLVVCWG9nblE?oc=5",
+    "timestamp": "2026-06-12T14:05:12+00:00",
+    "source": "reuters"
+  },
+  "4ba8d70fc0ec3d4a8505d5cf35afefa7": {
+    "url": "https://www.france24.com/en/video/20260612-us-plans-to-slash-fighter-jets-warships-to-nato-in-europe-ny-times-reports",
+    "timestamp": "2026-06-12T14:04:54+00:00",
+    "source": "afp"
+  },
+  "65d51a48d1fd578caab4aea2d4961222": {
+    "url": "https://www.france24.com/en/video/20260612-first-group-of-nigerians-returns-home-after-anti-immigration-protests-in-south-africa",
+    "timestamp": "2026-06-12T13:47:43+00:00",
+    "source": "afp"
+  },
+  "ecfe1740e901aee3d7e010a0acde2cfe": {
+    "url": "https://www.france24.com/en/video/20260612-wrapped-in-paradox-most-inclusive-tournament-in-terms-of-countries-participating-yet-many-excluded",
+    "timestamp": "2026-06-12T13:45:50+00:00",
+    "source": "afp"
+  },
+  "d998cdbcffe33256d22a3113f1511ae8": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5TlFWLVRVZEZtby1TU1JSR0ZJSnlERnJqZjRtU1lDZzlIcXM2WUh2QXJ2YmVod21BNTBYS0lxTm9MZTdkeTlWUWFvZm05TFVvM1E?oc=5",
+    "timestamp": "2026-06-12T12:45:35+00:00",
+    "source": "iranintl"
+  },
   "e6882d0fdbebcebc73e06db3e761d687": {
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hMmp6RjcyODJlUlo5STQ3Sk1XMW1lN2V0UjlfOUJCOWhDYXJiQV9RTXltMXQzSnNNVXJtcTNkblVkcVBhalVWUW5mcHRnM1JuaXN5RkhR?oc=5",
+    "timestamp": "2026-06-12T12:41:30+00:00",
+    "source": "fars"
+  },
+  "b57707a25cbf6249de3fceafad9a5a88": {
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hMmp6RjcyODJlUlo5STQ3Sk1XMW1lN2V0UjlfOUJCOWhDYXJiQV9RTXltMXQzSnNNVXJtcTNkblVkcVBhalVWUW5mcHRnM1JuaXN5RkhR?oc=5",
     "timestamp": "2026-06-12T12:41:30+00:00",
     "source": "fars"
@@ -9,10 +59,20 @@
     "timestamp": "2026-06-12T12:30:13+00:00",
     "source": "nyt"
   },
+  "7803826a5b122b535fd016d6c98692cd": {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRmFZQzNOeVdYaEx1STljX2ZDOXpSaUhjTjIxQ3V2VHZCeUFCdlpFMjZ4QnU4VFZPZ2V3RTZ4MldKakx1bm1saVRnZjZkazRfSnRSUHoxRmNTVTJIc1BpNW5CbW1ZU2Foa3B1MlZQbTJZU3ZyLTZUNEJlR3NkSnBoTzJzVU1YcXFKdDJfV192RXlnb0d2RWhB?oc=5",
+    "timestamp": "2026-06-12T12:00:26+00:00",
+    "source": "radiofarda"
+  },
   "1b46071cf903dbf9b700b6b43688a557": {
     "url": "https://www.france24.com/en/middle-east/20260612-viral-video-iran-downing-us-helicopter-ai-generated",
     "timestamp": "2026-06-12T11:48:37+00:00",
     "source": "afp"
+  },
+  "5f75eafe99500d91982006e00848312f": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ENHZvRGFzSWtWVzVoSVZfY21xcUxOR0IzRm8yM3U5RTdvSEtVVkRsVzZHLS1ObFBnVm1TLUNlZ2lPOTV0dTNHNHJTTGcxZ3ZZUmc?oc=5",
+    "timestamp": "2026-06-12T11:17:14+00:00",
+    "source": "iranintl"
   },
   "ff7b12234298b3066b0b5c006e26feac": {
     "url": "https://www.france24.com/en/video/20260612-will-fully-autonomous-killer-drones-be-the-next-step-in-modern-warfare",
@@ -23,6 +83,11 @@
     "url": "https://www.france24.com/en/video/20260612-anger-swells-in-albania-over-trump-linked-resort-project",
     "timestamp": "2026-06-12T11:09:38+00:00",
     "source": "afp"
+  },
+  "d42285e6a0dab776551ecd1c76f9c81b": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCdUVSSml2NWdsRWduaFpqckVoSGU4QkNsR0J5dzBXM04wUXh2OGR0YTNKbjJpV1VHZ3E3RF9CNHNyOGNmVl9YeFB6M202V1daS0E?oc=5",
+    "timestamp": "2026-06-12T11:07:07+00:00",
+    "source": "iranintl"
   },
   "fc258c8937e70bba60d65475b9dd6067": {
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU3R1eDMtV05CUk5TeFZEZDJnY1VMS29OUVVMU2lab3lxMHQ2Rk5LX0tsWTFjUDZacmVXbjJENEFYWVZsMmMxbGI2aW92ejhlUGUzc3lXamxpdGVjSmQ3TGxKV0hDc2lmdFJINm9EUkVMM0dBdHA5S1ota0NseHpzVUpoYjVGRjdLX2tVcU9CdWs3U1RCVGZwRU4zUnJ3MFVxczNXNXlkQ3FsQWJQVDRicWNGbUhGSjVOcnc?oc=5",
@@ -67,6 +132,16 @@
   "e02658c4242ce7466c8b847c3f6d3652": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PcF9CbzM4S21VODBBUHU3bU5qb1ZPdEkxTF94NHRKUkh1eFVUeGVIVENaN2plZi10S2FmTnljcURyMGFqbC14YzlDTTJyTGhtZXc?oc=5",
     "timestamp": "2026-06-12T08:06:32+00:00",
+    "source": "iranintl"
+  },
+  "84dbcdcde642140fb8a85f19257d14ba": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PcF9CbzM4S21VODBBUHU3bU5qb1ZPdEkxTF94NHRKUkh1eFVUeGVIVENaN2plZi10S2FmTnljcURyMGFqbC14YzlDTTJyTGhtZXc?oc=5",
+    "timestamp": "2026-06-12T08:06:32+00:00",
+    "source": "iranintl"
+  },
+  "17576fde7240355cdddfe3e9b4cf3df0": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14aTdwbUpIWjNfNU8xWmxuN2RXeF9SblRTRjk2SjFBTTVoSVN5SWpaMEg2VWJUOHZlcEctN24yUjJsSGpTdTU4NWJ1bHhYZzN1SUE?oc=5",
+    "timestamp": "2026-06-12T08:00:26+00:00",
     "source": "iranintl"
   },
   "6b27ef5bcde6d54c03e2b0610fe9b5ec": {
@@ -118,6 +193,16 @@
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMGNDUGw0VnV2VDYwVmpyOU42UmhvcHd2Y2ExaUxuMjhHeHc3RHdtbms4SnE3ZGFlWjdwbUxNMkc3Q1Jtdm9sc3FBaktUWW51RmlhaFZqWkE2ek51MlBFV0V5OHoteVJWT2JuV0pwSQ?oc=5",
     "timestamp": "2026-06-12T00:27:26+00:00",
     "source": "fars"
+  },
+  "031d622bfa70a71387918711d2cb165e": {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMGNDUGw0VnV2VDYwVmpyOU42UmhvcHd2Y2ExaUxuMjhHeHc3RHdtbms4SnE3ZGFlWjdwbUxNMkc3Q1Jtdm9sc3FBaktUWW51RmlhaFZqWkE2ek51MlBFV0V5OHoteVJWT2JuV0pwSQ?oc=5",
+    "timestamp": "2026-06-12T00:27:26+00:00",
+    "source": "fars"
+  },
+  "0141751f2ae512bceadec5abc2beae2c": {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd2kweGRHLTFBbFlyOFpRTS01TkNjdkJVdW9haWJqa2NNYkYtZzZTOUVwMFBvTjhOS1VDenpDeDI0ZWp0UkdkTFpjUHJrUWxLN2J6UFRJNDVib00wc29fcWlBbmttS0RCbHlsbGU1WDkxRlNLeXJMRGR0dWc0dk9CcEZ5cTJGakd5YjFjUDRqVkQ0N0loOFp2N0N3?oc=5",
+    "timestamp": "2026-06-12T00:26:00+00:00",
+    "source": "ap"
   },
   "c5170bb7bf1b14bee65fa39f0f3465fa": {
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUxSdXNaSUpKdFBPUU45bTNwSU43cFRxY1VEY2UzcnFoZ0FmRXhjdUdmZVNaSk9WN3VodGJsS21VbzcwdXdoelhHcTFUSWtVUW9LRVhMUXZ4SmlNWEs4OUhwbWdjRVpLY2dNZHZLbk1pZmgzZE04cUhuNmtPZEJicXZjWVVMUjRqRld6R3FDVy03OFFGNTFKcTdaY1ktUEJLamNPMDA1azgzZ00?oc=5",
@@ -265,6 +350,11 @@
     "source": "reuters"
   },
   "5475fb9e20ab08c0b9a37da001d49175": {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUEF5SE5QZEpIcy1oczd1Tm9KSm5td1FJcTctN2lia2N1RFVjZFJhdDMzT3RWdG4tNmFqeV9mN0RRQ1l5dldUZ3NDemxQTHBCMnotSmVKTUpWRDlaTFdmNXJDQ1kydl94ME4yNTJaNzB2SHktWm1Icm1kUHZWLURJY1l4N3pXZVh4NnpQTzR0U0ZIbzdrVURXcDRzWkpqcUtTWUQ0MnYycGV5akxnQnc?oc=5",
+    "timestamp": "2026-06-11T16:54:17+00:00",
+    "source": "fars"
+  },
+  "e42b3cfc347ecb4892bb3832eabf6349": {
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUEF5SE5QZEpIcy1oczd1Tm9KSm5td1FJcTctN2lia2N1RFVjZFJhdDMzT3RWdG4tNmFqeV9mN0RRQ1l5dldUZ3NDemxQTHBCMnotSmVKTUpWRDlaTFdmNXJDQ1kydl94ME4yNTJaNzB2SHktWm1Icm1kUHZWLURJY1l4N3pXZVh4NnpQTzR0U0ZIbzdrVURXcDRzWkpqcUtTWUQ0MnYycGV5akxnQnc?oc=5",
     "timestamp": "2026-06-11T16:54:17+00:00",
     "source": "fars"
@@ -443,11 +533,6 @@
     "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-fractured-north-america.html",
     "timestamp": "2026-06-11T07:20:29+00:00",
     "source": "nyt"
-  },
-  "7803826a5b122b535fd016d6c98692cd": {
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlTFEwQXdROUNGVzBUYU5DLWpWZFlxcDBMNWVxajFLV2xWZlhURGFGb25KckhybkxfYS0tbFpOR0RoazRRSENWQUxselJYWnAzbHAtQ1lXQlRKaWlO?oc=5",
-    "timestamp": "2026-06-11T06:47:38+00:00",
-    "source": "radiofarda"
   },
   "e70990d52943ad4ecfea699d5d40e18f": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BS2dBOUR4bTVqUmxVcmYwdEQ1M3hXNmY1LU42SmFPZlQ0MVFoYVJfMDQ3TnVvYXdBLVFOZ1FobDV3OTFWY3R6UjlhWklRTmZpelE?oc=5",
