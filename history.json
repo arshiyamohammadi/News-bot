@@ -1,4 +1,49 @@
 {
+  "4ff0c4eb5d1553c655e7616fcef070e1": {
+    "url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel",
+    "timestamp": "2026-06-13T10:53:09+00:00",
+    "source": "nyt"
+  },
+  "0276529862623a1815943cdbef6514c3": {
+    "url": "https://www.france24.com/en/video/20260613-albanian-pm-rallies-support-as-trump-linked-resort-row-festers",
+    "timestamp": "2026-06-13T10:28:17+00:00",
+    "source": "afp"
+  },
+  "eb6e6d85282ac6b9d06b56e4950a3558": {
+    "url": "https://www.france24.com/en/video/20260613-france-bids-farewell-to-girl-11-whose-killing-sparked-outrage",
+    "timestamp": "2026-06-13T10:25:56+00:00",
+    "source": "afp"
+  },
+  "5899b40fbf9943a80e03b4be2b3ea463": {
+    "url": "https://www.france24.com/en/video/20260613-three-indian-sailors-died-in-us-strike-off-oman",
+    "timestamp": "2026-06-13T10:24:06+00:00",
+    "source": "afp"
+  },
+  "0d2ecfc2eccdc45f8979938766dcf8d5": {
+    "url": "https://www.france24.com/en/video/20260613-iran-peace-deal-looms-while-new-military-action-flares-near-strait-of-hormuz",
+    "timestamp": "2026-06-13T09:57:41+00:00",
+    "source": "afp"
+  },
+  "8fa9f30567fdd90ee7a2517fce2b2cd4": {
+    "url": "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html",
+    "timestamp": "2026-06-13T09:02:13+00:00",
+    "source": "nyt"
+  },
+  "398d6eb2ffab082d783341aa00b7e0f7": {
+    "url": "https://www.nytimes.com/2026/06/13/world/europe/ukraine-russia-patriot-interceptors.html",
+    "timestamp": "2026-06-13T09:01:43+00:00",
+    "source": "nyt"
+  },
+  "a5f21fa5f7562cee958b39979973c849": {
+    "url": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html",
+    "timestamp": "2026-06-13T09:00:53+00:00",
+    "source": "nyt"
+  },
+  "5b2c947dff4efa1c5947d68c7d493a2d": {
+    "url": "https://www.nytimes.com/2026/06/13/world/europe/switzerland-population-referendum-10-million.html",
+    "timestamp": "2026-06-13T08:57:25+00:00",
+    "source": "nyt"
+  },
   "bda4fd779ec02eb2e08d498a8593cd7e": {
     "url": "https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel",
     "timestamp": "2026-06-13T08:11:40+00:00",
@@ -8,6 +53,11 @@
     "url": "https://www.france24.com/en/americas/20260613-venezuela-says-leader-of-tren-de-aragua-killed-in-joint-operation-with-us",
     "timestamp": "2026-06-13T05:56:09+00:00",
     "source": "afp"
+  },
+  "f5dd60f569034eefd166346a5b17710d": {
+    "url": "https://www.nytimes.com/2026/06/13/world/asia/family-ravaged-by-land-mines-myanmar.html",
+    "timestamp": "2026-06-13T04:01:07+00:00",
+    "source": "nyt"
   },
   "b0f22e2bda8c76c3c8825de9c1e4c36f": {
     "url": "https://www.france24.com/en/sport/20260613-usa-paraguay-co-hosts-cruise-to-dominant-group-d-opener",
@@ -25,6 +75,11 @@
     "source": "reuters"
   },
   "3e15c24487cb7e830fd109c221f0f35e": {
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOFNVaW1EQjcyVjlOZGtnLTdLXzctb2RqaXlFY0RfQ2FscHk3Y2NvYUkzZms3TGk1NHhoaGJGY21fV3hDa2VYYm4zRnVOTHpMYXJhOXk0UUdycFJMNlRNQ09SRFhXRTZvS2JiMDhtNlkzc2pIMWVrdm1mWGp0OUlIdHYwbGVDOGhUeW5FeFQ5ekdiY0RobFZjTDkyVnJONEhXM01TX1FKcE5INUg2RDlxWHpBa3RNRDEyX1J2SGlHd1pEVl9ZLUMw?oc=5",
+    "timestamp": "2026-06-13T01:33:00+00:00",
+    "source": "reuters"
+  },
+  "9963d6b839cff05bf10196e106bb0ad3": {
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOFNVaW1EQjcyVjlOZGtnLTdLXzctb2RqaXlFY0RfQ2FscHk3Y2NvYUkzZms3TGk1NHhoaGJGY21fV3hDa2VYYm4zRnVOTHpMYXJhOXk0UUdycFJMNlRNQ09SRFhXRTZvS2JiMDhtNlkzc2pIMWVrdm1mWGp0OUlIdHYwbGVDOGhUeW5FeFQ5ekdiY0RobFZjTDkyVnJONEhXM01TX1FKcE5INUg2RDlxWHpBa3RNRDEyX1J2SGlHd1pEVl9ZLUMw?oc=5",
     "timestamp": "2026-06-13T01:33:00+00:00",
     "source": "reuters"
@@ -98,6 +153,11 @@
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVjVncGs2TFprV0NFVEloX3prLUlKc1RCQXRVa2RfR1Y1cmtsODRYdGpSSFZVMTNHQXRpU3VaSzIyUENoczVmZ216ZmZobzl1Snp2MG1yaEV3SkhDT01ZS3d5Z0dWcDRRblp1UlhLZ0NDdlRpbkpJVTY3ekdWZ1JHbw?oc=5",
     "timestamp": "2026-06-12T19:50:30+00:00",
     "source": "fars"
+  },
+  "e0fbefbd58c2c2bffc2110ea5ffb7fd1": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rYnozZ01wckExdTlPTkpyUDhTUlN6Y1VPYVlmYlo0ZEE3ajdqUE5tREJxNmVReDhGanBXdkg3VkFsZmhCbk12OUx1elhadzVEZ3c?oc=5",
+    "timestamp": "2026-06-12T19:22:59+00:00",
+    "source": "iranintl"
   },
   "9bf4c4909b22dfa0708a72a6adfb0d18": {
     "url": "https://www.france24.com/en/france/20260612-combating-foreign-digital-interference-france-among-top-three-europe-cybersecurity-elections",
