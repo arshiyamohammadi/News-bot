@@ -1,8 +1,43 @@
 {
+  "adb140d95146e7f4c95673b8bf732f15": {
+    "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+    "timestamp": "2026-06-14T15:19:12+00:00",
+    "source": "nyt"
+  },
+  "7b2916468e7075e239ede7ed06d58c4e": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53aTdYUHp3dE5QMTZhMVdETzA3YlpLUjZDVTRtazBpb1B3SVlLc2RGRGxvYTJqdVBKeVgtWnFPR0NqVlplc202cHFyRFR2Xy1WWklWek5zVXZTeGNFdlE?oc=5",
+    "timestamp": "2026-06-14T14:33:12+00:00",
+    "source": "iranintl"
+  },
+  "cab150a8a090e9f2126f044dd9c3447c": {
+    "url": "https://www.france24.com/en/video/20260614-beirut-strikes-no-point-in-talks-if-us-cannot-uphold-commitments",
+    "timestamp": "2026-06-14T13:50:43+00:00",
+    "source": "afp"
+  },
+  "eef89ed0fff40f2d1c5a4c439002bfb8": {
+    "url": "https://www.france24.com/en/video/20260614-trump-hosts-white-house-cage-fights-amid-war-and-political-scrutiny",
+    "timestamp": "2026-06-14T13:49:00+00:00",
+    "source": "afp"
+  },
+  "fc661a25778142355543918ca3394919": {
+    "url": "https://www.france24.com/en/video/20260614-israeli-military-strikes-beirut-suburbs-in-the-lead-up-to-anticipated-us-iran-deal",
+    "timestamp": "2026-06-14T13:47:02+00:00",
+    "source": "afp"
+  },
+  "6e97e89e5bba3a471af314d3ea79b173": {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtQ2o0c3Fqa3I4YTA1TXlpVzJkSFc1bERuek0waDBUOTdvNWhObDBqSDhNNGZzcHhxVFEyTG51YzBtVmRWeUFvWTdHeHJoZXlVZzNicVJHZlZoNUlXVnp2NGF1dmdXaXl3UnRXUlBKaVdHZ0NjdHRPVQ?oc=5",
+    "timestamp": "2026-06-14T13:00:42+00:00",
+    "source": "fars"
+  },
   "1d368c7860471dc187939219be864dd4": {
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbURqMUlOeHFrRzB0WFZYbUxfeTY0YWc1S3h5MTZveE4zYlVGQnVyczFzV0x5YUtINHZDaUxIX0J0N0tDZ0FHczFsdGxhaUpxTGt2VmtQN0trcVlDVkFXdk9vczF1Nm1nWlpxbW55bDhXUjNsblVRUDIwLXprT3U0ODZkUW53Nlk0ZEtEU2ZkSjJ5d3VJLUt2N25lamtMY2hvLTZlZG5YaXJ5b3RqbkJtd1prUHgyNVhpbWtfTlhlOA?oc=5",
     "timestamp": "2026-06-14T12:32:13+00:00",
     "source": "reuters"
+  },
+  "3dfe9cc20fc3230e347a502805661a02": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fNG1iSjdGRmpJTXdwQ24yTWh1NlhOYk9QZ2NGOVdrbjRVYUlvNDQ4MElCVmRGd2JMbEZuTnZmVV9xUy1kZmx1dHhjM1ZRWTRmc0E?oc=5",
+    "timestamp": "2026-06-14T12:26:04+00:00",
+    "source": "iranintl"
   },
   "eefbf99c30c96be56a5a8e51cb376af5": {
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0dtcHdBNDdCYXg2eGVXYTJ5MGlRQ0ZVM1I2UnN3MTlXZEh0eHA5QmJNMGQxMF9fbHFQVnBkMzVNbW1CY003X0l3TFFSX1VrZVBzSl95QVRjZFVkdmZ3VENOR21xM2xLbTdnbHY3ZkNSMkgwTHl5WVJuRXhoNEQwQ29BM1RGNkxab3FIbFAyQ3V0bWwxalcxX1BtRkZ1NmVfWFN1dm9HbVd1RHoxTW5qN2JkN0dWWEhxSFBrdVJuYmJlNFNZdE80ag?oc=5",
@@ -39,6 +74,11 @@
     "timestamp": "2026-06-14T10:41:01+00:00",
     "source": "fars"
   },
+  "e4073ae539096cc53fab2eabd5506cc9": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xN2tyVTVYb3pEMkNCOXR6TDZZaHVDMmNGM05oTktaeDVoRk5DajFLenhXM0ZvRThqNmZDUlNPNmdCOUNpRzFmSHh3Mkpyd3c2QVE?oc=5",
+    "timestamp": "2026-06-14T10:05:17+00:00",
+    "source": "iranintl"
+  },
   "472258d1b5e07c403fcc61be3fbbe2ec": {
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0dtcHdBNDdCYXg2eGVXYTJ5MGlRQ0ZVM1I2UnN3MTlXZEh0eHA5QmJNMGQxMF9fbHFQVnBkMzVNbW1CY003X0l3TFFSX1VrZVBzSl95QVRjZFVkdmZ3VENOR21xM2xLbTdnbHY3ZkNSMkgwTHl5WVJuRXhoNEQwQ29BM1RGNkxab3FIbFAyQ3V0bWwxalcxX1BtRkZ1NmVfWFN1dm9HbVd1RHoxTW5qN2JkN0dWWEhxSFBrdVJuYmJlNFNZdE80ag?oc=5",
     "timestamp": "2026-06-14T10:03:20+00:00",
@@ -73,6 +113,11 @@
     "url": "https://www.france24.com/en/video/20260614-iran-us-pakistani-leaders-predict-sunday-signing-of-peace-framework",
     "timestamp": "2026-06-14T08:59:02+00:00",
     "source": "afp"
+  },
+  "76a29198e9f983890eaa5720b40a62fc": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93eUpwNkNla0hYeGJRTUxLQ3ZuTHFMUGVqcGhNODhwUE8xeWMtLTRucW16UDRvZXhmMjdacGRkNVRsV3doeHYtZGEtWjd6UkZKTXc?oc=5",
+    "timestamp": "2026-06-14T08:49:52+00:00",
+    "source": "iranintl"
   },
   "6dd1159860b04649e6f457513a675da9": {
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPekNlcHljbzkyU2huU1VqQnB1SFRyVHF0bHJKWVR3RXZETDJvQTBrSVVDN3FVRzNDdjhVc2txU2cxeU5Id1dWQlVXU0l6LVJwNWZrOTlsWUMxaHFMNm16anRrMWVIWHQ5NW5vMWpLY0pUY2lDemo1c3NEVlRlSnpBTmM5dnFhSmNrRjRlTlVZbWI5RzBrdW1LQmZiVGNhNzkxeDBEb01oRUotdlA2dkdGR3Q3bWQ5bERQcHFKVDZrVlpRVUNGbXY0ZA?oc=5",
@@ -2453,50 +2498,5 @@
     "url": "https://www.france24.com/en/armenia-votes-in-test-of-pm-pashinyan-s-pivot-away-from-russia",
     "timestamp": "2026-06-07T14:21:47+00:00",
     "source": "afp"
-  },
-  "605af90e46476161b85f25ce390e6dbe": {
-    "url": "https://www.france24.com/en/one-dead-five-wounded-after-shootings-in-israel",
-    "timestamp": "2026-06-07T14:18:27+00:00",
-    "source": "afp"
-  },
-  "71c9fd860e88ad791dacf494374b3cbb": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuZEhlX1ptQ01PR2sxZkZFM1ExLW5TaU5na0ZqSEo2R1lURHNMTmJmSUJLTFN2VWFKbG5fR0FrUjhjOTMxQ1VJWFAtR1M3VTRlRlE?oc=5",
-    "timestamp": "2026-06-07T14:11:00+00:00",
-    "source": "iranintl"
-  },
-  "6c8f2c63cab8cc70ca5661c57bafad4c": {
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR0t2Sk5ISElDUHNqUWthaDlabUV5czBtSVVtQ05kOTJFVVFYRm01RWRnTkZ6U2JXdEUxVFJjdXpUYUhSbGdJVFRsdEhMYS1lNENNYjVMcWtJdnE4dExueWM5TzBLQlpVYmxQUjVObEN6dDUzcnpUeUpXV2h6cnFSeWllWElnMXlZdjN6MWg4S2NQamVfd2U4dDZaQjJlOFMwX2xwNTFvcWJ5VzNMR3RIY2EtMjBQeEIxYTFhdmlxOVBkbmc?oc=5",
-    "timestamp": "2026-06-07T13:59:03+00:00",
-    "source": "reuters"
-  },
-  "e3cb1724ac38bb6b2bddc0757d6c30a3": {
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQenE5amZ2NmVSM2gzMXBWVjczMDdsZnRreUZObWlzUGJ2YVpBeU45cTNOdmt2Z1lOc1MtcmZqV2JSZ1RwaktBUzYyTDcwZVRjYnhiWk9xX2hQc3QxMUJ3NjVacWF2MTdwZ2hfOFozZEh3NzdyQWpza2xGRVNIYzAxV3hKaTJlM2dmTGxUdWRuR1RuaS1od2pWcEFpRXh6Tk5FV2lycE1Na2FaSjFlNlVGRDF6dEVfa09iZHN5dDhGTDFrSWM?oc=5",
-    "timestamp": "2026-06-07T13:46:25+00:00",
-    "source": "reuters"
-  },
-  "6834baad073c1b77c4965270c333d534": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEbXdkMXFIMmlIcF9JZEhVRmVRX2Z2T3FSdGcyaG1vaTNZMzI0VTY0RFR6SUszaXRIb3FUOXgxdkx0OWVSUU11dXdVRDV6RjdBekE?oc=5",
-    "timestamp": "2026-06-07T13:39:33+00:00",
-    "source": "iranintl"
-  },
-  "c5fedda13ee16c1c9250c9702d3c29e0": {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUM3R3dKX21nNlNJX0RpUlpmRTlGWGc5THZwYXZjdXE2Z0M0dUVfaVpPTVhhajZZQTZIQ3JfTzNKMkZ6UUpMazRFbzFlSmRSdDFaVnRSbFl1OV9fSUs3QWU1S1RHMUJoVVQwbm9KejJnMXFOUXpudVhZaXd6a0lDV1pJYk5RdG1UaWhZOFE2b3poUU5RcFVnVmRPUFRNWmwtdi1jeGc4MXZmQWlkNVBQeGcyckRZSTh5SWRZ?oc=5",
-    "timestamp": "2026-06-07T13:20:27+00:00",
-    "source": "reuters"
-  },
-  "9bf6128dbbe4dd00207b6ca3d28cd7fb": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BOWNxdkpHT0dOdVBTZW43R3VnaGVWY1dsVGRoT1JOd2Ewb2pJQVNMTks3ZndwbWRESkppOUFoY3dtNmZLZkl4ckFfMzZ2aGp5ZkE?oc=5",
-    "timestamp": "2026-06-07T13:10:37+00:00",
-    "source": "iranintl"
-  },
-  "8857a750dbea1ec1d6bf258273fde0e4": {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVmdOMkE1X05ZRTdTNHpxVnVGcnFhTHR3Ukg5MmJkbDhvQ2JYdkk0MTBVc3BMdkxmZXVIMWJva3hkQk1vQVl2OXV0MExwWk9ENXFoS0JtZS00aEtvX2NWbzV0Mzdfakk5MmduRjh3UlU3OF9kU3dfTUQ1TUF3d3lNak9yLXdzdUNOV3NLUFl2UDhSVVNmR3AwRVN6Q2syME9rUUpwRnVjV0NzeU1K?oc=5",
-    "timestamp": "2026-06-07T13:00:10+00:00",
-    "source": "reuters"
-  },
-  "9c8b5468f34cf67e0211081fb664e4ba": {
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGxmNFFiT1M0RGNKMG9OMjhoYi1OZ0RsM19Eb2xrdktzYzAwYi1wRDVqTGRvWVFaSFBMR3ZkeFRQSkRmXzUtWHk0VVZmN1VtbVZtVndRMGNham5tMkh4RVJQbFE3ZUFpYWtTV0lqX3NvcjEwbENsd0UzWFJ5aGtLa0prM0RKSDU2VHpEYTNjZ2g0QjNSQ1JCQ1pHeTFjOUQweEMweGlnZWJuMXg3RUloZUNaY25qb0d1Q1ZQZ2s1M3BESUtEcmc?oc=5",
-    "timestamp": "2026-06-07T12:25:06+00:00",
-    "source": "reuters"
   }
 }
