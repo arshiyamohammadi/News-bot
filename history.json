@@ -1,4 +1,59 @@
 {
+  "56a89cfd9267c306a031df3a7f1a15fd": {
+    "url": "https://www.nytimes.com/2026/06/16/world/middleeast/world-cup-iran-new-zealand-protests.html",
+    "timestamp": "2026-06-16T08:39:37+00:00",
+    "source": "nyt"
+  },
+  "fe147addbfbea64a77b196ed50bc65da": {
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CaVJZaFNMYjRtYUx3cUlJT01xWVc0eXlVYW1OMy1EUXlOYTlnVHZSc0c0bW1GNllFb3pFOFRudDZoQmlpTm1BZFVpUFNObERkOElNdUhkanl6dDVydndpRDhiUFVaVlFxVGItRGZkNFhYYkE?oc=5",
+    "timestamp": "2026-06-16T07:49:13+00:00",
+    "source": "fars"
+  },
+  "a8d31683b22bbcdaa9a4d45094115204": {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNekhLUDBpcmFhSlRiLU9paUdpVDNjOXM1U3RkTE9Pc18wVlZaclFnYkhOU0N0R3Z2LU4xN1Rpdk5HbEFpRDZCR2FEbC0tZXU5NlBrdHdJNmZJZVdRYnk3bUVrenpEZ05OcUhmTl9RTUstT1p3VDd4S0pTemhwRV9Hd1k3Yl8tMlllbHc0M2hrX0lmWkJRLUFfVWVnZklPSUNVdldTNW5TaUFXNWlFSXA1TmwwQS1xa0Vvb0pCaTRYR1BfVWFoSzI4S1JDQzBHUmpI?oc=5",
+    "timestamp": "2026-06-16T07:41:38+00:00",
+    "source": "fars"
+  },
+  "4cc6d01cfea00638438d92449effd085": {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOE5uY1JidUpoS0Q1eDhUQ2RLMDJKSnppMV9RTkFQRGhqQ1ctT2VZMi16YUJIZjBzaFlWU2ZqOEdDZ3NvaUtUVXNHTWo1Q0xYcFItWHlZdVlrSVE5SDFOdmlfS1I3ZE5tZnlLVmVuQjNkbGhjN2pjZVdqVnZ2RTBia0xESzJqUDVqZV9hby1kbEZVTzM2WGktc2tLazFVVXVsVkJWVDNYT1h4RHkwampoMlZYWW5VbWM?oc=5",
+    "timestamp": "2026-06-16T06:33:00+00:00",
+    "source": "reuters"
+  },
+  "f4c658cea4ffdb8b9fadb818ae6ca779": {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5akJvWXppejM5V2tCblZDWG54VExqQV90eTVGenpJcnNPQ1dMUjQ3NEJsSlgxOUU4VFJITGVadmpFWHViaGp4d3doalBsN0w0dzFxZW92X3V5N0J6VUNfTTktOWFkeHo4QWItQzdzTmI?oc=5",
+    "timestamp": "2026-06-16T06:26:47+00:00",
+    "source": "fars"
+  },
+  "42c3134b5cb07cd35ee48e44ffb29056": {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUTBibTlhVjFUalotXzBwOTZDYURIS3pEc2dpVFRHeFBZZDJQei1Lek5pQjVidmdBZUpFMTBWLXJZWXJPdXI0Vmg2Y0p5ODBKVUgzNWVvc3A0YWpHbk1aaDRIbE56aldjYjRsUFJkdjRfTEVteGlNTDh2OXlsWUd6QU5MdGpaa2xzSzRqT3Nwbks5eDh1LUw4UjMtZHhRRmMtV3hOTXpR?oc=5",
+    "timestamp": "2026-06-16T06:20:00+00:00",
+    "source": "reuters"
+  },
+  "2c8c4bf1b1e0b1f36b7cf61ab8234c67": {
+    "url": "https://www.france24.com/en/africa/20260616-former-central-african-republic-leader-boziz%C3%A9-begins-trial-over-war-crimes",
+    "timestamp": "2026-06-16T06:03:25+00:00",
+    "source": "afp"
+  },
+  "b38482d03139f750404d701185ba7f2f": {
+    "url": "https://www.france24.com/en/sport/20260616-world-cup-2026-france-kick-off-campaign-with-senegal-looking-to-repeat-2002-upset",
+    "timestamp": "2026-06-16T05:22:42+00:00",
+    "source": "afp"
+  },
+  "a88cb4c12e940ad49b81754c1fb8a122": {
+    "url": "https://www.nytimes.com/2026/06/16/world/middleeast/strait-hormuz-mines-clearing.html",
+    "timestamp": "2026-06-16T04:11:42+00:00",
+    "source": "nyt"
+  },
+  "0ca317dd7be73b95806e9b63c3bcf430": {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVFRRVjU5R1lzdHRVZDB5UjFlNnRMaGRkSXo0T1BHQ1dDQm1BaUp1LS0xeTNPNnJkaGowblpZd0VaVTlWSmg3cEJaY2ZKX3lnMHFCZ2IwS0Zvb3llVTV5Yi1qMmx5aHlQWThvUFJFQnJjRVB4aEFfbEE0YVNCZFFCZURvZXR1bHFJWV8wVDNRZmZ1R1RUdHozWUR4NXlkcmh0Q2xQQ2trVUxTSTBiaVVVN09tYw?oc=5",
+    "timestamp": "2026-06-16T04:10:00+00:00",
+    "source": "reuters"
+  },
+  "160d89af862e71fa5d34e5d5ec194b94": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45UnRDdVYwUXJEOWxIQXhxeVJmVGxOTEpuS2hadzZkbFhfYkNXT0xvMHF2WmhpSlBxbkExeWFqcVFFZDFqMVBaSmFuTHduNHdGWGRNSjNBTGFnUGRLX09xQQ?oc=5",
+    "timestamp": "2026-06-16T04:07:39+00:00",
+    "source": "fars"
+  },
   "18a06cae70764e087ca546fd0f4171d1": {
     "url": "https://www.france24.com/en/sport/20260616-iran-held-by-new-zealand-in-world-cup-opener-overshadowed-by-politics",
     "timestamp": "2026-06-16T03:20:37+00:00",
@@ -9,7 +64,17 @@
     "timestamp": "2026-06-16T03:07:25+00:00",
     "source": "afp"
   },
+  "1dbc878d1f7158083493c29fff77715e": {
+    "url": "https://www.france24.com/en/middle-east/20260616-middle-east-live-vance-says-strait-of-hormuz-will-reopen-without-tolls",
+    "timestamp": "2026-06-16T03:07:25+00:00",
+    "source": "afp"
+  },
   "b8248c29685d72fcd69761d71784c12b": {
+    "url": "https://www.france24.com/en/europe/20260616-g7-leaders-to-meet-zelensky-as-trump-signals-possible-ukraine-breakthrough",
+    "timestamp": "2026-06-16T02:43:25+00:00",
+    "source": "afp"
+  },
+  "0a6f53774825ad4cb3cbaaa7f653f87d": {
     "url": "https://www.france24.com/en/europe/20260616-g7-leaders-to-meet-zelensky-as-trump-signals-possible-ukraine-breakthrough",
     "timestamp": "2026-06-16T02:43:25+00:00",
     "source": "afp"
@@ -18,6 +83,11 @@
     "url": "https://www.france24.com/en/technology/20260616-social-media-becomes-leading-news-source-report-warns",
     "timestamp": "2026-06-16T02:26:22+00:00",
     "source": "afp"
+  },
+  "ec708473dd9b321c9adf42c48dbf7c20": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ucURHMGQyZ3BHVTJWMHI5VTJHVy1KRGhaSUMtYlBaVTM5WHFWQW9wYnptbUxGLVk0VDcteVlmdmpoTGlHNEJ3QVplRUp5TDduaWc?oc=5",
+    "timestamp": "2026-06-16T01:24:19+00:00",
+    "source": "iranintl"
   },
   "1174c70dbd219701960254a879287b12": {
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWENYY18wZzkzMHJkZWJ5NFh3OVNGUGZtTHlIalhVRTJ3QmlVYXJ6dHJrd3EyUGN2RkFILXlzS2JzRlZMV1FUeE14Nm13TnJXMkhkUW1UZFhyUHd2TXkzelJjdndCSjJxa3BJUDBnT3pHMTNkVGpwekFENUtTdExyVlUwV1V0eUlMaHhzUWRTSnpnY1RLbGpzOEFNdHp6ajFwUUtTYjFuZTBEZUQ3N0RIX0w2TTV6OXpHazRrRg?oc=5",
@@ -184,6 +254,11 @@
     "timestamp": "2026-06-15T16:44:16+00:00",
     "source": "reuters"
   },
+  "ac38db418c0c555e9c40347b6c7e661a": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pRGF4b2pBOTZNYWxvV3dJNG9sWW9hWkRLdDVoQ0hMMUJnMVVHNHZoTXgxNE0tU042RHZvZ2ZMX0tDSk4yUm5DNnJjdlpxdUFkd0E?oc=5",
+    "timestamp": "2026-06-15T16:20:57+00:00",
+    "source": "iranintl"
+  },
   "bd311b5e53f3c78ca95d5d410a9789d8": {
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzBOb0pzYUExM1g5aXo2ZDlTU0RJQllLdjNxUTZMQjViWEJFWjlTRTN0N1pQeHBaVUYwN2E1Rkw4dl8zQTBQQ1dDMDhUWnEyRzZMLThDNkYyd2s4S2ctNGx2RXphTjlkTDU5OHRtMTFEV1RjNy1tUS1YZE5tZ3VPR0ItaXJ0YXBOMWlnalNiUXFYUQ?oc=5",
     "timestamp": "2026-06-15T16:06:00+00:00",
@@ -343,6 +418,11 @@
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Ib21Qa1dGUTgzVlZZd3RGMTBKU1dLNzUzNW1aajBnM0ZOQXkzdW05cmJMY2xMX0hENXB3ZE9HTHpUZEdaZm1YVkp1THVVTlNWTVVqNjdGNXRPeXJ3QU02Zkx5NUNLMlF2dUJ1MW13?oc=5",
     "timestamp": "2026-06-15T10:52:40+00:00",
     "source": "fars"
+  },
+  "07e0c2cba4a9929b8a62284e305d3e1d": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yeTlyODhZWThUV3VrMWVzM2F2ZkQtb2dKYkxmNnFUbjZabWdvbTB4YXdCeENwQnItajdIOHp0Z0g3dzBrc0RxeFlkS3NIMGYtamc?oc=5",
+    "timestamp": "2026-06-15T10:09:11+00:00",
+    "source": "iranintl"
   },
   "8e80f8b2707a65ae306b818bd46f9c89": {
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd0M2WVRRX1MwSTZwWWxNbEpPek5GaUxXQUNlY0cxdWNiYm51RGppeW5jY0NzVEZmUnhBOWhpd21vRlpDNVlyQzMzR1QxN0tkb1B6ZHFRWkpzM1RBQkl6TEJyTUZXa04wemoxbmxmTGZjYjlIZXdmVzVSOWk0bUo0YkkxcnZmSDI3SEpoN0VFME80ZDJiRlkzeDBFNlEwTG5mSzhHNXA1NTJ4OWplQXlvVkcwbHU2TjRnN2xRMUJGYWM0QQ?oc=5",
@@ -2418,85 +2498,5 @@
     "url": "https://www.france24.com/en/asia-pacific/20260610-i-am-a-prisoner-of-conscience-ali-karimli-the-opposition-figure-defying-azerbaijan-s-regime",
     "timestamp": "2026-06-10T11:42:05+00:00",
     "source": "afp"
-  },
-  "804dafa6e3de1d4546f47551d3dbbfd3": {
-    "url": "https://www.nytimes.com/2026/06/10/world/europe/belfast-attack-riots-northern-ireland.html",
-    "timestamp": "2026-06-10T11:38:32+00:00",
-    "source": "nyt"
-  },
-  "9956309363095ff52f70f5e7953389cf": {
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQjBfR0dyb2k4WjB2MkZEMjVxLTladHdVNmk5R2tjUHh2SmVmRGs5SDZBLTRuSEJOMzdxMnFoZmZDWEh3VzhBalF3MmtGMUFfelB5Vm9fb3JROUFOaVUwWUxqUTBtbURXTnYtOUNUZ1U2UkxoZnNoN1ZvLWlIN2VvNVBhNmJlUlRZYlJ4ZERYRnA5LTJ3QktSU1VwUkNzS2RWeGpmR05ndllnalFqeVp5endGQQ?oc=5",
-    "timestamp": "2026-06-10T11:36:31+00:00",
-    "source": "reuters"
-  },
-  "f15c11fff7b5e1904e9ce6d54f9ad6a3": {
-    "url": "https://www.france24.com/en/video/20260610-belfast-anti-immigrant-violence-erupts-after-knife-attack",
-    "timestamp": "2026-06-10T11:32:26+00:00",
-    "source": "afp"
-  },
-  "08ecee5f787224316b609ca5cb0c36c9": {
-    "url": "https://www.france24.com/en/us-iran-deal-wouldn-t-resolve-anything-trump-trapped-between-unwinnable-war-unpresentable-deal",
-    "timestamp": "2026-06-10T11:32:06+00:00",
-    "source": "afp"
-  },
-  "222f0197ce40efd9cc8e0b3a7078a68a": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vaWYyRDVzSkxXUXRwNURfdE1uVVRQNElMNm50aDZwanlIYnJoMWpURDA5d01vQnJIRDBSaTFENFFBQ0ZDenEwYzNYZnZUVGt1bnc?oc=5",
-    "timestamp": "2026-06-10T11:31:20+00:00",
-    "source": "iranintl"
-  },
-  "184500ba63f8475aab0b3f483aabe6b4": {
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMmZXdXpqclhLc21sZFk0aExpZmMwVnA4XzhUbjlpUy1OTlRkblI1R3BjYUpleUN2UHVra3UyeE4yX05fdnlxZ200enVBbzRaZVdSc0tYOG02SktEcGxGN3c4YUdONVVwZGgxUy1SYzBBQ3RHLXhzTXpFOGpOcm1iY25SMGRXeDA3NEpvRHhKdU5NRlhXSklGM0dJTUpnY2JUWV90UFRrMnpJMVNRWnlveEdob0JQcWw3Y1VPb3BKY3RWc2FHbEJwSENn?oc=5",
-    "timestamp": "2026-06-10T11:14:57+00:00",
-    "source": "reuters"
-  },
-  "76b4959e692db24c390da04f56f1a834": {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPemtndS1Yc1R5LTQyQlR6dDlETDYyVHBzcWhxYTM3VkRtTS1MLVpkQ1BqNktCd1JQUzhtLVk2VjJGZ2RWUnI4VlNLNnlXUGNtOGx0eFVRVDV5bFB1bF9NYW9rRzRkZnhKV2toRUd6TG1TdFZIRDBhZE5QTFE0dmp3UWVvTEtSTUNVQnFzZUtKazJyM3Q1UXFHZUtMTGF1LWlRSXo0Ti1VdHljZHNMWDctdVVVMFlpOEtBQUdV?oc=5",
-    "timestamp": "2026-06-10T10:50:05+00:00",
-    "source": "reuters"
-  },
-  "0b7efbff60202f77ea7835c31f434f68": {
-    "url": "https://www.france24.com/en/asia-pacific/20260610-pakistan-renews-air-strikes-on-afghanistan-killing-several",
-    "timestamp": "2026-06-10T10:07:31+00:00",
-    "source": "afp"
-  },
-  "0c7f58a6b30970c57efc1666263ac50e": {
-    "url": "https://www.france24.com/en/video/20260610-anti-immigrant-violence-erupts-across-belfast-after-knife-attack",
-    "timestamp": "2026-06-10T09:58:25+00:00",
-    "source": "afp"
-  },
-  "f3bd7350f3f9c0940efd6b80bf79fbbb": {
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHRqb3c5OS1la0dWUGJTbFBDSzg0TU1NOUc1R0ttQ3BXeFIyQmdJdExnQW4tQkUyenlwdklzRHo4ZGNhT3hvVjVDM0dOLU0tSUtFdloxWXFreTA1c0tSVEcwbHY4XzFYT2dZTEJkVkFCbnM4SmZpVnUyNld0SFJjRGhTOXUtcWlzTlRaSGpjM2RRYlY4RjgtU1FHUQ?oc=5",
-    "timestamp": "2026-06-10T09:43:00+00:00",
-    "source": "ap"
-  },
-  "c331e046ae0043a500536f267bc9d4ed": {
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmsxVzlkQzRlZG5tMkV3dDgwOVhpNmhXYUpJYlFrOG5vLWxCcV9CXy1vTlJ2Y0N4R21WUHVnc0NPVXZNSkF3Um95eDJfN3l1YTJZVmg1SWhIUllJRlFGOF84VlhEMUJEc21JeWhoSGVfejljMTN0Z0Z3M2VfcTlCRWpvV01DU25PUTRwa28yNEotbkphZEZZZmZGdlRsSGhMbjJ4VWJscUNicEk?oc=5",
-    "timestamp": "2026-06-10T09:31:00+00:00",
-    "source": "ap"
-  },
-  "69e52c57378dd37c07608a4457c43c0a": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZRXBBUm9nVVA3VnVHQTRFMUM5X2NyeEhqLUFsV1hSc05Kd0ZrWWVIcjVtNFpmek5nR1BwWjhLNWtoOVN4dzlwOXhwaG56bzFiaVE?oc=5",
-    "timestamp": "2026-06-10T09:21:57+00:00",
-    "source": "iranintl"
-  },
-  "13c29393de13d8e1b3462425bd7d9d29": {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaWdDb1UzNmEyRGtEOTNrVXdGbWlUMllmRzF1V2Zndm9sb3RaNHE2LWxIYnFiM0RCN1I5M0ZqS2NOY0FHTnJ5aXFOT2RUd182N0lBUTNucGctOHI4cDFlc3F0WVJSSHpaX0NKRTFEX0s4aXhIOG5IUkpNWkFWa2tHd0t1VmdCRnpMTzVpcW9tNW95dUwxWjFlenFPbG4tbUVYYmR4UUFxXy1aYnJEc3JzLXB3NFV1T1B4cUNiVkZn?oc=5",
-    "timestamp": "2026-06-10T09:07:17+00:00",
-    "source": "reuters"
-  },
-  "3c201dc169a6bdd1be0008b4b9857762": {
-    "url": "https://www.nytimes.com/2026/06/10/world/americas/argentina-world-cup-sticker-albums.html",
-    "timestamp": "2026-06-10T09:02:41+00:00",
-    "source": "nyt"
-  },
-  "2a8c4dcbe2d46cb67aedcb53ae44dc21": {
-    "url": "https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html",
-    "timestamp": "2026-06-10T09:02:09+00:00",
-    "source": "nyt"
-  },
-  "179bb81e078cd1da6ec4b550f1b1396e": {
-    "url": "https://www.nytimes.com/2026/06/10/world/middleeast/oman-iran-trump-threat.html",
-    "timestamp": "2026-06-10T09:02:02+00:00",
-    "source": "nyt"
   }
 }
