@@ -1,4 +1,64 @@
 {
+  "18a06cae70764e087ca546fd0f4171d1": {
+    "url": "https://www.france24.com/en/sport/20260616-iran-held-by-new-zealand-in-world-cup-opener-overshadowed-by-politics",
+    "timestamp": "2026-06-16T03:20:37+00:00",
+    "source": "afp"
+  },
+  "4018a5ff475835e575d6d1ccf8d2bfdd": {
+    "url": "https://www.france24.com/en/middle-east/20260616-middle-east-live-vance-says-strait-of-hormuz-will-reopen-without-tolls",
+    "timestamp": "2026-06-16T03:07:25+00:00",
+    "source": "afp"
+  },
+  "b8248c29685d72fcd69761d71784c12b": {
+    "url": "https://www.france24.com/en/europe/20260616-g7-leaders-to-meet-zelensky-as-trump-signals-possible-ukraine-breakthrough",
+    "timestamp": "2026-06-16T02:43:25+00:00",
+    "source": "afp"
+  },
+  "d3cea49aa5f466da0dae0521083c8eff": {
+    "url": "https://www.france24.com/en/technology/20260616-social-media-becomes-leading-news-source-report-warns",
+    "timestamp": "2026-06-16T02:26:22+00:00",
+    "source": "afp"
+  },
+  "1174c70dbd219701960254a879287b12": {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWENYY18wZzkzMHJkZWJ5NFh3OVNGUGZtTHlIalhVRTJ3QmlVYXJ6dHJrd3EyUGN2RkFILXlzS2JzRlZMV1FUeE14Nm13TnJXMkhkUW1UZFhyUHd2TXkzelJjdndCSjJxa3BJUDBnT3pHMTNkVGpwekFENUtTdExyVlUwV1V0eUlMaHhzUWRTSnpnY1RLbGpzOEFNdHp6ajFwUUtTYjFuZTBEZUQ3N0RIX0w2TTV6OXpHazRrRg?oc=5",
+    "timestamp": "2026-06-16T01:14:00+00:00",
+    "source": "reuters"
+  },
+  "43506116d5e07371b4c99d23f9509e8b": {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IRV9tSEN6NW9aSmpWbFZzTnFyTGRjS05rVnpGLXZ2TjktR3FtN3JQa1hsU0VGczZ4bV9oUzZYUHMxWFdMRTJfY09aRGhLTGFob2Y5NEdRMmFtdy1xNzdLclN4QVg5WFdoZlRZMGlMSW1pVS15YU8yNENuX1dWaVE?oc=5",
+    "timestamp": "2026-06-16T01:14:00+00:00",
+    "source": "reuters"
+  },
+  "dc7b4acb17792d9997a197eed5883926": {
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85N011NmwzVENLa2dlaVhFUktEYmllZ0ZNUU5MaHdGZWZxYXBlazh0NFJ5ekxJUWhkTVR3T09FU3FKa1EtTHpJR3A4T0J3aGVPM0ZMMEV6cDExTE5WMmlrNjhTdnlyV0dwYWZDSQ?oc=5",
+    "timestamp": "2026-06-16T00:52:25+00:00",
+    "source": "fars"
+  },
+  "549505f1425b3d47b74f529c407f3ace": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BQ3VHbHhKN05oSGtNejhyNkhYSzBaVjI5MHVzam90TEtkb2gxME1HaWtwTlB1OWJOUVJEZzNWb3dCT3lLeDJvTWVBanFlTXNnT2g4NU9lb1BUVVF0Q2ppWQ?oc=5",
+    "timestamp": "2026-06-16T00:41:16+00:00",
+    "source": "fars"
+  },
+  "34dc151e4231442a68babdd9a5006bb3": {
+    "url": "https://www.france24.com/en/americas/20260616-eight-dead-after-us-b-52-bomber-crashes-at-california-air-force-base",
+    "timestamp": "2026-06-16T00:15:20+00:00",
+    "source": "afp"
+  },
+  "67730a3e51c1cf06da654c5072c463ce": {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uVTE2MGlmTVR3RC1OU1E2dVdkbWdIU3VORlBNYjJhZVFLZGk4V2VENmhObFVaRXdnZFpKc0ZIZW5kTTc2MkVkTFM1b3FhRFVaazhLM3otZ3hxd0Y1YVZDRVlWbWlCOWUzMjBhTzEyWQ?oc=5",
+    "timestamp": "2026-06-15T22:57:45+00:00",
+    "source": "fars"
+  },
+  "1df66e94f389093b7c085de537c5d12c": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnRVpiYUhPU0hEVjFIS1RRTlBOX0FGd1BsWEM5MmU2V1VycTJUX19tMElmVVBzSVNkWTNXeDhuZ3dSMG90NjFkbXAyQnlaZlVYU3NtcE40OGk0NHlIdTYzMA?oc=5",
+    "timestamp": "2026-06-15T22:47:31+00:00",
+    "source": "fars"
+  },
+  "7c9925ea0483fd42f95b6c91cf9cdfab": {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXY2R0UWYtcDBjY0l3NUpKQXRMaEdtdlI2SmhoQ0g0VjJrVkUzbUJvNF9xc1dLN3dfbXlLUkZYWUJ0X3U0eEJUQk9xNkdXcEplbXlIZWJoLWJOb0c1RXEyZjFxYlYzdHh5WnVaVkJSeDU?oc=5",
+    "timestamp": "2026-06-15T22:32:37+00:00",
+    "source": "fars"
+  },
   "7efa813e7f6dbf45e0a7b6142a491308": {
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0Z6X0JtemY0SDZmckwxQzNoQWdEek9SU1F1bFFlOWtqVVZHaEdhWm1GMW5vTnUtanBpSHpJOHhLdVoxMm54cVZZSVFXajdJUHk4VGNZR1hMc2lORkt2dWxsTUZVRzUtVGk0amFtU3A3R3RJYnlEeGdVVVNOM0RLYWRNQVphb1R4eUNqTFVxX0ZsLUZBckxBS2ltRWthVHM?oc=5",
     "timestamp": "2026-06-15T22:01:45+00:00",
@@ -8,6 +68,11 @@
     "url": "https://www.france24.com/en/france-shuts-down-twelve-israeli-stands-at-defence-trade-show",
     "timestamp": "2026-06-15T21:30:31+00:00",
     "source": "afp"
+  },
+  "5acc9fc1793128bba43509edd1c08692": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BVFlZaElzQUlVTWU2V0x3ZVdoOEVNOTRGaHpBdUhjMDBTNVNWZUxDN0w3UUREUkpHekh0ZU5qMmdyVTNRclVKNkR1a1BnZ0lZc0E?oc=5",
+    "timestamp": "2026-06-15T21:18:00+00:00",
+    "source": "iranintl"
   },
   "a1d476d1c8f42aa7fa6ec4222273450d": {
     "url": "https://www.france24.com/en/tv-shows/a-propos/20260615-iran-war-has-been-a-strategic-disaster-for-the-state-of-israel-analyst-says",
@@ -23,6 +88,11 @@
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzBOb0pzYUExM1g5aXo2ZDlTU0RJQllLdjNxUTZMQjViWEJFWjlTRTN0N1pQeHBaVUYwN2E1Rkw4dl8zQTBQQ1dDMDhUWnEyRzZMLThDNkYyd2s4S2ctNGx2RXphTjlkTDU5OHRtMTFEV1RjNy1tUS1YZE5tZ3VPR0ItaXJ0YXBOMWlnalNiUXFYUQ?oc=5",
     "timestamp": "2026-06-15T20:25:00+00:00",
     "source": "ap"
+  },
+  "7f1a8cf67f5fd0bdfdc4004214456b5d": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aYk1aNTd2VTRSSGpTY0xKcEJpakRzTEU5T2tyUnBiRWpuQlhXZEpab1dIdmdKWmtfV3lJNmZfZnBZZWMtNDFMSTBXRjRtcmdmVHc?oc=5",
+    "timestamp": "2026-06-15T20:22:31+00:00",
+    "source": "iranintl"
   },
   "1ef0d63fd93abd47047a82568ce7b0a3": {
     "url": "https://www.france24.com/en/middle-east/20260615-iran-deal-trump-back-square-one-but-the-cards-now-tehran-favour",
@@ -89,6 +159,11 @@
     "timestamp": "2026-06-15T17:51:12+00:00",
     "source": "fars"
   },
+  "56b61631819e7a815681adeb73739ef7": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xM1RMUVVQQ25GNG5nM1psNG1uSFd5ajhRbTBLUVpWbllIWm10RENPb1NZcGI2LXYwRU5melFfZXBzbFhrV3U5bUVQNlEtblBrS2c?oc=5",
+    "timestamp": "2026-06-15T17:42:07+00:00",
+    "source": "iranintl"
+  },
   "eac0940a0d2ad481b0b3af52ea694786": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzWTViT2U5ajNQeW04Y0pBQ1Q5RUVhckVPbkI2NkctVWN3VG4xR0ZGeFVOa1BNMjF5M0RwRGwyS0ZhY3RxbExkT2UwQVJRbVJ2MXc?oc=5",
     "timestamp": "2026-06-15T17:18:00+00:00",
@@ -123,6 +198,11 @@
     "url": "https://www.nytimes.com/2026/06/15/world/europe/uk-palestine-action-ban-appeal.html",
     "timestamp": "2026-06-15T15:51:37+00:00",
     "source": "nyt"
+  },
+  "add316c8b8a7bedef0c50456a51b0592": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBneXFrdDZoYkt5TEF3UXRaWUwzMjlTUXo0OWFxckFkRk1FWWpuOUdTWUJoZndIV2p5Q2x0QVVZTG5rU1pvRmt6WUNmbEtmNU9EYnc?oc=5",
+    "timestamp": "2026-06-15T15:45:08+00:00",
+    "source": "iranintl"
   },
   "331691281731d9c66d87ed6539d1f3db": {
     "url": "https://www.nytimes.com/2026/06/15/world/europe/starmer-fires-arson-russia-telegram.html",
@@ -193,6 +273,11 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzhfNXBtT2M5MW1RRUtwajZqMF9JYmhqZjlwZXZ4SVI1NDk2OHVsY21PRWx0X2I5b0N2X3A1Ymp3ZEJrTnhmdzY5czMtM2ZoRmh0OExQQk9Bd0dOWlhOX2FRdjhvMnJDemsxUjdxMGhja0JHSVpHRHo5UTloVzFBeURoMGRVN01xLTVpTGZTdnJHSElaSkhsU1YxN2IxMkxkS1BOb2s5MDNNY1VlZTU4b3R0ekk?oc=5",
     "timestamp": "2026-06-15T13:10:00+00:00",
     "source": "ap"
+  },
+  "49f4c079b28c73233e33bf72182da36b": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NRGdKN3k2aThUZFJwVndPLXJKTjlheG5nbUdjZzRuZzY4NVB0U1RZWXlkUklUaFJ0SWZRRHZCUC0xM0tOQ3VVZzY1R01EdWRCblE?oc=5",
+    "timestamp": "2026-06-15T13:07:39+00:00",
+    "source": "iranintl"
   },
   "f12847ab59a116dddae7cfcafea55530": {
     "url": "https://www.france24.com/en/video/20260615-swiss-reject-proposal-to-cap-population-at-10-million",
@@ -294,6 +379,11 @@
     "timestamp": "2026-06-15T07:21:08+00:00",
     "source": "nyt"
   },
+  "3b483cbe206a7e6a4ddd726e154a9ed0": {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0I1ZjlwOXdvMElVb0dzcHhZb3QtN0F2M2gwem1YM2R6dktCTXRBT1BGVWw0MjBUX0R6WHBVQTI1RzdkZlRqd2xKVEx5ck01SUN2Nm1SdzVhMjRCVHdMRV8wM3dKamc0bkxQc01TSFJ6QVltd25SUGNrT1lkYmlrcGxDZW1VZXZUZmV4cmplZmZxODNock4tc09mUU1WaEFPWEtGYkJVY3ljb19DeEE?oc=5",
+    "timestamp": "2026-06-15T06:43:43+00:00",
+    "source": "fars"
+  },
   "0145f02c6512afe9d6bdcb8c655fae48": {
     "url": "https://www.france24.com/en/europe/20260615-putin-s-paranoia-ai-espionage-pushes-kremlin-to-reinforce-security-measures",
     "timestamp": "2026-06-15T06:24:08+00:00",
@@ -318,6 +408,11 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcmEtalo0LU0tcVFDaV9MWHlZSVZYQnhla0d1eF9uR0hmVGlnX29sMWVHckNwbDV2cVBVYnpTMEFDVFJJcnlybm5jUGk1UURjTmdGdzEtUlVmSmVNYUdkY3FpV3c5U3BDb2ctVnFiSkRYMFRIaVNRSFd1NnNjbmNnT0h3ZjZDeERwQTBXSzh5bDJXV21WX0gwcGZraG02ZHdNdURNT0Q1dG1QaWVvdV9VNm1HTFE3MEU3SEs4?oc=5",
     "timestamp": "2026-06-15T05:26:00+00:00",
     "source": "reuters"
+  },
+  "3cdf1feeb4e885384918f59858951fae": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53aTdYUHp3dE5QMTZhMVdETzA3YlpLUjZDVTRtazBpb1B3SVlLc2RGRGxvYTJqdVBKeVgtWnFPR0NqVlplc202cHFyRFR2Xy1WWklWek5zVXZTeGNFdlE?oc=5",
+    "timestamp": "2026-06-15T05:18:10+00:00",
+    "source": "iranintl"
   },
   "41f4f5ade76efcaba1d98c3c7bfbd408": {
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGtVRXdXck12Y2VTLVJSaTBZOHBwcElNZWE4SGs3TS1OeEh0QVhsQTM3cjE3S2JuQktheXJxQzhob3F2c0xJakRBeld1TElLaTg5OUFoYlEyMDVWaWdWWENMbE1QVUd2NDUxZWFJN1VISE5sdk9CZXFyYmhWSFBZTW1zbXRGOUF0MzREYk5NLXNqNllIWkhlMENVZ2NfSlZmc2I2dTUtMjBmTm5wWTdF?oc=5",
@@ -2403,100 +2498,5 @@
     "url": "https://www.nytimes.com/2026/06/10/world/middleeast/oman-iran-trump-threat.html",
     "timestamp": "2026-06-10T09:02:02+00:00",
     "source": "nyt"
-  },
-  "34b38071faac66fe26d8fa9ce2f7f71c": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM2N3WHJucE9BMHlhTlVtRmdBS3BpVHdZd1JIdElRR1pkNTFveVltckJRX2k2Tk55TnRJZWQwMVpISG9VV3AwbnpZYmgwbllVckh0dHc4bWZRZnNpeEo1NERrdDNYZndWaWtuTGo4RVltdVpKNW81azlsQXBxTnN6Nm5zRVk1VzVhU0xXcTNsWUNPU1lGakF4ZFdWZXhhRjhCRE8yOVBSWEdFLWd6c1dFZGhKUXNMWWFzNnc4cA?oc=5",
-    "timestamp": "2026-06-10T08:58:36+00:00",
-    "source": "reuters"
-  },
-  "5d0a40f8d02ed3c8a3645d58c3e370eb": {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVkozbGg0TjFpQnNaZHVLQmR4UzB0Nmg1anhENE1ZS1JmeWRGV01UWW5qcEIzU0s1ZzNyTVFqeDFqWWVHaVpBbzEycUV5UFBfN1hxSnAtTlJDT0hFN2hWSks4MHJqSUx6NXp3c0pRN25tLWF0Q3Ridklhc1V1MmpSbmN3b3I4X3MtNUQ1U2tBLWVadkRidFJjOTRmdHNYUzV1aHVvcw?oc=5",
-    "timestamp": "2026-06-10T08:28:41+00:00",
-    "source": "reuters"
-  },
-  "d0553e76b5eb2e6c9555905a49090eae": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11NXNES21NRWx1SGpPMUotSlZnamkzTkp0N3JJLWw2X285djg5MVBEeW1wVldoRkR2LUxkV0ZTQi16emJtZkg4a09kTjBlbDBBTVE?oc=5",
-    "timestamp": "2026-06-10T04:56:25+00:00",
-    "source": "iranintl"
-  },
-  "5e46d9845e2c542e82d4d3798d45169f": {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTFFLOUhHaFBaY2l1YWthbGVtYVByYlZkU3VhRXJxWEJiTmdwNVFWVU5FN0ZSRml0bVU5S3F1Wi1QdFp1bTQ0SE4zeXJadzZ5LVBtdFNHTHh5WWxnTHh5bHVCejk2Zl9HenVXQUNDSGNYWFgtdWVad0NFVWdwZjl0cnRuQ3ZLNUt6NW80Q2Q5cm1iRUpjMk9OVjFRZ3NIa1JNR2JkUHROZzZId2ZDUHJuQWNHcm5icGd1?oc=5",
-    "timestamp": "2026-06-10T03:19:00+00:00",
-    "source": "ap"
-  },
-  "16dec489a951ad3db696a641ee614b90": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WVEc2Nmo5Y0tpSHo2UkUxc2djSklXREp3VzZEcU5DSkFmTHROeTlscXJRNGlsclF2M0xZbXp6SHF4RWp0MUszbGU3Nk41dHpya0E?oc=5",
-    "timestamp": "2026-06-10T02:51:50+00:00",
-    "source": "iranintl"
-  },
-  "735d8d9239ceca7c735640fbcc61b18a": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QTE52NUgwUURkVkJGQVpWTWFQRnFTanBfbk15clJFS3BXbklkWEU5R3pSaWRmYVBXZEVWZl9ES294al8wMUhOMlkzYjJmR0VrcEE?oc=5",
-    "timestamp": "2026-06-10T01:03:31+00:00",
-    "source": "iranintl"
-  },
-  "91d7d2df549f28e2e6c70d120fd24198": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xMUxrbXozeVNua1VxWXRqcjNzUmFDenZKNjhmd3BOQ0ZzNzFiZ0dPZkdkY2cxdDBrUXJxaXRrLUV5WWlZZWwwNndxc08yeE5nNVE?oc=5",
-    "timestamp": "2026-06-10T00:30:00+00:00",
-    "source": "iranintl"
-  },
-  "6ad24e6c040c27647c5772ecdeab19d4": {
-    "url": "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon",
-    "timestamp": "2026-06-09T23:42:07+00:00",
-    "source": "nyt"
-  },
-  "c40e4a4804b0c541c9bf00949b1e905e": {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTFFLOUhHaFBaY2l1YWthbGVtYVByYlZkU3VhRXJxWEJiTmdwNVFWVU5FN0ZSRml0bVU5S3F1Wi1QdFp1bTQ0SE4zeXJadzZ5LVBtdFNHTHh5WWxnTHh5bHVCejk2Zl9HenVXQUNDSGNYWFgtdWVad0NFVWdwZjl0cnRuQ3ZLNUt6NW80Q2Q5cm1iRUpjMk9OVjFRZ3NIa1JNR2JkUHROZzZId2ZDUHJuQWNHcm5icGd1?oc=5",
-    "timestamp": "2026-06-09T23:36:00+00:00",
-    "source": "ap"
-  },
-  "883ba1d7e4a71b69f60358b5a95eae0c": {
-    "url": "https://www.france24.com/en/europe/20260609-pope-warns-growing-mental-health-crisis-domestic-violence-barcelona-vigil",
-    "timestamp": "2026-06-09T23:10:19+00:00",
-    "source": "afp"
-  },
-  "ee90f85a688822bc965091e9d73d5720": {
-    "url": "https://www.france24.com/en/americas/20260609-striking-teachers-bring-mexico-city-to-a-standstill-ahead-of-world-cup",
-    "timestamp": "2026-06-09T22:22:37+00:00",
-    "source": "afp"
-  },
-  "8b7b5063329e14e4f324be238ab358ea": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WSjU0a3RsSDFfdzVuMTVOdmZEWko3ZFBhZ1p4WmhaLTZZTkgyZkpHZ2N6c1ZKVmJDbzBCeHV2T3ZiZUFXRVJBNHcxMVZPME12Ync?oc=5",
-    "timestamp": "2026-06-09T21:42:08+00:00",
-    "source": "iranintl"
-  },
-  "553f89a994e3275d9aa06acb3d683350": {
-    "url": "https://www.france24.com/en/live-news/20260609-us-military-launches-new-strikes-on-iran-after-apache-downing",
-    "timestamp": "2026-06-09T21:40:56+00:00",
-    "source": "afp"
-  },
-  "6c75a28e6ce072cf6de0dec7d280cff1": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN09WanUzUnFZcDRJcUFoVHdKY0tLUlZaeFhGZENDYVJ0MnUwb25zNWdOSU1VNTJJSDVWQ1Bkdlg2NzhGeDROU1pENG9wdjlPOE02enNacEEzRFR6NnpHOUhTOWIxVjN5QnFtYWlqOExubUprQTNUWGVUdkRrbFFOemoyZURyZS10dkFZaVBQR3Y1RWo3N0VhaVpIczBYbmM?oc=5",
-    "timestamp": "2026-06-09T21:37:27+00:00",
-    "source": "reuters"
-  },
-  "7cd25f78795fe5b05d7937b00a32244b": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SOFkzcUpuRnRMN3N0dy1tUTR0N0U1Tkg2ZE94YXNyS1dPZmZsUjlyRjRDUDNQUDdUYkdkWHpKcFNSdktyRWN1ckNQUl9fSTlsdmc?oc=5",
-    "timestamp": "2026-06-09T21:22:05+00:00",
-    "source": "iranintl"
-  },
-  "828908e272a5d60ed628dab70b65350b": {
-    "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260609-violence-flares-in-kenya-over-the-us-ebola-quarantine-centre",
-    "timestamp": "2026-06-09T21:15:15+00:00",
-    "source": "afp"
-  },
-  "c79648f7d138afefd0ff91b249c433e6": {
-    "url": "https://www.france24.com/en/tv-shows/a-propos/20260609-xi-meeting-was-a-success-for-kim-jong-un-experts-says",
-    "timestamp": "2026-06-09T20:58:43+00:00",
-    "source": "afp"
-  },
-  "689b4a8261ccb6a2a277b89c91e3649e": {
-    "url": "https://www.france24.com/en/trump-vows-response-after-iran-shoots-down-us-helicopter",
-    "timestamp": "2026-06-09T20:28:47+00:00",
-    "source": "afp"
-  },
-  "84d7a6ede0d9512e975c0d4fdafead4b": {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdVJEYjZtOTdWT2I4TjNfX2FNcmlhdHJObktTVElSVXNHd2dWWFRyVWwwcVVmRHNzdXpXUDVSZzRnRmZtMV80cmliV3VZNWdrMHlGMjN5WUhyc2I2S1lvVkNSQVpNbGZteGR0YXlCX2UwdlVWaTV6OG5OVTJib1dVLUxaOU0tZ0RsTWE5TExyM2tkamV6LU94eko2UVFfVUc5QXFabA?oc=5",
-    "timestamp": "2026-06-09T20:23:00+00:00",
-    "source": "ap"
   }
 }
