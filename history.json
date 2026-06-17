@@ -1,7 +1,42 @@
 {
+  "1cbdbc5760cef8166a1cc589b9dfea6d": {
+    "url": "https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france",
+    "timestamp": "2026-06-17T19:23:36+00:00",
+    "source": "nyt"
+  },
+  "b7c456fc2bcccc566f54c4c36ce87da9": {
+    "url": "https://www.france24.com/en/middle-east/20260617-diluting-uranium-oil-sales-what-draft-us-iran-deal",
+    "timestamp": "2026-06-17T19:05:33+00:00",
+    "source": "afp"
+  },
+  "d6fc9ca259b61222d1681a7d8fecb5e7": {
+    "url": "https://www.france24.com/en/israel-s-special-relationship-with-us-seems-to-have-melted-into-a-pretty-bad-break-up",
+    "timestamp": "2026-06-17T18:52:19+00:00",
+    "source": "afp"
+  },
+  "4a471b3b7f4899e53997baddbb451cbe": {
+    "url": "https://www.france24.com/en/us-allies-to-make-plan-for-300-bn-iran-reconstruction-fund",
+    "timestamp": "2026-06-17T18:47:28+00:00",
+    "source": "afp"
+  },
+  "b06e5a7c24a05277b3fbac6413c194ee": {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSklNM1g3ZG9QYmFoMkJRS3o2T2ZRMTJ1azE5eG1YLU5TUXdEY1F5TkFBU01GMUt1UUstcHRrekJsOHBmRURqd2NTMVpzVVFoQlRPWHNvUVVQLU5ZRkJsNzZKNURTd01PQ1pubzFrR0UzdlMzbXU2RXBwLU9fT25GSU80UkRVcUlpWE9MOGhxYW4yS1lIbDJ3UkR5anJudnZPcDhhOHhqN3JxcWM?oc=5",
+    "timestamp": "2026-06-17T18:33:36+00:00",
+    "source": "reuters"
+  },
   "16ebc70054f4d63d62ddb8a68381d315": {
     "url": "https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france",
     "timestamp": "2026-06-17T16:43:01+00:00",
+    "source": "nyt"
+  },
+  "37f011b0af62a78d424f3a08205f48dc": {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wZ3E0T3dwR0hibnVXSUVYakc2OEZmdkprS1FMLThCbVptQUw3TU50ZE5aa1ZONEMyaGlYMGU2Y3Z0aE84WUNya2RiWktENlhnZ0k0b012UjlSd0VybmRteGUtY0JUakJ6R2Z4MVRLaw?oc=5",
+    "timestamp": "2026-06-17T16:28:55+00:00",
+    "source": "fars"
+  },
+  "adcc773552410c0a8e94f4076634303d": {
+    "url": "https://www.nytimes.com/2026/06/17/world/europe/finland-nuclear-devices.html",
+    "timestamp": "2026-06-17T16:13:53+00:00",
     "source": "nyt"
   },
   "8101bf5e5ff61b4b7549e81dd21e194e": {
@@ -214,6 +249,11 @@
     "timestamp": "2026-06-17T04:31:06+00:00",
     "source": "radiofarda"
   },
+  "ba9e3f04babe9f380e11b071214f6172": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zMHZ4T0xVU3ctb0I3T2ZNSFAxbE5icjdKTl9HdDVkVmRwdk1sZkFKVFNqaFdqR0RsVlc2bEhDcUp0TUtYd0pSVnp0bVV4SDlGTkE?oc=5",
+    "timestamp": "2026-06-17T04:22:32+00:00",
+    "source": "iranintl"
+  },
   "c74a4d508f6a48772bceb59e0f19e266": {
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SUk5GNHpzcG5MNEluei04WU9Wcm5NOUJMdGRMY1FKSGpOR0Y3SHhQdmJUVVVGVFhBYVktdG9OU2Y3VUl2RUtNVElhOTFGMDhlaENRV1MwRQ?oc=5",
     "timestamp": "2026-06-17T03:23:37+00:00",
@@ -408,6 +448,11 @@
     "url": "https://www.nytimes.com/2026/06/16/world/africa/ebola-outbreak-congo.html",
     "timestamp": "2026-06-16T19:53:44+00:00",
     "source": "nyt"
+  },
+  "a844c9310998c9eb704d08e8a4785394": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mTkl3X0c3ck1fQ0JzVkRLbDdBNGtwQ2VTemExUWRjSHIzUzZSTEFPUnZFRDlobFF2R3JEMmR0NEQ0czdGTENnUzZXZ0M1bVg2SWc?oc=5",
+    "timestamp": "2026-06-16T19:44:55+00:00",
+    "source": "iranintl"
   },
   "21a99a7ff9e7a54bd7da06b43c42bc21": {
     "url": "https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html",
@@ -2453,50 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uYkcyNndsbWZXVzkwQUlEejJLSmU1a1VhVEoyUHpvZUt3c09vSWNvdWhFNGxQRUJGSFNpOERXZUcya0I2cS16OEpDWWNQOC1CSFE?oc=5",
     "timestamp": "2026-06-12T15:02:07+00:00",
     "source": "iranintl"
-  },
-  "ca911b9129821322ee2be70375dbe8b0": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jX2Z6N3RDR0JzTDc5MGVQeTJaZV9wanY4anpKQlZZaHRzcWtCWWtXcWQ1X3l6Rm9LNm1PR3VwYlJIeG91SEp6UkVnQUMtYnFFanc?oc=5",
-    "timestamp": "2026-06-12T14:34:19+00:00",
-    "source": "iranintl"
-  },
-  "af5821076fd292f4c2ee7c952f2ff521": {
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVNLdko5VzdSeXBlazJGaW0wQk8wMjFsT210VFB4OUdhd3ZpWTdocDllY2RwR1hWdlhoYzRZYkQ5OFc4TUE4WWJmN0ZrRlIyVllaeFBZMGwtdk52TU1wdkhFckd0cEFRVDBqalN3T2FhanpySWJWRzBTZmNCeHpHbk5FX1lsd09abWJBamVpVnFhMUxIWVpobjdiWHhOZWtW?oc=5",
-    "timestamp": "2026-06-12T14:26:55+00:00",
-    "source": "reuters"
-  },
-  "b0c2e2b1e9f1aca362ea06e4a90caee0": {
-    "url": "https://www.france24.com/en/tv-shows/revisited/20260612-brexit-10-years-of-chaos-and-regret",
-    "timestamp": "2026-06-12T14:13:33+00:00",
-    "source": "afp"
-  },
-  "79fc014062088d38931ddc0b4a0f69a0": {
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSnp2SzRDVFVBdVBxWWo5ajd4QzJ4SVE5bXZCOFM0LWdRRDVPaVliQkkwVGQwYVZJMk9adHdZZFB2NW1QSnBybExuSV9MLXcyTTQxY0x1SlF4eDQzTk1kRGVnUXk3cllzdjhOZ3hkdnBVMXN2dWdlTk84RXpBX2I0MGVzeTlvVTZVcUVsYlV5TUl4VC1iZ3Iw?oc=5",
-    "timestamp": "2026-06-12T14:13:00+00:00",
-    "source": "ap"
-  },
-  "3e86d2f394602827d47ea7c718e960d8": {
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDBYMkd0R3ZCN2RjU0FVcm16UHNGeElVUGhsaE5LM0F6OEFyUkFVRmllS0FmMkFfazJ3ZUxoVmxVZUFHcGF6VUVUekxtYkRsa3RzZzliVHdZbmVod2NIcllJWEV1aW1PUktPY0czSWxsQ2p0SF9TSGl6bjhvZHg5VXI4SHViNDRKajBMRWRTZjlHZzNOSF9lQ3pvUmplTHBFTWpoZjcyZFRBUW5zZFNFaGhTRjdXaTItZVhONnRCLVVCWG9nblE?oc=5",
-    "timestamp": "2026-06-12T14:05:12+00:00",
-    "source": "reuters"
-  },
-  "4ba8d70fc0ec3d4a8505d5cf35afefa7": {
-    "url": "https://www.france24.com/en/video/20260612-us-plans-to-slash-fighter-jets-warships-to-nato-in-europe-ny-times-reports",
-    "timestamp": "2026-06-12T14:04:54+00:00",
-    "source": "afp"
-  },
-  "65d51a48d1fd578caab4aea2d4961222": {
-    "url": "https://www.france24.com/en/video/20260612-first-group-of-nigerians-returns-home-after-anti-immigration-protests-in-south-africa",
-    "timestamp": "2026-06-12T13:47:43+00:00",
-    "source": "afp"
-  },
-  "0c6e027eb92a38f69d3526221825d0c2": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5USWMzMjkzaV8zd29JSEh1R3JKRFBKLXhRRkdTOEhKMHFGdlFZcW5vZ1lZaV8wQ2FCMWZLcnJJczRtMDU3REt2cnFac1BQNTFsQVE?oc=5",
-    "timestamp": "2026-06-12T13:45:54+00:00",
-    "source": "iranintl"
-  },
-  "ecfe1740e901aee3d7e010a0acde2cfe": {
-    "url": "https://www.france24.com/en/video/20260612-wrapped-in-paradox-most-inclusive-tournament-in-terms-of-countries-participating-yet-many-excluded",
-    "timestamp": "2026-06-12T13:45:50+00:00",
-    "source": "afp"
   }
 }
