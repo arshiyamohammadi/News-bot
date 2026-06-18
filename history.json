@@ -1,8 +1,43 @@
 {
+  "55b3455f167b2d208826a9dd30615fde": {
+    "url": "https://www.france24.com/en/middle-east/20260618-tehran-and-washington-sign-interim-peace-deal-to-end-us-israeli-war-on-iran",
+    "timestamp": "2026-06-18T06:31:20+00:00",
+    "source": "afp"
+  },
+  "7bd2bc7200a5dad3f38e01d670ceeeea": {
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE45SUZKVnJwbVQ0UlpxUGp4Umh0eF9malE5U1Y3aW82eTRRMVpzNm9uU08wbUZwXzFPZGluUE1IcHdoRG9TTGwwZ1l3?oc=5",
+    "timestamp": "2026-06-18T05:12:39+00:00",
+    "source": "fars"
+  },
+  "2a6cd68b44a7b502f940a379658ad6d1": {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa254NGd0TnM3NEliRVJYV2J3blZ4NzZ0b1dhMEMzSE9YWG9qQ2xmSzE3WHN1cEV1WXVrVGkzcUhFQVVnZXVtT2cyejY3UzdLM3JtRVlzaVpWNzNDZXdzOHlveGk3Wm13aXpaQVVTVnZYT0xZRmxHcXJtNTlsOEFYeXJaWEdKeHR0MWVnT3hJNkRYbFVCUEJEM0RCbjd6QQ?oc=5",
+    "timestamp": "2026-06-18T03:06:00+00:00",
+    "source": "reuters"
+  },
+  "657c0b9b453c3f8cbb33e20315fa911d": {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUxPM3BNNTRSRnY3aTI4bkdwMV9ITWs3SXFwV0RjR1d0M21uYU1yT0J5QTdTOXRDLTU0SkM5QWR1eGFKX2xrWGxLb0pScW1XdEx0TFExT1RxTlVwVnVsNEduSjc1enRYMXFhazB2Y0d2S1pMYW93NHc3NE9KWUFwR01fbXA?oc=5",
+    "timestamp": "2026-06-18T02:21:51+00:00",
+    "source": "fars"
+  },
+  "37e8d845f8860c47c6346953860735ba": {
+    "url": "https://www.france24.com/en/europe/20260618-g7-unity-russia-trump-tougher-line-moscow",
+    "timestamp": "2026-06-18T02:15:41+00:00",
+    "source": "afp"
+  },
+  "2e3fa7ecab6e95e941484587bbcf8975": {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nWFBvc0h4WHhGQXlhTXd1dG13UGYzNzhtVkthaDc4eERwS1pHYkItSVZkMUVXd1JNbkRKR0FlbnJqd1h0V0NTdjhGUWJMTDhwMnV1VUhZc2YzNFZjNnpyQjQwRldEcGlfZ2JQeTRlYw?oc=5",
+    "timestamp": "2026-06-18T02:05:51+00:00",
+    "source": "fars"
+  },
   "60e9f2a9f51e06d48e1b0a24a5ccb6cc": {
     "url": "https://www.france24.com/en/americas/20260618-lula-warns-trump-against-meddling-in-brazil-election",
     "timestamp": "2026-06-18T01:48:05+00:00",
     "source": "afp"
+  },
+  "6dda872517b6e0934c160151d0f9ec1e": {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQWc5blRuNGVXLWNEeGRWUHBJTi1tNG1oR2wzR3R0RXY1dWdVS3JVMmRRSlI0NEgwZUpVNTNLdUphd1Q4OGpXSmtSc0lwVmNONzFpYWZFVG05OFQ4Y1JtaVAyN0lCblhSVEUwZ2RDTUx4eTFzWl9SR1NVT1RvTGxwSTg0dw?oc=5",
+    "timestamp": "2026-06-18T01:40:00+00:00",
+    "source": "reuters"
   },
   "76a20c854e73e1c00c3f020d07552156": {
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzhJLTNmdndOU3pZcnk5NHo0eTlWSXd1OTNGenFWRDUxbGVuZnhXLUN4QWs4RTAwUEpvT0xtd29yZ1J3U1d5Q0hhWkpBZ2U3MGx5QkltNGl3SkdvRWY2aGU2dmZCMnZ0aU5Td0xidVZ4VHExdnBkQmJYeEhYUjFWTXUxMlJKaFVwcFJfNHI3eDJqcnYtX09wM09YcmN5U2JjbkE?oc=5",
@@ -13,6 +48,11 @@
     "url": "https://www.france24.com/en/sport/20260618-world-cup-2026-ghana-break-panama-resistance-with-stoppage-time-winner",
     "timestamp": "2026-06-18T01:03:33+00:00",
     "source": "afp"
+  },
+  "23600183414b98b5f2a870848d321a03": {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU5Zdm80MlhXLVFYajFEdy1GcU9zNGNaa2FvM2ExTmZkZXJieS10V1ZjQ3NqTndMcG1hT1hpb0FGYTN5M1ZMY2VFRG9QNDZkVGhxVEJTcUVpakJGQWNtODJYOTJpSFJOM0hwN01DT21ZaUxKN2FBa2czX3ZFUHlTMXpuUnZpa1dNOFUtOXFFaUx1LTJwN1E?oc=5",
+    "timestamp": "2026-06-18T00:56:00+00:00",
+    "source": "reuters"
   },
   "eba2e5e3618d9f58b7c851a42ea2ef9a": {
     "url": "https://www.france24.com/en/americas/20260618-raul-castro-backs-sweeping-cuba-reforms-to-revive-struggling-economy",
@@ -34,6 +74,16 @@
     "timestamp": "2026-06-17T23:00:39+00:00",
     "source": "fars"
   },
+  "fe766594a80e336395994506f87625c3": {
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9haVUtR0JwTEFILWpNTE9GcWNmenl1eXJhd0w0bEhaQ2g0X3ROTkRnQm1BbWI2TzNQcHRmaWFhOXQzNWstS3RNTHlZV01aSU9RWU1BWXVDOEJuek13c2tGM0YwdDQxaEZWOVBOeGk2TDgxdVprbGk0?oc=5",
+    "timestamp": "2026-06-17T23:00:39+00:00",
+    "source": "fars"
+  },
+  "106a77cc2f223e55dc071b7facfa15d2": {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONjIyM051UnloU3UzZVY0RzFIX1JKUzBycnV2OTJkZExlMkc0SE9USXEwcXFjS2J2YXQtU1o4RXFtamJzbjE5RlBySG9mejYyN25oeTdsVkdETkhMaW05Y01Sa1JOR0dwdTUxTUk3bnpSUjZrTVp6ZnhVMjRYOThxNUptdkJuZTJmd3BYMlNYdGlxanRTMDdHT1FMaFdaeTB3NnplNmxjaw?oc=5",
+    "timestamp": "2026-06-17T22:46:00+00:00",
+    "source": "reuters"
+  },
   "d296c21034e50f6a1ac93518ca66407f": {
     "url": "https://www.france24.com/en/live-news/20260617-trump-has-signed-iran-deal-says-us-official",
     "timestamp": "2026-06-17T22:07:39+00:00",
@@ -54,6 +104,11 @@
     "timestamp": "2026-06-17T21:27:49+00:00",
     "source": "nyt"
   },
+  "356559901361fd865dbf03aba7ce0785": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvZ3ZIRVRWQlZadm1LWjBTeVlSVkotZDcwX05nUHVDWENXcURfamxOYnNGaElpUXlXcVZaaDJvMnZPeFVwU0lWbGlXT0ZjeTRDU1E?oc=5",
+    "timestamp": "2026-06-17T21:24:54+00:00",
+    "source": "iranintl"
+  },
   "01935b0c13d68f27b19567ec436f2707": {
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMWNEVVRaV2NnREhMN2VOVjc1WG9sMmlJMjJIWGRvbDU1LUlXN3lGbU5lNGVRT1RZRVc4blpMRE50X2J4bFJ6SlJ2VzN6Tk5VTG5tVGVkZ3VOa3FsYm01cTJUZzdsekFhVk1DRUdFNFYzSnhDazZpaXgwdjl2UlphTEFLejdZM2NhV1EwYTN0b2NiMFk5bVZrLTNXYkltTnNwVU9YczdCdTBSZ2RfMTVyRG1adEFVMGZoXzRidUlKSlgxVzVqTm9jQk5jX0hNa1dKT3dFaQ?oc=5",
     "timestamp": "2026-06-17T21:24:00+00:00",
@@ -63,6 +118,11 @@
     "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260617-thomas-partey-denied-entry-into-canada-and-sidelined-for-sexual-abuse-allegation",
     "timestamp": "2026-06-17T21:22:06+00:00",
     "source": "afp"
+  },
+  "0eee014082679c041221ea5727685ba7": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wcm5KZGtBWVJzTUdaTDBoYU13YXBnaGdTalp0Wkp6RlcwYkNHN0tESUV1ZUNCTjZLb1VnR2FTSk5mdHZEZ3ladmE0dkh4d1hfUHc?oc=5",
+    "timestamp": "2026-06-17T21:21:14+00:00",
+    "source": "iranintl"
   },
   "98809b9809ddb7204cd6ffc9ca23d956": {
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY0JiQ2VMdnBDbG5NQk9WV2RhbmlxSHl1di1NYVVrSE1wVEFxdzRlZ1FJTmpPMjJWT0phR3VjM09uaUN1c1RwOFZsUkMxSXJlam9nV2UtVGpIdE5yQ0FCWXdkMWUweWt3VktaX1U3b1FTNHFtTTZ0MEdnN2JHZno0YjJVcm1xMjJCTWIwN0pfM3pDVndYN2liT1NORk5lVTRmbloxeXFTN0U2UlE?oc=5",
@@ -109,6 +169,11 @@
     "timestamp": "2026-06-17T20:10:33+00:00",
     "source": "reuters"
   },
+  "63e65fc9b0647850082f6c7d3013487f": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PTzFMNEZXQ3kxM3Z4NWRwNGFfaENGcmxQRTVWSDZ5TFpVdXZXbExubldjcWd6WmM3OEx1Y2xhN2lVVUNpcDVmMDF5V0FuZ1k2cmc?oc=5",
+    "timestamp": "2026-06-17T19:54:34+00:00",
+    "source": "iranintl"
+  },
   "7796b717ed5c0a30091060340d368458": {
     "url": "https://www.france24.com/en/video/20260617-unchr-campaign-to-defend-fundamental-human-right-to-asylum-ahead-of-world-refugee-day",
     "timestamp": "2026-06-17T19:48:30+00:00",
@@ -148,6 +213,11 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ2JZRlozdEFIN3pRLXZTYkxNeEpZWmFhOVBVSUE1b1VJUnlYZTI0RjRTZWZ2aDA1U2MzbmN5ZjFRaDdENENvMVdXM2pjWlJZd01NTGNoQ3NlVm5VSFM5QU81eTJtMnNWRE5UT3JFUVlUcWhpTGthNHRrYVhzWHZMMlduTE9lbTJ4ak5VQmtoNHctWlZSaFNaRnFpNmVnalE?oc=5",
     "timestamp": "2026-06-17T19:05:00+00:00",
     "source": "ap"
+  },
+  "1b4ee02d485c8c92f3a2e23b7b3d0906": {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hdXh2LU83TlJQSXlSdHRLYko0MjF5UzVpMG0wZWx6b2h2WGw4M3V3R2MySzhJc0Q3dVhBTk50WGNhSFBmd25GRjhXWjFmU045UHQ0OWFPNEpVS25Vd2d0T3A4MA?oc=5",
+    "timestamp": "2026-06-17T19:02:42+00:00",
+    "source": "iranintl"
   },
   "a8b7202f72f2dc2956e99624ce585dec": {
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR0ZyMkVYQXltZnJSWDNab2NJb29PNHV2VDBidXlpdlF6YlExNEt0QkRfalp1Q2E1MTRsVkk1MTM2YjM1LV9JRi1SZVc4Y3VYYjNwSEZsR2lUdkNsZk5UVEtUNHVXcVA1bjlrN2hjbTA3WmRjUkdDSENTS1ZwOUhaV2daSFZ6N2FBano1a1k5dUFNS1QyYm1JU1hWcHlaSmpNbVVBbVRXSFBuWHNnWnhMMUY4ZDNvaVRVZ3lkTHFGY1NNcmcyM2hV?oc=5",
@@ -190,6 +260,11 @@
     "source": "nyt"
   },
   "37f011b0af62a78d424f3a08205f48dc": {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wZ3E0T3dwR0hibnVXSUVYakc2OEZmdkprS1FMLThCbVptQUw3TU50ZE5aa1ZONEMyaGlYMGU2Y3Z0aE84WUNya2RiWktENlhnZ0k0b012UjlSd0VybmRteGUtY0JUakJ6R2Z4MVRLaw?oc=5",
+    "timestamp": "2026-06-17T16:28:55+00:00",
+    "source": "fars"
+  },
+  "363ebb69d6a47492e86484711e4d24a4": {
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wZ3E0T3dwR0hibnVXSUVYakc2OEZmdkprS1FMLThCbVptQUw3TU50ZE5aa1ZONEMyaGlYMGU2Y3Z0aE84WUNya2RiWktENlhnZ0k0b012UjlSd0VybmRteGUtY0JUakJ6R2Z4MVRLaw?oc=5",
     "timestamp": "2026-06-17T16:28:55+00:00",
     "source": "fars"
@@ -2423,80 +2498,5 @@
     "url": "https://www.nytimes.com/2026/06/13/world/europe/ukraine-russia-patriot-interceptors.html",
     "timestamp": "2026-06-13T09:01:43+00:00",
     "source": "nyt"
-  },
-  "a5f21fa5f7562cee958b39979973c849": {
-    "url": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html",
-    "timestamp": "2026-06-13T09:00:53+00:00",
-    "source": "nyt"
-  },
-  "5b2c947dff4efa1c5947d68c7d493a2d": {
-    "url": "https://www.nytimes.com/2026/06/13/world/europe/switzerland-population-referendum-10-million.html",
-    "timestamp": "2026-06-13T08:57:25+00:00",
-    "source": "nyt"
-  },
-  "1fe6d74070810f2cf8ff487f4711e593": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WeUJUQUlLSjM0WFNFWTNoWk1qMGIxcVVoUVRVU0hGcXJQTjN0aXhqMzFtS2VWS3V3UHRpV0JCRy1IcjNfcEdhUjZfT0JUNXZMZ3c?oc=5",
-    "timestamp": "2026-06-13T08:25:54+00:00",
-    "source": "iranintl"
-  },
-  "bda4fd779ec02eb2e08d498a8593cd7e": {
-    "url": "https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel",
-    "timestamp": "2026-06-13T08:11:40+00:00",
-    "source": "nyt"
-  },
-  "e20b47f690d15244216d99153e2829e6": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4UndOOFQ3UFZiQlotRGZSTVlRcnRobzZkNnZwRzBwTXd6ZW5uQ3NKcm1CNmI1R19zbC1XWTFIdVJBRkZoNVlWaG56MWF5eDFSM2c?oc=5",
-    "timestamp": "2026-06-13T08:06:06+00:00",
-    "source": "iranintl"
-  },
-  "9b1646ae7aaa4a7afb4e6f33a2012ff3": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54alFwZmpxY0pNdFB5X0Q0LURNaWRGaUZMeHA5X0t6eVBPSUFzTC05d2J5NjJVc0ZMbHdxZ2xUWEs5ZUlnRTZSR1J6QldTdXJ1M2c?oc=5",
-    "timestamp": "2026-06-13T07:32:03+00:00",
-    "source": "iranintl"
-  },
-  "3862973cc0a463385d3eb297ca17b192": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVmNhUGJzSU9mRFh1UkpDY0hwWFNzUU9ETTFvZ25oRDdnYVNTekdVOXNzWDd5MDhVOXRsSURZcWczMW5QQTB5THFyTUctMEg3UUJXZGoydm9ScnZpYWh1VHVHMjZZTHRMSWVwdzR6alFmMFY2WjFpMlFKTGExMG9yNk45dnFiQlRTQXlQX1ByZENXcXBObG4xYnlYNW11Ukl4MEtoVlhvVDl4VUcyQkt4b3Q2NndmRmU1enRmbw?oc=5",
-    "timestamp": "2026-06-13T07:02:18+00:00",
-    "source": "reuters"
-  },
-  "f9bfbe3f72a83ea59e52f52c6e6412bd": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtWTJwTXVZd1lKRkRYX0FYbzl4Q3pJeG1nMXBsdXY0MlhwVVA1RENSZ19uTS1kVVNTOHJNeDJzN09KRW5PNVo0emk2V0pHVGNOTXc?oc=5",
-    "timestamp": "2026-06-13T06:54:20+00:00",
-    "source": "iranintl"
-  },
-  "a90620c1d4339bbf1f6f4031c6951151": {
-    "url": "https://www.france24.com/en/americas/20260613-venezuela-says-leader-of-tren-de-aragua-killed-in-joint-operation-with-us",
-    "timestamp": "2026-06-13T05:56:09+00:00",
-    "source": "afp"
-  },
-  "f5dd60f569034eefd166346a5b17710d": {
-    "url": "https://www.nytimes.com/2026/06/13/world/asia/family-ravaged-by-land-mines-myanmar.html",
-    "timestamp": "2026-06-13T04:01:07+00:00",
-    "source": "nyt"
-  },
-  "b0f22e2bda8c76c3c8825de9c1e4c36f": {
-    "url": "https://www.france24.com/en/sport/20260613-usa-paraguay-co-hosts-cruise-to-dominant-group-d-opener",
-    "timestamp": "2026-06-13T03:00:04+00:00",
-    "source": "afp"
-  },
-  "22aa2c0b432e94403afb40a5562ce177": {
-    "url": "https://www.france24.com/en/sport/20260613-usa-paraguay-co-hosts-cruise-to-dominant-group-d-opener",
-    "timestamp": "2026-06-13T03:00:04+00:00",
-    "source": "afp"
-  },
-  "509703db8a65d3c6b22e975c50f2cec9": {
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNemxuY3hnVjhxbkJ5Z09UMTh4aXJfTmRuRzFqRS0tTVFkMmhJbXg2dmxoU3E4UzJnTm5UZ3BheDZLUFotRk1zc3R2OWVKYWtiT19SWjhXM3RWUzltVDBzakxoR1NTZGZMeHRDYTNKNmloVkZFMVNtVzBsZ2Zldjl6NUZGUjNRb1hJZFpxZ0tEV1E0a3RHY3gyS3A3OGl0R2pzbEdKQ3dKbw?oc=5",
-    "timestamp": "2026-06-13T02:52:00+00:00",
-    "source": "reuters"
-  },
-  "3e15c24487cb7e830fd109c221f0f35e": {
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOFNVaW1EQjcyVjlOZGtnLTdLXzctb2RqaXlFY0RfQ2FscHk3Y2NvYUkzZms3TGk1NHhoaGJGY21fV3hDa2VYYm4zRnVOTHpMYXJhOXk0UUdycFJMNlRNQ09SRFhXRTZvS2JiMDhtNlkzc2pIMWVrdm1mWGp0OUlIdHYwbGVDOGhUeW5FeFQ5ekdiY0RobFZjTDkyVnJONEhXM01TX1FKcE5INUg2RDlxWHpBa3RNRDEyX1J2SGlHd1pEVl9ZLUMw?oc=5",
-    "timestamp": "2026-06-13T01:33:00+00:00",
-    "source": "reuters"
-  },
-  "9963d6b839cff05bf10196e106bb0ad3": {
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOFNVaW1EQjcyVjlOZGtnLTdLXzctb2RqaXlFY0RfQ2FscHk3Y2NvYUkzZms3TGk1NHhoaGJGY21fV3hDa2VYYm4zRnVOTHpMYXJhOXk0UUdycFJMNlRNQ09SRFhXRTZvS2JiMDhtNlkzc2pIMWVrdm1mWGp0OUlIdHYwbGVDOGhUeW5FeFQ5ekdiY0RobFZjTDkyVnJONEhXM01TX1FKcE5INUg2RDlxWHpBa3RNRDEyX1J2SGlHd1pEVl9ZLUMw?oc=5",
-    "timestamp": "2026-06-13T01:33:00+00:00",
-    "source": "reuters"
   }
 }
