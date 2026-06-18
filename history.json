@@ -1,4 +1,39 @@
 {
+  "7780afa586fb6f0323392819f25de9aa": {
+    "url": "https://www.nytimes.com/2026/06/18/world/africa/niger-armed-attack-airport.html",
+    "timestamp": "2026-06-18T20:56:55+00:00",
+    "source": "nyt"
+  },
+  "508aa8443cc7e4ff718736cba497aa7d": {
+    "url": "https://www.france24.com/en/we-cleared-the-plates-versailles-dinner-becomes-stage-trump-surprise-signature-iran-deal",
+    "timestamp": "2026-06-18T20:56:07+00:00",
+    "source": "afp"
+  },
+  "a0084dbcf81bbc6ddb60c64e27d170ce": {
+    "url": "https://www.france24.com/en/ghana-pushes-for-concrete-slavery-reparations",
+    "timestamp": "2026-06-18T20:21:09+00:00",
+    "source": "afp"
+  },
+  "55b3410fedd1d980506218dfbdae88c1": {
+    "url": "https://www.france24.com/en/middle-east/20260618-us-forces-lift-iran-ports-blockade-as-uncertainty-clouds-planned-switzerland-talks",
+    "timestamp": "2026-06-18T19:51:35+00:00",
+    "source": "afp"
+  },
+  "ad96006b98ca9695519848b500678fd9": {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXNyRDhPaS1YLXpCcE5sWnNCNWdCMENzLUI2bnk2ZkpteXZOWGpNMWVUeDZTR3M5WW92bnpIS3l1dnF1czFEcVZkNXpCRncwR0JGeVZuZkFCcUhLdVA0NTAzVDhXdTN5d0ItOUpQc29KdFdVeHduUHlqTFNnSHRkeG9rSGFxSm90Q1dWLWdqUXFURk5UUzVfZHJtRi0xaE1pQmlaZ3dib2NmSnJkWk44Y0phYk9PZk1RU2FNNXdGd0tDSG5t?oc=5",
+    "timestamp": "2026-06-18T19:29:34+00:00",
+    "source": "reuters"
+  },
+  "7ce738526eca2cfbc13384b86c4462ce": {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa0FBNEpEUk9sRDhBMkp2bERRNEtLX3oweFJuTlM0ejdMZDZhX2ktUlg3cFk3TWc3aVcxc0xFeVlBTzg4eGZBMHNNS2dHbW1YSFJkZXYtZ3FGNWhKeTlZSU9KVWR2ZXphRlJjWk11ckFwUDM2cDM3Mm5rRk14ZkxoNEp3Qy1kdUR6OEFnczJHZzdhTUJUbW9LdGRGV2s?oc=5",
+    "timestamp": "2026-06-18T19:15:01+00:00",
+    "source": "reuters"
+  },
+  "0db6f0407bb67edfe3029a92c1376205": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OeEpUNjdsd2RqUlZmeGNTSkQyd19WckxmUEhZdFdMY01YUjBCenA2Q1lZWHBVZjFJbl9uZW5uRjNFX0htQm9GTmItMEZ6QUFMQ3c?oc=5",
+    "timestamp": "2026-06-18T19:14:00+00:00",
+    "source": "iranintl"
+  },
   "ecf3ffecc0fa487540a78a5e802e35a8": {
     "url": "https://www.france24.com/en/tv-shows/the-debate/20260618-signing-off-trump-rushes-to-turn-page-on-iran-war",
     "timestamp": "2026-06-18T18:11:17+00:00",
@@ -9,6 +44,11 @@
     "timestamp": "2026-06-18T18:02:31+00:00",
     "source": "afp"
   },
+  "1383a008531335ce7985931e56281c17": {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMHdqWU5BUEl6Rk5rSXlOWFpXQmtwRXdrRXlHeHlBSHFGbE1Nb1JaSUJFcnVVX1FLWlQ0b09ReTNNdFVySjNQeGdkUnpsbVg3X2lvWURuemFDOTFUQkVYRGItWkFEUE45MThwTUNQNElaYlE1akRDckRzNFZ0QWxyWkRzV3R2T2FBaTl3WXluSjQ4ZDdPZkd2eWg0OHVHblJlc1RfVnVjM1JEdkRVTzVnRWxB?oc=5",
+    "timestamp": "2026-06-18T18:01:50+00:00",
+    "source": "reuters"
+  },
   "f62b1c7c19c60332b6da2c833f1e9696": {
     "url": "https://www.france24.com/en/sport/20260618-world-cup-2026-south-africa-fight-back-to-earn-draw-against-czech-republic",
     "timestamp": "2026-06-18T17:59:12+00:00",
@@ -18,6 +58,16 @@
     "url": "https://www.nytimes.com/live/2026/06/18/world/iran-war-trump-us-deal",
     "timestamp": "2026-06-18T17:55:30+00:00",
     "source": "nyt"
+  },
+  "abfb007eaaa4f053ae5d96213bb41fa5": {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczF6UzVRTUVGQXRuMmcxYm1INEtHVlRhWHEtYWhnVHlrRV90bDF0d0MxdjFmTVNQLUVzeDgxN1dMT0JjWjM2TUhJRHNBVmhXTXdpbjRvQ0hlMk5NRjhEQW9DZWpmT0xjOXRrcnlIME92VEY1b2pxaGk2NmdaZm9kOUVLX2lXYWd4U3VWcGRnQnVqNWY5TWl2Ql9XNDRzUUNZVk9KeUV5Y21JS0hHeWlpYzRKcllxeE9aSEtXVnduUUpXZw?oc=5",
+    "timestamp": "2026-06-18T17:52:09+00:00",
+    "source": "reuters"
+  },
+  "bf404004377fe80d3a81ec24af445040": {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaW1GcDV4M2FXcnBqejVmZTF5TUdqRUNIc1VkdE1WTjFEMGpBam5TMkJKY0xxSXBMMDdMbU1aOTMwSzFOdmtVSTcwRVRqSi0xYUh3aTcxUmdOY0dYeFlkdUVjeGlJVmRtMU1tVThUaG5sU2duanRGeE9hcjVpbXhCbHBCRThBNVpSS1hVNDRyTy1TMFVhMWltRlFXOHg2Tl9vRGtz?oc=5",
+    "timestamp": "2026-06-18T17:36:00+00:00",
+    "source": "ap"
   },
   "defbbe983b50a71ad7686da1db2ce9ef": {
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2xiMDYySHk3ZzFXaHcyR1ZHNDFJQUJVNzF4MTRQcmdmZ1pDUVNyR1Z5N255MjkzSHItckpnalNfRUo5VWpjTDVHSHE3R3kybW1NRGd5NGJKV0prTFA0eUZBd0hVZzlMTTNNcXVWR3JTV1lOMzhwYXVtMEc4N05QVlFCSDlnYnZ5S24zMVdMSjl2M2pTYnc0eDdJUkZhWVlwS0tQaUJjTnJIMTNka1E5dm9RcHprVkkydVo4a3dzUmV3RTg4bE5feDN5dw?oc=5",
@@ -129,6 +179,11 @@
     "timestamp": "2026-06-18T10:30:37+00:00",
     "source": "afp"
   },
+  "ce8b2642177149315a1e541e69310425": {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2hYQ0JvbU9uQUU1V2hsYnNRSkM1Y1RsaDBIZm9VN3RBZUkwYkJNSEhOZkRQdl9ZZTM2ZENmZjR4TEtvRDlWZGJyQkJOcWlqUU9QakhJeW1pTExDMDZYOFBjTFh3VG5YMDJkZldEa0pZVXNFWkw5NG5XdjlEZXRTR29SbVByV2VTcExXdmFRbFJnMnhzaDF0dENTckZ2V1FfZEJOWHJkTGE2SmpOWHR2QlNyZFBQRVhvOFZaZ25nRnZub1g4ejFLUTZBX3JQdw?oc=5",
+    "timestamp": "2026-06-18T10:19:17+00:00",
+    "source": "fars"
+  },
   "46f8915865dddb1a0a1fea6492a4300b": {
     "url": "https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html",
     "timestamp": "2026-06-18T10:14:05+00:00",
@@ -189,10 +244,25 @@
     "timestamp": "2026-06-18T08:22:51+00:00",
     "source": "iranintl"
   },
+  "26080a12eb938e5a800a6331673f2e35": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWelVlS2VTbkVKTmlQazBrdDFDRURGaDFxLUdqQlpKU1pDUUlkZHNLT05TSmtmenY2Vm5pejJSaUFWWkJiVXgyRTE1VVNXY19EVEE?oc=5",
+    "timestamp": "2026-06-18T07:57:48+00:00",
+    "source": "iranintl"
+  },
   "a14b43ce1796658021060011fee1fc26": {
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rUnRyZThJQ2R5LVVTbUdON0RnYlJNX3NvR0ZzdDZ2cjhMdkZ0dFM4V1A4RUtSNHB5NnIwV0ttSUJlOGNzMkVfTU1qY2o0SlRVZDZWaXNrTloyNXRCOW1XbmlacWR1VXd1bmdEOUU0Yw?oc=5",
     "timestamp": "2026-06-18T07:45:44+00:00",
     "source": "fars"
+  },
+  "14a022857874cb04f8fa0f4327ec041c": {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaXk3SFVWM2NxMTVXdFVBeDd1R3lQVzFXdDVXWWI3aWRES0U4dXlaazhLZlU3bTE4MWdtWWMzNzZpRVZaVWdOS29MekZaSW9LVnR2QnB4ZUZXd0tYS1FFcTgxX2Q0RHozbmJyQXFBRmx6QTQwdGpNbVJzam9UcnlJT21PbnU3aTFMRDRFbldOdDliNXNsaDZj?oc=5",
+    "timestamp": "2026-06-18T07:43:42+00:00",
+    "source": "fars"
+  },
+  "0ae1650de7a1cc83baac5e9db04617f6": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrZ2NBQndMSmdNVkY4a0duaWdfNjZuN3pQRWV1X2c3WWxRZVczdmllTkdRT0JaUkV6dkhpSkg0T0tjUEFQYjRpVEVFTk5PWS1WMVE?oc=5",
+    "timestamp": "2026-06-18T07:19:32+00:00",
+    "source": "iranintl"
   },
   "55b3455f167b2d208826a9dd30615fde": {
     "url": "https://www.france24.com/en/middle-east/20260618-tehran-and-washington-sign-interim-peace-deal-to-end-us-israeli-war-on-iran",
@@ -203,6 +273,11 @@
     "url": "https://www.nytimes.com/2026/06/18/world/europe/uk-makerfield-by-election-burnham-starmer.html",
     "timestamp": "2026-06-18T06:27:35+00:00",
     "source": "nyt"
+  },
+  "a7f743632ca0947a907bc167a14338a9": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQWHNLVmhRY2NGX3g4Sk9nNjFJTF84bXZKNTBCc1BkUTJIZHp6X2V1N3Vzb0NpXzhNOUpFQkVyeVdqdmtqX0dXRXA4UDVzRVlVRVE?oc=5",
+    "timestamp": "2026-06-18T05:35:39+00:00",
+    "source": "iranintl"
   },
   "7bd2bc7200a5dad3f38e01d670ceeeea": {
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE45SUZKVnJwbVQ0UlpxUGp4Umh0eF9malE5U1Y3aW82eTRRMVpzNm9uU08wbUZwXzFPZGluUE1IcHdoRG9TTGwwZ1l3?oc=5",
@@ -2422,81 +2497,6 @@
   "3ea5d214dfc29b998e40cf1e949ba094": {
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV3BLU2ZhQ0psWUNCX081cnRHdDQzZE5wMUlxOHcyVWVKNTN3NjVteGo2ZlBaQ1I1alczd2pYdlVjZ2NNcDFicVJ1Z2o5em90MFZxMUJOb3NfWkVlcF8taWpOa0Rka3FxYVdyTVBrbFJsb1N6LXo0OVU4OVp0Y2tsWGFLaEFrYjYyZWlOYlZxUUhNRmd3a2JaY01fc3N1TEppNTYwemViMEc0cnp1MWMwcHRn?oc=5",
     "timestamp": "2026-06-13T21:25:09+00:00",
-    "source": "fars"
-  },
-  "437a5758fa1764ddc31b2cc2e8188816": {
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNamtacFFqWjhRRVBNMmZNYzdDWHBXUDhwRktnYW5uWmNrTzV6dkxuenZsZkcydWVDNjQzbC1YZmNxdTY1UV9FcndqeFprMWFnX3A3VW8zSXRqdG1RWUtxbmRKZ3Q4Q0xTSU5CUWFDRVFpMG1WVzhsUWx0Mk0xMDc0dDY1ZFpXMkxOMWZ1UWZQS0IwWmVIdnc?oc=5",
-    "timestamp": "2026-06-13T21:23:54+00:00",
-    "source": "fars"
-  },
-  "9fe72bc9f897b096723e41eb0cb3f897": {
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNamtacFFqWjhRRVBNMmZNYzdDWHBXUDhwRktnYW5uWmNrTzV6dkxuenZsZkcydWVDNjQzbC1YZmNxdTY1UV9FcndqeFprMWFnX3A3VW8zSXRqdG1RWUtxbmRKZ3Q4Q0xTSU5CUWFDRVFpMG1WVzhsUWx0Mk0xMDc0dDY1ZFpXMkxOMWZ1UWZQS0IwWmVIdnc?oc=5",
-    "timestamp": "2026-06-13T21:23:54+00:00",
-    "source": "fars"
-  },
-  "d4fb96ee22c493b7af466c21ded3fd7d": {
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMWh3RjdCTEZfbFNhcWZvM2p4QjdySUtTYV9lUUtTRElWa0tiU3c0M1VuVjlzaFdVTlhxTHVUenFjaTU3cVE2VnF5M25weEI0VzdvMmZZTEJlX3Y2ZUxTVzhweFRONFdBQVhfLTBQVk85X1dXUVd4d19tSFY1RlBTXzlxYmJQTVVjTlZ3RnhsSFAwa1RpSUVwMkNnZkdfY3B4UjZ5djlaMjI2TTh1U2ZETWFialZONXZvbUEyTGc5UlNYaDFJQTUyNWl5N2hmR1BKSnppRnJidFFpS3lpdG85Qg?oc=5",
-    "timestamp": "2026-06-13T21:20:33+00:00",
-    "source": "fars"
-  },
-  "533d9a37015a49aededc8873fc871ee6": {
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMWh3RjdCTEZfbFNhcWZvM2p4QjdySUtTYV9lUUtTRElWa0tiU3c0M1VuVjlzaFdVTlhxTHVUenFjaTU3cVE2VnF5M25weEI0VzdvMmZZTEJlX3Y2ZUxTVzhweFRONFdBQVhfLTBQVk85X1dXUVd4d19tSFY1RlBTXzlxYmJQTVVjTlZ3RnhsSFAwa1RpSUVwMkNnZkdfY3B4UjZ5djlaMjI2TTh1U2ZETWFialZONXZvbUEyTGc5UlNYaDFJQTUyNWl5N2hmR1BKSnppRnJidFFpS3lpdG85Qg?oc=5",
-    "timestamp": "2026-06-13T21:20:33+00:00",
-    "source": "fars"
-  },
-  "5204bf808c0bb6553aa2bd7be7fd98f0": {
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzF0UGwtZENyQ1lBUXMzLWpRXzU2Vnl4eS1DLTg2MWhUd0oya3llOWFQZ1RqVXlXd3owVEpaV09GelVadWw1c3pSUHAtMHAtS1VXdHhBYnlfbnlIZjZDbjRGTFV4VTk1bFNxZEFzQnk0SlNpaDNrd3Zqc3lFQzRuTXQ5M2oxb214SHA0ZUl6V1h6a2pGSk9jU0o3U0RtYktDRGc?oc=5",
-    "timestamp": "2026-06-13T21:09:00+00:00",
-    "source": "ap"
-  },
-  "515be19803907a3164fc08a7d7edca7e": {
-    "url": "https://www.france24.com/en/middle-east/20260613-lebanon-reports-israeli-strikes-in-south-and-east-amid-broad-evacuation-warnings",
-    "timestamp": "2026-06-13T20:53:08+00:00",
-    "source": "afp"
-  },
-  "68d6f2b4c509dbc8f1ea72b48debb095": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UWWtKalNsVTV4TzJFaDg1UTd3Smk2bGIzelhtd2YzYW9DQTU4ajl1ZHNObHNqYzFjenc0bFFXd1B6WWFFd0F5bzUwbEw0a0lfU0E?oc=5",
-    "timestamp": "2026-06-13T20:42:00+00:00",
-    "source": "iranintl"
-  },
-  "996fc5474a986c514494196b7b18c3af": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MdlZJSTM2d01DSlV3ZEJMcFZ6SDdkREhxaGsxUXFwOW1UV290aHNISkR0cnVVTzZlZXhyVHNCY2k5azZFMzd1ZlpZN0J1d2hoTUE?oc=5",
-    "timestamp": "2026-06-13T20:23:54+00:00",
-    "source": "iranintl"
-  },
-  "88f2410feb10568af2bb83c11c641c26": {
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vQjZIU29jMVJBNmJxNUp0VUN1V1VLN0g5SU5hdkM2REljWEdkQzdURE8tSU96eG43R0ZJcjZmVXJOSWs4MW9ZcHRGblY2dmdWb1VnZDZmWFFoSDFyRTkyTnVLX3FmeExacWRKRmxYdjVWcjVKdUtoTw?oc=5",
-    "timestamp": "2026-06-13T20:11:18+00:00",
-    "source": "fars"
-  },
-  "4c65829ff67b24734d6abd8e0232786a": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oTk1ONUhDM25WZ0h4OGpobk16RjlDWmE5RmRNS1AyMW5YeU1vbGdyczFHZnBnb2E0cVlkaU9jdkJUOFhEcXVWSGNXOEN3NG5vUXc?oc=5",
-    "timestamp": "2026-06-13T19:41:38+00:00",
-    "source": "iranintl"
-  },
-  "75def41efaac3dd095bffa7133483fda": {
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkdWpTYlV4eFhxcW5mSGxiSmo0WTdMekR3elpOeURHcG9oU2hveE85Zmk5QWZpWHhMbnY0blNrMUJxU05yT29sVVpwdm1EclNsX1BXbjFFOGZLcXp3bmdCVExxQ3lIRGZyUG5GLTBnZ1VnU1RnYXpYdw?oc=5",
-    "timestamp": "2026-06-13T19:20:26+00:00",
-    "source": "fars"
-  },
-  "2bdc7dae78743a8a8bdd417d58d33b3f": {
-    "url": "https://www.france24.com/en/americas/20260613-immigrant-seized-by-ice-at-fifa-football-match-last-summer-warns-fans-of-danger-metlife-world-cup-usa-soccer",
-    "timestamp": "2026-06-13T19:15:25+00:00",
-    "source": "afp"
-  },
-  "5b77fd98f4363e7ab2079f0c62725030": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KS3d4VXpaTUpvN0dBU2Z3VG50OTA3dmRWZUQ5WFlLWDJHUkZXV0tIalU0Q1ZZUDhBZnF6WnBacVhiX1U0bjJRdDdQbHM2S09HWmdOZjZCbXRuVkZRbXQtVQ?oc=5",
-    "timestamp": "2026-06-13T19:13:49+00:00",
-    "source": "fars"
-  },
-  "d11b86cb9b195b1196c0fdfb6784badd": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KS3d4VXpaTUpvN0dBU2Z3VG50OTA3dmRWZUQ5WFlLWDJHUkZXV0tIalU0Q1ZZUDhBZnF6WnBacVhiX1U0bjJRdDdQbHM2S09HWmdOZjZCbXRuVkZRbXQtVQ?oc=5",
-    "timestamp": "2026-06-13T19:13:49+00:00",
-    "source": "fars"
-  },
-  "a76c1a6c1a0f7b437d18b13216af350c": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KS3d4VXpaTUpvN0dBU2Z3VG50OTA3dmRWZUQ5WFlLWDJHUkZXV0tIalU0Q1ZZUDhBZnF6WnBacVhiX1U0bjJRdDdQbHM2S09HWmdOZjZCbXRuVkZRbXQtVQ?oc=5",
-    "timestamp": "2026-06-13T19:13:49+00:00",
     "source": "fars"
   }
 }
