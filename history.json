@@ -1,4 +1,39 @@
 {
+  "653fbe5b0bc86a235d69545661fb826b": {
+    "url": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal",
+    "timestamp": "2026-06-19T19:43:19+00:00",
+    "source": "nyt"
+  },
+  "b8debac0402031187a4b4cef5d0ff507": {
+    "url": "https://www.france24.com/en/sport/20260619-usa-vs-australia-live-match-minute-by-minute-commentary-world-cup-injured-pulisic-socceroos",
+    "timestamp": "2026-06-19T18:48:07+00:00",
+    "source": "afp"
+  },
+  "1b147f54f959f4b1e9f022dc4102519c": {
+    "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260619-g7-co-who-rules-the-new-world",
+    "timestamp": "2026-06-19T18:29:41+00:00",
+    "source": "afp"
+  },
+  "73d8f1fab84cf9247e0b74f1ca5549f8": {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdDdtMWZ0SDdDbThCNEFjb2p2aE5QVFhETEFOT0RyUG9MaHlta2VNWWpjWE1sOFNEM3pYOE9NYkhRM2x3d0hnYzRQZ2F6eG5zSl9aZEpHd0xaRFR6LTFfNHFKdFBWVXdZSTNMMVZOY3RaZmVjRVZ0T0ZYVEZvWU8xZDBtdk5OMGpMaFhOR3RKU3MyUHFQU3NmMzluUFlFaDBD?oc=5",
+    "timestamp": "2026-06-19T18:08:00+00:00",
+    "source": "ap"
+  },
+  "a1fe645f44cbfdde501bca789c739b1f": {
+    "url": "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html",
+    "timestamp": "2026-06-19T17:57:00+00:00",
+    "source": "nyt"
+  },
+  "0a749297dceb35f015c523c0763b6da7": {
+    "url": "https://www.nytimes.com/2026/06/19/world/europe/princess-kate-uk-children-social-media-ban.html",
+    "timestamp": "2026-06-19T17:49:23+00:00",
+    "source": "nyt"
+  },
+  "2684dcdffcea1e9aeeafd4a1eafdd73e": {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR2FHM2tDRk9zZEJ4QWltYkRDaENhYW1xdFBBQnQzYkdGcWNzMThOeGFCX2E4T0lTYTZScjRQNTBRV2FzOFVaYjNPWDFNMGV3b2hDYl9ZNC03V3FkdlBDNnRtRzBSVVRMTUVTaGRtRzVGeGdIWFl5Z2V3WkRud3dPTjJfeWd2aENZeTVpUnAxT0kzNi1RYXp1QzBwd3Z0T1dwSU45ZmVPMG9uT2I4N2hrcmVnLTNBLUFlVTZaN1VyTWszNjQ?oc=5",
+    "timestamp": "2026-06-19T17:43:43+00:00",
+    "source": "reuters"
+  },
   "6d3cd9367de5cad8ab6a67d7ef5536df": {
     "url": "https://www.france24.com/en/tv-shows/the-observers/20260619-armed-groups-colombia-tiktok-recruit-young-people",
     "timestamp": "2026-06-19T17:36:33+00:00",
@@ -8,6 +43,11 @@
     "url": "https://www.nytimes.com/2026/06/19/world/europe/andy-burnham-election-uk-starmer-makerfield.html",
     "timestamp": "2026-06-19T17:33:02+00:00",
     "source": "nyt"
+  },
+  "f718c8bfd3e63c5133ea4f09d5faf21f": {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5faThpMDRRQXA1SGlBSmY0V1ZnNTdwWFQwOTBqTGNWMXpZcnVwbnIzd3FqZTQya3ZJcURWdGhpSGRlOE9YS0ZOWkwwTEVsZk9LUEt1d05XOE5XZGljTVBqTEtSNHlQS01fX3Q5X0JQWQ?oc=5",
+    "timestamp": "2026-06-19T17:22:16+00:00",
+    "source": "fars"
   },
   "9c8495a029222f45107ead7fd84856dd": {
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN3BNOERVVFFxUGJ3enFmQ3RqemY1dWVubjJHOVZHMFRfZXh4Q21BMmFkNGVrMk14YUM4bXhjb1dOdElOZ3k3dGRCcHBZZ3kzQ2VtVVllZ1RvZ1VqaE5ZdUlVcllXd05JN1dZWHNnMk9yeVZqS05WLXZsaWk5cEVyV21KR0N4d3hvR3E4UklDQUFoUQ?oc=5",
@@ -24,9 +64,24 @@
     "timestamp": "2026-06-19T16:46:03+00:00",
     "source": "reuters"
   },
+  "aa24a8300305cc36a736440f4667598b": {
+    "url": "https://www.nytimes.com/2026/06/19/world/middleeast/iran-war-deal-trump-uncertainty.html",
+    "timestamp": "2026-06-19T16:37:27+00:00",
+    "source": "nyt"
+  },
   "d81549d76f705db423f08e839dc936f3": {
     "url": "https://www.france24.com/en/france/20260619-paris-police-ban-iranian-opposition-rally-citing-tense-international-context",
     "timestamp": "2026-06-19T15:34:11+00:00",
+    "source": "afp"
+  },
+  "e6ce45e9a9096268230bddd4ad1de4fd": {
+    "url": "https://www.france24.com/en/france-tries-to-cope-with-second-premature-heatwave-in-less-than-a-month",
+    "timestamp": "2026-06-19T15:21:24+00:00",
+    "source": "afp"
+  },
+  "72c19535f7a38a8916e641e84339f158": {
+    "url": "https://www.france24.com/en/france/20260619-new-timetables-longer-holidays-how-french-schools-adapt-heatwaves",
+    "timestamp": "2026-06-19T15:15:38+00:00",
     "source": "afp"
   },
   "89fa92f21271b2ad63f485fcc08ff68a": {
@@ -78,6 +133,11 @@
     "url": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal",
     "timestamp": "2026-06-19T11:58:08+00:00",
     "source": "nyt"
+  },
+  "aebabc25886bfc144d151b6968c39cb2": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hRllGVWtLaWZrOWZKa01jQnVQN2xQaVlKTDhVQjVWclVEUWdZMW5kV2NwSzUzSGI5Sm1tMFlyRWdpeGNuQ2xIc1F5bHVyZWNDeVE?oc=5",
+    "timestamp": "2026-06-19T11:53:53+00:00",
+    "source": "iranintl"
   },
   "fc073c170c0930f6cde707f7147a4780": {
     "url": "https://www.france24.com/en/why-does-marilyn-monroe-still-define-the-ideal-woman",
@@ -2438,65 +2498,5 @@
     "url": "https://www.france24.com/en/sport/20260614-iran-world-cup-team-arrive-united-states-los-angeles-warusa",
     "timestamp": "2026-06-14T20:34:59+00:00",
     "source": "afp"
-  },
-  "37b6640b5bcb698e63d9449df8c67b82": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53aTdYUHp3dE5QMTZhMVdETzA3YlpLUjZDVTRtazBpb1B3SVlLc2RGRGxvYTJqdVBKeVgtWnFPR0NqVlplc202cHFyRFR2Xy1WWklWek5zVXZTeGNFdlE?oc=5",
-    "timestamp": "2026-06-14T20:22:14+00:00",
-    "source": "iranintl"
-  },
-  "d837a13c56fa19aff5ec90b3077de72c": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LODlnTndrQXJoRVBiazFmMk8wdGdYMzQtdzUyLVp2MFVwS0NuS19BZEFtcWVFbXd3MTV2UUdJVW1sMkhwZEItU2Vla2hRX0VjOGc?oc=5",
-    "timestamp": "2026-06-14T19:31:35+00:00",
-    "source": "iranintl"
-  },
-  "4f2608ec62084a8f7fa8813e0c422f6f": {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcS1ySWdXX2NpZzR3WW1mcGZrN00tMlVIVDlVdHhFZkRGbTNZNl9VekRoS2hZZjctcHc3LXdaeGtrQ083U05oYkExNzF6cHdtQmlLamlvMThfbTNLckNRUm01WF85QVl2cEF5RkZILTZrVkUySFBIM3g5bjhkMS1YTUREbG5IMTRqdlNnRlEwRzhFMHdsNlJNWXlYRmtBcE5sUl8yazlFVF9RZFJzTEs1SnJn?oc=5",
-    "timestamp": "2026-06-14T19:20:38+00:00",
-    "source": "reuters"
-  },
-  "99df23e14b27d4147dbc6ce833adaa8f": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PM1N2QmpDYUtqN3JCWVZJMFY4U3hDQWRsNXRNYnhzWndETHZOeDRKU0s1cHFUZDQwQThHMGZPN3pWS1dXbTB3My12Q0VjaG5iYWc?oc=5",
-    "timestamp": "2026-06-14T18:43:00+00:00",
-    "source": "iranintl"
-  },
-  "a8a43492531213cf07055c822ea5ff30": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PM1N2QmpDYUtqN3JCWVZJMFY4U3hDQWRsNXRNYnhzWndETHZOeDRKU0s1cHFUZDQwQThHMGZPN3pWS1dXbTB3My12Q0VjaG5iYWc?oc=5",
-    "timestamp": "2026-06-14T18:43:00+00:00",
-    "source": "iranintl"
-  },
-  "80d8e15e4426a972e196be1931b5c09d": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OZXNTVFlJdDhGa0lqdG53ZXU4aVN5bmN5c0duVmF0c24zdTBhMDlOMXF2ZmF0RC12MDh0UDRKZlBENVZKdXNaSW9GQlp3X1NON0E?oc=5",
-    "timestamp": "2026-06-14T18:34:13+00:00",
-    "source": "iranintl"
-  },
-  "e5d80484f7baef50d2ed2be67a2a73d8": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCNHZPYUZodlhjMmh3YmxpMUZPdkY3XzNXSmRkQjVvazZBMmtqQWRYNm1aWHFZM0hfUXZIaHVuLVJuNVZ5V0ttTXM0M1o5OFNiQ0E?oc=5",
-    "timestamp": "2026-06-14T18:19:42+00:00",
-    "source": "iranintl"
-  },
-  "48f02ea0b1658cea9aa94d740e67d06c": {
-    "url": "https://www.france24.com/en/tv-shows/spotlight/20260614-trump-at-80-houndi-a-cage-fight",
-    "timestamp": "2026-06-14T18:14:54+00:00",
-    "source": "afp"
-  },
-  "a206a3766d2f5c2973acc13b8a858957": {
-    "url": "https://www.france24.com/en/europe/20260614-putin-zelensky-separate-phonecalls-trump-birthday-ukraine-war-russia-president",
-    "timestamp": "2026-06-14T18:03:46+00:00",
-    "source": "afp"
-  },
-  "cf2a697be5c9d1eeede95154b96523c8": {
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONXFQNHZRWjVLNjJublRoZTVwUG4xN3ZTTm1pc3FpWUY3dEYwV3c2eWpLQkNra19BMVJMRmhLVGJmZVA1YnZSN29DR0p5NUJpaS1NdXgwNmcybjlyQWpxWGdhWU4zNmc3aTBwMTJqNVVQZlYtRnhndUZLNFV2TVlXclhYQjIyR0s2RGtrbXNMYmhkdUFMdEQ3Z05URnlqNUVnUzBHSGJ5WV9GNEFMOGdnU0pIMlI0VGJuQlFHb1RMNnhWbVVCamc?oc=5",
-    "timestamp": "2026-06-14T17:20:27+00:00",
-    "source": "reuters"
-  },
-  "34f902760a91b631fe70a7146aba1c76": {
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUMi1haGYtaHpfd1hlemlBVnd0VTdKQTJxVWZ6SlhRVzUtN0x1aWsySVdkaTVFcWstSGl3eGRfN2NnUFFlcTVJdTRMT1BVLWRWM2JHSDJEV2QteTFzOE5vaGlSSExQeVNndFE?oc=5",
-    "timestamp": "2026-06-14T17:05:42+00:00",
-    "source": "fars"
-  },
-  "168bb3edda650d88ad30e50b0dcce4e1": {
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRUpDVGdGM3U0YnIxOXdRdHV3eC03WFV1cmRndUJ2cmY4THpMWXNvWjdJdHc2M3djM0hjYXctRDBILUJYc2JhbWpzYkhZc2RTN013VWExRUtNcFJNeE82OC1RTzhTdjNNbHc0SUtNWE1rN1dRWnYzOVJwajNCSzh3VnQxemtfUWNMaWZKRTlfMWRZVzQ4V2I2bURSZFlDd2lndG53N0V3Nl9GMEw3YWxmb0hEQQ?oc=5",
-    "timestamp": "2026-06-14T17:03:49+00:00",
-    "source": "reuters"
   }
 }
