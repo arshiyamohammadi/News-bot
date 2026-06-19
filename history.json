@@ -1,4 +1,19 @@
 {
+  "e5a5aab6a2c04c64e4bbc78a79e39034": {
+    "url": "https://www.nytimes.com/live/2026/06/18/world/iran-war-trump-us-deal",
+    "timestamp": "2026-06-19T01:44:15+00:00",
+    "source": "nyt"
+  },
+  "33dec5d5bfd0d31f9dc8d29bb9c5445b": {
+    "url": "https://www.france24.com/en/middle-east/20260619-middle-east-live-white-house-says-vance-will-not-travel-to-switzerland-thursday-for-iran-talks",
+    "timestamp": "2026-06-19T01:34:08+00:00",
+    "source": "afp"
+  },
+  "40754b43706089ed476172a2738c2b00": {
+    "url": "https://www.france24.com/en/americas/20260619-colombia-peace-breakthrough-100-rebels-hand-over-arms",
+    "timestamp": "2026-06-19T00:29:20+00:00",
+    "source": "afp"
+  },
   "53df418c1955b479819487266d7df29d": {
     "url": "https://www.france24.com/en/americas/20260618-knicks-fans-flood-new-york-for-massive-nba-finals-championship-parade",
     "timestamp": "2026-06-18T23:16:31+00:00",
@@ -8,6 +23,16 @@
     "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260618-did-a-hitler-lookalike-really-attend-germany-s-world-cup-game",
     "timestamp": "2026-06-18T21:28:46+00:00",
     "source": "afp"
+  },
+  "0b6a4358f7f4797f1c21946fa92d56c7": {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2hGMmJVYWZybndVbUpRZWtXdzlOdlpWQmZWTjd1Z1RIT3JLZEc5aFJSLXNjR0xVeXlybzFrTGpDclZOV043cEtkR1RaOGtDYzhrNWVaQmdTeFctUmtsV2NDcnBNNDZiLVJITHF2RDg0V0RTQlc4dGIxMEJrdUlUb0Ztd0RVeF9NWXJyVEZmMy05UkF5QVpzTTBqbVJKSVIwaXNFbnpsMGNtS3FzdVRnWEFnYWVlQjZpR1Vrc1pEZw?oc=5",
+    "timestamp": "2026-06-18T21:27:56+00:00",
+    "source": "reuters"
+  },
+  "15e5fe9621204676b963bbc6b363da52": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rc1NVTkowVzlMck9sZ3c1MVV0UG9aNmh1a3EyVHA2ektXRW9PTnluNnFKLU1ScV9tTzFmQV9HV05UZEliSFJjc0UxVHk2Tm5oUlE?oc=5",
+    "timestamp": "2026-06-18T21:17:00+00:00",
+    "source": "iranintl"
   },
   "101ab72cd912e407d440e56f04e07b4a": {
     "url": "https://www.france24.com/en/sport/20260618-world-cup-2026-manzambi-s-brace-powers-switzerland-past-bosnia",
@@ -94,6 +119,11 @@
     "timestamp": "2026-06-18T17:36:00+00:00",
     "source": "ap"
   },
+  "8398cf789de757415f8b661f33116827": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mVUdUd3dMckhQUkRHS3llcV8wZ3pra3Z4a21ONW1vcHhaU3k4RnoxeU5KNWdrRjlIQjE0MjNxelI5LUkxM2F6RlBPWmU5RVBoTmc?oc=5",
+    "timestamp": "2026-06-18T17:17:12+00:00",
+    "source": "iranintl"
+  },
   "defbbe983b50a71ad7686da1db2ce9ef": {
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2xiMDYySHk3ZzFXaHcyR1ZHNDFJQUJVNzF4MTRQcmdmZ1pDUVNyR1Z5N255MjkzSHItckpnalNfRUo5VWpjTDVHSHE3R3kybW1NRGd5NGJKV0prTFA0eUZBd0hVZzlMTTNNcXVWR3JTV1lOMzhwYXVtMEc4N05QVlFCSDlnYnZ5S24zMVdMSjl2M2pTYnc0eDdJUkZhWVlwS0tQaUJjTnJIMTNka1E5dm9RcHprVkkydVo4a3dzUmV3RTg4bE5feDN5dw?oc=5",
     "timestamp": "2026-06-18T16:37:40+00:00",
@@ -173,6 +203,11 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObnJLLU9lQkl6M1NlTnlwMVNFYllySjZfU3FJdElaRTVZYjZqeUlnT0lQS2VPSGpJdW5sWktCTHF0NXJrRTVobFNvN01zREI5dDVlX0RtQmhnQ0FTWkFybXFGU1ZSMFRjRVNTXzlFdlRVRENZS3hoaHZPZmE4dHRNeTBVVVhpblVQczd2Q3JtYnQ4T1dZZ0NxWkd3d3dWdU9xM2N4QVRsemI?oc=5",
     "timestamp": "2026-06-18T13:24:00+00:00",
     "source": "ap"
+  },
+  "d2cee86289c08fe5750925f5f08b1ac2": {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BT051RGxWTG1XaG1zM0ktZHhaeExCd01KSUJNa2NsdkxYMVV0OC0wenlGX2RNV2Z5Q19Sb3VVVmcwTDVBN19QOExNRWN1TzhrenMxTXdXUk9mYmVITEI3bF9tUQ?oc=5",
+    "timestamp": "2026-06-18T13:11:04+00:00",
+    "source": "fars"
   },
   "f83d6ee31175ac6f9f14c99f14044e63": {
     "url": "https://www.nytimes.com/2026/06/18/world/asia/afghanistan-taliban-smartphone-ban.html",
@@ -263,6 +298,11 @@
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcDRmWjdGVnpycmNkTGNYZkM3djctWkRiRVdGMTN6bzVaTXVUaFozbkhFZEV2dUp6MUdWOFVwOWg4WGpwYnVsUmdubDhtWVF4eUt0WUtlMHRqSFVSVjJCclFnUW9pb3FPakxsOHZKMl8yRzhnYzhleE5QWXhTSmRhWW9MR181Q05LUVd0b3dQdmx3SmFBWFZZREF3alVUNmtZM1VZLVIwdDhSdHlQdXJLY0E3NXhEVW9oeFVnRF9LZy1DclFo?oc=5",
     "timestamp": "2026-06-18T09:00:02+00:00",
     "source": "reuters"
+  },
+  "1f3e6f9974837c544b5c4a7f2670fc35": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pNDhUTklHTFF2U25tMldRaFNsRWZnT2tsbVZjNVFBTGRLSzlGTUxGYngxSzVUMFZRNjhsY2Z1OFI1QU9Ya2k1ZTZEQkR2VDhiUWc?oc=5",
+    "timestamp": "2026-06-18T08:55:10+00:00",
+    "source": "iranintl"
   },
   "cd12324b0d608447c441d13cd2ec1db5": {
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkZqZGVPb3ZzYjBrcl9DQjV1UFNJNU5WcXFCdWdLeXo4VFJyOV9tTGRVSkE4VWE4UUlIQ1NuM1drT1dTRXpXUi0wOWxGdXlPaVhfQzhUclIwY0Qzbmw1Sk9Wd0Y1S3dJRFprVHRodXNzM1QwcDJldHFkakxuYjRDNkVTX1k5MUNPVTZ4eGRzTktSYlZ1d0hR?oc=5",
@@ -2457,46 +2497,6 @@
   "0c01f2769ffa6bd94e2237344ce9ec62": {
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlbHYxQ2x4U0NLd1JHUEcwUFdobjdrU3J5bENTNGZPLVhOampsU0traUdGcFJxamgtdUUzREcyV2JXNi1Da01ldWdHXzBjYno5ZnVWX28wdzBXNXFQcnJaN1R6RQ?oc=5",
     "timestamp": "2026-06-13T22:07:52+00:00",
-    "source": "fars"
-  },
-  "a149e0b44b5a01245dde4c28711dfde5": {
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlbHYxQ2x4U0NLd1JHUEcwUFdobjdrU3J5bENTNGZPLVhOampsU0traUdGcFJxamgtdUUzREcyV2JXNi1Da01ldWdHXzBjYno5ZnVWX28wdzBXNXFQcnJaN1R6RQ?oc=5",
-    "timestamp": "2026-06-13T22:07:52+00:00",
-    "source": "fars"
-  },
-  "df94bbbee49b1b97807697728d80976e": {
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XMWQ5X0thamJMeVU1eEFzSE1CSjZ1LXJ6eGlsLXRnMFVDTzZKMk9OYlRBXzdVM0k0WW5mYlEyVkdFQ19uWTUtTTZ1ckYtcmhUeFFxVG1uaXpTMnFGVkJlNlZTS3hRUQ?oc=5",
-    "timestamp": "2026-06-13T21:59:31+00:00",
-    "source": "fars"
-  },
-  "ed9eea2b864b8cf6b9742dac2a75baab": {
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XMWQ5X0thamJMeVU1eEFzSE1CSjZ1LXJ6eGlsLXRnMFVDTzZKMk9OYlRBXzdVM0k0WW5mYlEyVkdFQ19uWTUtTTZ1ckYtcmhUeFFxVG1uaXpTMnFGVkJlNlZTS3hRUQ?oc=5",
-    "timestamp": "2026-06-13T21:59:31+00:00",
-    "source": "fars"
-  },
-  "ba2b3b9f2f68ee3dafd97fff5cb9ca1b": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53aTdYUHp3dE5QMTZhMVdETzA3YlpLUjZDVTRtazBpb1B3SVlLc2RGRGxvYTJqdVBKeVgtWnFPR0NqVlplc202cHFyRFR2Xy1WWklWek5zVXZTeGNFdlE?oc=5",
-    "timestamp": "2026-06-13T21:45:49+00:00",
-    "source": "iranintl"
-  },
-  "651bdedeba26057ecdf7e70628d48975": {
-    "url": "https://www.france24.com/en/middle-east/20260613-middle-east-live-dozens-protest-peace-deal-outside-iran-foreign-ministry",
-    "timestamp": "2026-06-13T21:44:18+00:00",
-    "source": "afp"
-  },
-  "1dcc951a90c0b9d1cf9fac714a99c04f": {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHdvNmVfYWxaeGpRVVpDT0FqUEk4Um0taURDRzNnMkxBalBNdllmamVkRWx1aGI0aVhMR2VpQXNVVHlyN05oUWMzYkdKLTFZTzBWdnRkYjZjcExtaTRJTkxuTzd4aGQ1d0hwWjJLeGRVNmt2cmlBeUw1eW5SLTlvVEJJWlNUOHFYT0tfUXZxWWFzT245X0pDczBfVEJWc2cyeHpfbnN5OWY1TG5hOXVzclJ5YTV6aDhlcDg5Rm5rbw?oc=5",
-    "timestamp": "2026-06-13T21:39:45+00:00",
-    "source": "reuters"
-  },
-  "d715dd4ace0360b7c4d9a29871db6486": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BMFUxYmlXT0w0dWRFblVUdmtadTNnWGVhMF9oOXFSNlJYLVJldjlkWk9UUkljMXFlcDZUMDh0SHlqY3JmeUJpRnd6SkM3WmdtM1E?oc=5",
-    "timestamp": "2026-06-13T21:39:07+00:00",
-    "source": "iranintl"
-  },
-  "54d307ffbdac17386cc150e8cbe3f8ae": {
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91Q01ZTEoweGw4RmdETnNRUmdsNmRzVTg3NlNFLWltcjhFWVc0UEZmQXhHOXpyUjhTTHk5RGUwZW5VXzg3VkFUdnJMam5aa1NqdG9TbUZna251VjNPYnNJczlYZEt4TFY3RFRWbWlqMDZjdGc3cFpDOA?oc=5",
-    "timestamp": "2026-06-13T21:36:04+00:00",
     "source": "fars"
   }
 }
