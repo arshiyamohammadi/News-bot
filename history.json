@@ -1,4 +1,59 @@
 {
+  "81105609dce4119e13c57547ace075d5": {
+    "url": "https://www.france24.com/en/could-israel-lose-donald-trump-s-support-by-continuing-to-drop-bombs-in-lebanon",
+    "timestamp": "2026-06-20T10:46:34+00:00",
+    "source": "afp"
+  },
+  "f9538f0c763ce2c24be6877281400af1": {
+    "url": "https://www.france24.com/en/hezbollah-israel-flare-up-in-lebanon-despite-ceasefire-announced-by-the-usa",
+    "timestamp": "2026-06-20T10:43:15+00:00",
+    "source": "afp"
+  },
+  "bd276186aaf487bacfeb54edf396b374": {
+    "url": "https://www.france24.com/en/us-iran-ceasefire-negociations-underway-in-switzerland",
+    "timestamp": "2026-06-20T10:12:28+00:00",
+    "source": "afp"
+  },
+  "b675182f629c856bfa4f2420dbb8c328": {
+    "url": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon",
+    "timestamp": "2026-06-20T10:05:46+00:00",
+    "source": "nyt"
+  },
+  "f33440290a56ae42d859ff12390a2c16": {
+    "url": "https://www.france24.com/en/this-small-kamikaze-helicopter-defends-ukraine-from-shahed-drones",
+    "timestamp": "2026-06-20T09:37:53+00:00",
+    "source": "afp"
+  },
+  "566476af538d37e1cab79c43cb5553a8": {
+    "url": "https://www.france24.com/en/uk-labour-leadership-battle-ministers-reportedly-urge-keir-starmer-to-step-down",
+    "timestamp": "2026-06-20T09:36:01+00:00",
+    "source": "afp"
+  },
+  "9e1ed519ea0c38ea29bdfb1c6b815af1": {
+    "url": "https://www.france24.com/en/peru-voters-await-result-of-presidential-election-the-closest-in-the-country-s-history",
+    "timestamp": "2026-06-20T09:18:30+00:00",
+    "source": "afp"
+  },
+  "b327fc9de9683ca3858d06df522c753a": {
+    "url": "https://www.nytimes.com/2026/06/20/world/europe/world-iran-reaction.html",
+    "timestamp": "2026-06-20T09:02:41+00:00",
+    "source": "nyt"
+  },
+  "c2ba2f45f487476257575410da72e909": {
+    "url": "https://www.nytimes.com/2026/06/20/world/americas/colombia-election-abelardo-de-la-espriella.html",
+    "timestamp": "2026-06-20T09:01:56+00:00",
+    "source": "nyt"
+  },
+  "a7c79a7e0438cb184c0edd44ae179e7f": {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jdVlWSVpiNnZDdWxIaG1tZ0tqdVVWSk9KUEJtRm9FTndmX2xrS3dnbFV0elhDa29fSWhWVHNxUVUtVjlsQlZEbjAzSmVDX2VNdklGZFdlbG9LMGdRYW9KNFVn?oc=5",
+    "timestamp": "2026-06-20T08:42:43+00:00",
+    "source": "fars"
+  },
+  "71bf1f89cdf28f80d8fdb2135bd35595": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96VDFzc1AwcHV3QXZKZzgtbU9YT3czdGd6VXFBZW5oRWxKTldsSXR5QzJYdFlYOUNBbFN3S0dabml5dm03dEJaQm1fR2djWFpqZkY1bWVSeXVvQVNHUmNsZA?oc=5",
+    "timestamp": "2026-06-20T08:22:19+00:00",
+    "source": "fars"
+  },
   "254d1b53a30b1ee9d083782b61576f45": {
     "url": "https://www.france24.com/en/middle-east/20260620-israeli-strike-in-southern-lebanon-kills-five-hours-after-ceasefire-agreement",
     "timestamp": "2026-06-20T07:27:51+00:00",
@@ -25,6 +80,11 @@
     "source": "reuters"
   },
   "fa3af1fc32170bb3909c6edb83e8c95b": {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbVUyY2ZiaHlmMU01WFZDX2M5c2Y3d3JWekJWMWZTbF9iR3d4UVdDR3ItSWEwSmE1M2taaG5GX2gzbTFZN3V0cUJXV1RzXzZXQ2ZmNWx1emtiVlk0Y3ZCLWQ4cVB3VFpYUmlZZUF1WmFfaUdmY1Ywa2d6MlBLakdUX0hKVzgwQWwzWVpNOXQ5TkhCYzhSVGZlSlJIc3Z6VHF1UndYd2JiMkR0T290dTVZXy1heVlwREF0Vm5z?oc=5",
+    "timestamp": "2026-06-20T05:28:00+00:00",
+    "source": "reuters"
+  },
+  "68eaabcf09554ef2e43ab752a95ea358": {
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbVUyY2ZiaHlmMU01WFZDX2M5c2Y3d3JWekJWMWZTbF9iR3d4UVdDR3ItSWEwSmE1M2taaG5GX2gzbTFZN3V0cUJXV1RzXzZXQ2ZmNWx1emtiVlk0Y3ZCLWQ4cVB3VFpYUmlZZUF1WmFfaUdmY1Ywa2d6MlBLakdUX0hKVzgwQWwzWVpNOXQ5TkhCYzhSVGZlSlJIc3Z6VHF1UndYd2JiMkR0T290dTVZXy1heVlwREF0Vm5z?oc=5",
     "timestamp": "2026-06-20T05:28:00+00:00",
     "source": "reuters"
@@ -133,6 +193,11 @@
     "url": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal",
     "timestamp": "2026-06-19T19:43:19+00:00",
     "source": "nyt"
+  },
+  "5cd9dbda44aff74d463e6d141cf083c5": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXS1B6VUg4NkZOV2hhenhFQk9HZFhKQ1UxTVZldzFxdDZURklzdXpTZzBzVURIMDAydXRUTnhtV0xpcURtRWlmWFhyRUc3YWpERUE?oc=5",
+    "timestamp": "2026-06-19T19:23:53+00:00",
+    "source": "iranintl"
   },
   "2934edd22b2f27cfad7066210ae2d261": {
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxMEVJZkdJQmE3cV9KVkx3aWRvdnlNcm1EbnRlQjNUV2g5SUI2U25GcFJsQUgxdzdmYjdkSEpEdkZXNURSXzctbVJLS1p2c0lsWHk0WUU2SHNBbWwwb1FjaA?oc=5",
@@ -2433,70 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yeTlyODhZWThUV3VrMWVzM2F2ZkQtb2dKYkxmNnFUbjZabWdvbTB4YXdCeENwQnItajdIOHp0Z0g3dzBrc0RxeFlkS3NIMGYtamc?oc=5",
     "timestamp": "2026-06-15T10:09:11+00:00",
     "source": "iranintl"
-  },
-  "8e80f8b2707a65ae306b818bd46f9c89": {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd0M2WVRRX1MwSTZwWWxNbEpPek5GaUxXQUNlY0cxdWNiYm51RGppeW5jY0NzVEZmUnhBOWhpd21vRlpDNVlyQzMzR1QxN0tkb1B6ZHFRWkpzM1RBQkl6TEJyTUZXa04wemoxbmxmTGZjYjlIZXdmVzVSOWk0bUo0YkkxcnZmSDI3SEpoN0VFME80ZDJiRlkzeDBFNlEwTG5mSzhHNXA1NTJ4OWplQXlvVkcwbHU2TjRnN2xRMUJGYWM0QQ?oc=5",
-    "timestamp": "2026-06-15T09:51:29+00:00",
-    "source": "fars"
-  },
-  "3f747eac04e1e642f692fe45be264342": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01bVRkeThUZWJHaVdGRDdQcFl1VEJ6YWFuSzBaWFg4YVlHZE14VjlGMFlmc1RHbEVyd2Y2TW5lV1pBM3pIdmFoRXFvRTNOYjd2Qnc?oc=5",
-    "timestamp": "2026-06-15T09:46:08+00:00",
-    "source": "iranintl"
-  },
-  "d08d163902b0290d4e7c98e0ba99550e": {
-    "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-eu-membership.html",
-    "timestamp": "2026-06-15T09:31:06+00:00",
-    "source": "nyt"
-  },
-  "187d2705bb346a8b293f04ffe85d0b78": {
-    "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-russia-war-ai.html",
-    "timestamp": "2026-06-15T09:02:41+00:00",
-    "source": "nyt"
-  },
-  "35c79228dc03241f4e295779270b5f6c": {
-    "url": "https://www.nytimes.com/2026/06/15/world/americas/colombia-drug-war-violence-petro.html",
-    "timestamp": "2026-06-15T09:00:36+00:00",
-    "source": "nyt"
-  },
-  "98b1216b1ce4a7ae305fdddb207a2236": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xYTlJRmF6U1NxeEZETldhNUNTWWYwbTZLbHgydnV2SFVhbHo3Yl9rcVFHdkpSLWhJV01EQzVsREgtT21vb3dJUnBOdnFSbERPVFE?oc=5",
-    "timestamp": "2026-06-15T08:47:10+00:00",
-    "source": "iranintl"
-  },
-  "72838f74084e8eb3655c6c5d1b777b19": {
-    "url": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
-    "timestamp": "2026-06-15T07:21:08+00:00",
-    "source": "nyt"
-  },
-  "3b483cbe206a7e6a4ddd726e154a9ed0": {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0I1ZjlwOXdvMElVb0dzcHhZb3QtN0F2M2gwem1YM2R6dktCTXRBT1BGVWw0MjBUX0R6WHBVQTI1RzdkZlRqd2xKVEx5ck01SUN2Nm1SdzVhMjRCVHdMRV8wM3dKamc0bkxQc01TSFJ6QVltd25SUGNrT1lkYmlrcGxDZW1VZXZUZmV4cmplZmZxODNock4tc09mUU1WaEFPWEtGYkJVY3ljb19DeEE?oc=5",
-    "timestamp": "2026-06-15T06:43:43+00:00",
-    "source": "fars"
-  },
-  "0145f02c6512afe9d6bdcb8c655fae48": {
-    "url": "https://www.france24.com/en/europe/20260615-putin-s-paranoia-ai-espionage-pushes-kremlin-to-reinforce-security-measures",
-    "timestamp": "2026-06-15T06:24:08+00:00",
-    "source": "afp"
-  },
-  "1ffbbe3de9e03a4e675a7a2eb24e4dc5": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LRHFmVHlFREJ0MHhXQW80MWhxYURQSElCM2xmX2hXcVNRNGwxYVhnNFBsdk0ydzR1Uk50bHJaV0VUMy11UjFoaTU5QVNBNHpqN0E?oc=5",
-    "timestamp": "2026-06-15T06:13:26+00:00",
-    "source": "iranintl"
-  },
-  "1773f5b8e78d50edd65cc60fa65c1eea": {
-    "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
-    "timestamp": "2026-06-15T05:50:31+00:00",
-    "source": "nyt"
-  },
-  "0ac2501b78b5f694e64ccbcf0c41cb1c": {
-    "url": "https://www.nytimes.com/2026/06/15/world/middleeast/iran-reaction-cease-fire-deal.html",
-    "timestamp": "2026-06-15T05:26:28+00:00",
-    "source": "nyt"
-  },
-  "47ec4ad6e9b67f2b2be19df4be442374": {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcmEtalo0LU0tcVFDaV9MWHlZSVZYQnhla0d1eF9uR0hmVGlnX29sMWVHckNwbDV2cVBVYnpTMEFDVFJJcnlybm5jUGk1UURjTmdGdzEtUlVmSmVNYUdkY3FpV3c5U3BDb2ctVnFiSkRYMFRIaVNRSFd1NnNjbmNnT0h3ZjZDeERwQTBXSzh5bDJXV21WX0gwcGZraG02ZHdNdURNT0Q1dG1QaWVvdV9VNm1HTFE3MEU3SEs4?oc=5",
-    "timestamp": "2026-06-15T05:26:00+00:00",
-    "source": "reuters"
   }
 }
