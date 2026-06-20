@@ -1,4 +1,9 @@
 {
+  "8e49797bd3a1df296f8c03345b3b6c92": {
+    "url": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon",
+    "timestamp": "2026-06-20T18:39:07+00:00",
+    "source": "nyt"
+  },
   "3b00d5409e2957402b5e06574ad8e1a5": {
     "url": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon",
     "timestamp": "2026-06-20T16:53:14+00:00",
@@ -8,6 +13,11 @@
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FLUthajdDRFVvZ0R6YkoxbGJtUXlfWDVIRGl6amVQbm9RODg2M09ISzNnQy1CZHZPb1dyeW1VcXl6TGMzYm5rRTFhTnV6NWxBYk04U25LNHh3MUwzcVE?oc=5",
     "timestamp": "2026-06-20T16:15:36+00:00",
     "source": "iranintl"
+  },
+  "cb5f86cd76af15950a816e01654129dc": {
+    "url": "https://www.france24.com/en/europe/20260620-ukraine-s-zelensky-top-officials-return-polish-awards-in-wwii-row",
+    "timestamp": "2026-06-20T15:27:09+00:00",
+    "source": "afp"
   },
   "ed21f8896b1dff93da773a952747c02d": {
     "url": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon",
@@ -119,6 +129,11 @@
     "timestamp": "2026-06-20T09:40:32+00:00",
     "source": "ap"
   },
+  "0e87c6f0def14ecb6fae8d34ab70d6e8": {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZU83bXR0RDhtTHExa0dVVFJOTWlvNS1DMVM0WUdqX0JyNWQ0RnRTcUNzQlkzR2xtWDdnTVA0NEt3NDVMZXBZcl83X2lEVU9jRktXNlc4SjhKMWMxRUZidDJvdDBreDZLbmpsRklMU01GNkJiYVJVWnhyZnlzUkFhYzY1VFdtUjRUbTh6aHlCVkFQUGttSU44TDBWVDZZTlRJbUhTY3JzRHA?oc=5",
+    "timestamp": "2026-06-20T09:40:32+00:00",
+    "source": "ap"
+  },
   "f33440290a56ae42d859ff12390a2c16": {
     "url": "https://www.france24.com/en/this-small-kamikaze-helicopter-defends-ukraine-from-shahed-drones",
     "timestamp": "2026-06-20T09:37:53+00:00",
@@ -173,6 +188,11 @@
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CZkpUT2tCZ3cxbnRtVE1nbEt0RnpCRmRIUFNHX3c3UzVOeXpCZEFzaXNINVhjVFVsbk14anNQWTdGVXd2YmprV0JWRGlPQlg0ZjJ4V3AtM0Z5TmFXUFc3Q2U1YkUza210WVE?oc=5",
     "timestamp": "2026-06-20T06:58:35+00:00",
     "source": "fars"
+  },
+  "3cd11f56abcbe498b7929cd7d4d8d3bd": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12SUU0SkN0V245bnNJN2o4SDJaNG5XZFBqby0yelU0QWlqSWlDNXBFWUkwYTJWZ3ptUFp5TThUU0pjOTVvY2QzQV9TSUQ1UHpDdmc?oc=5",
+    "timestamp": "2026-06-20T06:55:45+00:00",
+    "source": "iranintl"
   },
   "95528b04b8142b88a1cf794788ebc3fa": {
     "url": "https://www.france24.com/en/video/20260620-residents-flee-as-israeli-strikes-target-southern-lebanon",
@@ -347,6 +367,11 @@
   "19794edf12c7b9e4da7df45153a8aba6": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByQUhvNjh2MjhpT2pJZmdFZm96M1RsdE9PYzYwUm5WMXdtcEpHaTVYUVBkcFNhZXNPUmNSeXBmNzh0bWw4X0RBeDBNQ2pxbjYzM0E?oc=5",
     "timestamp": "2026-06-19T19:13:00+00:00",
+    "source": "iranintl"
+  },
+  "afc7bd1cce5c52ddda54b271917238b1": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Yc1ZoRmdCQXhPMmI5NnQzb0V5RHdxekFDZmFaeUhfOF9EQTVFbi1xbzhEdzdXT0hxVDJJRjhpVk1TeFVsZ3QyTWZLcF9LTU1BZWc?oc=5",
+    "timestamp": "2026-06-19T19:09:12+00:00",
     "source": "iranintl"
   },
   "2934edd22b2f27cfad7066210ae2d261": {
@@ -2473,30 +2498,5 @@
     "url": "https://www.france24.com/en/video/20260615-epic-folly-as-the-us-and-iran-both-declare-victory-none-of-the-problems-were-resolved",
     "timestamp": "2026-06-15T16:56:26+00:00",
     "source": "afp"
-  },
-  "a8d0a54fe742d3bca6ce8c6b9145c079": {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa0otOEdqZ09kUXB3bTE5eTZYSHp4QmQ3bXNRWW1vTkpPX1k2QnFScjBCdHhIeEZGeDFuakNDbFFLeDFLMC1PdjI1Nm9lZmtLdDRZQWRpZ2VnM0E1TXR2WW54QkRVczFMd095SG83dVVrMUdPSmJrWUFjaDNicGF0dVIzdFNIbno3eHltRFNiM1hOOUROeW42LW1XdFBZMENxb2FRRE5jVHZDNlNwVUpQX0tfQkxqS3MzYUdZ?oc=5",
-    "timestamp": "2026-06-15T16:44:16+00:00",
-    "source": "reuters"
-  },
-  "ac38db418c0c555e9c40347b6c7e661a": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pRGF4b2pBOTZNYWxvV3dJNG9sWW9hWkRLdDVoQ0hMMUJnMVVHNHZoTXgxNE0tU042RHZvZ2ZMX0tDSk4yUm5DNnJjdlpxdUFkd0E?oc=5",
-    "timestamp": "2026-06-15T16:20:57+00:00",
-    "source": "iranintl"
-  },
-  "bd311b5e53f3c78ca95d5d410a9789d8": {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzBOb0pzYUExM1g5aXo2ZDlTU0RJQllLdjNxUTZMQjViWEJFWjlTRTN0N1pQeHBaVUYwN2E1Rkw4dl8zQTBQQ1dDMDhUWnEyRzZMLThDNkYyd2s4S2ctNGx2RXphTjlkTDU5OHRtMTFEV1RjNy1tUS1YZE5tZ3VPR0ItaXJ0YXBOMWlnalNiUXFYUQ?oc=5",
-    "timestamp": "2026-06-15T16:06:00+00:00",
-    "source": "ap"
-  },
-  "11c1266a56b35a9a2c03cd2f47b42251": {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTdPRTlRSUZXM2ZEc05FTzM5NEZSalItZ2FYSlNfSVdFcUY1UVZhVXJRZFVZd0RvMlFsSEthdHlDeDJHdWQ0TUVUMFRxNmQyaG5zUDNiTjRRQzVLWGVwVXRSWDlGSlVudk9DdDRORU9CM2ZVb05Oa3NpU2hOR2xrTzBQdTFPVmpfdFhtWWlRS3BMNGY0WlREandpSGpvUXVLaHlDS3dhdXBBeS1SQmc?oc=5",
-    "timestamp": "2026-06-15T16:00:19+00:00",
-    "source": "reuters"
-  },
-  "ec3ce56b510f5ef20fab2f8455be4120": {
-    "url": "https://www.nytimes.com/2026/06/15/world/europe/uk-palestine-action-ban-appeal.html",
-    "timestamp": "2026-06-15T15:51:37+00:00",
-    "source": "nyt"
   }
 }
