@@ -1,4 +1,24 @@
 {
+  "ee7b5442fd0c7118a7eeecd289538c8c": {
+    "url": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon",
+    "timestamp": "2026-06-20T21:44:15+00:00",
+    "source": "nyt"
+  },
+  "2e7539c75ae67924fe0a34a2760d78ca": {
+    "url": "https://www.france24.com/en/middle-east/20260620-iran-says-closed-strait-of-hormuz-as-us-deal-hits-obstacle-ahead-of-swiss-talks",
+    "timestamp": "2026-06-20T21:05:53+00:00",
+    "source": "afp"
+  },
+  "ba9d4678d7d39400790a0d69c499a092": {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZU83bXR0RDhtTHExa0dVVFJOTWlvNS1DMVM0WUdqX0JyNWQ0RnRTcUNzQlkzR2xtWDdnTVA0NEt3NDVMZXBZcl83X2lEVU9jRktXNlc4SjhKMWMxRUZidDJvdDBreDZLbmpsRklMU01GNkJiYVJVWnhyZnlzUkFhYzY1VFdtUjRUbTh6aHlCVkFQUGttSU44TDBWVDZZTlRJbUhTY3JzRHA?oc=5",
+    "timestamp": "2026-06-20T20:54:00+00:00",
+    "source": "ap"
+  },
+  "8e884210bd7529a2988b5111fd59f7dc": {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYkZCVmhQT0VCLVhFWTMwWFpwd1E2R0NvNmgyLUU0S0pvOE51YTFNNVlhdnprZmxhWmE2dmoyZ3JNMVFOMHlfWm9ybEZBQVNvcXU4elozMGhwVzZOT1dId3ZDNGpTNC1nZUQ2SjdvRTAycXFXeGpwdGc4LXNkTXAwYXFfd3IzWWdJeERUY0xvZXhObEhXczdCcmYxOVFzZVpxa0hlX3U0MXlwc0FKSHJXZUlZSHRzTGJsa2hIRXNMWXg4WUZHR3c?oc=5",
+    "timestamp": "2026-06-20T19:16:10+00:00",
+    "source": "reuters"
+  },
   "a12bc2d3ddbd4c9c222a8f36cd7fa712": {
     "url": "https://www.france24.com/en/tv-shows/spotlight/20260620-a-deal-in-dire-straits-israel-s-former-prime-minister-ehud-olmert-talks-to-france-24",
     "timestamp": "2026-06-20T18:55:41+00:00",
@@ -19,6 +39,11 @@
     "timestamp": "2026-06-20T16:53:14+00:00",
     "source": "nyt"
   },
+  "b23e935820be808a0ed4fc280c7328fc": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95dm50WG9TV2d0MncxUU1kZlhOdERpUV9URXdnUmxxVWNFZXBqa3hiVVhwQTdYSUl6NXlPbFBZMWwza2syZUVEeUp3UmNIU2lNbmc?oc=5",
+    "timestamp": "2026-06-20T16:40:25+00:00",
+    "source": "iranintl"
+  },
   "20293d02e2e63fa216b2866bf9e17b75": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FLUthajdDRFVvZ0R6YkoxbGJtUXlfWDVIRGl6amVQbm9RODg2M09ISzNnQy1CZHZPb1dyeW1VcXl6TGMzYm5rRTFhTnV6NWxBYk04U25LNHh3MUwzcVE?oc=5",
     "timestamp": "2026-06-20T16:15:36+00:00",
@@ -29,10 +54,20 @@
     "timestamp": "2026-06-20T16:07:58+00:00",
     "source": "iranintl"
   },
+  "c7457d27b22ecc973a32e243f44e87f4": {
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DVXBDS0EzX2hMRERwTWQzMEpONk5WVW9MT25RYXVOcTRzWm1Ib1RJOUhoUkg1alllQmllTkoxN3EtYmZpc2xtV3Y4MnM?oc=5",
+    "timestamp": "2026-06-20T15:28:02+00:00",
+    "source": "iranintl"
+  },
   "cb5f86cd76af15950a816e01654129dc": {
     "url": "https://www.france24.com/en/europe/20260620-ukraine-s-zelensky-top-officials-return-polish-awards-in-wwii-row",
     "timestamp": "2026-06-20T15:27:09+00:00",
     "source": "afp"
+  },
+  "2b9a3a2806720c0c011b95a7e002f572": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mN184bUY0UGI4QU5WYkpacVJVd3FULVNscWdMa2hMaThTMTdqREoxd0c0NnY1MDVSMzZlaUhMT0FWTVZTbTg1c2hjTTk2Vlp2OFE?oc=5",
+    "timestamp": "2026-06-20T15:19:14+00:00",
+    "source": "iranintl"
   },
   "ed21f8896b1dff93da773a952747c02d": {
     "url": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon",
@@ -108,6 +143,11 @@
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRDVvaUdiWWJuc1RxSXoxbnpGSXRFVVZJOHZmOU5CVWtEM3FUcVNLN0RkdHYtLTBndXNXU1RtbklqZUxUaW55LUR4dk1qRHlXXzZyRHgzM3JleV95Q0ZJN2ZmaTBsWkhmSlZPaDFtRmV2dmNzUWFrTG9mNFFNVjhadU9WVWstTTZNeVZjY3NkTWFoN0V5X3JGb1pybVVGb1NZaHMtNElLZklFV2h0a3l4VUpFalBDN1Vk?oc=5",
     "timestamp": "2026-06-20T11:45:48+00:00",
     "source": "reuters"
+  },
+  "bc06ab94c83883a9e5dae81dc3d2cc4c": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nSG9oX1dXSVF6ZVFsVUxTdC1SMzR6Qk9xNUhYdXRUVVJnd1JYMEtoS1Y3NTdBTnNvWEVUelk1UGZHTWlvdGFsYTMzUGw0eWt3YXc?oc=5",
+    "timestamp": "2026-06-20T11:43:00+00:00",
+    "source": "iranintl"
   },
   "e833d3845cb86f8f21940eeaad2c8ca8": {
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb3pXUmpJYkN1RjhOTHFqOHF5dUkxT2lfbnpzYno3RG41c3dzc2NsMG9mVVh2LWpWZnNIZFZRV3Z0WTdZcV8ya3otZWJLVlFfRnZUeEtXMklKd2pZXzVReTIzQnNkeklEeXdRY0VlZjNHUl9GOTRQZXRDMGstRUdMelJxTUpHRmVNWXFwS1JiX1pDNXlSOUlmSWhsSXQ4a0F2OC1hdURBNUVIUE1lSkQ3WS15U2JBMTFiOE5qNnhuZEp4eEUzX3FIRQ?oc=5",
@@ -2457,46 +2497,6 @@
   "6c02a4dc3481d9d949259589abf8a1c2": {
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXUEFJQlB1amFiU2w1N0RBcDZmdWh6NjdKS2NUSVA3S19IXzJVOFRnQVFPRk40anpnOTk1WDlSQnBVZW1JdjhoQVY0SkVQNmc2eFZkVldGM21Cc2FmTkxPTw?oc=5",
     "timestamp": "2026-06-15T19:07:56+00:00",
-    "source": "fars"
-  },
-  "420c84b08ab011f1befb776882b950ed": {
-    "url": "https://www.france24.com/en/interim-us-iran-peace-deal-sparks-anger-among-israelis-who-lash-out-at-netanyahu",
-    "timestamp": "2026-06-15T18:51:21+00:00",
-    "source": "afp"
-  },
-  "745a9a5fadecd048d0b8e88792592d57": {
-    "url": "https://www.france24.com/en/iran-deal-allows-tehran-to-charge-maritime-service-fees-on-hormuz-strait-transit-ministry-days",
-    "timestamp": "2026-06-15T18:46:20+00:00",
-    "source": "afp"
-  },
-  "34e95e937a082c8a76519a7c6c375eb6": {
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KdVVjRzk0d0h2a3BpUlNNU1lZaGV0NDY5LWFvYm52V2pWakdiM3RscTJfTFpZcEpnT09FaHNkVWUya3dVdWhKajFoeGJrTUE?oc=5",
-    "timestamp": "2026-06-15T18:20:39+00:00",
-    "source": "fars"
-  },
-  "4681d27a6c1babc74294b433d00d734a": {
-    "url": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
-    "timestamp": "2026-06-15T18:18:41+00:00",
-    "source": "nyt"
-  },
-  "ae030111f7553fdad166f25c7aeb42c5": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ja3lxNHVoaXBpcmt3ZGFiV3gwcU5QNnpjWVVDMzIwU2Vnd0Y0WF9fUDN1MjM2Wmc5aEdGeG1uUFJDWFRJd2I1YlFsajdTTHhNd2pzWF9qQzVJU3JXQ2lrQg?oc=5",
-    "timestamp": "2026-06-15T18:13:22+00:00",
-    "source": "fars"
-  },
-  "34629a1e8e2eccce4427191b84506511": {
-    "url": "https://www.france24.com/en/tv-shows/the-debate/20260615-let-the-oil-flow-can-us-and-iran-actually-strike-lasting-deal",
-    "timestamp": "2026-06-15T18:11:42+00:00",
-    "source": "afp"
-  },
-  "deabcfc1650aa40cef313fdde698a2be": {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSnFWNXBOU2RxYjZkSTBuTjVWdmtySDQ4YU5IODFVeHM2aVNyUVJVYURrQlczOGFiQnluOTlZeV9MUzZ5Mk1DWmpzUURoc0QtWE1ERkJpX2hMTEM5X3ZzNzRrWjNGZVhFT2hDRnpBZHhqbVVOWHMyRlJCUWpNLWs1SGU4aUZhNEsxWlZIZS1qM1oyUQ?oc=5",
-    "timestamp": "2026-06-15T18:07:00+00:00",
-    "source": "ap"
-  },
-  "cdfedac3d536c43e657a02a1b506def8": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtTDFQdXdKb3dscGx4U1owWWpmVTc2cDh0cktrQkFCbXJfM3hhSE9CeVZsc2dCcTZWRjRWRzVGVHk4MDhHaEZXWXcyaVdCMFVULUtfT3p2V09pM0J4YkQyQg?oc=5",
-    "timestamp": "2026-06-15T17:51:12+00:00",
     "source": "fars"
   }
 }
