@@ -1,8 +1,68 @@
 {
+  "ed21f8896b1dff93da773a952747c02d": {
+    "url": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon",
+    "timestamp": "2026-06-20T14:57:22+00:00",
+    "source": "nyt"
+  },
+  "494502374264154186c60d831ff23c17": {
+    "url": "https://www.france24.com/en/iran-closes-strait-of-hormuz-despite-ceasefire-after-continued-israeli-strikes-in-lebanon",
+    "timestamp": "2026-06-20T14:26:41+00:00",
+    "source": "afp"
+  },
+  "dace3e8c7a9f87202b6e1db634ce5c6f": {
+    "url": "https://www.france24.com/en/middle-east/20260620-trump-says-italy-s-meloni-asked-over-and-over-for-a-photo-with-him-as-diplomatic-spat-escalates",
+    "timestamp": "2026-06-20T14:13:10+00:00",
+    "source": "afp"
+  },
+  "45c2595558a6cb6b8150c50365162bbd": {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbVUyY2ZiaHlmMU01WFZDX2M5c2Y3d3JWekJWMWZTbF9iR3d4UVdDR3ItSWEwSmE1M2taaG5GX2gzbTFZN3V0cUJXV1RzXzZXQ2ZmNWx1emtiVlk0Y3ZCLWQ4cVB3VFpYUmlZZUF1WmFfaUdmY1Ywa2d6MlBLakdUX0hKVzgwQWwzWVpNOXQ5TkhCYzhSVGZlSlJIc3Z6VHF1UndYd2JiMkR0T290dTVZXy1heVlwREF0Vm5z?oc=5",
+    "timestamp": "2026-06-20T14:10:39+00:00",
+    "source": "reuters"
+  },
+  "2a2efddc292a5051e70327cbfeddcad6": {
+    "url": "https://www.france24.com/en/middle-east/20260620-israeli-strike-in-southern-lebanon-kills-five-hours-after-ceasefire-agreement",
+    "timestamp": "2026-06-20T13:26:42+00:00",
+    "source": "afp"
+  },
+  "07bfdeb18ee261a1361b6b070e68a29f": {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTEyTUU2Snk2NzBhWmZCcV9JMzlEV0hRbjNTU282RU5wV3FvNElISFk2ek5SaXU3YXJXR3l1ZFF2RGpsMElnTkpMUmc3Y084NldTRndXWGdLWDJuT05wd0JkY3VtSUxKdFZMLXdJYmVMZXROV2NOczE3b0pWNEZpaEN1UU1teHZyWmotTjdtNmU2RHRlVmtkMzNoZUN5aGpFZHhnRVRnanVxYkRtSnVz?oc=5",
+    "timestamp": "2026-06-20T13:25:43+00:00",
+    "source": "reuters"
+  },
+  "93e324e8a283e208d3c0c4f5c2af39aa": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FLUthajdDRFVvZ0R6YkoxbGJtUXlfWDVIRGl6amVQbm9RODg2M09ISzNnQy1CZHZPb1dyeW1VcXl6TGMzYm5rRTFhTnV6NWxBYk04U25LNHh3MUwzcVE?oc=5",
+    "timestamp": "2026-06-20T13:17:58+00:00",
+    "source": "iranintl"
+  },
+  "05ea9b21c0859e769768632756af7f1d": {
+    "url": "https://www.france24.com/en/israel-strikes-lebanon-despite-ceasefire-at-least-16-killed",
+    "timestamp": "2026-06-20T13:05:43+00:00",
+    "source": "afp"
+  },
+  "38404d261128b945e571e03e037b874a": {
+    "url": "https://www.france24.com/en/ngos-in-lebanon-denounce-israeli-attacks-on-medics-amid-ceasefire",
+    "timestamp": "2026-06-20T12:57:47+00:00",
+    "source": "afp"
+  },
+  "a2077f20cc482cc5976d5ad431012125": {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEtVZWxoSnhzR3BkMnRVbjVlZ0tjdGduQXNpWDR1cVhXeDhsR21iUS1oT2pKS2dnYTRNaDg1TjJqSm42eURTRjB5dDZZZ2pxZzhXQVdsRVhVV180MHlJX3F4LWVDQjhHMmJjaXNud3d6NE5ENlBBd25LTmhhaG80ZEE0ZDU5U1M4VWgxdzM0N0NtaEZvaEtQWEdEVU53YWlkVnZrUE9NelYtaURsWW5SQ18wRHBxQ1RL?oc=5",
+    "timestamp": "2026-06-20T12:53:36+00:00",
+    "source": "reuters"
+  },
+  "01a333512ef57fc56eea766cd043c309": {
+    "url": "https://www.france24.com/en/extreme-heat-tears-through-europe-how-do-countries-deal",
+    "timestamp": "2026-06-20T12:45:59+00:00",
+    "source": "afp"
+  },
   "2be0d0686544f092dbeb32ecf54a4378": {
     "url": "https://www.france24.com/en/poland-strips-zelensky-of-top-state-honour-over-wwii-dispute",
     "timestamp": "2026-06-20T12:44:11+00:00",
     "source": "afp"
+  },
+  "b9faeba4e43b2087649283f2c1a95fbf": {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRDVvaUdiWWJuc1RxSXoxbnpGSXRFVVZJOHZmOU5CVWtEM3FUcVNLN0RkdHYtLTBndXNXU1RtbklqZUxUaW55LUR4dk1qRHlXXzZyRHgzM3JleV95Q0ZJN2ZmaTBsWkhmSlZPaDFtRmV2dmNzUWFrTG9mNFFNVjhadU9WVWstTTZNeVZjY3NkTWFoN0V5X3JGb1pybVVGb1NZaHMtNElLZklFV2h0a3l4VUpFalBDN1Vk?oc=5",
+    "timestamp": "2026-06-20T11:45:48+00:00",
+    "source": "reuters"
   },
   "e833d3845cb86f8f21940eeaad2c8ca8": {
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb3pXUmpJYkN1RjhOTHFqOHF5dUkxT2lfbnpzYno3RG41c3dzc2NsMG9mVVh2LWpWZnNIZFZRV3Z0WTdZcV8ya3otZWJLVlFfRnZUeEtXMklKd2pZXzVReTIzQnNkeklEeXdRY0VlZjNHUl9GOTRQZXRDMGstRUdMelJxTUpHRmVNWXFwS1JiX1pDNXlSOUlmSWhsSXQ4a0F2OC1hdURBNUVIUE1lSkQ3WS15U2JBMTFiOE5qNnhuZEp4eEUzX3FIRQ?oc=5",
@@ -74,10 +134,20 @@
     "timestamp": "2026-06-20T08:22:19+00:00",
     "source": "fars"
   },
+  "ff7ed2a96a4bf3a988f7ce159d6f3619": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nNjRFbUtnd3o2b1AxREdhUWV5cWJfZGlMVF9mSV9aQzNmNVVPY3pRcEVIRnY2SjMtQmVaU2ZMWjExNmpXZ3NTU1Bwd2Jod3VkbFE?oc=5",
+    "timestamp": "2026-06-20T07:28:41+00:00",
+    "source": "iranintl"
+  },
   "254d1b53a30b1ee9d083782b61576f45": {
     "url": "https://www.france24.com/en/middle-east/20260620-israeli-strike-in-southern-lebanon-kills-five-hours-after-ceasefire-agreement",
     "timestamp": "2026-06-20T07:27:51+00:00",
     "source": "afp"
+  },
+  "b81f9a66dfa3741397bc7d60bd0168a3": {
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CZkpUT2tCZ3cxbnRtVE1nbEt0RnpCRmRIUFNHX3c3UzVOeXpCZEFzaXNINVhjVFVsbk14anNQWTdGVXd2YmprV0JWRGlPQlg0ZjJ4V3AtM0Z5TmFXUFc3Q2U1YkUza210WVE?oc=5",
+    "timestamp": "2026-06-20T06:58:35+00:00",
+    "source": "fars"
   },
   "95528b04b8142b88a1cf794788ebc3fa": {
     "url": "https://www.france24.com/en/video/20260620-residents-flee-as-israeli-strikes-target-southern-lebanon",
@@ -89,12 +159,22 @@
     "timestamp": "2026-06-20T06:44:09+00:00",
     "source": "afp"
   },
+  "85d203115647af2a47c20b537618cbec": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UcmhmTkVuZzAxOVJBRjcxUHh6cFRuQXk2ak1ONEVGUmtGdW9OZnFTTXFvVzdXUnhEQUFTZkpqN1VJb2dLUUwtRXRYcmxBZFhHd0E?oc=5",
+    "timestamp": "2026-06-20T06:15:30+00:00",
+    "source": "iranintl"
+  },
   "989709d698035cb5d09a4d067b9216d3": {
     "url": "https://www.france24.com/en/europe/20260620-western-europe-braces-for-more-extreme-heat-as-temperatures-continue-to-climb",
     "timestamp": "2026-06-20T06:13:07+00:00",
     "source": "afp"
   },
   "f3fd4576810060e355bcd86eaa2c02ce": {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMzVvTTVqNFNpMVpEVk9Ib0hFaFBXTTkwMGhON2hOcTcyVzVISHJjMkVyYjZhWHJQQV9TeVAtNlBrNEM5LUFySGs1QW4ySFVKTkQ1R1lvYWcxcy1sazhRQi12WjJlRHc3RDNjTTZZNmlNZHh3Y21CaERsTm1LUTVURVRIbGFYdFlkMXFHY3pMV1BIMVJpalFCLUdTV0xRV2ZDdm9oNkNORDlrQ0VyTkE?oc=5",
+    "timestamp": "2026-06-20T05:44:00+00:00",
+    "source": "reuters"
+  },
+  "07651d36c491b7a8eb40c7994ec33a94": {
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMzVvTTVqNFNpMVpEVk9Ib0hFaFBXTTkwMGhON2hOcTcyVzVISHJjMkVyYjZhWHJQQV9TeVAtNlBrNEM5LUFySGs1QW4ySFVKTkQ1R1lvYWcxcy1sazhRQi12WjJlRHc3RDNjTTZZNmlNZHh3Y21CaERsTm1LUTVURVRIbGFYdFlkMXFHY3pMV1BIMVJpalFCLUdTV0xRV2ZDdm9oNkNORDlrQ0VyTkE?oc=5",
     "timestamp": "2026-06-20T05:44:00+00:00",
     "source": "reuters"
@@ -179,6 +259,11 @@
     "timestamp": "2026-06-20T00:09:29+00:00",
     "source": "iranintl"
   },
+  "71948b1b16a2096be48b67b6945393ec": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ibWp6ZGFfaWJYaV9oVW9tam1iR0tSS21KRTB3NS15TjNPdkE3MFQzTXRHYXNUOWZuVUlKeHFDOTRYVlJPbmxZamRyRzRzY2Yza2c?oc=5",
+    "timestamp": "2026-06-20T00:09:29+00:00",
+    "source": "iranintl"
+  },
   "ff5b81f06a306a96552b0d980fe303a9": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HWkNrVmlzYWxSQXhBdW1EYVhTdjJlR3ZQamdyM2lmbkd2cng4OEIyX3lsZjNMMkNGbWpRZ0p5UmdDTkJqX3JabjBfUUFlMERKWWc?oc=5",
     "timestamp": "2026-06-19T22:44:10+00:00",
@@ -258,6 +343,11 @@
     "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260619-g7-co-who-rules-the-new-world",
     "timestamp": "2026-06-19T18:29:41+00:00",
     "source": "afp"
+  },
+  "539b3a913bf65255c71fc6ae5cbccc02": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PNW1lNkVxc283bmttek5SUDUwN0FfcDBRT2FRR01FazVJTVFUcFpoaW9ORnl6UXphV1pwZlNWWWN3RXY3bHE5VWhoVEE4b19nT2c?oc=5",
+    "timestamp": "2026-06-19T18:20:00+00:00",
+    "source": "iranintl"
   },
   "73d8f1fab84cf9247e0b74f1ca5549f8": {
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdDdtMWZ0SDdDbThCNEFjb2p2aE5QVFhETEFOT0RyUG9MaHlta2VNWWpjWE1sOFNEM3pYOE9NYkhRM2x3d0hnYzRQZ2F6eG5zSl9aZEpHd0xaRFR6LTFfNHFKdFBWVXdZSTNMMVZOY3RaZmVjRVZ0T0ZYVEZvWU8xZDBtdk5OMGpMaFhOR3RKU3MyUHFQU3NmMzluUFlFaDBD?oc=5",
@@ -2408,95 +2498,5 @@
     "url": "https://www.france24.com/en/video/20260615-israel-has-had-its-hands-forced-by-us-iran-deal",
     "timestamp": "2026-06-15T15:16:06+00:00",
     "source": "afp"
-  },
-  "fbcce444ba2522391bf52a0e2fb8f58e": {
-    "url": "https://www.nytimes.com/2026/06/15/world/middleeast/iran-national-team-fans.html",
-    "timestamp": "2026-06-15T15:12:26+00:00",
-    "source": "nyt"
-  },
-  "fc5a89f9d26609af5bf4ac6d896f6c05": {
-    "url": "https://www.france24.com/en/video/20260615-iran-take-world-cup-centre-stage-as-they-arrive-in-us",
-    "timestamp": "2026-06-15T15:11:34+00:00",
-    "source": "afp"
-  },
-  "12b96021191a1efa5c29125bcf7f1f4e": {
-    "url": "https://www.nytimes.com/2026/06/15/world/europe/france-lyhanna-protests.html",
-    "timestamp": "2026-06-15T15:08:01+00:00",
-    "source": "nyt"
-  },
-  "de21f01cc113e461224e746ab3284cd9": {
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RRHBjWHhiSUJkQlJqaUVtQ0Y5bUpCbV9RX1B5MlBack56dEw5eWhJRWlzS3hlSVhQTUtXSFZGNEVPNW9RaE5MWGhCOGRRQkJGdUprVTNianI?oc=5",
-    "timestamp": "2026-06-15T14:55:33+00:00",
-    "source": "fars"
-  },
-  "97ad952507c2e4d207fb40398269e9b9": {
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeEpBS3hYell3T214YXpEUUJXUmFJSXY5MVA4WFlHaG5XbjNLdnVsQVZLTHYwN3lGS0tMUGdGOG9YSTNZY3hjQklBX0t2NGx1VTRrQUpnTVhjX0NYbmZlSjk5RW13TFpYZXNUVVd6c3JUeVVsTjdta0dKa3l6TklwVjBWSVZHVDc0dnJLR3o5bldSbmlSeGR4bTNn?oc=5",
-    "timestamp": "2026-06-15T13:47:00+00:00",
-    "source": "ap"
-  },
-  "7a98e9e6d4ebd5498978130c0319f915": {
-    "url": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
-    "timestamp": "2026-06-15T13:45:35+00:00",
-    "source": "nyt"
-  },
-  "9fa2fe5ca06724e63786c6fec48fe689": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1VHoyX2VaTWhXWmFJd24wSFYxV2VLd0xfSlB3T2lTMkpTblg1TGlsY2Y1MzFoQ1QxUFJqdVdQTzd2X25vN05tRW1DVlZ3T1hKSWc?oc=5",
-    "timestamp": "2026-06-15T13:38:08+00:00",
-    "source": "iranintl"
-  },
-  "76f0f5a18a0f6ff1f853bff57ae69543": {
-    "url": "https://www.france24.com/en/video/20260615-mixed-emotions-among-diaspora-as-iran-begins-world-cup-campaign",
-    "timestamp": "2026-06-15T13:21:15+00:00",
-    "source": "afp"
-  },
-  "2f9ad65c788486a8ad052e5da6411b7e": {
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZGx1V0l2bkdiVmlub0dxMzN5R3d4NndWMmxtX2x1TmQ3bXpPZVIzam83cGFmbjRBVmNXRTlXWURlYTRBbDNXNzJ3MzYyTkstd0wzTjE1RlhkUEpnZ1NCeUpiNUpLM3JIaGZBV3VvUTRVLWNlUVRyelAwYjBWYy12d0stcnBKVGVlZUxn?oc=5",
-    "timestamp": "2026-06-15T13:16:00+00:00",
-    "source": "ap"
-  },
-  "3817bba6a31368d28c5ae41eb2f04a99": {
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzhfNXBtT2M5MW1RRUtwajZqMF9JYmhqZjlwZXZ4SVI1NDk2OHVsY21PRWx0X2I5b0N2X3A1Ymp3ZEJrTnhmdzY5czMtM2ZoRmh0OExQQk9Bd0dOWlhOX2FRdjhvMnJDemsxUjdxMGhja0JHSVpHRHo5UTloVzFBeURoMGRVN01xLTVpTGZTdnJHSElaSkhsU1YxN2IxMkxkS1BOb2s5MDNNY1VlZTU4b3R0ekk?oc=5",
-    "timestamp": "2026-06-15T13:10:00+00:00",
-    "source": "ap"
-  },
-  "49f4c079b28c73233e33bf72182da36b": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NRGdKN3k2aThUZFJwVndPLXJKTjlheG5nbUdjZzRuZzY4NVB0U1RZWXlkUklUaFJ0SWZRRHZCUC0xM0tOQ3VVZzY1R01EdWRCblE?oc=5",
-    "timestamp": "2026-06-15T13:07:39+00:00",
-    "source": "iranintl"
-  },
-  "f12847ab59a116dddae7cfcafea55530": {
-    "url": "https://www.france24.com/en/video/20260615-swiss-reject-proposal-to-cap-population-at-10-million",
-    "timestamp": "2026-06-15T12:57:54+00:00",
-    "source": "afp"
-  },
-  "9c8ebf517bf74a72b96bb550a7c4e172": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sQVJ5WGtqWVVYTVM1eTR3b3ZnTkY4V0o2dTVOMS02SGtPckt2b2I5M0FTOVE0Qm1zWmxvV2xwel9qWUkzWTdSTHI5aWxjaldWVUE?oc=5",
-    "timestamp": "2026-06-15T12:55:47+00:00",
-    "source": "iranintl"
-  },
-  "30d06bdbe95033f8668b3f3cbfd339cd": {
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOXNDNzRJNWJCVHQtc3JUZmVyT0pTN005WjVXVDY4cXA0THQ4RmZOalpjWWp6YUFlOVBLV0JqbUg5dlJlMWNFQXp4TGc2MVo5RGpUVjNkejJVM05vYTdjdUtldHJsSFQxeFVxbllvbDZXTnlrUG1SclN5MkctSWc4X043OXJhQS00NmRpUnd2UnA?oc=5",
-    "timestamp": "2026-06-15T12:32:09+00:00",
-    "source": "reuters"
-  },
-  "8501f7c388b8ea0f32fc867ac91c2f5f": {
-    "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
-    "timestamp": "2026-06-15T12:25:06+00:00",
-    "source": "nyt"
-  },
-  "9f37c47cc3bd5a1524e7e31740227577": {
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYXYwZ19NSlZVb2pGOFVkb1VHckctei1fb0xYbmQtM3RraERnTFdySUw3ZnJaOUZVLVBVWlAzR1JNWno2dEp0ZHgwbnd3RjJpd1h6c0E1RkpjSDJMYzhpSDJaNUFSS0oyTjN1b2dJaE9CaW9hS3RHRHVmYVFPOFV4T2RHdDZpX3czQ05sTTNEY21QX3EzWXFaSXJnSXppcldKZHFlbm5PM19OUmRoYk8yWDFTeE1VVDNiVm5qaHdQMXBldTVqeUVodG5NMU15MXdCdzkw?oc=5",
-    "timestamp": "2026-06-15T12:21:43+00:00",
-    "source": "reuters"
-  },
-  "0a66443599a6dbcac866e4fd09463e7b": {
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqNmlLa0p1R3kxWC11cjBzSld4MlllSERkdVZfdmJCeGx5SXlOVXVlSnlXOUJNcU1ZQUVYNnVrM2I1TzBLeG9hUXZITmVwNloyZ0ZFSHZocENFZkI3U04w?oc=5",
-    "timestamp": "2026-06-15T12:01:04+00:00",
-    "source": "fars"
-  },
-  "e694e68aeab9a4c4cfba2a4c175c1962": {
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqNmlLa0p1R3kxWC11cjBzSld4MlllSERkdVZfdmJCeGx5SXlOVXVlSnlXOUJNcU1ZQUVYNnVrM2I1TzBLeG9hUXZITmVwNloyZ0ZFSHZocENFZkI3U04w?oc=5",
-    "timestamp": "2026-06-15T12:01:04+00:00",
-    "source": "fars"
   }
 }
