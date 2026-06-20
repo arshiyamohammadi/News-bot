@@ -1,4 +1,24 @@
 {
+  "8daafde547d57ba033525be4af7b2204": {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTVOWlpubWVJN3A4Rl9Wai1TNWRycWQwS1RrbXJCQndDZXIxaklsWV9idkhkRXI2SmN6cldIelBCNGVJNVNYWXhmUjNzeUx1VWhDbkNTdVJLNmwweUtzNmpobW5DSHNVc1BQM2xTc3plMzBpNVV6akI2X1AtVGkyN1l1Q0VIanZGNkctczJvSFM0WEtTdnZmNFlLdWg2LTVtUUxYTC00aEs0cG5qcERYSXBya1Y4dw?oc=5",
+    "timestamp": "2026-06-20T03:40:04+00:00",
+    "source": "reuters"
+  },
+  "4d78ea16b192a5e0db97f579b174a42b": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sREJfd2RsQ2VBVU9xNTlQZmo4UkpGQmVjdU1xNmxuWHRoYTVwVzRDWUs1TElUZDVZc0R5N0RfbTNoeXh2NUVtRkQ0TDh2U18wZjZ5a0U4MERXd2NaRXlVQQ?oc=5",
+    "timestamp": "2026-06-20T03:24:47+00:00",
+    "source": "fars"
+  },
+  "277d0c7a751f73da379437815c0e89dd": {
+    "url": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal",
+    "timestamp": "2026-06-20T01:21:31+00:00",
+    "source": "nyt"
+  },
+  "ff5b81f06a306a96552b0d980fe303a9": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HWkNrVmlzYWxSQXhBdW1EYVhTdjJlR3ZQamdyM2lmbkd2cng4OEIyX3lsZjNMMkNGbWpRZ0p5UmdDTkJqX3JabjBfUUFlMERKWWc?oc=5",
+    "timestamp": "2026-06-19T22:44:10+00:00",
+    "source": "iranintl"
+  },
   "d9a4edfab56e7c33e5fa7c0757826311": {
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3WVYtUldtQnVRcUZYWDZSMDJiQm5HcXpTdENMcFBDc2czNEVfRWFZcUpFT1ZWZjRrSDFkY2RLT2h1Z1hmU2FHRE1RY2lPTE13cEFUQnpyVnUtRXlNM0czcQ?oc=5",
     "timestamp": "2026-06-19T22:17:52+00:00",
@@ -214,6 +234,11 @@
     "timestamp": "2026-06-19T11:19:53+00:00",
     "source": "afp"
   },
+  "aedd450f2d1d547c9721f110ca8a74e0": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Fd0EyMkVuZUMwa3ItRlBMVkRhdnRVRkc4Tzg5VmhVUGV0STgzWE8zU3NWV1A3MlVlYzhBU3l3cmtqNnhmM3VjVC1DczFIWlcxUVE?oc=5",
+    "timestamp": "2026-06-19T11:10:09+00:00",
+    "source": "iranintl"
+  },
   "a766c0e86934e5d2a31bf8155c3ebfd1": {
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXNFdk9kOGRINmxCdTJYVm9wX0p1NF9TUWF0NHJKX3V5UVB6am05Q2FMUG5DSWl0SVd6N2ttN3h6TG1paE83VFRZelhGcGZqcG1BZDQ3d2xxd3JwQWlURFl0Yl9KcFVNeWMxVkZySW5jRHItWDEtNXJGMFJ2d2c4TXB6ZUluZVY0bUhSaDloeEk2QTdZVDB5V0I1RWhWZVRpYVRqcGcxeHBPTC1IMlJNa3Y5bWlWTWlScnQ3NzNlOA?oc=5",
     "timestamp": "2026-06-19T11:07:43+00:00",
@@ -288,6 +313,11 @@
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VTGt2NV9Ya2FOTFZ3RHEtdVR2UFFZNTBmT2VoSXQtNFR5QU0zbVdUUWVqY1lBMjVLeF9JZ2RKYVRMbkhEeU94bHVTUkxSaXBhRDdSNHJoaE5tV0Rzd1kxeHg2S09LN0xYMUhTaDlLVFdfSGltdS0ybW14WmY?oc=5",
     "timestamp": "2026-06-19T08:54:12+00:00",
     "source": "fars"
+  },
+  "af6a9c764ce2f6bd6f08e2db4b20baa1": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ka0YzX2FvN3JPZmJWeV9xT0Z1blNCNThrbkxVQ3NFZ0V1dHN5cFF0eFc0NjNSMVBRU1pkUzA2bldBME1YSFhERVpyaDRoTG5WeUE?oc=5",
+    "timestamp": "2026-06-19T08:44:06+00:00",
+    "source": "iranintl"
   },
   "5f991a782dd5c365193cb016fe4aae19": {
     "url": "https://www.nytimes.com/2026/06/19/world/europe/switzerland-iran-talks.html",
@@ -2468,35 +2498,5 @@
     "url": "https://www.france24.com/en/middle-east/20260615-us-and-iran-agree-to-memorandum-of-understanding-and-immediate-end-to-military-operations",
     "timestamp": "2026-06-15T01:19:08+00:00",
     "source": "afp"
-  },
-  "9dfa48b5ed6d867f425b270079fd4c9f": {
-    "url": "https://www.france24.com/en/middle-east/20260615-us-and-iran-agree-to-memorandum-of-understanding-and-immediate-end-to-military-operations",
-    "timestamp": "2026-06-15T01:19:08+00:00",
-    "source": "afp"
-  },
-  "e26d0943c7f6cbd5cd8be258853d93d2": {
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YMDlMbGRRdzZNbllZVTBTektWOFdIcThaUFh3U2tGYzBxVkwyaGpKNUwzMDF3VTZ1dWM2Sm83ODBOU2lwWjFzVWI0b1RrRXBZRmZCaHltWUNpd3pWbHU1eUhDRGg5M0tzVXc?oc=5",
-    "timestamp": "2026-06-15T01:14:07+00:00",
-    "source": "fars"
-  },
-  "63d470751ac730e811ac092341859224": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGZU1XS2dSX2YycnZHV1BsaUtLWXRabFR0UlVJTWZwODV2MWhhWmVxRzBGV0Qyd0pYYlNsRTVJd0VUR1BxMFlpLTM4c2ViUjZycFE?oc=5",
-    "timestamp": "2026-06-15T00:58:28+00:00",
-    "source": "iranintl"
-  },
-  "271f0e7f3338938aa21a28cf470a151f": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qNW9DQk9IaDZHa1dlSC1kb29ORGdJY0thVHMtT0E2YU9YX2ZFMFpBTzR3ZHFlUzRWN3BzakNMMHN5MFJRWFJEOXNfRVprckxCR0E?oc=5",
-    "timestamp": "2026-06-15T00:05:20+00:00",
-    "source": "iranintl"
-  },
-  "d5f6592eb38d215e9baea9cb9827b5a3": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qNW9DQk9IaDZHa1dlSC1kb29ORGdJY0thVHMtT0E2YU9YX2ZFMFpBTzR3ZHFlUzRWN3BzakNMMHN5MFJRWFJEOXNfRVprckxCR0E?oc=5",
-    "timestamp": "2026-06-15T00:05:20+00:00",
-    "source": "iranintl"
-  },
-  "2720340d6f79af7e41bbf77ad218333e": {
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdDRBZ2VtTERRLW5oS1J0MVZvWlJBTkNiNFJpcGJ2RmM1bmYwQXMtMWI1dlFVb1ptZGpNYURkZ0VGaFRZeFNPZ3NMZkVRMzZTV2hfYTlXOFFQMUpDQ0c5bnFjeXR5bDlXYlRXVFlvR3NUNkRBNklJT2wwREhMN2I4aXhNMHp4SnBoS1lnR1NjaDhvcUl1R2pULW5PbE4?oc=5",
-    "timestamp": "2026-06-15T00:02:00+00:00",
-    "source": "reuters"
   }
 }
