@@ -1,4 +1,49 @@
 {
+  "fffade2e46e6210a1fc79b92308f1f32": {
+    "url": "https://www.france24.com/en/americas/20260624-colombia-left-wing-candidate-cepeda-concedes-de-la-espriella-presidential-election",
+    "timestamp": "2026-06-24T14:43:53+00:00",
+    "source": "afp"
+  },
+  "316808a95051cf55f2b6030d5603f23e": {
+    "url": "https://www.france24.com/en/marc-bloch-extraordinarily-committed-to-projecting-forward-history-the-science-of-men-and-time",
+    "timestamp": "2026-06-24T14:25:38+00:00",
+    "source": "afp"
+  },
+  "ca9f0f100850b9ad50cbf5baa6a8a232": {
+    "url": "https://www.france24.com/en/tv-shows/entre-nous/20260624-how-us-independence-is-being-celebrated-across-the-pond",
+    "timestamp": "2026-06-24T14:14:41+00:00",
+    "source": "afp"
+  },
+  "71be63e5e37201e2f15d2cd9360ab065": {
+    "url": "https://www.france24.com/en/middle-east/20260624-us-military-says-senior-islamic-state-group-leader-killed-syria-air-strike",
+    "timestamp": "2026-06-24T13:58:45+00:00",
+    "source": "afp"
+  },
+  "fd040cb7ec0c10790479b824cfb8eeac": {
+    "url": "https://www.france24.com/en/tv-shows/perspective/20260624-amnesty-international-libyan-authorities-are-more-and-more-violent-towards-migrants",
+    "timestamp": "2026-06-24T13:33:26+00:00",
+    "source": "afp"
+  },
+  "9ff9d8f2182719b3bb65685cc359ed1b": {
+    "url": "https://www.france24.com/en/video/20260624-anger-mounts-as-sudan-s-army-takes-in-darfur-paramilitary-defectors",
+    "timestamp": "2026-06-24T13:19:20+00:00",
+    "source": "afp"
+  },
+  "000b8e184bf4a1f8186d2ceaf4b42409": {
+    "url": "https://www.nytimes.com/2026/06/24/world/middleeast/middle-east-iran-us-rubio.html",
+    "timestamp": "2026-06-24T13:12:22+00:00",
+    "source": "nyt"
+  },
+  "92166a385867d37ffe86acf08ee91762": {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUVdoZzZMMXY4aG1hb2ZsRnFKZF9oOU9CVl9QQ3hQa1cxQ1FpT3QxeXFnQy1PSWxvY0tBVmptczRQaW1zWlVrem96MVBFcDRaeE1zQy12eU96bXpMbG5yc2Q0WWdDcDBGbzg0dzFVdTNlVlMzTS1TenJJNE1qM0phMVRB?oc=5",
+    "timestamp": "2026-06-24T12:48:48+00:00",
+    "source": "reuters"
+  },
+  "1b63099d1753704fd879bafbc63a53e2": {
+    "url": "https://www.nytimes.com/2026/06/24/world/asia/japan-china-detained-smuggling-rare-earths.html",
+    "timestamp": "2026-06-24T11:32:56+00:00",
+    "source": "nyt"
+  },
   "75a9f2816bc76c44c2375469c6f5935b": {
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR0ZxbXI3VDZwaXRHdWxyV0RvR2FXVGZXQmJjVGU4dGF4SDIzNjRTdUx3ZE1SUnRvcnkxcC0wUXdwRmQ5VHlUWVF0blk4LWM4WTdhTDNkQlVtaGJFZkhCWG1Zeks5N0hWYmtmd0dqVFRKMFB3MGFxNS15YVVyWEdVczNtQmVBV2YwQ09GbzlQYm1ZcXZFWXNLbUlNTlZDQmJ2TGYwZkh5RjBJTWZQWVBoSWZaelZnOTdPZDhyQmtGckdaVjJBSE1aajNucE1UWm8?oc=5",
     "timestamp": "2026-06-24T11:19:43+00:00",
@@ -14,6 +59,11 @@
     "timestamp": "2026-06-24T11:03:43+00:00",
     "source": "reuters"
   },
+  "14cc7dc8d79fb1d8b5dfb5368621b69c": {
+    "url": "https://www.nytimes.com/2026/06/24/world/europe/ukraine-war-amputees-sports.html",
+    "timestamp": "2026-06-24T10:25:30+00:00",
+    "source": "nyt"
+  },
   "7c53ac2b506613513e1ddda1d6d7c8ca": {
     "url": "https://www.france24.com/en/video/20260624-us-senate-passes-symbolic-rebuke-to-trump-over-iran-war",
     "timestamp": "2026-06-24T09:44:09+00:00",
@@ -23,6 +73,16 @@
     "url": "https://www.france24.com/en/video/20260624-eu-hosts-taliban-officials-for-migrant-talks-amid-protests-from-rights-groups",
     "timestamp": "2026-06-24T09:30:06+00:00",
     "source": "afp"
+  },
+  "3e8fda26853102b733b8ca724162b4a5": {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT2l6aFZmemNqQVJXNFFpbjRISU1hWDFRSUozZWlORGc4MnVVMlpUWnhiQXRWb051ZnNSb29IdlhJSTBHSEFhV0VuTWxHYm5QTjlPVGhUbTZjZ1huQlZUcGduSkhuaXZYYk5LVnJzTVN0ekRjN2Q1U2JpdThOVGlZcUhDdl9HNUdPVlJMcXhZTXNGM0xkcENzTG94czJ5Vy13YkNR?oc=5",
+    "timestamp": "2026-06-24T08:49:00+00:00",
+    "source": "ap"
+  },
+  "2108956f76070af94a6534075af7c088": {
+    "url": "https://www.nytimes.com/2026/06/24/world/europe/iran-war-regime-nationalism.html",
+    "timestamp": "2026-06-24T08:39:55+00:00",
+    "source": "nyt"
   },
   "ae5948342a817da7996c68529b0edc50": {
     "url": "https://www.france24.com/en/tv-shows/sports/20260624-world-cup-cristiano-ronaldo-answers-critics-as-portugal-get-back-on-track",
@@ -53,6 +113,16 @@
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90VHZBcUtNZVhQMlBwMzFBdVZoeWhQUkJpekc3blFNeklIWjBiSUJPbnhXcFE5RUtjV0NLUEVjdm8wRzlIdlR5TWZvZUc4clZRbG0yRU9LVk5XbGNkNkpRTFgyUlQyNnNnS0E?oc=5",
     "timestamp": "2026-06-24T04:11:45+00:00",
     "source": "fars"
+  },
+  "5cd889158a262fe3ea8601083f784425": {
+    "url": "https://www.nytimes.com/2026/06/24/world/asia/myanmar-civil-war-rebels-airstrikes.html",
+    "timestamp": "2026-06-24T04:01:21+00:00",
+    "source": "nyt"
+  },
+  "67f7a45d8508ac9241b3960b72d49f1f": {
+    "url": "https://www.nytimes.com/2026/06/24/world/asia/myanmar-civil-war-explained.html",
+    "timestamp": "2026-06-24T04:01:06+00:00",
+    "source": "nyt"
   },
   "ff68c0d8d1bd6da4dc24c3c9fc2349a9": {
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMGpGdHVrT2lwc0tVRWtocW9CUmNVQ3FST2N6TU9IZ3pSMEU0SmkyTUhielZfVmJNZmRZYTlpckNOcWllLVlnUTQ4eTdrMG1KZkg5Q3haV05CMjZnb0N6eHRJUmdzdDh4UXhOMlZBdjM2LUNmSll1TF9PN0Y0NlhqRGVWeWNzb3RDUlhidFdRSkFYUlh6aEh6YjdJUjZLQkJ2a0NVRGNR?oc=5",
@@ -113,6 +183,11 @@
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmhxUVNibG82ZUN6NG5vUGVEb3c3X3ExNXJKYjFwYzZCYi03ZGFjX2JNZ1VyNzRzSzF5U3V4LVhIUGM4U0lrZzY4SmhBeGZuVHlqLWxsQ3hPRk5aYVZtT2ZPUk84LUl2LWw1WEl5ai1OS3ZFcGlKTmpEZmVPeG5rT1QwOFVoY25iS2NXRjBPTnQtNnBxYkNpQXFVT1hKTEJYbGJpSg?oc=5",
     "timestamp": "2026-06-23T22:54:00+00:00",
     "source": "reuters"
+  },
+  "29fd3e82349cac6db809e4bcc134019d": {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FM3dTZ0JTZkJwNXNTQzhkdlluMUZPUlI5Yy1OM0NmZnIxa29SbGJTMnZ2VmxDZjYzcjg5UklOV19SWGg3amlfNGxOcktNX1FtZGhDYUdRS21INTZ1N2ZRdUFvR0FZV3c3UEU4LTlLR00zREty?oc=5",
+    "timestamp": "2026-06-23T22:32:59+00:00",
+    "source": "fars"
   },
   "f8221fd00da3cabc3957e0483766b244": {
     "url": "https://www.france24.com/en/france-record-heatwave-sees-hairdryer-effect-threaten-crops",
@@ -2422,81 +2497,6 @@
   "fd902783d2ab60a263d9cc853176108a": {
     "url": "https://www.france24.com/en/europe/20260619-starmer-rival-burnham-wins-makerfield-as-labour-leadership-speculation-grows",
     "timestamp": "2026-06-19T02:27:42+00:00",
-    "source": "afp"
-  },
-  "7af68d052d903d6d233f389d8779ca1d": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sQ2lpbGhkaGRvbV9hRGJCcVhsaVFYT3dzSE1DOTV4MmZSU0doLS15YTZaX0RNeWN1eE9BNlZ1Y1BNQmtSRFZVNDdvd3RaTmZkSUE?oc=5",
-    "timestamp": "2026-06-19T02:21:17+00:00",
-    "source": "iranintl"
-  },
-  "c905a7920b90b9aab33445070277d117": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5famJTaUYtTmwyb2ZCaWlFaEd3VmMzZVc2R2NkbmRINF82Z3d0elZDUkpHbDh3VEJvRVNVUWdwZnNFb1FLal8xUlhLR2tpeVlQRWc?oc=5",
-    "timestamp": "2026-06-19T02:15:33+00:00",
-    "source": "iranintl"
-  },
-  "0fbb8d76fd449b2a2ac06aeadcbcee36": {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenpZRmV3aHY4Qy1sQTBPclVSY1o4ZjcwMVpsYmlHdlV0UjQ5aWUyOHNsemkwSmJuOHNHNzNTUTdDRDNHeWhlbU9lTWtKa2VRMkRCa0ZTN3E5c3pUQkVDTTU3a2hjcE9ac2NSZUd1ZnZNaEtMSm9HYk5XXy1TbEJ2VTJpNkE4dmhYcjJ5TXM0dUtubzhMQ2hCTkRBQ3R6WExra3pubw?oc=5",
-    "timestamp": "2026-06-19T02:09:00+00:00",
-    "source": "ap"
-  },
-  "a67eef4b0498d96ad3fac715ad80f2f0": {
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcG8wSGhHblhWdlppN2pVNUt0WFExeHM3a2xOS19weUVYRmEtSnQtVlRMNnBxY0hoZkF4b181N0FmTTQyNkFfYTduYUJHSGlreF9vSC1Ib1RPRFU1RERHRngtYWUwTEt0ZkpPSFdlOHBZMF9BN1JMenpYTzcwZ0RzOENHQ2Q1VTc2R0poVWdaTUNLc1lJbjMzRmttWW9LOC1FMWtHU0ZlTQ?oc=5",
-    "timestamp": "2026-06-19T02:00:00+00:00",
-    "source": "reuters"
-  },
-  "e5a5aab6a2c04c64e4bbc78a79e39034": {
-    "url": "https://www.nytimes.com/live/2026/06/18/world/iran-war-trump-us-deal",
-    "timestamp": "2026-06-19T01:44:15+00:00",
-    "source": "nyt"
-  },
-  "33dec5d5bfd0d31f9dc8d29bb9c5445b": {
-    "url": "https://www.france24.com/en/middle-east/20260619-middle-east-live-white-house-says-vance-will-not-travel-to-switzerland-thursday-for-iran-talks",
-    "timestamp": "2026-06-19T01:34:08+00:00",
-    "source": "afp"
-  },
-  "cba8a19a43cb19fcfe7e389385cfd936": {
-    "url": "https://www.france24.com/en/middle-east/20260619-middle-east-live-white-house-says-vance-will-not-travel-to-switzerland-thursday-for-iran-talks",
-    "timestamp": "2026-06-19T01:34:08+00:00",
-    "source": "afp"
-  },
-  "f8d3ada0dfbcbae8b0d7ec0d801ec1ff": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5VFlJZG04YWFlWUxYdjJvT3FJXzV1amhyeFlEVzdSQjBXNGZrMllIZTZodFlTTVdfMzc1M0h5ejRuWTJqcmd2UUZfXzJDSHROWHc?oc=5",
-    "timestamp": "2026-06-19T01:15:34+00:00",
-    "source": "iranintl"
-  },
-  "40754b43706089ed476172a2738c2b00": {
-    "url": "https://www.france24.com/en/americas/20260619-colombia-peace-breakthrough-100-rebels-hand-over-arms",
-    "timestamp": "2026-06-19T00:29:20+00:00",
-    "source": "afp"
-  },
-  "2ff703f57aa79e4cc9038cede39ee0c1": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OWEJfeGJGSGN5RjNxaEw5QnBtVHhKeThNaWZERE9TbE1XVFpfaXFGSDFsOTI3dHBXbXRKWGdhMm1fQV9rbXV5UUkyWXFUczl2QWc?oc=5",
-    "timestamp": "2026-06-18T23:44:47+00:00",
-    "source": "iranintl"
-  },
-  "53df418c1955b479819487266d7df29d": {
-    "url": "https://www.france24.com/en/americas/20260618-knicks-fans-flood-new-york-for-massive-nba-finals-championship-parade",
-    "timestamp": "2026-06-18T23:16:31+00:00",
-    "source": "afp"
-  },
-  "3b3b9ae1a34cac87662bcfd961efb298": {
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMTdDbU80RVdOaU5kQWFVZXFaV255SHZUYU1vV3A2N2U5eERHMkZXajFlcWhybDl2MWQyc0JYX3VtQTR6U2tTMWVuQU9nY0Etenp5RGZGWWwzMTR0VGZFVXN5cXlMalpDWUR1MWVxLXJFWVMtNzI1VVJ3UEpkYTBtcXNSM25aTzdhd05TNTFXek13S3NaNUE?oc=5",
-    "timestamp": "2026-06-18T22:32:00+00:00",
-    "source": "ap"
-  },
-  "9cf1769edb095631c9ef665af6e2cd86": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ncHFCRFRwUW42UjV0akw1dHY3cmpLemg0TjBDZ3I4Y0ZxcnVuSnh3TjN3TktmbmtLN1UzRWRfdXl3WnhESW1Kdkp5YTRMX0NJdFE?oc=5",
-    "timestamp": "2026-06-18T22:26:16+00:00",
-    "source": "iranintl"
-  },
-  "cd2e6abe381257d741314fe85e0a0df2": {
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbTRVaG93cWFnYk5VdWVmcWFVV3BXMFFLWWZDdXJSbjBhZnE0b1V5b1NFdkJ1VWxJOFlZbjFZLU9pOEtKdThqLVA2UUNIU2YyYjlKLTcybw?oc=5",
-    "timestamp": "2026-06-18T21:46:01+00:00",
-    "source": "fars"
-  },
-  "4188784a0f5b45b0c2374316e3a517f3": {
-    "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260618-did-a-hitler-lookalike-really-attend-germany-s-world-cup-game",
-    "timestamp": "2026-06-18T21:28:46+00:00",
     "source": "afp"
   }
 }
