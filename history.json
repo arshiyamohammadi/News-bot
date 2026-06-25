@@ -1,4 +1,74 @@
 {
+  "aab37d461bc3332d39242e4810c73657": {
+    "url": "https://www.nytimes.com/live/2026/06/25/weather/europe-heat-wave-uk-france",
+    "timestamp": "2026-06-25T13:33:19+00:00",
+    "source": "nyt"
+  },
+  "4babf16c70aae4d1af002cab33a4a1b4": {
+    "url": "https://www.nytimes.com/2026/06/25/world/americas/colombia-election-de-la-espriella-trump.html",
+    "timestamp": "2026-06-25T13:27:21+00:00",
+    "source": "nyt"
+  },
+  "3e23283440796e0e167f412ffc911db5": {
+    "url": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
+    "timestamp": "2026-06-25T13:21:02+00:00",
+    "source": "nyt"
+  },
+  "cc5c69134f53395331be9076fdd7d5dd": {
+    "url": "https://www.france24.com/en/video/20260625-ukraine-recovery-summit-opens-in-poland-without-zelensky",
+    "timestamp": "2026-06-25T13:18:20+00:00",
+    "source": "afp"
+  },
+  "245d723230fc2ecf645ef548a7a4f9a7": {
+    "url": "https://www.france24.com/en/video/20260625-trump-marks-nation-s-250th-birthday-with-campaign-style-rally",
+    "timestamp": "2026-06-25T13:16:52+00:00",
+    "source": "afp"
+  },
+  "de9be9821152bcb81a36b6e512f03c3d": {
+    "url": "https://www.france24.com/en/video/20260625-republicans-have-growing-litany-list-against-trump",
+    "timestamp": "2026-06-25T13:14:49+00:00",
+    "source": "afp"
+  },
+  "23f5675c78111f1163ee192459d93f61": {
+    "url": "https://www.nytimes.com/2026/06/25/world/africa/south-sudan-usaid-education.html",
+    "timestamp": "2026-06-25T13:09:25+00:00",
+    "source": "nyt"
+  },
+  "9724899c1a510a645a96f124eeb5743e": {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcWNaOGNZamhRcU9HZTBZWHcxSjN3WFNFcVhBNVNmeE1uYW5DRFJNcVpFQy1GZDZLS1ZfQmRmeUVJVjg3ZWtqVldBOFRuWE1sVEtwRjJ4WVFIYzhSQjJHTVNOM1JndmhmNUF3OFdXVkhtS1NaWUkyMk1zMjZTYlFJbjQ4WURocHdPN3d5NHM5eHhveEFlQjlaeHBKYWNmbXd0TS00UWF0OXVNbnZRMmtKQ3RtXzI?oc=5",
+    "timestamp": "2026-06-25T13:02:14+00:00",
+    "source": "reuters"
+  },
+  "eebf8a165894056648b12531eb3f2319": {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWR1YXZUaE9XT2xJQjBTUmZZa044RjRIbnhydkhZbXAzY0xuTllsNmJhdDRyXzJndWJFR3dtNjBLSFE2M2lXOTVDcjdRenBKX2dGSlNyWGhyZmhrbkRjVjcwb2pXUWx2Z0JvbmJpUmpzR2VFTkxza1htWVJMMWxPbnYzVGVuS3d3bEQzc2RTa1hEVnFtT3FjZzR4MUpPLWJjMVNTM01BcnBRSnpSQzRyd21yQ0U3b08xbXR0ajlmeG55UmxrV0RZZmVROA?oc=5",
+    "timestamp": "2026-06-25T12:52:28+00:00",
+    "source": "reuters"
+  },
+  "0559208c53565ec9592ece450fb38fda": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pcDhyMHBXamlSMlVGZHVMSFBJX0w1SFk1dGZ4SGx4OXExWnI0VGFJcEx2d1p2SEk3TzFXZWxiMFNKRjFmWUhVdGZWTGZoOHMydUE?oc=5",
+    "timestamp": "2026-06-25T12:21:23+00:00",
+    "source": "iranintl"
+  },
+  "696f0301d315bdec22bec02ef1b28daf": {
+    "url": "https://www.france24.com/en/video/20260625-evacuation-of-sailors-stuck-in-gulf-likely-to-take-weeks",
+    "timestamp": "2026-06-25T12:11:57+00:00",
+    "source": "afp"
+  },
+  "847f2881bb8a4a7b175447d3032852de": {
+    "url": "https://www.france24.com/en/video/20260625-why-is-europe-the-fastest-warming-continent",
+    "timestamp": "2026-06-25T12:10:47+00:00",
+    "source": "afp"
+  },
+  "b61b805e21cecb20ff8375c8faecdcb6": {
+    "url": "https://www.france24.com/en/video/20260625-uk-swelters-in-hottest-june-day-on-record",
+    "timestamp": "2026-06-25T12:09:13+00:00",
+    "source": "afp"
+  },
+  "65b547d5933ccbb423290379d808999b": {
+    "url": "https://www.france24.com/en/video/20260625-peru-s-keiko-fujimori-celebrates-election-win-as-opponent-alleges-fraud",
+    "timestamp": "2026-06-25T12:08:15+00:00",
+    "source": "afp"
+  },
   "0eb6a0e7f04d0f90c8f88d7e65f0c502": {
     "url": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
     "timestamp": "2026-06-25T11:02:14+00:00",
@@ -38,6 +108,11 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLWs2OHl5WVA5bE5meTdpdEJtcnhLdjBMTXltald5eHBVSW9Ha292Zzh5MEcxTS1BNmR6TDRsbVRLX1VwNFFZTm94MEZmUzZhdnhFbjdkNzhCSGE0b2dWLUw4ZTVSMjRfU2ZTMmdfVWpSWU50bXRfUWlpUGZEdzgwT1NZR2RWRHRZZnUzeldSQUsxbEtCTVd4WHUtdDEwRzFtSVgtckFxcDY?oc=5",
     "timestamp": "2026-06-25T09:19:53+00:00",
     "source": "reuters"
+  },
+  "289f88f38e68065f58a62e040d896381": {
+    "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iraq-militias-state-control.html",
+    "timestamp": "2026-06-25T09:15:28+00:00",
+    "source": "nyt"
   },
   "92dadb63fe03d7c6266d72e3fa9863eb": {
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByUHlOV01EN0d2am50S0VnNWFzWTlfakN1dGdlZ0pGUVM4NkRxcXVXU2dFaENYLWczeVFaWWx6R1hfWjhhdkFXZDRSNWpNMHVaZjk3UEUwcw?oc=5",
@@ -249,6 +324,11 @@
     "timestamp": "2026-06-24T21:48:24+00:00",
     "source": "fars"
   },
+  "67730a3e51c1cf06da654c5072c463ce": {
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uT2syUXBHOUNkMDdxM21rSi1OTl9jU2Vaamd2VkJWZ3JJZFZ2STlKUVVkejJIeEo3RWNKcnlSVE9OY2hIb0czeG9CZWhGTGxPY0dTdTk2eWNWTF9JbGRwWFdXSG9tOWtCR2lkRw?oc=5",
+    "timestamp": "2026-06-24T21:23:21+00:00",
+    "source": "fars"
+  },
   "aa5108770010f49b6a60b4632a89a65c": {
     "url": "https://www.france24.com/en/tv-shows/a-propos/20260624-us-in-panic-at-prospect-of-gulf-states-going-it-alone-analyst-says",
     "timestamp": "2026-06-24T21:13:27+00:00",
@@ -303,6 +383,11 @@
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kdUk3REtmamlrTzVoQ05hYlFWNkNUZEc4cGYzaERWdzhtRUR0Rlp6dWpFM05mb20yTy1TZFNiNXhEZF9KWmhMajh4TFRueHgtbWdwOTJMN01lUjhPTXRxNg?oc=5",
     "timestamp": "2026-06-24T20:33:39+00:00",
     "source": "fars"
+  },
+  "e6c07c49bbc739897d2d7d3e6a769301": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YSjkxNDN6TlZFbUtnUktwdFh6VGNNLUpRS2ItMV9RN0ZxaEpvTGdPXzlyVEJvSUMzY0lKWURfSGdOSlVlOUhJUnF1NEMtbm1pQ0E?oc=5",
+    "timestamp": "2026-06-24T20:25:51+00:00",
+    "source": "iranintl"
   },
   "9491b57c47df3bdfe13d1f4e13fad3f2": {
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0RkNTJCSE91MldwX3VRekZ2Tm5fS2x5b3A1UzM2NGZNTEROMDg3eTZvWnQyR29ock5RSlhZU0EtUmM2SW1RdmNlWk1nc0pyTGF3RG11V3hpVXkyalF6ckVtZkpxTG9WRzB0WHNoSnhuM1VxMTdZaHVBaTlualI2dzIxNmNnanEwWm5icFVJWHJDS25IUnJqSA?oc=5",
@@ -1293,11 +1378,6 @@
     "url": "https://www.france24.com/en/ethiopian-pm-s-party-secures-win-in-national-election",
     "timestamp": "2026-06-22T20:31:09+00:00",
     "source": "afp"
-  },
-  "67730a3e51c1cf06da654c5072c463ce": {
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tMWV4WGFUd21ZcUduZG9JdUJiVENJbWJKZzk0NkNLd1ZwYkpoVkpvSF9iQnQySVZuRTZwNzl1ZlJWVFI4d25ZdHpRaUlOZmhwWnQ3YllBTzNBQ1RCQ0FBQVFleFlkR25hejNmTkI2UQ?oc=5",
-    "timestamp": "2026-06-22T20:24:55+00:00",
-    "source": "fars"
   },
   "16e66663d51811dbaf12988e628a067e": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmMHE0TGJaanpVZFZXN2FoOHRMTkl3amh1VjQ2Qkhoelo0VDBDa25VYkdVdzNELTZZaW1TV2I4WHhyYS00bXItSkhaUFh2VzVHVmc?oc=5",
@@ -2418,85 +2498,5 @@
     "url": "https://www.france24.com/en/video/20260620-drone-use-expands-in-sudan-%E2%80%93-and-kills-at-least-1-000-civilians-in-2026",
     "timestamp": "2026-06-20T11:14:23+00:00",
     "source": "afp"
-  },
-  "04bbe34dbe8d78062e5bab337241d89f": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uYTBJYzFtTWcyWHZYeWpvUDFqc1Y0SkxaNjlPMzlvWUI4NEtkX0N1Ujg4LUp2M1BDRUJmWFdkQk9WanpRelBnbUVDRy1LVzBycEE?oc=5",
-    "timestamp": "2026-06-20T10:49:15+00:00",
-    "source": "iranintl"
-  },
-  "81105609dce4119e13c57547ace075d5": {
-    "url": "https://www.france24.com/en/could-israel-lose-donald-trump-s-support-by-continuing-to-drop-bombs-in-lebanon",
-    "timestamp": "2026-06-20T10:46:34+00:00",
-    "source": "afp"
-  },
-  "f9538f0c763ce2c24be6877281400af1": {
-    "url": "https://www.france24.com/en/hezbollah-israel-flare-up-in-lebanon-despite-ceasefire-announced-by-the-usa",
-    "timestamp": "2026-06-20T10:43:15+00:00",
-    "source": "afp"
-  },
-  "bd276186aaf487bacfeb54edf396b374": {
-    "url": "https://www.france24.com/en/us-iran-ceasefire-negociations-underway-in-switzerland",
-    "timestamp": "2026-06-20T10:12:28+00:00",
-    "source": "afp"
-  },
-  "b675182f629c856bfa4f2420dbb8c328": {
-    "url": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon",
-    "timestamp": "2026-06-20T10:05:46+00:00",
-    "source": "nyt"
-  },
-  "3c06d45cb4cf8ed6f3c9a12e8bab6085": {
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55NkNlTERoTVduNDFfakZrdFA5S2k2V2thaC13NW9VZ0tZdnN0Qk02WV9UaWoyZ1V6cFZGaGg2UWxUNVphdlZCQmdNQnNYQjZxZUdmZ3phZExaUERheDc0TDZXWFhNRmNwUUR1ZEFVcGJQSFBCMlEwdQ?oc=5",
-    "timestamp": "2026-06-20T09:44:37+00:00",
-    "source": "fars"
-  },
-  "81244640396d2d91ae92e832bc207768": {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZU83bXR0RDhtTHExa0dVVFJOTWlvNS1DMVM0WUdqX0JyNWQ0RnRTcUNzQlkzR2xtWDdnTVA0NEt3NDVMZXBZcl83X2lEVU9jRktXNlc4SjhKMWMxRUZidDJvdDBreDZLbmpsRklMU01GNkJiYVJVWnhyZnlzUkFhYzY1VFdtUjRUbTh6aHlCVkFQUGttSU44TDBWVDZZTlRJbUhTY3JzRHA?oc=5",
-    "timestamp": "2026-06-20T09:40:32+00:00",
-    "source": "ap"
-  },
-  "0e87c6f0def14ecb6fae8d34ab70d6e8": {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZU83bXR0RDhtTHExa0dVVFJOTWlvNS1DMVM0WUdqX0JyNWQ0RnRTcUNzQlkzR2xtWDdnTVA0NEt3NDVMZXBZcl83X2lEVU9jRktXNlc4SjhKMWMxRUZidDJvdDBreDZLbmpsRklMU01GNkJiYVJVWnhyZnlzUkFhYzY1VFdtUjRUbTh6aHlCVkFQUGttSU44TDBWVDZZTlRJbUhTY3JzRHA?oc=5",
-    "timestamp": "2026-06-20T09:40:32+00:00",
-    "source": "ap"
-  },
-  "f33440290a56ae42d859ff12390a2c16": {
-    "url": "https://www.france24.com/en/this-small-kamikaze-helicopter-defends-ukraine-from-shahed-drones",
-    "timestamp": "2026-06-20T09:37:53+00:00",
-    "source": "afp"
-  },
-  "566476af538d37e1cab79c43cb5553a8": {
-    "url": "https://www.france24.com/en/uk-labour-leadership-battle-ministers-reportedly-urge-keir-starmer-to-step-down",
-    "timestamp": "2026-06-20T09:36:01+00:00",
-    "source": "afp"
-  },
-  "9e1ed519ea0c38ea29bdfb1c6b815af1": {
-    "url": "https://www.france24.com/en/peru-voters-await-result-of-presidential-election-the-closest-in-the-country-s-history",
-    "timestamp": "2026-06-20T09:18:30+00:00",
-    "source": "afp"
-  },
-  "e1831e7262fe478e1d52b2093f14612f": {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOVFPbXBkWDB4WWtWQndyVUdQTm5HbnMyNlhlYkJhRVF4cUJIcUhWMG5kaWhJbEpoTlNoTjlKVHlSOHppUzQ4cHUtTTJubEVqS3Fha3RENGxIbV9ya2Jlb3dYSXJlU3hZX1BTN3hoRW9oVHprYjB5LWxNeXdjVS0zMmFGaDlfejhvYktxR1BYQ3hsclcwNHdxX2xGakE4N2FJdHNUczZPNjhtUHAwMTNBR0lkanRwYS1mMHc?oc=5",
-    "timestamp": "2026-06-20T09:06:10+00:00",
-    "source": "reuters"
-  },
-  "b327fc9de9683ca3858d06df522c753a": {
-    "url": "https://www.nytimes.com/2026/06/20/world/europe/world-iran-reaction.html",
-    "timestamp": "2026-06-20T09:02:41+00:00",
-    "source": "nyt"
-  },
-  "c2ba2f45f487476257575410da72e909": {
-    "url": "https://www.nytimes.com/2026/06/20/world/americas/colombia-election-abelardo-de-la-espriella.html",
-    "timestamp": "2026-06-20T09:01:56+00:00",
-    "source": "nyt"
-  },
-  "a7c79a7e0438cb184c0edd44ae179e7f": {
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jdVlWSVpiNnZDdWxIaG1tZ0tqdVVWSk9KUEJtRm9FTndmX2xrS3dnbFV0elhDa29fSWhWVHNxUVUtVjlsQlZEbjAzSmVDX2VNdklGZFdlbG9LMGdRYW9KNFVn?oc=5",
-    "timestamp": "2026-06-20T08:42:43+00:00",
-    "source": "fars"
-  },
-  "71bf1f89cdf28f80d8fdb2135bd35595": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96VDFzc1AwcHV3QXZKZzgtbU9YT3czdGd6VXFBZW5oRWxKTldsSXR5QzJYdFlYOUNBbFN3S0dabml5dm03dEJaQm1fR2djWFpqZkY1bWVSeXVvQVNHUmNsZA?oc=5",
-    "timestamp": "2026-06-20T08:22:19+00:00",
-    "source": "fars"
   }
 }
