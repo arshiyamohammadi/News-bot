@@ -1,4 +1,19 @@
 {
+  "f09b907597bcc6595ccad45694a9fa61": {
+    "url": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
+    "timestamp": "2026-06-25T23:39:05+00:00",
+    "source": "nyt"
+  },
+  "2e09840d0987780fbd902b87c8b68488": {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVJzTlNyZXo5UGhkSmxJOVRvWXRnOUpFSTZpZ25icWVnaGttTmJoTzItbjhPbjE5NVdlWmJOZENfeVZDV0NUVUFsUWYzdlBiRHJaaGV2Z1p5NFM5YlZ6Uk9MN2JTY3ljN000UXVTTDJ5SFB5RVoxRVB3SHF6Q0o0TGxkUUJHekp6TjBQeVNDNF8xZm1sVDNfZXcxNFlvNDJhTE00N0ZRc3R5d3ls?oc=5",
+    "timestamp": "2026-06-25T23:23:27+00:00",
+    "source": "reuters"
+  },
+  "122360a4c684f37cb28bb0051b46d56c": {
+    "url": "https://www.france24.com/en/middle-east/20260625-us-seeks-iran-deal-not-at-any-price-rubio",
+    "timestamp": "2026-06-25T22:35:25+00:00",
+    "source": "afp"
+  },
   "2db365982bbe5a860ea3adecb377fe14": {
     "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html",
     "timestamp": "2026-06-25T22:14:54+00:00",
@@ -39,6 +54,11 @@
     "timestamp": "2026-06-25T20:26:08+00:00",
     "source": "afp"
   },
+  "a2f3ec34fd73ad51fd9ec2dd4dee52f6": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95RklrcHJaR0RrdWJjaTdxTGwwZDdyMEpxMUVvSUVnZTBpN2VYZXNYT01vTFJUMUl4TWM4ZTIxd1diRE9UMXJDRlVuRWMyOGkwcjdWWGVESGI2OFZwejBLSw?oc=5",
+    "timestamp": "2026-06-25T20:05:36+00:00",
+    "source": "fars"
+  },
   "81b7d05cb779c91af479a310bf42a70a": {
     "url": "https://www.france24.com/en/video/20260625-albania-we-need-courageous-people-to-combat-greed-and-corruption",
     "timestamp": "2026-06-25T19:54:42+00:00",
@@ -57,6 +77,11 @@
   "2a3495f5dfcbb96409e765554b80b6fc": {
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb1JqTWo2bzlJWXAwR2pkVTMyRVpTZkotam9lUlBxMzhyZ1FRM195WWlpay1nemFSX0kxTU9reDJVRnZQYm5QbTVxMUtsajZkVllBZUxaVUQ3YWJWSnRQYVZDX1QzQjhZdjV4Yjh2c1F0N2dvNnNrWXJ0YS1ZNU1HNXRyNmlxM2FycnBNUFVaQWExTVBNY2JIb1JaMDh4WWJPTmRF?oc=5",
     "timestamp": "2026-06-25T18:51:15+00:00",
+    "source": "reuters"
+  },
+  "56e7874f81400333506a9d6f76b0b3f6": {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNEdwQnducDl3RzgxSWs1NXVmdWQzSW5QY2xWc3ZXd251dG8xcHFDQXg1TkNQd2NOV1RDN201R1NrVEtMaml6MUdibUdXWGZveWo2YVpMMElrVFcxWjhVN29DZWFGem5MWVpjNlpzVUlYSEE4M2FVV1NXSTNvSm1LOUxMSmpONDg3QzlPVUZOMGxNSU5CZ2NWbEg4Ty1Ybkp3UmloQzVFMzFtRWV5Q2NMUXFDYzJubXkySk91YU1DQ3BjNXNyd0YyMGhnQnBZUVk?oc=5",
+    "timestamp": "2026-06-25T18:42:10+00:00",
     "source": "reuters"
   },
   "bd03f7cbe6bb7c7f3ce42cf39bc30407": {
@@ -199,6 +224,11 @@
     "timestamp": "2026-06-25T12:30:54+00:00",
     "source": "nyt"
   },
+  "745ec79bdaa7cc3500190ab3c052249d": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6QWNuNl9BME0yMDJDOEtNZ0ZINmw4Z280NkNEQlNlemYtRXR0RzB4TnlobUFvNV9DZWFnX2VKOEVfcUFsM1dTMVg0Z21iUUQwakE?oc=5",
+    "timestamp": "2026-06-25T12:30:28+00:00",
+    "source": "iranintl"
+  },
   "0559208c53565ec9592ece450fb38fda": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pcDhyMHBXamlSMlVGZHVMSFBJX0w1SFk1dGZ4SGx4OXExWnI0VGFJcEx2d1p2SEk3TzFXZWxiMFNKRjFmWUhVdGZWTGZoOHMydUE?oc=5",
     "timestamp": "2026-06-25T12:21:23+00:00",
@@ -299,6 +329,11 @@
     "timestamp": "2026-06-25T08:53:15+00:00",
     "source": "fars"
   },
+  "79e1611598ff854c2d09441a2389ea77": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nZ3FsdXpUQTdjdzEtVExiTms3aU9aU0RZMmVWWjdtakdXUEZQeEZ6OF80emp2WEhRbkxiX1Jzdnc4bElyNGlXcXdhQnppRmZfblE?oc=5",
+    "timestamp": "2026-06-25T08:53:11+00:00",
+    "source": "iranintl"
+  },
   "8102deb6e8fd035167b0a8c7a8080c68": {
     "url": "https://www.france24.com/en/video/20260625-kenya-marks-protest-anniversary-amid-fears-of-more-violence",
     "timestamp": "2026-06-25T08:52:50+00:00",
@@ -332,6 +367,11 @@
   "65ce1344b2daa65fc144d55ef387b2c0": {
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVS1UVlU1dHd3c05RZkhqQjA1VlYwTjFwWUZwLWF2MmFBck1saWlHcWRFMkYxamhWOHFVeVdZa2FBMHVuLTlMRElsU0ExaFV1cmpaSjFLUUV1VGl1c2RhVHl4Vk95bXN4TUdkTTdDMURxQVNnRTZyallmY0J0VXUwYnhsUktWVlV5c1NWcER1VnlaMWc3Nkl2Mlg2QnVKWmExUkxmNmdWMEpwSkhKSU5zcQ?oc=5",
     "timestamp": "2026-06-25T06:51:39+00:00",
+    "source": "fars"
+  },
+  "55cd762d92d90f705dd15a99bd5a87f3": {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYTBLSTNIM0VEVUtXa0gxV00xNlYwQ1d2ZHdSTFY1dnROSVZpeUcyLTJOa0xzS0d5TFg2RW4zZ3VQc2lERDhMZk5sT2lEOGtuUFNTcFpfYUJqLVF0NU9OTlBJdFdXQlVmNVZINGVicDd0VUgxdW93RkJBMEQ5UzQ0UHYxZjBVTHdHb0xZYXRIbFE2VHFWSjhQbUZxQXl5RWlQU0txWTRVQm9teEM3?oc=5",
+    "timestamp": "2026-06-25T06:28:07+00:00",
     "source": "fars"
   },
   "b92ed18759b2e4994348a02a4f238f04": {
@@ -2458,45 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZU83bXR0RDhtTHExa0dVVFJOTWlvNS1DMVM0WUdqX0JyNWQ0RnRTcUNzQlkzR2xtWDdnTVA0NEt3NDVMZXBZcl83X2lEVU9jRktXNlc4SjhKMWMxRUZidDJvdDBreDZLbmpsRklMU01GNkJiYVJVWnhyZnlzUkFhYzY1VFdtUjRUbTh6aHlCVkFQUGttSU44TDBWVDZZTlRJbUhTY3JzRHA?oc=5",
     "timestamp": "2026-06-20T22:58:00+00:00",
     "source": "ap"
-  },
-  "8936fed80710bb2af48cbd1182e68564": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HdW5LTS0zODhtMUJhNXBXcHIwV2hmbWdFM254a1ZvcUZGbGVDNkh3WWVLTVRZbEV2R3NkdDhpSWQ2Mk1neEZhYXo1NlJhdTh3LVE?oc=5",
-    "timestamp": "2026-06-20T22:04:12+00:00",
-    "source": "iranintl"
-  },
-  "e63b54d791ff726bf5972bd64d093c0c": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWXZKd3Rfc2FkZHhCTEc1WWk1cjBmbm95d2xObktVdTJ4S2JtUnd1ZzMydmltY3B0SUszd3BSN25PMHdPLXBOTlEtbnJ1c1ROV21zT0tZT3RTeTFHczIxRlhUNTI3RXNmSVhNaVVwUWJEcy1BT1ZLTnhXd0sxTXB6MW9qVUFuYXlpSVI2Ni1lb3doTnA2aW9jNG9CQWxZLUc2TnVIQ21TUGdjWkZ6SElKMDhOM2UxeXJfRGVhbg?oc=5",
-    "timestamp": "2026-06-20T22:03:52+00:00",
-    "source": "reuters"
-  },
-  "ee7b5442fd0c7118a7eeecd289538c8c": {
-    "url": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon",
-    "timestamp": "2026-06-20T21:44:15+00:00",
-    "source": "nyt"
-  },
-  "fe766594a80e336395994506f87625c3": {
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82Um5qUm9uVWs4STlGbFJqODZNckN2ZUk4cURmOUd6RTNMTmtkdW5wQVRFdTRLUHEzbTdPZ2l3ZkhYUXdKU3JxamdFTTV3dTF3c0tqUVJ4bmdPT1NlRl9nZk9teW1LTDRfVUZYZg?oc=5",
-    "timestamp": "2026-06-20T21:36:35+00:00",
-    "source": "fars"
-  },
-  "29054e5d3e303c2f1bdfa04af8fb59c3": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11dmVHNC1WbVN6NmhTUUZoNXJXZ1hMQUlDdUZZeVBlUlpBSk1kOVRTZUpESUd4eDljTWUwNHMzbkdYWHpWSzBGX2lKZkJPRF80WEE?oc=5",
-    "timestamp": "2026-06-20T21:27:10+00:00",
-    "source": "iranintl"
-  },
-  "2e7539c75ae67924fe0a34a2760d78ca": {
-    "url": "https://www.france24.com/en/middle-east/20260620-iran-says-closed-strait-of-hormuz-as-us-deal-hits-obstacle-ahead-of-swiss-talks",
-    "timestamp": "2026-06-20T21:05:53+00:00",
-    "source": "afp"
-  },
-  "ba9d4678d7d39400790a0d69c499a092": {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZU83bXR0RDhtTHExa0dVVFJOTWlvNS1DMVM0WUdqX0JyNWQ0RnRTcUNzQlkzR2xtWDdnTVA0NEt3NDVMZXBZcl83X2lEVU9jRktXNlc4SjhKMWMxRUZidDJvdDBreDZLbmpsRklMU01GNkJiYVJVWnhyZnlzUkFhYzY1VFdtUjRUbTh6aHlCVkFQUGttSU44TDBWVDZZTlRJbUhTY3JzRHA?oc=5",
-    "timestamp": "2026-06-20T20:54:00+00:00",
-    "source": "ap"
-  },
-  "b0e12fd11efbd9ecc22ced153dd2a7be": {
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vWVI0OFVGYnQxVU1kaHZ1OENtQ3ZBUFI2aWc4UXdkdTVjWTFvdHJwLWlxUF93ZVFpZUc2XzFpOFRlRzc5VW10aHc1VmNqMWxLN01kWlo2OU1TeGFoUUx2VHlJS2lUNnNnd2NEQkNDd1dqTmhGcklIOFJic2w?oc=5",
-    "timestamp": "2026-06-20T20:08:44+00:00",
-    "source": "fars"
   }
 }
