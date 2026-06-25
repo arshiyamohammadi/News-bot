@@ -1,4 +1,24 @@
 {
+  "bd03f7cbe6bb7c7f3ce42cf39bc30407": {
+    "url": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
+    "timestamp": "2026-06-25T18:27:47+00:00",
+    "source": "nyt"
+  },
+  "4eef1dec9932a26955647629c86a48ac": {
+    "url": "https://www.nytimes.com/2026/06/25/world/africa/kenya-protest-nairobi-shutdown.html",
+    "timestamp": "2026-06-25T18:12:08+00:00",
+    "source": "nyt"
+  },
+  "22721b60a0d0eff8f93502fcbf278d26": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44Y1hveENlQmVhOXJoc2dLOTJrVzR6OXJXaFB5a3BPZmNPTlNWbVNOLXM2TXh3Y19jTkpUODZ4QVU3UDBzS2hOZUdFczBCYVJ6RUE?oc=5",
+    "timestamp": "2026-06-25T17:00:00+00:00",
+    "source": "iranintl"
+  },
+  "24ab5c00a9b9f36b2cc70eb040c29a8b": {
+    "url": "https://www.france24.com/en/video/20260625-kenya-marks-second-anniversary-of-deadly-2024-protests",
+    "timestamp": "2026-06-25T16:19:30+00:00",
+    "source": "afp"
+  },
   "d0a84ec5834c599c991d95c0abf2a6f4": {
     "url": "https://www.france24.com/en/tv-shows/entre-nous/20260625-french-banquets-a-fun-party-or-culture-war",
     "timestamp": "2026-06-25T15:46:46+00:00",
@@ -28,6 +48,11 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KRG1kWk1SbGFydF9ya2ZuOGNLd2dfSEpxQVgzTUdaeHcySDNobzVYS1JJVUtiQkVhVWVXX3JBMTRyNGtKUXNlZzlZeFI4U1ptZHc?oc=5",
     "timestamp": "2026-06-25T14:36:29+00:00",
     "source": "iranintl"
+  },
+  "9c185389b9a97b6d773e42004dd8145a": {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEVHVTRvRDdQV0h4aHloNU1NUjJwSVNVTTlhY2pjSF83aEZXVWo3QXpQbi1QdXctRFc3dmxRODluMnlqSEJlLTdZQTJrTmF2Z19kcWZfd0ZlTEtLQTl6akQxRjBUYVB4eGFBd0lzbi0tTEU0NEdYMm1xRUYyMG44UklkVmpMMUhHM2YxcnlJamhRcFlEcElhb0FjbzdQSnJsaExpaVk2aGdkNTNZajd1bjZR?oc=5",
+    "timestamp": "2026-06-25T14:29:43+00:00",
+    "source": "reuters"
   },
   "87283304c9e589a7585e4ac137e870f4": {
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVF9WSjdITWlxaWFSUlNtNHN3THJGaUJDV0YzNE1YalZXa3Z0QmdBa3Q5OElGMFYzMWFTVmhSa0VOX0JzemhoQVRXOGstVnlNNm1rWDIwcmlkbENJLXpSYU5xU2FEOUU0c1cyd1liRllHMS1SNnp4Nkl5TktfYURNWmlRX2tXdzRGLThZNDVQcEpWUG96Rnc?oc=5",
@@ -79,6 +104,11 @@
     "timestamp": "2026-06-25T12:52:28+00:00",
     "source": "reuters"
   },
+  "f4cad9718b83be29822b4bb683f1f4ed": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54M0lEUXRXSzVhT05UMXM0U3Y0VE9TbkxwVU13b29WZzVwbUhJRDV4Mm1oOHRoV0FWMlVSbTAyWkQ4RXRZLVhPU01FRWs4dVZOemc?oc=5",
+    "timestamp": "2026-06-25T12:40:12+00:00",
+    "source": "iranintl"
+  },
   "5deb1d3a997fc18786a3ccacfc365568": {
     "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html",
     "timestamp": "2026-06-25T12:30:54+00:00",
@@ -114,6 +144,11 @@
     "timestamp": "2026-06-25T12:03:34+00:00",
     "source": "fars"
   },
+  "735ace2d00bfbe94f55ea055489817dc": {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONk9vbDNHSXF5NUU2MGh1eFBaZzJnRktPMUNjZGtObFl2azNGemw4Ym14NW1RMlZaRXRSLU5ZdDk0VFJGNE9EemxiQ2RKdkFVZTJnOGdoTWlzVWpVa25leEV5WXl4bDlPY2VqdUhodU9YanktSnRubzh6SG8xWlhRUVhFWDl3UU85ckVQWg?oc=5",
+    "timestamp": "2026-06-25T11:40:00+00:00",
+    "source": "ap"
+  },
   "0eb6a0e7f04d0f90c8f88d7e65f0c502": {
     "url": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
     "timestamp": "2026-06-25T11:02:14+00:00",
@@ -128,6 +163,11 @@
     "url": "https://www.france24.com/en/video/20260625-venezuela-hit-by-deadly-back-to-back-earthquakes",
     "timestamp": "2026-06-25T10:40:35+00:00",
     "source": "afp"
+  },
+  "4b56e201146e6012892324477fa8cb4b": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZXVFY29RNV9Zbm5OT0NfRjI4eGRkLWNIR0FUeUVSUzQzUGlRSHBVYWFnZkdyZVBySFZPanJOVUlDQ2JqamJFT0VzbVMzS1lQWWc?oc=5",
+    "timestamp": "2026-06-25T10:31:26+00:00",
+    "source": "iranintl"
   },
   "b7c5012fd5d95822a9c0240d98686b79": {
     "url": "https://www.france24.com/en/americas/20260625-venezuela-earthquakes-live-caracas-us-immediately-deploying-rescuers-marco-rubio",
@@ -2458,45 +2498,5 @@
     "url": "https://www.france24.com/en/middle-east/20260620-trump-says-italy-s-meloni-asked-over-and-over-for-a-photo-with-him-as-diplomatic-spat-escalates",
     "timestamp": "2026-06-20T14:13:10+00:00",
     "source": "afp"
-  },
-  "45c2595558a6cb6b8150c50365162bbd": {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbVUyY2ZiaHlmMU01WFZDX2M5c2Y3d3JWekJWMWZTbF9iR3d4UVdDR3ItSWEwSmE1M2taaG5GX2gzbTFZN3V0cUJXV1RzXzZXQ2ZmNWx1emtiVlk0Y3ZCLWQ4cVB3VFpYUmlZZUF1WmFfaUdmY1Ywa2d6MlBLakdUX0hKVzgwQWwzWVpNOXQ5TkhCYzhSVGZlSlJIc3Z6VHF1UndYd2JiMkR0T290dTVZXy1heVlwREF0Vm5z?oc=5",
-    "timestamp": "2026-06-20T14:10:39+00:00",
-    "source": "reuters"
-  },
-  "400b55a4c40d3a5101e5e9ec4a110b9f": {
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sa0JHQUNVc3hyZGtFZl9PUVZJVXVmeGJwS3hkbkY3Zlp1a3UyZnFuZHY4cnpCZ3l3c0VWSlg4MDNGRXJZVjhUWDZQUUtIQTJZclMxTVVlV0IzMll5Q2ZSOGZKRFNEUFAwMXNqbzJMNA?oc=5",
-    "timestamp": "2026-06-20T14:10:24+00:00",
-    "source": "fars"
-  },
-  "b58db3658e2cb00f9fbf8de17536626a": {
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZWw3Rmp0MkdGMTU4YXJyc0FuUG5mbFhqd3BmMHhrMGN0dkVWWm9Ja3NzaFRMeXFTaFFUOE1JSWNKYnVFQVRzX05MZm9jeDNFNnQ2UC1ucHpEbXJjYWx6WlJrSHBaUzNTM3ZvYXFlOTBGSVRtTHFRSmQ2WXl1VW9UVFd0QVdYTzRKdFV3S0FNOEwwR1VUYUc4eGdqSHQ?oc=5",
-    "timestamp": "2026-06-20T13:53:06+00:00",
-    "source": "fars"
-  },
-  "2a2efddc292a5051e70327cbfeddcad6": {
-    "url": "https://www.france24.com/en/middle-east/20260620-israeli-strike-in-southern-lebanon-kills-five-hours-after-ceasefire-agreement",
-    "timestamp": "2026-06-20T13:26:42+00:00",
-    "source": "afp"
-  },
-  "07bfdeb18ee261a1361b6b070e68a29f": {
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTEyTUU2Snk2NzBhWmZCcV9JMzlEV0hRbjNTU282RU5wV3FvNElISFk2ek5SaXU3YXJXR3l1ZFF2RGpsMElnTkpMUmc3Y084NldTRndXWGdLWDJuT05wd0JkY3VtSUxKdFZMLXdJYmVMZXROV2NOczE3b0pWNEZpaEN1UU1teHZyWmotTjdtNmU2RHRlVmtkMzNoZUN5aGpFZHhnRVRnanVxYkRtSnVz?oc=5",
-    "timestamp": "2026-06-20T13:25:43+00:00",
-    "source": "reuters"
-  },
-  "93e324e8a283e208d3c0c4f5c2af39aa": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FLUthajdDRFVvZ0R6YkoxbGJtUXlfWDVIRGl6amVQbm9RODg2M09ISzNnQy1CZHZPb1dyeW1VcXl6TGMzYm5rRTFhTnV6NWxBYk04U25LNHh3MUwzcVE?oc=5",
-    "timestamp": "2026-06-20T13:17:58+00:00",
-    "source": "iranintl"
-  },
-  "de50f8e09767855aadf27670cf61fdfe": {
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSmluWjJycmtITFZDY3oxWjUzcU0zQ2tWdWU2OGdqbnBaajc4ZlFoVDRRQTgtU0xnS1dUZUlVazVJRHI5OWFXX09GdU1ZVl8zSTJHNmJNTVBLNEtVLXkzTzhsMDd0bEtLc0dUeDZ1N00wSTl4eHRPZWxCd3FZNTl3NlhIRHI1bzNRYm1IZGRZVkI4T3hja0ZB?oc=5",
-    "timestamp": "2026-06-20T13:17:34+00:00",
-    "source": "ap"
-  },
-  "c08de27943a33b7d1e3a42f5984aba32": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUmZ0ak9ReG8xQWhPMVR5OHBEODZCMFpYQl9PUENyVVBxTmxnRGQtRzdOekoxc2FIR1l4RElYVXdhN1FiNzdtMWpoaVFyNHplYVE?oc=5",
-    "timestamp": "2026-06-20T13:09:23+00:00",
-    "source": "iranintl"
   }
 }
