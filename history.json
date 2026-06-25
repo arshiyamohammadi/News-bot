@@ -1,4 +1,39 @@
 {
+  "d0a84ec5834c599c991d95c0abf2a6f4": {
+    "url": "https://www.france24.com/en/tv-shows/entre-nous/20260625-french-banquets-a-fun-party-or-culture-war",
+    "timestamp": "2026-06-25T15:46:46+00:00",
+    "source": "afp"
+  },
+  "d0b311a01cce663cd452deccc82c5335": {
+    "url": "https://www.france24.com/en/video/20260625-venezuelans-search-rubble-for-quake-survivors-with-thousands-feared-dead",
+    "timestamp": "2026-06-25T15:34:33+00:00",
+    "source": "afp"
+  },
+  "e91f5700c7f6230c365d1248de5d8542": {
+    "url": "https://www.france24.com/en/video/20260625-thousands-feared-dead-in-venezuela-earthquakes",
+    "timestamp": "2026-06-25T15:33:39+00:00",
+    "source": "afp"
+  },
+  "5aeac73416e3bdefb83d7d6674a03293": {
+    "url": "https://www.france24.com/en/europe/20260625-pro-russian-accounts-fake-proof-ukraine-behind-burning-kyiv-cathedral",
+    "timestamp": "2026-06-25T15:30:57+00:00",
+    "source": "afp"
+  },
+  "cca767dd0cbfb4f2f053b73555ddaf84": {
+    "url": "https://www.france24.com/en/tv-shows/middle-east-matters/20260625-world-cup-2026-more-mena-countries-competing-than-ever-before",
+    "timestamp": "2026-06-25T15:00:20+00:00",
+    "source": "afp"
+  },
+  "16afa84bd7ac0dcea39ff40c1e097619": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KRG1kWk1SbGFydF9ya2ZuOGNLd2dfSEpxQVgzTUdaeHcySDNobzVYS1JJVUtiQkVhVWVXX3JBMTRyNGtKUXNlZzlZeFI4U1ptZHc?oc=5",
+    "timestamp": "2026-06-25T14:36:29+00:00",
+    "source": "iranintl"
+  },
+  "87283304c9e589a7585e4ac137e870f4": {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVF9WSjdITWlxaWFSUlNtNHN3THJGaUJDV0YzNE1YalZXa3Z0QmdBa3Q5OElGMFYzMWFTVmhSa0VOX0JzemhoQVRXOGstVnlNNm1rWDIwcmlkbENJLXpSYU5xU2FEOUU0c1cyd1liRllHMS1SNnp4Nkl5TktfYURNWmlRX2tXdzRGLThZNDVQcEpWUG96Rnc?oc=5",
+    "timestamp": "2026-06-25T14:11:00+00:00",
+    "source": "ap"
+  },
   "aab37d461bc3332d39242e4810c73657": {
     "url": "https://www.nytimes.com/live/2026/06/25/weather/europe-heat-wave-uk-france",
     "timestamp": "2026-06-25T13:33:19+00:00",
@@ -44,6 +79,11 @@
     "timestamp": "2026-06-25T12:52:28+00:00",
     "source": "reuters"
   },
+  "5deb1d3a997fc18786a3ccacfc365568": {
+    "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html",
+    "timestamp": "2026-06-25T12:30:54+00:00",
+    "source": "nyt"
+  },
   "0559208c53565ec9592ece450fb38fda": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pcDhyMHBXamlSMlVGZHVMSFBJX0w1SFk1dGZ4SGx4OXExWnI0VGFJcEx2d1p2SEk3TzFXZWxiMFNKRjFmWUhVdGZWTGZoOHMydUE?oc=5",
     "timestamp": "2026-06-25T12:21:23+00:00",
@@ -68,6 +108,11 @@
     "url": "https://www.france24.com/en/video/20260625-peru-s-keiko-fujimori-celebrates-election-win-as-opponent-alleges-fraud",
     "timestamp": "2026-06-25T12:08:15+00:00",
     "source": "afp"
+  },
+  "3320afa2fa0f26f3692c5f3285346b12": {
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdUZRc1Q4eWRtTmhOVHFadUVuckRPNTJwSjg0YTFVVkp5MncwdGNzSU1uYkU4MW5tTGFDUVdXRkxUZEVXV0h5YVE5MlBOYkZQdlJabWw0UXVxeURUbUM2cW43ZElQRDAxaGZ1VEdCX1VKS3pMZFJPbWhLbXA0M3NrNGo4eGZDLUhtb09sUklHMnRvYTRNSEV5MWt4V1h4UXFmWkROU09raUxtR21LaUFKREE0OHMwQXotYm5la0lFV1c5NnNQRWJpSXdJSHkxa183OEJ4RjZ4dzVJMDMzZk1YRnFB?oc=5",
+    "timestamp": "2026-06-25T12:03:34+00:00",
+    "source": "fars"
   },
   "0eb6a0e7f04d0f90c8f88d7e65f0c502": {
     "url": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
@@ -95,6 +140,11 @@
     "source": "reuters"
   },
   "7991bf0c35da69c99ff3d297135fb9b0": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43TmNzVFNrbmVteFRVS2ZicGFuZnlVaVF4V2t5ZnhEbjBKWGxXSWtraXEwc3hXZlBRbEl0SG1EakhXVkZkZlI3OXM5bXBmaXFSY3c?oc=5",
+    "timestamp": "2026-06-25T09:30:34+00:00",
+    "source": "iranintl"
+  },
+  "32efc714fe8c32fd03b4bb68164f9dfa": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43TmNzVFNrbmVteFRVS2ZicGFuZnlVaVF4V2t5ZnhEbjBKWGxXSWtraXEwc3hXZlBRbEl0SG1EakhXVkZkZlI3OXM5bXBmaXFSY3c?oc=5",
     "timestamp": "2026-06-25T09:30:34+00:00",
     "source": "iranintl"
@@ -2448,55 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUmZ0ak9ReG8xQWhPMVR5OHBEODZCMFpYQl9PUENyVVBxTmxnRGQtRzdOekoxc2FIR1l4RElYVXdhN1FiNzdtMWpoaVFyNHplYVE?oc=5",
     "timestamp": "2026-06-20T13:09:23+00:00",
     "source": "iranintl"
-  },
-  "05ea9b21c0859e769768632756af7f1d": {
-    "url": "https://www.france24.com/en/israel-strikes-lebanon-despite-ceasefire-at-least-16-killed",
-    "timestamp": "2026-06-20T13:05:43+00:00",
-    "source": "afp"
-  },
-  "38404d261128b945e571e03e037b874a": {
-    "url": "https://www.france24.com/en/ngos-in-lebanon-denounce-israeli-attacks-on-medics-amid-ceasefire",
-    "timestamp": "2026-06-20T12:57:47+00:00",
-    "source": "afp"
-  },
-  "a2077f20cc482cc5976d5ad431012125": {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEtVZWxoSnhzR3BkMnRVbjVlZ0tjdGduQXNpWDR1cVhXeDhsR21iUS1oT2pKS2dnYTRNaDg1TjJqSm42eURTRjB5dDZZZ2pxZzhXQVdsRVhVV180MHlJX3F4LWVDQjhHMmJjaXNud3d6NE5ENlBBd25LTmhhaG80ZEE0ZDU5U1M4VWgxdzM0N0NtaEZvaEtQWEdEVU53YWlkVnZrUE9NelYtaURsWW5SQ18wRHBxQ1RL?oc=5",
-    "timestamp": "2026-06-20T12:53:36+00:00",
-    "source": "reuters"
-  },
-  "01a333512ef57fc56eea766cd043c309": {
-    "url": "https://www.france24.com/en/extreme-heat-tears-through-europe-how-do-countries-deal",
-    "timestamp": "2026-06-20T12:45:59+00:00",
-    "source": "afp"
-  },
-  "2be0d0686544f092dbeb32ecf54a4378": {
-    "url": "https://www.france24.com/en/poland-strips-zelensky-of-top-state-honour-over-wwii-dispute",
-    "timestamp": "2026-06-20T12:44:11+00:00",
-    "source": "afp"
-  },
-  "e8d0ac9b3ced3f4eef08e6aaf4a445ba": {
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX2ZZbUI5MTlfaFUtZk0yTGtEbF9YeGN1SXd3SjBWUUtpM2lVQkVzcXdRbjhBLWV4azhJX3N3eE1ROTh6aDVzS1lWbnVLbDhIYjdNYjZOX2czSXdTMHBGcEVBNlAwWnFwOFVySVU5dDV2aGJHVmZyU2FBODZDTmwta0hqbl80ZmdhYTJuM1BQb2FzdGg2MDNNMndRUmlhR0hGb3ByRUttRQ?oc=5",
-    "timestamp": "2026-06-20T12:04:00+00:00",
-    "source": "ap"
-  },
-  "b9faeba4e43b2087649283f2c1a95fbf": {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRDVvaUdiWWJuc1RxSXoxbnpGSXRFVVZJOHZmOU5CVWtEM3FUcVNLN0RkdHYtLTBndXNXU1RtbklqZUxUaW55LUR4dk1qRHlXXzZyRHgzM3JleV95Q0ZJN2ZmaTBsWkhmSlZPaDFtRmV2dmNzUWFrTG9mNFFNVjhadU9WVWstTTZNeVZjY3NkTWFoN0V5X3JGb1pybVVGb1NZaHMtNElLZklFV2h0a3l4VUpFalBDN1Vk?oc=5",
-    "timestamp": "2026-06-20T11:45:48+00:00",
-    "source": "reuters"
-  },
-  "bc06ab94c83883a9e5dae81dc3d2cc4c": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nSG9oX1dXSVF6ZVFsVUxTdC1SMzR6Qk9xNUhYdXRUVVJnd1JYMEtoS1Y3NTdBTnNvWEVUelk1UGZHTWlvdGFsYTMzUGw0eWt3YXc?oc=5",
-    "timestamp": "2026-06-20T11:43:00+00:00",
-    "source": "iranintl"
-  },
-  "e833d3845cb86f8f21940eeaad2c8ca8": {
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb3pXUmpJYkN1RjhOTHFqOHF5dUkxT2lfbnpzYno3RG41c3dzc2NsMG9mVVh2LWpWZnNIZFZRV3Z0WTdZcV8ya3otZWJLVlFfRnZUeEtXMklKd2pZXzVReTIzQnNkeklEeXdRY0VlZjNHUl9GOTRQZXRDMGstRUdMelJxTUpHRmVNWXFwS1JiX1pDNXlSOUlmSWhsSXQ4a0F2OC1hdURBNUVIUE1lSkQ3WS15U2JBMTFiOE5qNnhuZEp4eEUzX3FIRQ?oc=5",
-    "timestamp": "2026-06-20T11:28:57+00:00",
-    "source": "fars"
-  },
-  "aa538d777360479ab9c2fdecb6b867fb": {
-    "url": "https://www.france24.com/en/video/20260620-drone-use-expands-in-sudan-%E2%80%93-and-kills-at-least-1-000-civilians-in-2026",
-    "timestamp": "2026-06-20T11:14:23+00:00",
-    "source": "afp"
   }
 }
