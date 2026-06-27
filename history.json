@@ -1,4 +1,49 @@
 {
+  "c1af21b6979fb3540c01de696c58b3c2": {
+    "url": "https://www.nytimes.com/2026/06/27/world/americas/venezuelas-economy-earthquake.html",
+    "timestamp": "2026-06-27T09:02:39+00:00",
+    "source": "nyt"
+  },
+  "7a667482ee410af8a890fd5d7289bffd": {
+    "url": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html",
+    "timestamp": "2026-06-27T09:02:30+00:00",
+    "source": "nyt"
+  },
+  "5c99475978f91c6fee1cb5f17b8c1035": {
+    "url": "https://www.france24.com/en/deadly-heatwave-choking-france",
+    "timestamp": "2026-06-27T08:50:51+00:00",
+    "source": "afp"
+  },
+  "da90ce26016101e43cccb310acc9844f": {
+    "url": "https://www.france24.com/en/venezuela-quake-toll-tops-900",
+    "timestamp": "2026-06-27T08:47:44+00:00",
+    "source": "afp"
+  },
+  "a4eb97945fb9872f54aecf877470a140": {
+    "url": "https://www.france24.com/en/new-us-lebanon-israel-agreement-signed",
+    "timestamp": "2026-06-27T08:46:20+00:00",
+    "source": "afp"
+  },
+  "cd7479233b36f3a42bdf60d11dcfa461": {
+    "url": "https://www.france24.com/en/a-cargo-ship-in-the-strait-of-hormuz-targeted-by-iran",
+    "timestamp": "2026-06-27T08:44:45+00:00",
+    "source": "afp"
+  },
+  "35723640f3f188c0be8af06fc52d40f1": {
+    "url": "https://www.france24.com/en/video/20260627-fans-react-to-haaland-absence-in-france-norway-game",
+    "timestamp": "2026-06-27T08:37:16+00:00",
+    "source": "afp"
+  },
+  "6d65322085856372ebdd3cba28ad872b": {
+    "url": "https://www.france24.com/en/europe/20260627-germany-braces-for-record-temperatures-as-heatwave-moves-east",
+    "timestamp": "2026-06-27T07:56:41+00:00",
+    "source": "afp"
+  },
+  "766b3e7c4d20e7cd27eeef12c2d14b29": {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXpUT2FRX1NCT3hyTF9kaXZmRVFXeDF5dmliRDNpb0R1S2VtYXJOYnMtWUlZNlM2bkRVX2twR2tqVElmeENmQzBnZ3ZyNXRiZGFZT2lpR2tuVU5ISkdTSERPb05BWDdrRHZSVV9UWkZ6S2lxUVM1VHo0dk0yZzJKVlZiTGVuaTJDRHcwdkRFZ1ktT2RHTkFoQmZVeGhuX2wzRjh0MGIyMEZQUmhXVTlhcg?oc=5",
+    "timestamp": "2026-06-27T07:24:31+00:00",
+    "source": "reuters"
+  },
   "baa033d0f5951c7e70e529f935d3bf91": {
     "url": "https://www.france24.com/en/sport/20260627-belgium-egypt-into-world-cup-last-32-as-iran-face-anxious-wait-after-stoppage-time-drama",
     "timestamp": "2026-06-27T06:05:05+00:00",
@@ -22,6 +67,11 @@
   "a63a4966ebbdd010cdab75cecf475e39": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tQlYtejNqNHBNdk1hSUV4eUR3bXk5aG5TdlZ3d0VwSlRycGF1SkRvZmZ6clRHdUh3S2thZTBsZGhTbktsODllVGV5Um5tWTBmWEpaOTR5T1k5c3ZodVE?oc=5",
     "timestamp": "2026-06-27T03:07:58+00:00",
+    "source": "iranintl"
+  },
+  "f2c266a5e147c23232a3c775476646b9": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CVXB2dFJZX0l6TTBhNUVtYVYwVzkwWVlHUW9zTktDZEdYRkdJZk1Hb2doYV9YRVRMaVVXZGQwYk9RamZoakxqWWNvVXFwT2QxaGc?oc=5",
+    "timestamp": "2026-06-27T02:16:00+00:00",
     "source": "iranintl"
   },
   "341bd4ec950a04cdbe2c29833b6801c1": {
@@ -189,10 +239,20 @@
     "timestamp": "2026-06-26T16:49:56+00:00",
     "source": "afp"
   },
+  "ca02db40e300984473d6c383e03d58f7": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iVS1kdC1kZmpVdGtoV2NDamV3Q0padXBZQnRIQkFQdVB5SzNNMnlrOU5FZTJIQVR1N3pIVDBFSEpnT0pyRVc1di1DUE1WQ3ZhS1E?oc=5",
+    "timestamp": "2026-06-26T16:41:10+00:00",
+    "source": "iranintl"
+  },
   "dc8085431b0f22a3d4c77f47a933c3b2": {
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hOHNLYjREcjZQRmlYRldQS0VZQWJ0RTZqMkFWSlRKOHBBU0g3UThoWEV6RTNnOWFMYnNJa2MyTERlVUF2SkdDYXhHYXFvaEdKS2xFVEhJaUF0VlhybnJv?oc=5",
     "timestamp": "2026-06-26T16:35:23+00:00",
     "source": "fars"
+  },
+  "71e7c7a388bd27fe9f93b971f0740fde": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yRmxqdjBZMU43TTRWd0RSNmhWSDRDU0FIeWJjRzF2OGJrdUFXQUR6MUM1Ymszd2s4Q1pHTUI4RXlLNjFqZVlDS2V1aFZtM1pQakE?oc=5",
+    "timestamp": "2026-06-26T16:20:07+00:00",
+    "source": "iranintl"
   },
   "0a87576f3f90a25a2d5c4cb2814ae95f": {
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IcURDdHgyOUJyVm5USWFqcXRvRlUtNkhMLUFEbzN3UlVwTEFsOTZCTGhwQ3RCdWZKMkJpMEVERnhiZmhFUDdHdGtSX3M5ZXRVMEhXRFBTbklhaHBlRU5JZTRR?oc=5",
@@ -2438,65 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEJiczdBeDQ3LUFmcVg2eUo1aEQ4SU5HenU2Z0pEWVlVOFFFQnRIRmdMbzZsVVFvWnhEQ3ROTFE2OHUyVko4QmhYX0ZDQ2VWZmI4THFrNXRxWDFGeVA1SFo0LW9zSkVuc1lDRFlSOXF6bzJOYjlCd1JDdnNpWWxmRU43REdsemxoYnRXUGkzbWxUeVMzNjFxSFBval9HZXhZNGNnN2E0RDhRaUp5WmhmTWMzVUhZT28?oc=5",
     "timestamp": "2026-06-22T14:18:37+00:00",
     "source": "reuters"
-  },
-  "19be418d60be98fd0281abd13b7fd9c7": {
-    "url": "https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html",
-    "timestamp": "2026-06-22T14:09:44+00:00",
-    "source": "nyt"
-  },
-  "a9305afbe7d1e63f6a1e5a13e58eb365": {
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNGtvWjFQWS1WTXM2ZkZHM0Jaei1QaEl4OF9NVXdQdEF1UVFPamVfX2VVd2ZkaDh0RG9OMTNIRUxBd3F2S0ZGWkl0Nzg1REc0b1pKQWFtb2hzZHFZaEpEZFV4UVBhWWV6YV9YdUNKVFNHdzBUUUFKb1RYczNKaTI4aVRWMDBCWU8yc3kyM29lNlUtR0ttTXhlZ01zZXVpT2hYNjlGZ3JKbGtKWVVSQkdTZXdyQQ?oc=5",
-    "timestamp": "2026-06-22T13:42:00+00:00",
-    "source": "ap"
-  },
-  "58e751ee5ca9087679d0b1f57628ed1d": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12eS1qZlAtRDZyV0RsSnJCVjZmLUFodEUxSUU1cE15V1BXUHVoenlqZ3pFMWZpNmxINUhXVmpITkpNN2RLSHpOLXUyMk5ndUIzb0E?oc=5",
-    "timestamp": "2026-06-22T13:33:00+00:00",
-    "source": "iranintl"
-  },
-  "989f27b82dcca7616dc297fe7e227511": {
-    "url": "https://www.france24.com/en/french-heatwave-drives-up-demand-for-ac-despite-concerns",
-    "timestamp": "2026-06-22T13:20:27+00:00",
-    "source": "afp"
-  },
-  "ab533d2401d93db01799da9b00d77b92": {
-    "url": "https://www.france24.com/en/who-is-andy-burnham-s-the-uk-s-likely-next-prime-minister",
-    "timestamp": "2026-06-22T13:16:39+00:00",
-    "source": "afp"
-  },
-  "b56526e77aca7e4bf447bbc8e4d78977": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04Z1RiVlVTdmlvaVMzZDI4Rkk1bUJNcnYzLVk5QWJ2WkdKQnVzOWdOb3RVUHBHQVY5VVRpTUdqcXEwdmdPYkNGS3ZCTUxaZmI4bEE?oc=5",
-    "timestamp": "2026-06-22T13:15:50+00:00",
-    "source": "iranintl"
-  },
-  "82f10e915b3d6e1cb96611ea181e77a6": {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWFNWZEJsNUZ0aEx2SXN0WEdxcXJ3U0xrOTRYTVc3a1p0VHJiS0lVS2l6VzFIUENxQmR4X09LUDBaRDBtWlJiM2M4bDVCTjNjbUdTZG1tdWpEcl9FTjJQei1Ld0V1cG9ha3RXOXRWVGREX0pMUUVYeVhhTklENzU5dVJDWURVZ2hqNnE0TWJDOGRsUkNuRTFfNjRfUzlLazAtZkFod2VwSjhvVXNEb09GaGV0U3RKVDZW?oc=5",
-    "timestamp": "2026-06-22T12:48:45+00:00",
-    "source": "reuters"
-  },
-  "9653ddbfeab089780bd50b46e1746341": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvekpEa25Eb3RzclRQRENhNVp3U3FxYkswd2UwRC10dDJ0U0FYYlo2NmhfellOOXBRZmdLcVpoQlZwbUZhQ1lvX2VIZXF6WmlJUFE?oc=5",
-    "timestamp": "2026-06-22T12:31:00+00:00",
-    "source": "iranintl"
-  },
-  "c2433f3f6ddcc174aea791a1873d9781": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tbklYS3JEYlFKQ1ZManZyWGxjbjFfQzFGMXpIWFBLS1ZMTTZnc1Y5S19qb1VOd2NzQURZWVF3U0Mtc3hUb3BzUW9WZ0ttczNWVGc?oc=5",
-    "timestamp": "2026-06-22T12:06:00+00:00",
-    "source": "iranintl"
-  },
-  "53f8880c8967688bfae119d504331bf8": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EeUlkek9uLVNLX1lHajUzWS05NWQybVZ3dVNCc0FOYVhycUs5a2xqNEY2cFBudE5RNGYzSWpTR3lwaVJucGV6bUIyVDQyaXpDQ2c?oc=5",
-    "timestamp": "2026-06-22T11:33:22+00:00",
-    "source": "iranintl"
-  },
-  "7767910a5d88a6f3aaddc71574062c27": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84WGYzSFI4ZmU4UUFmUjVXaXBTMmNRd0FtaVZpcllzb0k4MFpmblA5Sk8wR1ZDcDRWVEpHbm9xMEJMX2VQTlZsalhBTk53QnBqUHc?oc=5",
-    "timestamp": "2026-06-22T11:24:43+00:00",
-    "source": "iranintl"
-  },
-  "2516686a0460155329ba2e6eb51795ee": {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0tuaFd5c0lHeEFQWks2ejkyd25ycTRSVi1NREZUTVJPVEZRSERudWZMQjItc1VFelptMUJwWnZ4OHVHUVcwRkR4cXVKMUM0dk1vZ0xET3VTMEtObW9CV2ZkWk9Ndk1JWFdxSFUzd1FSU2ZZaHhubmhna2FTbUJEbFZHWlVQaFk4UnlNRExkSGhWSU1jeUp4WUVoTndVYUFPRTMxSg?oc=5",
-    "timestamp": "2026-06-22T11:10:00+00:00",
-    "source": "ap"
   }
 }
