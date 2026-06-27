@@ -1,4 +1,29 @@
 {
+  "ace287928a82979c9f3696cdfb9b11eb": {
+    "url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
+    "timestamp": "2026-06-27T13:22:50+00:00",
+    "source": "nyt"
+  },
+  "a851fd2c1cf16c4e3f488b6d17748e1d": {
+    "url": "https://www.nytimes.com/2026/06/27/world/europe/heat-wave-central-eastern-europe.html",
+    "timestamp": "2026-06-27T13:09:58+00:00",
+    "source": "nyt"
+  },
+  "bdf9c133e0aa13f194c82fce284025d3": {
+    "url": "https://www.france24.com/en/budapest-pride-continues-despite-heat",
+    "timestamp": "2026-06-27T12:30:04+00:00",
+    "source": "afp"
+  },
+  "cc40beab3dccc06eae358c73a3fc45d7": {
+    "url": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260627-world-cup-2026-senegal-through-to-the-knockout-round-demb%C3%A9l%C3%A9-triple-puts-france-on-top",
+    "timestamp": "2026-06-27T12:10:03+00:00",
+    "source": "afp"
+  },
+  "7994d4457bcc428ce1f89b5295139496": {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamVFR0VfZVlNU01BWjNWakdNczVUSHAzNWFlM0J3MGV1b0ZmbldmdnhQUHVpLTNabjVZSG5tSDJ0RDlQREk0emJnT3ZGbjFEZjVpTEt2UDgxOXpMdWV3dTIzX1ZtQVNpeUdDRVplMkUxd0FVNzNPTEFwZ3BVSUo4SG1BcHFDeEdYS2tIM3RUaWpZNEtyeWlub0h5c29pNjJmdDZ6Y2tha2hKWkNGa3Y0Y2JNYnk4ZWJuUlk4?oc=5",
+    "timestamp": "2026-06-27T11:58:03+00:00",
+    "source": "reuters"
+  },
   "9fcf1bf15236fd67645229468631de17": {
     "url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
     "timestamp": "2026-06-27T11:26:17+00:00",
@@ -69,10 +94,20 @@
     "timestamp": "2026-06-27T07:24:31+00:00",
     "source": "reuters"
   },
+  "c529821c0ea46d5232b86c8aa6ae9727": {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXdJa0JiM0ZCZlVFaTZNVjA5NkJWNXJFRzRfY2ZLR2xIXzB1a0JNUmVDY0R5YWdlTno1VldGNEozb0U5M2c4UHVEVnRPMHFYVTI2ZVdVRXAxZnBzS05mTFlTeTRULWpwd2VySDQyMFdPT0xMNnFnS1JpaVYwbExCQkpsTG9LZEFvSHhQS2NteVJxd1p0cnBFR1A3aDFQVkNFY1I5ZUc0SWY?oc=5",
+    "timestamp": "2026-06-27T06:17:00+00:00",
+    "source": "ap"
+  },
   "baa033d0f5951c7e70e529f935d3bf91": {
     "url": "https://www.france24.com/en/sport/20260627-belgium-egypt-into-world-cup-last-32-as-iran-face-anxious-wait-after-stoppage-time-drama",
     "timestamp": "2026-06-27T06:05:05+00:00",
     "source": "afp"
+  },
+  "c2ca9d8035bc3f78bc83acab8f186e92": {
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XU1lDaGQ1UEdrYWM3cGFSRVpqNjlPS2hwY0NKMkpVNnFYRW5XYjFjdzJTUng2YUlqM1VKX240ckJISUJvNTFDYTF1bmFmc3FESF9oQkRiWnJoM0djUVRyNmdBUTl5Zw?oc=5",
+    "timestamp": "2026-06-27T05:52:37+00:00",
+    "source": "fars"
   },
   "5d9a5897415a7230e0eaaf14b5fad33c": {
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUlowZDA3blZ2WnY5eGhiUjFvZWtFeUpFMEoxQTNLcnJYcmREWEppOFdIVGFoNGRTeWstbHpmY21OQTg5QU0wWVdydXFFc0pUY3BDZFVwTWs5UnJ5R3ZrWG5JWENuNFZ0bnVOTlFVNkNlYm1fX19hcFVnVV9rMUFFeWFjaC0tdFRQbVNfMVc5M0VfRnlUbUVaMEdZUzNvTHlFM2tQZkFWUmhJRjhxLXdoX1dmTjFUWnd2WFhzMWRfdw?oc=5",
@@ -174,6 +209,11 @@
     "timestamp": "2026-06-26T21:28:44+00:00",
     "source": "afp"
   },
+  "c842af07672c6667b3088a4234371928": {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JWjRpbW1jakptUkd1Y2ZEMGlvWnptdFhocXhFNzdYTkJJUFFRbkNjSmYzVnc3R1VwY3FiZnFIY3BtRlpqdjFPbkFhUTlaS3I0M0RSd1NrMF9YemJfbm56emp3YUo3Z0IwN1ZTanRNNA?oc=5",
+    "timestamp": "2026-06-26T21:27:10+00:00",
+    "source": "fars"
+  },
   "de8bda3d2fb31c3af9f78babf072ac48": {
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbHlGS1prZmNER2FmZlRFNmRGNjJPUWJKSHVGY09YLW16Z3BMOU82OGRMV1haR3J3c3AtMW0yQVQzbWtmQVBRSTJqOXp3azRqdVZ0eTk3d3JzaDFvZjE2a3FpQUd3UUQ5RXVPdmNDcGczT056VF91WkNJLUFqX3d0T2lJaExldDVPZUtZZ3o0UHNZY1pxVFZSQmNXTm5wamwwMXBlaEczTjZtQVZSOHpwb3hkUWpBOTc5?oc=5",
     "timestamp": "2026-06-26T21:25:00+00:00",
@@ -259,6 +299,11 @@
     "timestamp": "2026-06-26T17:47:29+00:00",
     "source": "fars"
   },
+  "e0aadee66d3fd5a82a10b328054a58a0": {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWHFWVkx5Yi1zZThNS1hiQlh4RGs4NnFqUUdtMGVUZFRNdzR0aEZUelFObHRiTXR5WHZzY19kZmtfQkF0V0dTNS1Pd0tlNWR3NmtMc09VVU9XQVhjQmNJemRxNndTdmtBM1VBZ3hXUmVRc19WbjlGUVZwcEhOS290UF9yX0FtSGFkQkNaODd3ZVFyejIxUXc?oc=5",
+    "timestamp": "2026-06-26T17:47:29+00:00",
+    "source": "fars"
+  },
   "b2f96c9d2fda1dcd18de21f30c630c4b": {
     "url": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake",
     "timestamp": "2026-06-26T17:42:40+00:00",
@@ -273,6 +318,11 @@
     "url": "https://www.france24.com/en/africa/20260626-dr-congo-patients-cured-doctors-warn-outbreak-far-contained",
     "timestamp": "2026-06-26T17:23:08+00:00",
     "source": "afp"
+  },
+  "c13c19f3c03e1b9bae67baf4e45a3d26": {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4QnJVclp1cm5CVkZPeUwyZ0hBUlhZV0o1Tjd3bF94RWdkeGtlUUh5UXBDZjlpZk10OXJ0TlFlMzhKWUVCR2ZkWnNLWG1MbWJpd1IwRDc3RjRscFlwR2NLRkVGOA?oc=5",
+    "timestamp": "2026-06-26T17:09:42+00:00",
+    "source": "fars"
   },
   "3a43877eb725df9c57a0e4dd24c52e0f": {
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLVJxRGJLdzhPM0tXeUVJZUVvWF9aRGZLR0tGdGZxUHp4Nzl5SkozNU1OM0pjaFZ1VlZQd0x2ek96SEVUVng1QkJXRWxBMjFUSUNUdmt3RmRXSEtPbEthWWtmem05Q0hWbjNsUHVoQnc3WUp4YlpOYTNXY1Q5RUUxSDFRZ3dCQjRzZkdBXzNuSXk0Q0NrbGtxbDZheWxObU81aXc?oc=5",
@@ -303,6 +353,11 @@
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hOHNLYjREcjZQRmlYRldQS0VZQWJ0RTZqMkFWSlRKOHBBU0g3UThoWEV6RTNnOWFMYnNJa2MyTERlVUF2SkdDYXhHYXFvaEdKS2xFVEhJaUF0VlhybnJv?oc=5",
     "timestamp": "2026-06-26T16:35:23+00:00",
     "source": "fars"
+  },
+  "6d8a2ba2f0cc31530c38079657b88e79": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zWW8zSGVaa3ptcGROQnFPVl92Y3BLNVc1UnZtbGRfeVYyOVdHdVdaYk9TZ2RXYTAxYnJSRlRIdVcyRnk4M1NEUTRhR2tnM285bXc?oc=5",
+    "timestamp": "2026-06-26T16:23:20+00:00",
+    "source": "iranintl"
   },
   "71e7c7a388bd27fe9f93b971f0740fde": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yRmxqdjBZMU43TTRWd0RSNmhWSDRDU0FIeWJjRzF2OGJrdUFXQUR6MUM1Ymszd2s4Q1pHTUI4RXlLNjFqZVlDS2V1aFZtM1pQakE?oc=5",
@@ -2442,61 +2497,6 @@
   "ee24e8670fc53f16f53f9d028bb7f7dc": {
     "url": "https://www.france24.com/en/rubio-heads-to-uae-kuwait-bahrain-to-discuss-iran-deal-with-gulf-allies",
     "timestamp": "2026-06-22T21:35:50+00:00",
-    "source": "afp"
-  },
-  "99f62d8b60ed94da1d2458c3dd25eeb5": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wN3VGUG0zZHBxTzJMVjU3b2xialBvbXRKd2VtMWllNGhRWkRHNGpFWHpyanlGcjBxNWpKMHBJZUNCaUVDWDFNS29oSGtEcnQ3Snc?oc=5",
-    "timestamp": "2026-06-22T21:04:00+00:00",
-    "source": "iranintl"
-  },
-  "6f5f69474a72016a60dec031380bc384": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvT0dnVmtLTzJnR21KOVBSWWx4R0RPUEhJbkJmaktuSklEOXQxaXJKdmdCeG1YOXJIZjVNXzFucTlhb2xXS0pUT3R5QU53X2Z6TFE?oc=5",
-    "timestamp": "2026-06-22T20:58:25+00:00",
-    "source": "iranintl"
-  },
-  "2f054e8afba6f952de6de45e298f153e": {
-    "url": "https://www.france24.com/en/ethiopian-pm-s-party-secures-win-in-national-election",
-    "timestamp": "2026-06-22T20:31:09+00:00",
-    "source": "afp"
-  },
-  "16e66663d51811dbaf12988e628a067e": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmMHE0TGJaanpVZFZXN2FoOHRMTkl3amh1VjQ2Qkhoelo0VDBDa25VYkdVdzNELTZZaW1TV2I4WHhyYS00bXItSkhaUFh2VzVHVmc?oc=5",
-    "timestamp": "2026-06-22T20:05:11+00:00",
-    "source": "iranintl"
-  },
-  "841a5396d9737468c251838f592efc66": {
-    "url": "https://www.france24.com/en/fact-checking-claims-algerian-fans-branded-messi-an-enemy-of-allah",
-    "timestamp": "2026-06-22T20:03:54+00:00",
-    "source": "afp"
-  },
-  "3c3d34284217c6547dbfc4486c56833f": {
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR0VycndGRk1USWlmVXA2emFISG95eDJHT0RqazVPaGRaTGdkZ2FiemJRbTBReFJyV0RNbmEyRjhrc0dycjV2Z3l1ci1DOXBXSndvck1hQlhTaE13N3UyZU5KaW5malZxLTA3cnRaaV9iOUw0LU9wcFJzWFpFQ0tHS1RocC1HanhPYV8zbmQwUzdWLVUzcTN1TTNYSlNQeVhtZzdiVjBjMFRGT25YUkQ3cm45c2NwR29heUl6SDNZOHZJczVla1ZJdVVzUEE?oc=5",
-    "timestamp": "2026-06-22T19:46:38+00:00",
-    "source": "reuters"
-  },
-  "f56686c6afa18d6fc69d7428a37be487": {
-    "url": "https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon",
-    "timestamp": "2026-06-22T19:19:22+00:00",
-    "source": "nyt"
-  },
-  "959e2c09d7944ed7e28ad1d87f695d10": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVcEJOYTVwdUJ5Q0hqcE1QaDJXc2xXVmhlX1IzSW9zX2RCY2cweFQ3Z0dSSFBtMDEzOFlQbTNpcE5wTmUxbGp6WUNleGtzdnNyb2c?oc=5",
-    "timestamp": "2026-06-22T19:14:53+00:00",
-    "source": "iranintl"
-  },
-  "3d77c10e01b85f4c57eb7c62b50fd5b4": {
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Hb2RQTDNfRkdjZWlNdkpmaUFCZ1RBRjFMUEpLQ3B4TTBpN203OTFma29XZGJ6ekIwZ3FFLWNZT0daS0JvRmxFMk0yV3g0b2ZqQ1NMOHN2R1VjWHJEWWlsU2JSY3RUR3NDTF9kamFpTkVSZDU2RGdkQQ?oc=5",
-    "timestamp": "2026-06-22T19:01:02+00:00",
-    "source": "fars"
-  },
-  "4e47af67c26c8422351d7fcabd207ece": {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGsyX2NJeEJIdGgtSmVFV3M5OXhyX0tSclVLTlIwUm41SjNKS3RpYWM5QnZnZnNuaTRvcE5tZGZYbzJTSjJmYXBxMXFUUmh6cDlqRkZPYVB5MV9FMjQtUm9XWFg4cW1lX0Qza0Fkb3BUczhjS3hEWFpvTXhJSTVzUVFSdVB3d05jS0xBcWhZaDhONlRRV09kdDlVM3dhY1JWTzhjbW5XYTM0UXdVMUhLMzlYTnpzSmI1bVhJ?oc=5",
-    "timestamp": "2026-06-22T18:51:43+00:00",
-    "source": "reuters"
-  },
-  "231cd8622adedef81a9ca511efe7aac0": {
-    "url": "https://www.france24.com/en/ukrainian-attacks-prompt-russian-held-crimea-to-halt-civilian-gasoline-sales",
-    "timestamp": "2026-06-22T18:42:18+00:00",
     "source": "afp"
   }
 }
