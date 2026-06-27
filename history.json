@@ -1,4 +1,19 @@
 {
+  "fe36daae428408036439632555b30833": {
+    "url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
+    "timestamp": "2026-06-27T17:50:44+00:00",
+    "source": "nyt"
+  },
+  "9267887e779dd6abc2d6cd0b6df5e172": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tQlYtejNqNHBNdk1hSUV4eUR3bXk5aG5TdlZ3d0VwSlRycGF1SkRvZmZ6clRHdUh3S2thZTBsZGhTbktsODllVGV5Um5tWTBmWEpaOTR5T1k5c3ZodVE?oc=5",
+    "timestamp": "2026-06-27T16:26:56+00:00",
+    "source": "iranintl"
+  },
+  "40d0fff519ff55a9ebfd4827ebede8c3": {
+    "url": "https://www.france24.com/en/venezuela-survivors-say-rescue-effort-too-slow",
+    "timestamp": "2026-06-27T15:38:48+00:00",
+    "source": "afp"
+  },
   "0fd47056bc0772de177d85e252bc2ef7": {
     "url": "https://www.france24.com/en/us-iran-ceasefire-threatened-by-renewed-strikes",
     "timestamp": "2026-06-27T15:11:24+00:00",
@@ -58,6 +73,11 @@
     "url": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260627-world-cup-2026-senegal-through-to-the-knockout-round-demb%C3%A9l%C3%A9-triple-puts-france-on-top",
     "timestamp": "2026-06-27T12:10:03+00:00",
     "source": "afp"
+  },
+  "4d69298cc9d9f22b173123b5ccd2e376": {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVYyeVlFWjBaMHVRcE9pbWlvS05JVWdESHZ6VTBsTmsxM3dOaWFQRW1UTUp5aEtGRVZrYXBMT01fWXp5b2s4QmpMUDNncERCV2lpRVFBejktRGdSeDR2Mk1pdTJZanBwcHFodHQweVEyWUxhVnpvYXpWRUNQc2lTTDZaU1REUVl5TS1wSS04NS1hUzduWEhjVVpXbDRHaVhHN1BLQUpaR2NYemstemtYNmd1X2pyWThPUzVUdXlOb0xkUQ?oc=5",
+    "timestamp": "2026-06-27T12:07:35+00:00",
+    "source": "reuters"
   },
   "58ab1811c5610deeae57524d987c480e": {
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sV3hFdUl3MnhOVVVKa0I1dEUxdHN2MG9aN0pZT0NkdVIweWpsalRtWUoyZHZyLU9lX1g5UFlmX2xOLW1RUnZIYU5MUVhuMjRVd2kw?oc=5",
@@ -179,6 +199,11 @@
     "timestamp": "2026-06-27T05:18:32+00:00",
     "source": "iranintl"
   },
+  "fe8578d1e334c1421a672182e959171b": {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iOWF1MWd1S1F6UFBRRS1rdEN2UjhuLU8xU0FpWXRFZGx2NDdsQWdDcWJmaTFqZGRQUGZkdnlnMVRVZ1BEbHk4d1RCTnIzb1lyb2dqN3dTbW9NeFg5X3FB?oc=5",
+    "timestamp": "2026-06-27T04:44:04+00:00",
+    "source": "fars"
+  },
   "be2225fe45d94ac2171b83a8b7035027": {
     "url": "https://www.nytimes.com/2026/06/27/world/asia/burmese-food-myanmar.html",
     "timestamp": "2026-06-27T04:01:12+00:00",
@@ -258,6 +283,11 @@
     "url": "https://www.france24.com/en/tv-shows/spotlight/20260626-venezuela-deadly-earthquake-countless-lives-lost-that-in-a-normal-country-would-have-been-rescued",
     "timestamp": "2026-06-26T22:16:29+00:00",
     "source": "afp"
+  },
+  "c753071d8cbff5dd7e5ab22eb0f23231": {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUWhNbXRUVm41S29MVUhBemFLN3pSdW1vWXpmYU5nUEJMbV9Uem1HRE42Tk83aVFKcTJEbHIwS1VBb3c4bkU0VldiRGJVTi1zczA2TTdQaHFfdHhhT0Z5NlUwbWpPeldaSnFjU2xNQjlyRjlVTnVkSlhQM1RoT2Vka0V4VHhWQW5sMllVaWxfZEhBdHVSVEFwa2RULTRNMl9fdC1aV0hCWQ?oc=5",
+    "timestamp": "2026-06-26T21:50:19+00:00",
+    "source": "fars"
   },
   "91dceb44e11308adf6d0d9ac560d337a": {
     "url": "https://www.france24.com/en/middle-east/20260626-middle-east-war-us-strikes-iran-trump-ceasefire-violated",
@@ -357,6 +387,11 @@
   "7acb875c6a59e975d99883791ddbdd14": {
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzdTRCNGhwVVhiVHJSbmI3QWNudHJjMkgzQjVnV1BnZFp3SU5rWndtNDFoMkd6VTN2SnEwZ0E4NlN4OTFzbVphZ2ZJQ3AtczdkYzB5MU5nQmdld3k1c2dN?oc=5",
     "timestamp": "2026-06-26T18:46:09+00:00",
+    "source": "fars"
+  },
+  "7a9ea9b1c2ce374539b5d518c51393d8": {
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOREYwM3hkbzVEb1g3Znk5cS1iRXNLVjFQaU1Gei0yYWhCN3hicTl2OUF0V1BzdklNS0M0bW1nVU5mZEhzTUM1Z0lqWk5XY3g0RG9uZXJDaHhXckZ1aW9NbU02ejRZZkV4ZERTN2VDRmExaTJGM2ZiU3R0SFlSNVo0YnNwZmxXTkczQ1o4OUlDQ2h2Z01XVU5mbXBhSEU2T2JFSXAxRjVIa1hGM0FlUVhrbHZrT1JVVGpRMXhGczlienVIN0d1akpTbkNYYS00SHNQRi1vbEkxcy1STnJ2anJtajR1SnBwdWZm?oc=5",
+    "timestamp": "2026-06-26T18:27:46+00:00",
     "source": "fars"
   },
   "5d33534f8ffceffaad9b8a7c188abb2a": {
@@ -2463,40 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SQVZkdlFHTC1NdXhZc19JSXFvdjdUbGhVQjI1R2lzWFNMYW5WM2h3TXBHU1B5WXRfSEx5WnhiM1RyeDRGYUlUNHRHRzZONUNJbFE?oc=5",
     "timestamp": "2026-06-23T05:32:42+00:00",
     "source": "iranintl"
-  },
-  "7724b1cb9b754786e017c5a87567cd5a": {
-    "url": "https://www.france24.com/en/europe/20260623-do-not-publish-significant-damage-how-brexit-still-draining-uk-economy-10-years-later",
-    "timestamp": "2026-06-23T05:21:42+00:00",
-    "source": "afp"
-  },
-  "b7fef7585f7d630a1241f6c7818fb9be": {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNHdEMXJ0TXlpSEFqc2dPd2FPa2RmR1ktRVVQTl9PZEJhODNHaXhHc2c1dkNsMWNyVkJVRXZSR1JCcTFYV216UEpRdkNVdFVaUzlhZEF4bEJXMDdvNnJEOExpQ1Z3N0x1bHVPQW1oSG9LVWpIVmUteDZ6ekYtclk3c0JuWk9OYnM2d0lzV2g4dnZOYXNESXpLOFMtNUh4bFhLbXYweXR2QlhVeElrUHVpYTlB?oc=5",
-    "timestamp": "2026-06-23T05:12:00+00:00",
-    "source": "reuters"
-  },
-  "9a23990bffb392efcd3de4cf1d214d3c": {
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcS1OdmpfbHlfTkxhM2xVM0cwWHVDeWhRUTNiY284YkViREtCTWpoSmRJVGpVdFBVWnpaS1BpZEFHcjd1Y2s0VDZ1Z25oOUQzY1FtQ1ZTOGlKRE1JRm1Ma3k0RUZoN0RCTlBjTV84eUtfZ05Cdk1lSzd3aXV3QkJtVklEa3FIYk92MkUzTW5YMm82Wmd0TmpYMEF5dnBnUmU2M0RKamprTjRJcnd1Z292dE1nM1A0ekFiS1M3YVhGZUQ3T0pQ?oc=5",
-    "timestamp": "2026-06-23T05:02:00+00:00",
-    "source": "reuters"
-  },
-  "dfe8a72c7f95d30d67f3ed883aef53a0": {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNThsOVZsQ0I4OTBEbHhDOThiaVNITGxBb0RRRUs2VmtKalBPQU02UVBaQTRWLWliVzNrTDNoUlRIQ0N2RDJkX18ySXhVbmJmRVgwT19vMTBaOVNWWUFzcVlJRjBhMzI4Rkx1MUFBRlZsaC1jQmFzLTVvc3lNV2M1UURfZ0ZnaXNFYktzM1BLUjVKMW1ONkJDRXFLbXpHTFJMOEw2QTBVX1kybzhKNU1NaFhnMEdvQW90YTNvS2tGSQ?oc=5",
-    "timestamp": "2026-06-23T05:00:22+00:00",
-    "source": "fars"
-  },
-  "f7aaf6a822adfcc53c2482477430617c": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BOWQwZ0hWd3Y3UFRsQ2p6b0hnRU4yVjJCOU84QlBfNzVnRlRicXFKNkJISW41X0w5NWR1SUkzbTdKbG9MaFc5R3JaR1VwUHlRT2c?oc=5",
-    "timestamp": "2026-06-23T04:27:07+00:00",
-    "source": "iranintl"
-  },
-  "c0009862af7a9c38acb4f4d91bcbf728": {
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORzM3MGMxUy1oMnNiNE4zN2s4aEF2LVZKbXlhNzdXX2t3NG5uejFuZ25Zd09JQ2tXbFF4LXhJNDJhRzdjbmNneklBc1lHcG5uR1M5MTM1dDlQWmtnU25ZcWxkOE9BNUJvTWpvQ3J3a3pRVkdzUkVIclNHanY2WEM3Z1lYM0tvdEpiSllwU2JR?oc=5",
-    "timestamp": "2026-06-23T03:12:45+00:00",
-    "source": "fars"
-  },
-  "57b9823b3fc86153ba5f0ccd490a5e9f": {
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORzM3MGMxUy1oMnNiNE4zN2s4aEF2LVZKbXlhNzdXX2t3NG5uejFuZ25Zd09JQ2tXbFF4LXhJNDJhRzdjbmNneklBc1lHcG5uR1M5MTM1dDlQWmtnU25ZcWxkOE9BNUJvTWpvQ3J3a3pRVkdzUkVIclNHanY2WEM3Z1lYM0tvdEpiSllwU2JR?oc=5",
-    "timestamp": "2026-06-23T03:12:45+00:00",
-    "source": "fars"
   }
 }
