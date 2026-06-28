@@ -4,9 +4,19 @@
     "timestamp": "2026-06-28T16:59:02+00:00",
     "source": "afp"
   },
+  "c73343921b9e0b63e53be2e301002edf": {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KaUtGaEJUNzhEWTd0NXc0a1dxNk5RNFBMaEluOVp6eDZpbTZDYTB4aHEyVXJnUVRBQm9qYWl0TjZOdWtKczEwTVAtYm5BSFliUkVUVG82SkJ6MVRMeDlGdk93dw?oc=5",
+    "timestamp": "2026-06-28T16:42:31+00:00",
+    "source": "fars"
+  },
   "6ba670ba1be76b80fe2726aecd049909": {
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDVEbTVfU2p5WkVGd1pQNno1SnhQZjViZHR2MmdvUmlRZlIwRFQyblpoc3dqSTNPckhaTFMtUXBoQWFKa3dEWDlxLWVyR1NNR3JyMFRXbC1IUDY4Q1FNY21PdVU3OXc1Y04tWlN0aE15dktTaGtrYmd6SWdibDJ2REpKRm9qaTNtMWxjS3BZb1UxbGN0ZlhhTUFEQzlaX09Rd3A2ZDZ5NXRlaUY3WC1lUV9COS1DSHRUWWR1V1RLOA?oc=5",
     "timestamp": "2026-06-28T16:38:58+00:00",
+    "source": "reuters"
+  },
+  "3b61dc743a0e75422414d8db970f0c76": {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm41NWRnOUNsT1pqSnBRQU13WjF1Q3Y2cmk2SS1vcTI0aXFYVzQ0UGpHekRnMWZpeTV6a2d1OWFGeHM2M1Z5QzlJM2lVM1RPZkNTX1NxZHVwandfeXFkbF9kWW5lWWFjM1k1Mm8wX3R5RzFfVnFMd3FpSndPSGFwbkhaNUctZmd1azA2MFBkbXlIdkhRdHEyVHBpSk16R3dSR0U1dGNOSnJCb0FITUxhUG12REZ5NjlsZkE?oc=5",
+    "timestamp": "2026-06-28T16:30:34+00:00",
     "source": "reuters"
   },
   "2c756c795d9b4551116a878a134ffd69": {
@@ -23,6 +33,11 @@
     "url": "https://www.nytimes.com/2026/06/28/world/middleeast/deadly-helicopter-crash-saudi-arabia.html",
     "timestamp": "2026-06-28T15:18:53+00:00",
     "source": "nyt"
+  },
+  "dfb157874fa78288608ef9df3b4635f5": {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTEFWZ3g3X084RmVtYk41azhhWndocE8ySVhvZVA3NWNaOGFFaVM0QlpWMGluUy1ycTk5YXcwVDlpTHYyaFp2aGJhZmhsXzYxSTB4bk11RTl4MXFzSmdCSU1BbUlDLS1KWE5pSm9FcEkzbXpOLW4tQTVLUEhYWko1QzZsVnY3NGN2VW5EOUFXSFpCV0d2RThKNUJDNFVjYXJLLUVXTGxjRlp6WTdYcWw5OTc1eWtJTkRuc3VtZG1TdkE0RTJBdGFzeVUtTGptTnR2UGdPM1ZiMEJBVDd0?oc=5",
+    "timestamp": "2026-06-28T14:56:33+00:00",
+    "source": "fars"
   },
   "97b5cade820f9f91f3638d41675dd205": {
     "url": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html",
@@ -249,6 +264,11 @@
     "timestamp": "2026-06-28T05:04:03+00:00",
     "source": "fars"
   },
+  "1c44d049f82511df437a1a6093c187af": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WV3A0eGl0b0FMUVI0cXNOd0haaHh4XzBBalh4XzVBZFZpZzJLVFhjMlRRaU13ZE9Xdm40Njd6bmp6X0djVEhBNEUxblZkbDJ1Q2c?oc=5",
+    "timestamp": "2026-06-28T04:57:01+00:00",
+    "source": "iranintl"
+  },
   "6b1288513d86624294ffa157a3943bb3": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tQlYtejNqNHBNdk1hSUV4eUR3bXk5aG5TdlZ3d0VwSlRycGF1SkRvZmZ6clRHdUh3S2thZTBsZGhTbktsODllVGV5Um5tWTBmWEpaOTR5T1k5c3ZodVE?oc=5",
     "timestamp": "2026-06-28T04:55:11+00:00",
@@ -294,6 +314,11 @@
     "timestamp": "2026-06-28T02:57:53+00:00",
     "source": "afp"
   },
+  "6de8befa8554b7522aad71be0543346d": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoVkxoTHRWeVZ4QW5UaXNkSTk3RDlWUzRLSTlHY0NEcEh3eVpaR3RpU2FmblR4MXJVb29HazVyRXh0cGtRSlhzSVBtdHcycHh5QkE?oc=5",
+    "timestamp": "2026-06-28T02:30:23+00:00",
+    "source": "iranintl"
+  },
   "8206a8a3f70d86e8fc0e356d4fe5272d": {
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SNEpmWFotWWp0bEpxZFB3emNlWnNrSXNxaGdlNjFZTERRdGRLVXl0dTBnZFg4NjMxU3gxQkMyOHlDMHFmaHRsM2VTTExhNHJkQjJoN0FzYnJ0cjZ3U29vdG8tUFhMaFk?oc=5",
     "timestamp": "2026-06-28T02:13:06+00:00",
@@ -318,6 +343,11 @@
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORVlCbHBDWHNKZURjS2RwYkw5S1NNUzB0V19DaUktaDB3LWxMZ0cxWTloSEpLQTBnWUd0aWxkcGJTVi1OX25tckQzeER4WjJBOUlsTHF0R29FRk5seGhFcVJDMmRWbXY4VUJhYTlCN1hQblJBVFg1dDdKaXM4M3Rqd3pUcw?oc=5",
     "timestamp": "2026-06-28T01:22:00+00:00",
     "source": "ap"
+  },
+  "99ca9ed99645b29cc0b676301f721dcd": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yc2dic0k4YXY1Sm0tUUU2UEVtRU9OUTVVWGk1UkdIY2kyQ1lldE1sRHduazF4blQydnFmOFNtU3Y4RDg4dWhIaWZMZTBQZDFSSnc?oc=5",
+    "timestamp": "2026-06-28T00:50:34+00:00",
+    "source": "iranintl"
   },
   "e63a24700f7bfc7c7b0713ade1035445": {
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSXpFdWlZaWlJVVZNNndBVHB2a0lxaG9pNWxOLTJlN3IzdXZGN2ZyVG9IZDZHSWd6UjhXbENKdnA5MlF1VUg2akJ1a2FZaDVLREtIeVVJYUVUYzVFcVUyQklYWkd0ZmF2Zk5TV2JPVFlyZW5VNFdYLXJIT3JhUGExQkdiYzMwMTA5YnlFa0F4d0syclFHYkJhLW15U1BOODJ6?oc=5",
@@ -2468,35 +2498,5 @@
     "url": "https://www.france24.com/en/tv-shows/perspective/20260624-amnesty-international-libyan-authorities-are-more-and-more-violent-towards-migrants",
     "timestamp": "2026-06-24T13:33:26+00:00",
     "source": "afp"
-  },
-  "9ff9d8f2182719b3bb65685cc359ed1b": {
-    "url": "https://www.france24.com/en/video/20260624-anger-mounts-as-sudan-s-army-takes-in-darfur-paramilitary-defectors",
-    "timestamp": "2026-06-24T13:19:20+00:00",
-    "source": "afp"
-  },
-  "000b8e184bf4a1f8186d2ceaf4b42409": {
-    "url": "https://www.nytimes.com/2026/06/24/world/middleeast/middle-east-iran-us-rubio.html",
-    "timestamp": "2026-06-24T13:12:22+00:00",
-    "source": "nyt"
-  },
-  "5648fd1cfc7c7eda7337cf6b1a3c6196": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TU0xqU2RDVDFGOFJDZml2Sjl6UHlJeUJWOXRNNnhEWFctNElMSjloUEVSQ0ZUWFJEN2Q4RF9WUFcxcWh4QnNrYWpHZm9QMTFpVWc?oc=5",
-    "timestamp": "2026-06-24T13:07:02+00:00",
-    "source": "iranintl"
-  },
-  "92166a385867d37ffe86acf08ee91762": {
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUVdoZzZMMXY4aG1hb2ZsRnFKZF9oOU9CVl9QQ3hQa1cxQ1FpT3QxeXFnQy1PSWxvY0tBVmptczRQaW1zWlVrem96MVBFcDRaeE1zQy12eU96bXpMbG5yc2Q0WWdDcDBGbzg0dzFVdTNlVlMzTS1TenJJNE1qM0phMVRB?oc=5",
-    "timestamp": "2026-06-24T12:48:48+00:00",
-    "source": "reuters"
-  },
-  "0c2058fded65279a23ebf5d124603165": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmS2lmUW1uR0hGQUZ1Yi1Ddmx4Q3M1XzlUWmxiQXpzaUg4MmJjanBHMmstWHpCcUwyVk1saXRuQl80WE90TE11Wk92MjlBQnBEUVE?oc=5",
-    "timestamp": "2026-06-24T12:07:17+00:00",
-    "source": "iranintl"
-  },
-  "521f345c90b429960467cbceeb6ed5bd": {
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45QVYxSWpDQmRaZHl3SmVyREJad3gtYUpUYm5EY0VtYjNsX2ZpNlRDWUh4bE1Ca2FucGIzSFRMV2tyUUlQX1ZhWV9ZcE5JSDUweHlRNlFn?oc=5",
-    "timestamp": "2026-06-24T11:47:32+00:00",
-    "source": "iranintl"
   }
 }
