@@ -1,8 +1,48 @@
 {
+  "931ad1478b2113222189859b531dce42": {
+    "url": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
+    "timestamp": "2026-06-28T11:34:36+00:00",
+    "source": "nyt"
+  },
+  "78031a701146e293b7b4d45936483f98": {
+    "url": "https://www.france24.com/en/albania-s-flamingo-revolution-trump-linked-luxury-resort-plan-triggers-mass-protests",
+    "timestamp": "2026-06-28T11:33:03+00:00",
+    "source": "afp"
+  },
+  "dcbc601d006a4b46f4c9d9e6e572c8ee": {
+    "url": "https://www.france24.com/en/video/20260628-serbia-s-vu%C4%8Di%C4%87-to-resign-opening-path-to-early-elections-amid-political-tensions",
+    "timestamp": "2026-06-28T11:31:43+00:00",
+    "source": "afp"
+  },
+  "9ac9172bcaa23693cbfa216fde074d3e": {
+    "url": "https://www.france24.com/en/new-caledonia-election-tests-territory-s-future-after-unrest-and-deadlock",
+    "timestamp": "2026-06-28T11:30:22+00:00",
+    "source": "afp"
+  },
+  "0ebc3b017bca610964d6336cbc462963": {
+    "url": "https://www.france24.com/en/new-us-iran-exchange-of-attacks-threatens-ceasefire",
+    "timestamp": "2026-06-28T11:27:57+00:00",
+    "source": "afp"
+  },
+  "30c91abd8b5be06e003a0a6b644db4c0": {
+    "url": "https://www.nytimes.com/2026/06/28/world/europe/central-europe-heat-wave.html",
+    "timestamp": "2026-06-28T11:26:26+00:00",
+    "source": "nyt"
+  },
+  "67742ef09ee4fadbf24975d575ba3009": {
+    "url": "https://www.france24.com/en/venezuela-death-toll-reaches-1-430",
+    "timestamp": "2026-06-28T11:23:25+00:00",
+    "source": "afp"
+  },
   "f5c4a99b46d54bb28cd7d8e008d93cca": {
     "url": "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html",
     "timestamp": "2026-06-28T10:26:19+00:00",
     "source": "nyt"
+  },
+  "ec072aefc485d193d1b14c9f893e6aa2": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vTHNWM2hNS2EyZFdObkJPVTRjenhteWdZQzBKMHBHRl9LNGVWUjNVX0dHMjZVYkJTRVU5NmNsTEswcXVDeU0xMk9FZzl4b1Y2ckE?oc=5",
+    "timestamp": "2026-06-28T10:24:34+00:00",
+    "source": "iranintl"
   },
   "21ed10a0ec625fa6a353e30cdce04dc4": {
     "url": "https://www.france24.com/en/france/20260628-new-caledonia-polls-close-in-french-territory-s-first-provincial-elections-since-2019",
@@ -44,6 +84,11 @@
     "timestamp": "2026-06-28T08:52:46+00:00",
     "source": "afp"
   },
+  "74d8d53d105fa4cb44052c8c4ccc4c53": {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeENkZGlpMDNCZjQ0TVdqWmNIemlIRHZlMGh0cEREMlpjVEVSeW5XQzh6c3pROGE4RmFLWGliUHBXOVc4aFZfeHBSS0toQlk0aXZDRXRvT0s5SmN0NVNpaGIxNDczVmV6NU9yOHEzSk9jb2lUUjZvOTBKOUNpRkVuWFhXX1BOcGFSVV9UaDhheTFFelUzOFhyemIydW9UNzBYQkJub1VRYk1wdFZ3YWlPbg?oc=5",
+    "timestamp": "2026-06-28T08:24:04+00:00",
+    "source": "reuters"
+  },
   "7970da6e497a1c12d863a2d8d9b4fe27": {
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcDBTQkFEbzlzV3FGUXhBeks0Wm5CV2RIU0J4aFcwTl9jRFRNeHRNbkxzVEZNa3ZNSTcwS1FDZm5PM3RDbVJuMFc0bWRwR1hhSlZFVGlMSkdvOC1GcnlLUWpUbjQ0aFlMYWN3X0gtdVBUWHZYSHNKR3BKelJtdUZ1dUpnTWVubU1BOWowd1N3aE1kckE1Uklya1huN25iLUxYM2Q5N0JtcVY?oc=5",
     "timestamp": "2026-06-28T08:23:00+00:00",
@@ -55,6 +100,11 @@
     "source": "afp"
   },
   "675dd1b2b19f0328edde8c832ebbb1fb": {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT19HX0dpd0FIeWo0UjdtckNxMGpHcUtIMjd3UFNZUlZSTncyM3R6OWtUMjZEVkU1c0NBcVExUkl4dlJxTjMtTy1MbHhXS0JTeUlYUmZjZ0dJdC1BX0RTNktpRDNhNUZ1aU50NFpyRzJoaDM1ekxBdTBOYWhqUWNnVEhYZWVFVXE5MnRxeV90S1NxQzZUbVBYeUtGeHVQMVhDODhta0tvaldibV9uV0RFWnVwanBWenJMWUQ5Vw?oc=5",
+    "timestamp": "2026-06-28T08:01:21+00:00",
+    "source": "fars"
+  },
+  "e302a13c19420753f8f1353ee0128182": {
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT19HX0dpd0FIeWo0UjdtckNxMGpHcUtIMjd3UFNZUlZSTncyM3R6OWtUMjZEVkU1c0NBcVExUkl4dlJxTjMtTy1MbHhXS0JTeUlYUmZjZ0dJdC1BX0RTNktpRDNhNUZ1aU50NFpyRzJoaDM1ekxBdTBOYWhqUWNnVEhYZWVFVXE5MnRxeV90S1NxQzZUbVBYeUtGeHVQMVhDODhta0tvaldibV9uV0RFWnVwanBWenJMWUQ5Vw?oc=5",
     "timestamp": "2026-06-28T08:01:21+00:00",
     "source": "fars"
@@ -189,6 +239,11 @@
     "timestamp": "2026-06-27T22:50:43+00:00",
     "source": "fars"
   },
+  "67730a3e51c1cf06da654c5072c463ce": {
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92TWI0UjRXUWNaQjlRT2lGZE5nUTkwM2VWTlRGV2ZPUV9Ha0dQN25iYkl3TGRaSjJNdi1kZjJpdVZSM2VlTS1XazdIVjY5UjZUM2ZQMkhnMTNBWXhvQTZkWC1BOU4?oc=5",
+    "timestamp": "2026-06-27T22:50:43+00:00",
+    "source": "fars"
+  },
   "7201e242c1095a8f06ab43b03b9419bf": {
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa1VBd0lTLXNIN1ZWWnpuTUVydFpzcmdpU2ZnRFRjVlk2djhWNk1HNi1Hd1V4Q3d4czhkOHE3TzdmQ045Wkl2bUktNURLTTdNU1ZJZGhKbDd5YnY3RXZCak5OTXZNTVM1V1lpM0F1WG9tOTJOYy1zRUY4VG8wazNTU29wRFh5clkzMnFxeWdBWUdyVk1GVmhWUDRmT3E5WTJkSmlaWFJWYk5RUXQ3QnRiTWUyRE81T0d1ODhYSDJEM0FTNUxBZXFmbGtoX3F4SkE?oc=5",
     "timestamp": "2026-06-27T22:41:29+00:00",
@@ -244,6 +299,11 @@
     "timestamp": "2026-06-27T19:33:29+00:00",
     "source": "fars"
   },
+  "210d6df05a9ab0ff652c6ad2d8cea25e": {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVENCaFgwVEtQVkkzSFJOYUlsRnRzT3JJV2hiSzdncFRpb1g0cEYzejU4X2h4SXJwbWlFTUoycTEzYk9GeGMtb29ZOUw0aUhkbE9Wck9UT3VtNmg3TUZsREMxdXA1WFVNeHlOUXdkLTRpNzFHMlZIbkJmXzRBelU1eFNHVExHUGVKRkx0VENXMG45V1VKVjFEd1A3ZGx6eTdjejdzSGJWcngyOTFqVU1wUWdSdk1peFBzSm95V1M2RjZUaEVCTTFQb0hPaFhHSWhWZTNBM0ZR?oc=5",
+    "timestamp": "2026-06-27T19:33:29+00:00",
+    "source": "fars"
+  },
   "62125ba3f0b3a7780c6190360970c73a": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tQlYtejNqNHBNdk1hSUV4eUR3bXk5aG5TdlZ3d0VwSlRycGF1SkRvZmZ6clRHdUh3S2thZTBsZGhTbktsODllVGV5Um5tWTBmWEpaOTR5T1k5c3ZodVE?oc=5",
     "timestamp": "2026-06-27T19:30:12+00:00",
@@ -263,6 +323,11 @@
     "url": "https://www.france24.com/en/tv-shows/spotlight/20260627-understanding-the-point-men-iran-us-peace-talks",
     "timestamp": "2026-06-27T18:50:27+00:00",
     "source": "afp"
+  },
+  "c6ec68e3b138bd7100f69b77a6051657": {
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOU2d2bEYyY3pweTBZMlBrSlByUVdiTlFRUWFGV2JVdUxRUTVsOXVFU3ZNdzlVdjFMaDlTWkllcktiUGZFNFhVWmJJUGJwWU00NXBjX3FiUnhMUDMweE5pWk00LTJ5Ymp4NE5Calg2ckhnUkJ3eHJOdTZMOTVzUWtvWlpOM0w3RzBFdXJWdldfWHdEZ0JybGZyQWFWdjJEekxLdHExbDJ4RGI3RXN1VnZzTmJCaWltVmMzSjBJTzdXWWY5aEhZcEhyTWxYdlNLSVRMYnR0eFlIcU43QjQ2LXhhWXdTTnV4RXJyd205WTNjUzI?oc=5",
+    "timestamp": "2026-06-27T18:33:24+00:00",
+    "source": "fars"
   },
   "44342da640b0da0ac81c11b860c36d5b": {
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSGlDNE9xSkpHaHphVVptS2lhLXRrTDM5Slc2NVVFWmVNVUVFaUh4ZHJ3NUdKdzBQRjMwS2dOSENSWlNfUm02OFZoTkNoeHlLSU5QUlZUQnpHMjZTOWkxcXVuY3VyamFBTkdLdmdIQm9mNWxqOG53SWY0WmI3RVdtQkhmOV8tYV9OWG1hMFpRQjNDVVNDVUhuT3RCLXlnTGlrYkhwdjJsaEotVmQ5VU9vbzZPYjhFV2Q0R3h3?oc=5",
@@ -309,6 +374,11 @@
     "timestamp": "2026-06-27T16:26:56+00:00",
     "source": "iranintl"
   },
+  "8bb20506555cba39f36e26a89e286ebf": {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0JNazNkT0w1YXQ2LVFuTGRHZ0Nxa2pFVDFwQ1VqZV9KUjFpdy04NlFKaUhKR3lqLXNjell2ZWRZNnFyazJ3dFhpV0hkSG9TU1hGQi1WRkk0WUFkSzRjb3hNRWhsbDV2U3o1WjZmNnpZVkpEc3lKcGJOZnJNQTF4WE5QREViWWFIRE9uZmFuQlE3aS1FSmRVbExhYnExVHdlZXNMMXB3?oc=5",
+    "timestamp": "2026-06-27T16:22:00+00:00",
+    "source": "ap"
+  },
   "1deda888962dff6c19a7a5b541f97a75": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jQ19ieXNjOElpblk0SDNpeUFuclRNazZVaW9ETEFpWk9pd1M0ako0N21YVm9lbThOSlpWUF9wRlYxMHFDc0tETW9qVE5tbzhhQ2c?oc=5",
     "timestamp": "2026-06-27T16:18:56+00:00",
@@ -338,6 +408,11 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU21jd0pJa095S19rRUp3Q1NSN3dJZkxJVzYwNGFNbWtMa2ZqZ1lxWkx1T2xjbGI4UkhJd0sxXzJNcjVNNmllcmZ5SDlnZUlTMU1sV1NSRGlSbVRHMHFvX2pOWW5zT0JNNF8tdnEtSnYwQ1dQV3d0M0g4U0RBZEdZWlcwMFVFMGVER1N6NlRUOVVacVp4X18yS2FoczFWd1piYzdDeDlhSkc?oc=5",
     "timestamp": "2026-06-27T15:20:00+00:00",
     "source": "ap"
+  },
+  "f2b8b046a3c6492dab0eaae07a7851db": {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaDVEUjE2Ujdpakhrak9tNjA4T0JOZlNUR3lOLUZjZUczSVNCMDZuTlZmY0ZJQ3FadUhEQy1zcUkwYWJfMnI3YU1fWm44bE5DLUg2X09feXloNEoxSmo2U2ttV0xwM0VPVGt4RWVNY29RMjlCQms3VEJXa2VKa2NycmdzcjJKSGtPMTFyVmJ4TzM4T1VBU0JkZW5QTnpkV2VCM3FZMWFoMEhYRG5DNzF2dFp3Y3lmak0?oc=5",
+    "timestamp": "2026-06-27T15:18:44+00:00",
+    "source": "fars"
   },
   "0fd47056bc0772de177d85e252bc2ef7": {
     "url": "https://www.france24.com/en/us-iran-ceasefire-threatened-by-renewed-strikes",
@@ -1974,11 +2049,6 @@
     "timestamp": "2026-06-24T21:48:24+00:00",
     "source": "fars"
   },
-  "67730a3e51c1cf06da654c5072c463ce": {
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uT2syUXBHOUNkMDdxM21rSi1OTl9jU2Vaamd2VkJWZ3JJZFZ2STlKUVVkejJIeEo3RWNKcnlSVE9OY2hIb0czeG9CZWhGTGxPY0dTdTk2eWNWTF9JbGRwWFdXSG9tOWtCR2lkRw?oc=5",
-    "timestamp": "2026-06-24T21:23:21+00:00",
-    "source": "fars"
-  },
   "aa5108770010f49b6a60b4632a89a65c": {
     "url": "https://www.france24.com/en/tv-shows/a-propos/20260624-us-in-panic-at-prospect-of-gulf-states-going-it-alone-analyst-says",
     "timestamp": "2026-06-24T21:13:27+00:00",
@@ -2428,75 +2498,5 @@
     "url": "https://www.france24.com/en/asia-pacific/20260624-kim-jong-un-unveils-5-000-ton-destroyer-touting-nuclear-capabilities",
     "timestamp": "2026-06-24T02:42:40+00:00",
     "source": "afp"
-  },
-  "bc0583ba5e212e37c4d2d0b0355af8ec": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mWGd5Wm9heEJBcmxNZmNaSkQtdEtxbjdscjhhUFk0amZNeXNJMGRFM1I2S3BfSDY4YkFXbDdPYXhXUkZXSDNPWTR1aXRhWkZ2UkE?oc=5",
-    "timestamp": "2026-06-24T01:57:54+00:00",
-    "source": "iranintl"
-  },
-  "a56f5f402a061dca5eb20e5e44b0054a": {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSjlBc1JxN0hPX3MwaDU1UDMyeEE1SG1tRS1ma1FpSENKVVdpVzY3eUNoeUJvdGtVVDZtRm84UG1jTjBwV0s0RTExRHZCczB3TnBYN05CSlJueGNLSU1zeUstS0U0NTBBa0NhUU00VE0wQWFWU0ZfWGtiT2tfeVBpdWV1NmZ3UlBvTmxwRXU3WlVPNGdDU3VWNXJMOWJfNWM1ZEtyNS1YV3JlY2xEeTZmczZsRmdrd1AzMVhZTEFVdw?oc=5",
-    "timestamp": "2026-06-24T01:17:00+00:00",
-    "source": "reuters"
-  },
-  "2b9fb02006ec7bba046660338ec1362f": {
-    "url": "https://www.france24.com/en/sport/20260624-croatia-edge-panama-to-keep-world-cup-hopes-alive",
-    "timestamp": "2026-06-24T01:00:41+00:00",
-    "source": "afp"
-  },
-  "904057163e13fe01b696e1e7a655109b": {
-    "url": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
-    "timestamp": "2026-06-23T23:06:00+00:00",
-    "source": "nyt"
-  },
-  "2938a779219fd42cbab5180dd0371ee8": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hQlN1NmFtNXVpNWY4eHVjM2JCRmQtOHpQYnNQZmdJYmtEMXMxN1UwQjVlZU9FSEF2R3M2VkRIUGpLVC1NMzVjWmUtZ2FRRmRSZ3c?oc=5",
-    "timestamp": "2026-06-23T22:59:17+00:00",
-    "source": "iranintl"
-  },
-  "100953eef1212a56cdf814c8ad03218d": {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmhxUVNibG82ZUN6NG5vUGVEb3c3X3ExNXJKYjFwYzZCYi03ZGFjX2JNZ1VyNzRzSzF5U3V4LVhIUGM4U0lrZzY4SmhBeGZuVHlqLWxsQ3hPRk5aYVZtT2ZPUk84LUl2LWw1WEl5ai1OS3ZFcGlKTmpEZmVPeG5rT1QwOFVoY25iS2NXRjBPTnQtNnBxYkNpQXFVT1hKTEJYbGJpSg?oc=5",
-    "timestamp": "2026-06-23T22:54:00+00:00",
-    "source": "reuters"
-  },
-  "29fd3e82349cac6db809e4bcc134019d": {
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FM3dTZ0JTZkJwNXNTQzhkdlluMUZPUlI5Yy1OM0NmZnIxa29SbGJTMnZ2VmxDZjYzcjg5UklOV19SWGg3amlfNGxOcktNX1FtZGhDYUdRS21INTZ1N2ZRdUFvR0FZV3c3UEU4LTlLR00zREty?oc=5",
-    "timestamp": "2026-06-23T22:32:59+00:00",
-    "source": "fars"
-  },
-  "f8221fd00da3cabc3957e0483766b244": {
-    "url": "https://www.france24.com/en/france-record-heatwave-sees-hairdryer-effect-threaten-crops",
-    "timestamp": "2026-06-23T21:54:06+00:00",
-    "source": "afp"
-  },
-  "dae63b0ca4facda8b9504be884cd908b": {
-    "url": "https://www.france24.com/en/europe/20260623-french-resistance-hero-and-historian-marc-bloch-enters-france-pantheon",
-    "timestamp": "2026-06-23T21:47:51+00:00",
-    "source": "afp"
-  },
-  "7fb016bae5b1d6f325ffdbb754d7497f": {
-    "url": "https://www.france24.com/en/tv-shows/business/20260623-un-chief-calls-on-ai-firms-to-come-clean-on-environmental-costs",
-    "timestamp": "2026-06-23T21:04:37+00:00",
-    "source": "afp"
-  },
-  "49238769d49464f26691ae9e84d86461": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCMVZ2WkdQMTJEQTBhdVUwazdTWGM1MjlfdE1wSmo3QWNMMGRnYnlHLTJXMUtTc2szV3k2WDAtUmxjdnNYWnh6R2hDOGROQWh2SVE?oc=5",
-    "timestamp": "2026-06-23T21:00:00+00:00",
-    "source": "iranintl"
-  },
-  "4754934e0575d5989acafea26fefe9de": {
-    "url": "https://www.france24.com/en/macron-pays-tribute-to-marc-bloch-and-his-teachings-against-defeatism",
-    "timestamp": "2026-06-23T20:52:35+00:00",
-    "source": "afp"
-  },
-  "b3f7ae42039763da2011b732c4096f59": {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbTRaMVd3TU94enBqRXpUc0tCNzVEQ2dQaHlnN0oyMm9sak5aTFNybDQtTkJBU25xYlVSV2ZBR2Jwal9WNE5HQWh1N3A3UGpCNlZkUEo0SVoyaThBVmZmamtaaThxT3dBYl9iUE9JU2xNQUhWN2hSUVltdXZJYThsUEVtcnQzV3c4cGZSSlBGQndRdw?oc=5",
-    "timestamp": "2026-06-23T20:41:40+00:00",
-    "source": "reuters"
-  },
-  "546dbac2a161f2f9c350e020511084d7": {
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWJLQVNrUDByX0d0MGo0ZEVtSzJRTTlsSjBYMUp3Wk5VZkYyeVVHYlJMQUtLZ01sV2c5cFNacnRUTHB3eFI0cGI5ZW44UG9fUW5hZVZkdE10XzkxRWp5d3dvRlBFNDJVeXE4Z3V5UW9GY0lPWWxLRG1famNNR0xTeVJMWnJRVTU0dHVwSkJkVV9tejBES0lPdkFMdzljblE0ak5VcW1kS0RSY3lycVczVmQzSnVRMnBFVGpQd2tRR25sOFlKRnRrdUhwMA?oc=5",
-    "timestamp": "2026-06-23T20:33:28+00:00",
-    "source": "reuters"
   }
 }
