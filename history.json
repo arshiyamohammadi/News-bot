@@ -1,4 +1,24 @@
 {
+  "14a206478a1cbff7bb5440600ecf322b": {
+    "url": "https://www.france24.com/en/europe/20260629-monaco-residential-building-explosion-deliberate-attack",
+    "timestamp": "2026-06-29T21:35:10+00:00",
+    "source": "afp"
+  },
+  "b3abcc25be96ee0450e68b882b5ca8fe": {
+    "url": "https://www.france24.com/en/tv-shows/a-propos/20260629-architecture-city-design-a-frontline-of-defense-against-heatwaves-expert-says",
+    "timestamp": "2026-06-29T21:32:07+00:00",
+    "source": "afp"
+  },
+  "61e9dfe75591935da97faca19d349f18": {
+    "url": "https://www.france24.com/en/south-africa-s-anti-migrant-deadline-looms",
+    "timestamp": "2026-06-29T20:23:18+00:00",
+    "source": "afp"
+  },
+  "7b571ddf7c1014649cbfc42a81d028f7": {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSGw4TkJCNUpfellkLVZuMWludlVPMnpDMFJ3OS1WcDRWVHNyUks0MjB2ZERaOXYwQ3BIa3I3VzU1VWhjMHFES0tVZG5tbDdjbGllN05xNWtyZGd1Z2J6cy1tQ01XNTVWMjNtUUFXUk5LQ1ZiNXZiZDZqamRuaHNWRkQ2SnJ4UVRCTWFxb2dMR1A5cVctaVhyYnpmclVUZw?oc=5",
+    "timestamp": "2026-06-29T19:35:00+00:00",
+    "source": "ap"
+  },
   "133a630395eb1d3bfcbb590072940516": {
     "url": "https://www.france24.com/en/venezuela-earthquakes-old-footage-and-ai-fakes-exploit-disaster-online",
     "timestamp": "2026-06-29T19:33:11+00:00",
@@ -34,6 +54,11 @@
     "timestamp": "2026-06-29T17:24:55+00:00",
     "source": "fars"
   },
+  "b681511f45f37e70838cc6e9339908be": {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaTFZWEMwN0NmZV9SbHd3WWM4aHJNUWpTaG8ySHJjeU1reHd2Q0w0SHdGS29PY0tEcTBPZVRBWEpqOEZoc29vanRHb0FrUW5pa29DR0ExYmUtenFMVjFRV0pUYWt6b2gtNVZWcS10QkY?oc=5",
+    "timestamp": "2026-06-29T17:24:55+00:00",
+    "source": "fars"
+  },
   "eb78abaa929977d022254d07cf7cccff": {
     "url": "https://www.france24.com/en/tv-shows/spotlight/20260629-dawud-al-ansari-says-oman-committed-to-de-escalation-and-peace-in-the-region-at-any-cost",
     "timestamp": "2026-06-29T17:21:35+00:00",
@@ -64,12 +89,22 @@
     "timestamp": "2026-06-29T15:06:51+00:00",
     "source": "fars"
   },
+  "9e4aa963ab9ab51f304aace6b2d52bf0": {
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FdE9FZl9DYkdOdnNGTDl1YjU1SXJ1QUhRd09ZREZIYWktWklvUndYMDZpWVVzV0l2NnlXc1NfX2RHRHg2Rk53TVQ4dG1jeTBKZXQwSWktcjVoTVl1Nk5NVmlHT19tS2s?oc=5",
+    "timestamp": "2026-06-29T15:06:51+00:00",
+    "source": "fars"
+  },
   "c81a1d8e10060e3cfc4186b2e3c7d9c4": {
     "url": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-earthquake-death-toll.html",
     "timestamp": "2026-06-29T15:06:47+00:00",
     "source": "nyt"
   },
   "953b87d2eca8591f2cb44b89e9ce60ed": {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sWUZMc2NReDcwekF4NWwzX2x4c3hoTE1ITHotRWdPamFzSEdWUXd4cS1YNWExc1E5RHdqbDE1dXU4czFXTVBqcC1vekc5ZXltVGJyVTV1Vk5QSkFBQXdVNk9LZUUwVk4yOWs0anpsSQ?oc=5",
+    "timestamp": "2026-06-29T15:02:06+00:00",
+    "source": "fars"
+  },
+  "329376f95871da35e1b972208ff0193b": {
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sWUZMc2NReDcwekF4NWwzX2x4c3hoTE1ITHotRWdPamFzSEdWUXd4cS1YNWExc1E5RHdqbDE1dXU4czFXTVBqcC1vekc5ZXltVGJyVTV1Vk5QSkFBQXdVNk9LZUUwVk4yOWs0anpsSQ?oc=5",
     "timestamp": "2026-06-29T15:02:06+00:00",
     "source": "fars"
@@ -219,6 +254,11 @@
     "timestamp": "2026-06-29T09:24:47+00:00",
     "source": "fars"
   },
+  "3814bc74bca2cfdf444864f3f7eba187": {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjOTlHVzRwckFZWlJhNEc4YUJaUjZLWEdXaWVLa19aV1djb0ZtSVdlblk1d2NfRGJUNXJyWHhpeldwbTJwLVRSV3FJeEJPU0Itazd3MHUycTB5Wm5sOUJSZm5KQzd3aEltMEpEUzhMeUc?oc=5",
+    "timestamp": "2026-06-29T09:24:47+00:00",
+    "source": "fars"
+  },
   "2ed5f68183aadb73a91c986216a1c011": {
     "url": "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html",
     "timestamp": "2026-06-29T09:23:04+00:00",
@@ -228,6 +268,11 @@
     "url": "https://www.nytimes.com/2026/06/28/world/americas/caracas-venezuela-earthquake-rescue.html",
     "timestamp": "2026-06-29T09:21:06+00:00",
     "source": "nyt"
+  },
+  "6c56249e48e76316b2190a541bb79964": {
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xTXliTEFadG1oZVZwWlpMblJVc2FRUDRMbWdCNDlvX0RtQ1lfSW8xdWdRRl9hZzQxeFVSNWlnR3RvVzRlT2ltRzh6X1YxcmQ2NXcxbDcxQkVYYnc?oc=5",
+    "timestamp": "2026-06-29T09:10:54+00:00",
+    "source": "fars"
   },
   "31c4e5bbd356407ce41eee92b77ea9ff": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GSHQ2VFJORVBLOVJWM0loRUMzenRxTDdYR0g1WDFRNjVtS0xkZDBaQ1liWF9qb2hSLWF3ZVVoaUpvMmQ5SDVVZl9heFVHSzdLN0E?oc=5",
@@ -244,12 +289,27 @@
     "timestamp": "2026-06-29T08:53:35+00:00",
     "source": "fars"
   },
+  "4a7d39e08dc4f2a2bced61102ce82fe6": {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hU01Qc0R2U1RfWXdUcnlEY2RTWlo4clBHTktTVHdOc0ZSZXNielhNbElDd2htNHRFRjBqT25ORXNIc1Z5UzZoQVcwNU1Nd2xxRUh4dFlpMUNNbllndjYyZGU0YTg1WHdQQ3ctY1lUdw?oc=5",
+    "timestamp": "2026-06-29T08:53:35+00:00",
+    "source": "fars"
+  },
   "14a8e4f40105e7fc36d2d15a0a625729": {
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fS2JfdkZNYW9FT3RYbEZNUGdScFFUVmFCWWpXWHAxbU96c3dUY0E0a0EwTW5IbG5HTDdMbVBVcWw0bjVvVlhzakFpbEcyNkJ6UDZGTDE0dDJ4aGFHSjRnNXhtdlY1X1V4VVZIUFk0UQ?oc=5",
     "timestamp": "2026-06-29T08:35:11+00:00",
     "source": "fars"
   },
+  "e0971f2b7323bebbb50cfb5748ee0c78": {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fS2JfdkZNYW9FT3RYbEZNUGdScFFUVmFCWWpXWHAxbU96c3dUY0E0a0EwTW5IbG5HTDdMbVBVcWw0bjVvVlhzakFpbEcyNkJ6UDZGTDE0dDJ4aGFHSjRnNXhtdlY1X1V4VVZIUFk0UQ?oc=5",
+    "timestamp": "2026-06-29T08:35:11+00:00",
+    "source": "fars"
+  },
   "b37f638899970f0b886987b07557c04b": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xdHB2WkpuaVVISVh3N0cwOUtxOS1neFo4b0NPUncycXNXc2JtRmgtV29iUnQ0M2xEeU44eEM0cl9SMlZtZDZtUlJFWUhkWGdwRWFFQkdfdVVTTG1ZaC1NXw?oc=5",
+    "timestamp": "2026-06-29T08:01:29+00:00",
+    "source": "fars"
+  },
+  "0ec914e27080a258c9656fc54381adb8": {
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xdHB2WkpuaVVISVh3N0cwOUtxOS1neFo4b0NPUncycXNXc2JtRmgtV29iUnQ0M2xEeU44eEM0cl9SMlZtZDZtUlJFWUhkWGdwRWFFQkdfdVVTTG1ZaC1NXw?oc=5",
     "timestamp": "2026-06-29T08:01:29+00:00",
     "source": "fars"
@@ -265,6 +325,11 @@
     "source": "iranintl"
   },
   "f967c06124b77ac6f1017d1b8d86485b": {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10d041RDFQdU1Baks2TFVsbWV3RDhFMlpZY3RvZWtLOWExenRKdk5fV2lYaVJrRWRMWUIzZjBlSWxUTHFqTmRQelN2bm1DeG9DMkdxdUV6TmdtV2hMSl9GdXpGbGlCNzNrbnVVZ0lVYWM?oc=5",
+    "timestamp": "2026-06-29T06:05:29+00:00",
+    "source": "fars"
+  },
+  "8608277772112c5c9da7cc3ca16dd0c2": {
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10d041RDFQdU1Baks2TFVsbWV3RDhFMlpZY3RvZWtLOWExenRKdk5fV2lYaVJrRWRMWUIzZjBlSWxUTHFqTmRQelN2bm1DeG9DMkdxdUV6TmdtV2hMSl9GdXpGbGlCNzNrbnVVZ0lVYWM?oc=5",
     "timestamp": "2026-06-29T06:05:29+00:00",
     "source": "fars"
@@ -295,6 +360,11 @@
     "source": "iranintl"
   },
   "85fb8fdcf1f2c2e210185d50f71050bc": {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vWUpDSWZOVXp0dUtKV3hrNFNoYUYtMFlGYzJoenVkcjI0NDlBRG5RR2VaSUczenNkUEl4QjFuM3hQQjhZcGZpX19IbksxUTkta3dsWktiYTAtWkR3R250WUZfNnlmNzNxV0JtNE12MGw?oc=5",
+    "timestamp": "2026-06-29T03:51:48+00:00",
+    "source": "fars"
+  },
+  "85652c6397db005861ce908e2bcb69ed": {
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vWUpDSWZOVXp0dUtKV3hrNFNoYUYtMFlGYzJoenVkcjI0NDlBRG5RR2VaSUczenNkUEl4QjFuM3hQQjhZcGZpX19IbksxUTkta3dsWktiYTAtWkR3R250WUZfNnlmNzNxV0JtNE12MGw?oc=5",
     "timestamp": "2026-06-29T03:51:48+00:00",
     "source": "fars"
@@ -2428,75 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54M0lEUXRXSzVhT05UMXM0U3Y0VE9TbkxwVU13b29WZzVwbUhJRDV4Mm1oOHRoV0FWMlVSbTAyWkQ4RXRZLVhPU01FRWs4dVZOemc?oc=5",
     "timestamp": "2026-06-25T12:40:12+00:00",
     "source": "iranintl"
-  },
-  "5deb1d3a997fc18786a3ccacfc365568": {
-    "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html",
-    "timestamp": "2026-06-25T12:30:54+00:00",
-    "source": "nyt"
-  },
-  "745ec79bdaa7cc3500190ab3c052249d": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6QWNuNl9BME0yMDJDOEtNZ0ZINmw4Z280NkNEQlNlemYtRXR0RzB4TnlobUFvNV9DZWFnX2VKOEVfcUFsM1dTMVg0Z21iUUQwakE?oc=5",
-    "timestamp": "2026-06-25T12:30:28+00:00",
-    "source": "iranintl"
-  },
-  "0559208c53565ec9592ece450fb38fda": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pcDhyMHBXamlSMlVGZHVMSFBJX0w1SFk1dGZ4SGx4OXExWnI0VGFJcEx2d1p2SEk3TzFXZWxiMFNKRjFmWUhVdGZWTGZoOHMydUE?oc=5",
-    "timestamp": "2026-06-25T12:21:23+00:00",
-    "source": "iranintl"
-  },
-  "696f0301d315bdec22bec02ef1b28daf": {
-    "url": "https://www.france24.com/en/video/20260625-evacuation-of-sailors-stuck-in-gulf-likely-to-take-weeks",
-    "timestamp": "2026-06-25T12:11:57+00:00",
-    "source": "afp"
-  },
-  "847f2881bb8a4a7b175447d3032852de": {
-    "url": "https://www.france24.com/en/video/20260625-why-is-europe-the-fastest-warming-continent",
-    "timestamp": "2026-06-25T12:10:47+00:00",
-    "source": "afp"
-  },
-  "b61b805e21cecb20ff8375c8faecdcb6": {
-    "url": "https://www.france24.com/en/video/20260625-uk-swelters-in-hottest-june-day-on-record",
-    "timestamp": "2026-06-25T12:09:13+00:00",
-    "source": "afp"
-  },
-  "65b547d5933ccbb423290379d808999b": {
-    "url": "https://www.france24.com/en/video/20260625-peru-s-keiko-fujimori-celebrates-election-win-as-opponent-alleges-fraud",
-    "timestamp": "2026-06-25T12:08:15+00:00",
-    "source": "afp"
-  },
-  "3320afa2fa0f26f3692c5f3285346b12": {
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdUZRc1Q4eWRtTmhOVHFadUVuckRPNTJwSjg0YTFVVkp5MncwdGNzSU1uYkU4MW5tTGFDUVdXRkxUZEVXV0h5YVE5MlBOYkZQdlJabWw0UXVxeURUbUM2cW43ZElQRDAxaGZ1VEdCX1VKS3pMZFJPbWhLbXA0M3NrNGo4eGZDLUhtb09sUklHMnRvYTRNSEV5MWt4V1h4UXFmWkROU09raUxtR21LaUFKREE0OHMwQXotYm5la0lFV1c5NnNQRWJpSXdJSHkxa183OEJ4RjZ4dzVJMDMzZk1YRnFB?oc=5",
-    "timestamp": "2026-06-25T12:03:34+00:00",
-    "source": "fars"
-  },
-  "79d45279a07fcf19f056af53de61291a": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VUUk5S3FTZXc3M25nS0Z3SlZLcHZ5NDU3dGhScm5VV2ptaFFYTWE0U3Z6ZjNQMzViTDRJdDNTejNlQkFjRmFKWDVxbEJtb1ZvUVE?oc=5",
-    "timestamp": "2026-06-25T11:47:49+00:00",
-    "source": "iranintl"
-  },
-  "735ace2d00bfbe94f55ea055489817dc": {
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONk9vbDNHSXF5NUU2MGh1eFBaZzJnRktPMUNjZGtObFl2azNGemw4Ym14NW1RMlZaRXRSLU5ZdDk0VFJGNE9EemxiQ2RKdkFVZTJnOGdoTWlzVWpVa25leEV5WXl4bDlPY2VqdUhodU9YanktSnRubzh6SG8xWlhRUVhFWDl3UU85ckVQWg?oc=5",
-    "timestamp": "2026-06-25T11:40:00+00:00",
-    "source": "ap"
-  },
-  "76b2e3674bd3d0c9ad97adfebc6c978a": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CNTJpUWY1UklVMklSVldoM3FacmtCMTUzdWVKSENiMTFfZEdnczNzUk9QSUtIcWdjRy1ZVWpvY1Z2eXRqc3VxUDNkZmhNZmc3VUE?oc=5",
-    "timestamp": "2026-06-25T11:39:15+00:00",
-    "source": "iranintl"
-  },
-  "0eb6a0e7f04d0f90c8f88d7e65f0c502": {
-    "url": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
-    "timestamp": "2026-06-25T11:02:14+00:00",
-    "source": "nyt"
-  },
-  "65a9aff9bbf7b8700a51cb02892fa8ed": {
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VeU8xUVRoa2FRaW16SlA0eml0YjN4ZC1pQ3Q2RkQyd2FDT3RLRjM4VzZZdk1oSDRiRTFjLWZKVHMwb0dScDEtZ2pxbC1UZms?oc=5",
-    "timestamp": "2026-06-25T11:02:06+00:00",
-    "source": "fars"
-  },
-  "35703cb08d52f6264045d642df8bb33b": {
-    "url": "https://www.nytimes.com/live/2026/06/25/weather/europe-heat-wave-uk-france",
-    "timestamp": "2026-06-25T10:57:35+00:00",
-    "source": "nyt"
   }
 }
