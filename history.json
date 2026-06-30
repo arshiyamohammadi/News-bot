@@ -1,4 +1,49 @@
 {
+  "93c1628f80d9169a5eb650f38effbe71": {
+    "url": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
+    "timestamp": "2026-06-30T11:19:49+00:00",
+    "source": "nyt"
+  },
+  "aa5a3b18274ebb276c0e119fd985db40": {
+    "url": "https://www.france24.com/en/video/20260630-shoppers-to-pay-the-price-after-heatwave-hits-french-crops",
+    "timestamp": "2026-06-30T10:44:20+00:00",
+    "source": "afp"
+  },
+  "a5efa01c2befe3b755ffc0f35cc9f1d2": {
+    "url": "https://www.france24.com/en/video/20260630-trump-says-iran-meeting-set-in-qatar-despite-tehran-s-denials",
+    "timestamp": "2026-06-30T10:43:09+00:00",
+    "source": "afp"
+  },
+  "cd630264cec6577c06ab6e8e5580e050": {
+    "url": "https://www.france24.com/en/video/20260630-venezuela-rescuers-in-final-push-to-find-survivors-as-anger-mounts",
+    "timestamp": "2026-06-30T10:41:50+00:00",
+    "source": "afp"
+  },
+  "355a7e9d3cbbd01e43ce7fb1fd2894d2": {
+    "url": "https://www.france24.com/en/video/20260630-ukraine-s-war-damaged-power-grid-struggles-under-soaring-heat",
+    "timestamp": "2026-06-30T10:19:23+00:00",
+    "source": "afp"
+  },
+  "3f8d43f64d4a6360d4eb7415f41c888b": {
+    "url": "https://www.france24.com/en/tv-shows/business/20260630-french-heatwave-threatens-food-inflation-as-agriculture-sector-suffers",
+    "timestamp": "2026-06-30T10:14:06+00:00",
+    "source": "afp"
+  },
+  "d9f6cac923fdae3dc16ec583e8ce3886": {
+    "url": "https://www.nytimes.com/2026/06/30/world/asia/china-japan-rare-earths-patrols.html",
+    "timestamp": "2026-06-30T09:11:14+00:00",
+    "source": "nyt"
+  },
+  "b437bc9b7d1bb72ab0376f2f4905a090": {
+    "url": "https://www.nytimes.com/2026/06/30/world/americas/venezuela-earthquake-death-toll.html",
+    "timestamp": "2026-06-30T09:03:18+00:00",
+    "source": "nyt"
+  },
+  "8cd23c461de22bef13556278051467e9": {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT2d1NldJMnhuQmE2Q2w3T3FXei0wYnRvSkpRU2RyMmJUOGRLT3ZyV09XM2tLUHVaYzhzTGoxN3VxcDJYUTFsYS1OVTl5bU1aNUhVVTNqVC05Y09odE9HSXRWaGg1bDAwdzJhS2hFMFlUV1ZBNGdZSTFtYlFQNE1ZTExCUXJHNElJcW9GOHVtQkZfM0dQc2ZQWm5SR0x4ekJlalB4WUUxRm9rTnJ4dDVVN1d1Z20xYTN0?oc=5",
+    "timestamp": "2026-06-30T07:49:10+00:00",
+    "source": "reuters"
+  },
   "bde1e3012dea3364fa88831d859789bb": {
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0ZSNllHVC1Ea0NYUzk0SlhUSzBRSEtzUEhwYXVIaEkybTQwOEtPMWFGV254UjMyWlJIWS1yZDIwaFRmclpmQXFVM0xIWFhHM0MyQ3c0dkV6Mm5XbGMwSHhDdlBXUnF5dUxJY2pDZExST3BHdnpoWEIwam5Sb2MyaDJvU1YzcktBdG1KUHQxeUlYY1VaenpRWW9abEhNV19RR25lUWg4MFJlcG1DZVJXVk1R?oc=5",
     "timestamp": "2026-06-30T07:06:09+00:00",
@@ -34,6 +79,11 @@
     "timestamp": "2026-06-30T03:32:52+00:00",
     "source": "radiofarda"
   },
+  "64428f7d53d6856359424a6048ba9c7c": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xSjFfY296cFM3UXRramlEYnVNODdiNmtOT2xXaDg2UnpRZEdYRGhwbU5jVjBzNjQ2OGpzTk9OeWNudEtXeEZfelJ4RXluWEdCUnc?oc=5",
+    "timestamp": "2026-06-30T02:27:28+00:00",
+    "source": "iranintl"
+  },
   "a5caa2a9c97e6064e8bd910b08bf8fc1": {
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WRXhVenNRbnlJeC1UY3dqdGduYjhDSTNSNkxuaXNhdlVRbmVtUWEzZG1GRWhZZHFiU08xQmRCOGoxQms0TmROVU95VWJXLWEyMW85c0NqeFJ3UkJydkZiRXdCSDZqS3lFZjJz?oc=5",
     "timestamp": "2026-06-30T02:00:08+00:00",
@@ -58,6 +108,11 @@
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVlowVWxKdUhheXVNdWdVeDNkb1k2MHJFaExPdFVyMVVqNU1MZW9sQXhzaTNmdi1qNlFHamhFalRkcHo4TEdOZnMzLW5xVmZGZVdtbkp6NHJBVWNhS0FwVTQ3NmNVclk4YVpkYmM4T1pDZU1BLXk3a2p1SnBEOWxGSG9MUnpCWlc1U2kzZ2lwbEhOOWpHVW9wZFd2dDd2cXJOU0otR19CbEtCTW9HMXZqX0JvZ0RjNDFMQnBscUExQzFObUw0Mmc?oc=5",
     "timestamp": "2026-06-30T00:06:00+00:00",
     "source": "reuters"
+  },
+  "5d842b711c7a8bc038c313c48af35a20": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UN3ZESlBVS1c5QkdKYTkxdWJOMGQtVXh0SVJvOURpanEyaEhDZU9IbHpzQ0RtLWdLdUxGdGNTZ1JWSGYtOWJwV2xBLThVdFJhcUE?oc=5",
+    "timestamp": "2026-06-29T23:51:37+00:00",
+    "source": "iranintl"
   },
   "89b7a266d8a038705f21a112614cc29f": {
     "url": "https://www.france24.com/en/middle-east/20260629-trump-iran-doha-tehran-us-talks-hormuz-lebanon",
@@ -120,6 +175,11 @@
     "source": "fars"
   },
   "82906f6329ff1192822947b231fd3b4a": {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82dG5JeGp6SVFDSE9HTVNxSzBNSUFFTDNpVkROSzlySmtqOGt1dlZ2OVh0dWkzQ0FPb3hlZ0NtTkx6UzlaX3gzV1FacFBTOEYwQVg1WnR2T1VCa0Zkci02d0w3eXdUazB6d19feWp4Qy1MOXIwUU5xWmxB?oc=5",
+    "timestamp": "2026-06-29T22:25:31+00:00",
+    "source": "fars"
+  },
+  "bdef03c37c7f6d5d4d8042fae1108bd1": {
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82dG5JeGp6SVFDSE9HTVNxSzBNSUFFTDNpVkROSzlySmtqOGt1dlZ2OVh0dWkzQ0FPb3hlZ0NtTkx6UzlaX3gzV1FacFBTOEYwQVg1WnR2T1VCa0Zkci02d0w3eXdUazB6d19feWp4Qy1MOXIwUU5xWmxB?oc=5",
     "timestamp": "2026-06-29T22:25:31+00:00",
     "source": "fars"
@@ -2438,65 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MenFEV0ZtWnBuRzhueHdnYmNnZk9lMEozZWRMb01QUXBtVE5lSi1Pdkhsd25ld253OVFUbzBwbHpDT0VJOHl5TW9HdEg0VDRLaGhYOFhOM1JxMEJhbENOWnpQajJSREFf?oc=5",
     "timestamp": "2026-06-25T21:37:26+00:00",
     "source": "fars"
-  },
-  "3b9df6b0db2a2d42f53a747776fc669c": {
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MenFEV0ZtWnBuRzhueHdnYmNnZk9lMEozZWRMb01QUXBtVE5lSi1Pdkhsd25ld253OVFUbzBwbHpDT0VJOHl5TW9HdEg0VDRLaGhYOFhOM1JxMEJhbENOWnpQajJSREFf?oc=5",
-    "timestamp": "2026-06-25T21:37:26+00:00",
-    "source": "fars"
-  },
-  "8f80a311fe167cecb60791ca43a71430": {
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcHN2bFp1N01sYkluazNjRndvSFAxeG9sTzh2NzJYeE90NFliWWVJYm5lRk1RQjRUeHdKN1FfRGNDa0VmaVhNZ2JHTW9XbnF6YnR2eTI3TTBiV1VqSWJSSENPcjRiRVNTR0JGRTY0R0lKRC1JTXZIQVoxWGpxMUFXMHcxTm9qemhPRTVTMnllbjBpM1hWRUZIR3VB?oc=5",
-    "timestamp": "2026-06-25T21:31:00+00:00",
-    "source": "ap"
-  },
-  "14f0dd083491e8dec732e0d96f7cbc50": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KN0R2QmVRZXFZWU5McTl2bVVMbHkxM0tPdVJ5UEZMbHRJYVdvdlc2NnZCLVk1NHZLRFdJTXU0cHhqVmlIdGtudlRIWWVWOVA1TlE?oc=5",
-    "timestamp": "2026-06-25T20:58:00+00:00",
-    "source": "iranintl"
-  },
-  "e626f57a4a211100d331474bf09367e5": {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUTZKclQ3bUlxRmJPSWxBRTNLSm1lLWQ0YUktc05hUVZPQ2ZCZFZ1TEEtZXR0SUItMWN4WERudzJuRUFrN2h4bl9vUER0NEFmb2E5Mkl3RTMzdjZmeHpWakZveTVhcjk3QUdBUDc2c3pia1RDTFZ4Sk96U01MY3otcG82aHU0NXV1cXA4cHFjYzZoYmZFeWR6dlZ0R3lzcHFNdnlpcXVTYm0?oc=5",
-    "timestamp": "2026-06-25T20:49:00+00:00",
-    "source": "ap"
-  },
-  "3e6addb3bfcddd05db9ad5098c557409": {
-    "url": "https://www.france24.com/en/world-cup-pride-match-fifa-refuses-to-ban-rainbow-flags-despite-iran-egypt-objections",
-    "timestamp": "2026-06-25T20:39:13+00:00",
-    "source": "afp"
-  },
-  "319fa447eb1e429bf65d6621c1df5a36": {
-    "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html",
-    "timestamp": "2026-06-25T20:39:02+00:00",
-    "source": "nyt"
-  },
-  "028debbb769f0e32f1a21fa7bdee539d": {
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWkzdlBPMnhpUmJFSjFIMjlCTVR3ZklSTHpsekR4bEhPNFo4MUh3VkdURm95NDdmRmNOSG5nMGFnT0ZhSDV2dFBzbUdvN1NiYUt0NUwzdGZBZ1FrRkgydTEzZFRNY0Jfc0hQM2ZGX09HWEtzV2hkNkpzc3FXRnh6anZRVVRhNUNCckZjS3NyaWU2S1BEeUtqd0V3RlZzQTlZQVpZ?oc=5",
-    "timestamp": "2026-06-25T20:37:21+00:00",
-    "source": "reuters"
-  },
-  "51a322c7c4121358fceadd26614ecba2": {
-    "url": "https://www.france24.com/en/kenyans-mark-anniversary-of-bloody-protests",
-    "timestamp": "2026-06-25T20:26:08+00:00",
-    "source": "afp"
-  },
-  "a2f3ec34fd73ad51fd9ec2dd4dee52f6": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95RklrcHJaR0RrdWJjaTdxTGwwZDdyMEpxMUVvSUVnZTBpN2VYZXNYT01vTFJUMUl4TWM4ZTIxd1diRE9UMXJDRlVuRWMyOGkwcjdWWGVESGI2OFZwejBLSw?oc=5",
-    "timestamp": "2026-06-25T20:05:36+00:00",
-    "source": "fars"
-  },
-  "81b7d05cb779c91af479a310bf42a70a": {
-    "url": "https://www.france24.com/en/video/20260625-albania-we-need-courageous-people-to-combat-greed-and-corruption",
-    "timestamp": "2026-06-25T19:54:42+00:00",
-    "source": "afp"
-  },
-  "be2c7b31d7d2d673c3f9c3cd8f74a06d": {
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zQUF3UHRKeDUyZGQxWkI5OE1ITXpraTBIcVg0NUN6eUJTMU9yeWY3clV3cHdkUXVId2o1UmxhdFVDeExkZTFfaWJDZnNGV3JoRk1mNjNkMTlMYnhSR0VOc1lhYlI1a29sVFlxeHJBdw?oc=5",
-    "timestamp": "2026-06-25T19:43:47+00:00",
-    "source": "fars"
-  },
-  "0381242153dd2fe0fafc6c25114b1f35": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCX0RmczU2N2ZyeXhxTGFtUXIxcktsdkw0QXJxWm5DMWtzRGxyekRPdGE4ZFh5bXVQSllZVmF3dHpQSHNWYm1vcGYtZEV6TVQzckE?oc=5",
-    "timestamp": "2026-06-25T19:39:16+00:00",
-    "source": "iranintl"
   }
 }
