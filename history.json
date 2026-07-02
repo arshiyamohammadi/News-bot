@@ -1,4 +1,49 @@
 {
+  "4536a6416ed72fcf1015249dcc0881e1": {
+    "url": "https://www.nytimes.com/2026/07/02/world/europe/vatican-society-st-pius-excommunication.html",
+    "timestamp": "2026-07-02T13:10:34+00:00",
+    "source": "nyt"
+  },
+  "13b92742b977421013ee15237afc93f0": {
+    "url": "https://www.france24.com/en/a-week-after-the-earthquakes-venezuela-still-searches-for-its-thousands-missing",
+    "timestamp": "2026-07-02T12:54:54+00:00",
+    "source": "afp"
+  },
+  "04142a982e05147527c4b5cba1ed078f": {
+    "url": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
+    "timestamp": "2026-07-02T12:53:38+00:00",
+    "source": "nyt"
+  },
+  "2de518cba12c373d1393f6e96969f252": {
+    "url": "https://www.france24.com/en/ukraine-s-attacks-forcing-russians-to-realise-the-war-is-really-happening",
+    "timestamp": "2026-07-02T12:52:34+00:00",
+    "source": "afp"
+  },
+  "e821b6a4e18406e122fff0dbd9a6da63": {
+    "url": "https://www.france24.com/en/video/20260702-new-york-marriage-proposal-atop-the-empire-state-building-ends-in-arrest",
+    "timestamp": "2026-07-02T12:34:36+00:00",
+    "source": "afp"
+  },
+  "eda8be45f732827bb692edd953e6a4a9": {
+    "url": "https://www.nytimes.com/2026/07/02/world/europe/germany-overhaul-merz-economy-pensions.html",
+    "timestamp": "2026-07-02T12:21:06+00:00",
+    "source": "nyt"
+  },
+  "73597c4fcba11511f55413155d4e7cb2": {
+    "url": "https://www.france24.com/en/africa/20260702-algerians-vote-in-parliamentary-elections-overshadowed-by-candidate-bans",
+    "timestamp": "2026-07-02T12:13:29+00:00",
+    "source": "afp"
+  },
+  "b0565d237b336b8c88181736706dbaa1": {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmplNlV3ckJjbDhxWE1ZcXVkUTFZaENXenhBMWFwU3l0QWt0bUtVb3A2Sl9CNlBJVFR1d21VejBMMEszUHI2NkZXNUw1amxNMUlkb0x5Y1I0dlpLbUpfd2VGbVpJT2NPRnBlc1JmNFgtTTVwQXVZeHNCaG0xY0UyYjlRYlR3UXBlTEFuRFR3UU5RR1N1Vy1tdEZFaVVza1M2d2c?oc=5",
+    "timestamp": "2026-07-02T11:35:17+00:00",
+    "source": "reuters"
+  },
+  "77e1b2684bddf649bd05376ff0084116": {
+    "url": "https://www.france24.com/en/tv-shows/perspective/20260702-danish-refugee-council-on-importance-of-coordinated-response-to-ebola-wider-humanitarian-crisis",
+    "timestamp": "2026-07-02T11:04:05+00:00",
+    "source": "afp"
+  },
   "5505f2c58f85bce2245e1b678b2265cc": {
     "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
     "timestamp": "2026-07-02T11:02:14+00:00",
@@ -24,6 +69,11 @@
     "timestamp": "2026-07-02T10:53:12+00:00",
     "source": "afp"
   },
+  "61e0cca5063b3041f44f466ab284b3e1": {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSE0zc3pKQ0E3Y0Fja05CMWJodzB6QlBIaGY2bWZsdDc2Mks5N0tUVGJaM1AzSEJFRE5WTnBsY1JoQm9oeXQxNDlkWEpaTTNuX1hqNTlyRUhHUzN1VkNfd0JTdGJhbDJKdnBFZTJIWlZDSEVCYjkxZFR0NGE4RXBOam94THhCVmFNOFdSWkJtcEZkOXdoLWZmX0RIQUFxMmMydDNvb29nSTlybEFlTm9ZdmlxZVBfdFpKRkR0VHp3?oc=5",
+    "timestamp": "2026-07-02T10:28:09+00:00",
+    "source": "reuters"
+  },
   "7ca3cbb76174b92add4c5297ccaa4675": {
     "url": "https://www.france24.com/en/video/20260702-as-hospitals-saturate-earthquakes-lay-bare-frailty-of-venezuela-s-health-system",
     "timestamp": "2026-07-02T10:11:46+00:00",
@@ -43,6 +93,11 @@
     "url": "https://www.nytimes.com/2026/07/02/world/middleeast/us-iran-negotiations-economy-opening-up.html",
     "timestamp": "2026-07-02T08:50:05+00:00",
     "source": "nyt"
+  },
+  "510b48eb1b9f1554d74c18d901eb2677": {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaFZMSHRRd25XTU5fdFpqLVBNU0J3TDNUMHRiRER2eDFGaU1QTm5xQUN0OTBidUtPc2VnMFBiM0lYaGpLLXFGeHJ3VFZVOFh3QVB5d2xwb1VDemlzaHlOMEZfV3o5TmlSWnE4S1VlTV9wUTB0aXZySllLRFZFYTF2ckYwQXJRQlZQVzRESGwxc1A5dGFqbWdPM1dVbEFWcVQwbXFEekZJV3dkN2F6NTkxTEY4QXZsMUpRZWhMbVpwdV9Gb1FV?oc=5",
+    "timestamp": "2026-07-02T08:49:45+00:00",
+    "source": "reuters"
   },
   "e4adbc9a678f99254d61ac5b6420d6b8": {
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjd1X1pITDBSckd0dXdzYzdCbTZ2T3o2UmFUWG5yaHRuZFZWR1pMclo4Z3BLNGYzeS1WREhPZ291WFlJcmZGOGNHclp0dEp4cVhaQTdweUx5Rl90U2tnRGdJOEtjZHNnbC05aUJRMXZJbHl3aUtKMzlxRl94SUl5N251SENtMVBqVVFHdldIcDJCTnpaamphc2VVWUlReGZCMkZpOEJYMlBxcGlOaVktWUdIR2RseW94clhPenQzVlVhOWM?oc=5",
@@ -77,6 +132,16 @@
   "43472a2c689b6daf91680c79e2a455a6": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfS3hoN0t4WTNIRzVWSjEydFVoenJLLU0yTjF0dXBYdHRDWnRiaVpOb0JNeXJXMG9WanMtdHdhaFBSVGdWU1NBV21QUnZ4OWstd0E?oc=5",
     "timestamp": "2026-07-02T07:04:41+00:00",
+    "source": "iranintl"
+  },
+  "ca185205243aa37925f69740a1be46ae": {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GRlZ2T3cydlMyWWxSODBiSjk1NmlMOEFnbWZrWUlHeExDamNQWGlqZEdOQlFPTWJTZ1JzcWt5RHIzclFsWXZuRnU1VUp6ZEdPa2dlanZLWXhWN05zSFh6MGx5ZjFIWkdHUFBN?oc=5",
+    "timestamp": "2026-07-02T06:39:38+00:00",
+    "source": "fars"
+  },
+  "4025ba66ad7a8f481935e1cf41c6914d": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpLTR6UFp0Um1fenk1MzBwX2k5cUVVUFJmZU1XZWFTMnREY0xsMm91VnlnQmcwMFI2UUxJZ0x2QThLaVFReXVNRGxHM3ZjRS00Snc?oc=5",
+    "timestamp": "2026-07-02T06:35:46+00:00",
     "source": "iranintl"
   },
   "d81255bd478099ca6daba325498fd559": {
@@ -2432,71 +2497,6 @@
   "b94a5a2055bc9cad8b3fe28247967e9d": {
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb0dlcDduc3d2M0pHRElySDlqUXRJdnlNS2Iyc25xRl9YQWNuUkZZa0RpdE8wVmg4N0dXNkc1aDRhRFdBZTVqMzhZaXJCaFQ0eEt5MnV3SE5fZE90OXVhSlVwYnNfcFZ6a3VZcXQwZVloUDFJb2pGVU9pZ25nOGFPNGx2a0RKSFZmUWRMaXNadFVkXy1Yd2pMaEpYYlJaZw?oc=5",
     "timestamp": "2026-06-27T12:47:22+00:00",
-    "source": "fars"
-  },
-  "8ab21d3dc81d15afd23d2f6046f73e3a": {
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb0dlcDduc3d2M0pHRElySDlqUXRJdnlNS2Iyc25xRl9YQWNuUkZZa0RpdE8wVmg4N0dXNkc1aDRhRFdBZTVqMzhZaXJCaFQ0eEt5MnV3SE5fZE90OXVhSlVwYnNfcFZ6a3VZcXQwZVloUDFJb2pGVU9pZ25nOGFPNGx2a0RKSFZmUWRMaXNadFVkXy1Yd2pMaEpYYlJaZw?oc=5",
-    "timestamp": "2026-06-27T12:47:22+00:00",
-    "source": "fars"
-  },
-  "bdf9c133e0aa13f194c82fce284025d3": {
-    "url": "https://www.france24.com/en/budapest-pride-continues-despite-heat",
-    "timestamp": "2026-06-27T12:30:04+00:00",
-    "source": "afp"
-  },
-  "cc40beab3dccc06eae358c73a3fc45d7": {
-    "url": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260627-world-cup-2026-senegal-through-to-the-knockout-round-demb%C3%A9l%C3%A9-triple-puts-france-on-top",
-    "timestamp": "2026-06-27T12:10:03+00:00",
-    "source": "afp"
-  },
-  "4d69298cc9d9f22b173123b5ccd2e376": {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVYyeVlFWjBaMHVRcE9pbWlvS05JVWdESHZ6VTBsTmsxM3dOaWFQRW1UTUp5aEtGRVZrYXBMT01fWXp5b2s4QmpMUDNncERCV2lpRVFBejktRGdSeDR2Mk1pdTJZanBwcHFodHQweVEyWUxhVnpvYXpWRUNQc2lTTDZaU1REUVl5TS1wSS04NS1hUzduWEhjVVpXbDRHaVhHN1BLQUpaR2NYemstemtYNmd1X2pyWThPUzVUdXlOb0xkUQ?oc=5",
-    "timestamp": "2026-06-27T12:07:35+00:00",
-    "source": "reuters"
-  },
-  "58ab1811c5610deeae57524d987c480e": {
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sV3hFdUl3MnhOVVVKa0I1dEUxdHN2MG9aN0pZT0NkdVIweWpsalRtWUoyZHZyLU9lX1g5UFlmX2xOLW1RUnZIYU5MUVhuMjRVd2kw?oc=5",
-    "timestamp": "2026-06-27T12:02:18+00:00",
-    "source": "fars"
-  },
-  "8d059d4c35fa97b73e8bb089141765c5": {
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sV3hFdUl3MnhOVVVKa0I1dEUxdHN2MG9aN0pZT0NkdVIweWpsalRtWUoyZHZyLU9lX1g5UFlmX2xOLW1RUnZIYU5MUVhuMjRVd2kw?oc=5",
-    "timestamp": "2026-06-27T12:02:18+00:00",
-    "source": "fars"
-  },
-  "7994d4457bcc428ce1f89b5295139496": {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamVFR0VfZVlNU01BWjNWakdNczVUSHAzNWFlM0J3MGV1b0ZmbldmdnhQUHVpLTNabjVZSG5tSDJ0RDlQREk0emJnT3ZGbjFEZjVpTEt2UDgxOXpMdWV3dTIzX1ZtQVNpeUdDRVplMkUxd0FVNzNPTEFwZ3BVSUo4SG1BcHFDeEdYS2tIM3RUaWpZNEtyeWlub0h5c29pNjJmdDZ6Y2tha2hKWkNGa3Y0Y2JNYnk4ZWJuUlk4?oc=5",
-    "timestamp": "2026-06-27T11:58:03+00:00",
-    "source": "reuters"
-  },
-  "5b5433116780439a5e7f638e291b0f81": {
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ZMHpoOWU4QmtsMXJ2a3J6RkpEUWhIWmZFemo5djhHOWJvTnRRTDRCTDR3ZU5CWHhXR2hnOGdraXEwV0R1Z0ZyeG1KaHA?oc=5",
-    "timestamp": "2026-06-27T11:56:51+00:00",
-    "source": "fars"
-  },
-  "9fcf1bf15236fd67645229468631de17": {
-    "url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
-    "timestamp": "2026-06-27T11:26:17+00:00",
-    "source": "nyt"
-  },
-  "ae57ff25bb4f7cb6ed2828fe429e8905": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tQlYtejNqNHBNdk1hSUV4eUR3bXk5aG5TdlZ3d0VwSlRycGF1SkRvZmZ6clRHdUh3S2thZTBsZGhTbktsODllVGV5Um5tWTBmWEpaOTR5T1k5c3ZodVE?oc=5",
-    "timestamp": "2026-06-27T10:51:16+00:00",
-    "source": "iranintl"
-  },
-  "0dcbb9f63b23a5233310a9369214664f": {
-    "url": "https://www.france24.com/en/venezuela-tens-of-thousands-still-missing-after-twin-earthquakes",
-    "timestamp": "2026-06-27T10:33:23+00:00",
-    "source": "afp"
-  },
-  "e8807823c1be70cfadbb9d733ea488a7": {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalVNd2JyLUZIckdxYmtjWWpqVzZuY1lEMUNva2Rxb3hwQkEwU1FDSzdQLVVybHdNSEt2NjVtTDd5b3dXaXBuclJfYldLd05XWXFOdU12NHphMmU4d1MtOXJEX2pNRURSNjJpbWRpbGF4NWpsTHN1cXExZF9yR3NNRHVQVjZqTUtGRDJKN1ZGRWJKZXpsSnU2TFBKTFRhTU5ZUjQ0UWlYUXdIczZtbWNMTmd4anpUV0hzOWJOcmhpWQ?oc=5",
-    "timestamp": "2026-06-27T10:20:18+00:00",
-    "source": "reuters"
-  },
-  "123cee5e74a95daa3ff0fc32fdfab153": {
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2hwcUE3ZzFvNlpZNDhWT2RaMWpKdWpPTllGZng0NzRSUDkxVnByb1VkZE84WDQycUhqam5GWU5RSWd4Z0tfck4yNmV2TExPVXlxTm1iR016aEZIdV9QQlZ5aWpJN0RhQ240am5DeUZta1RTVzhjNlZZZFlHZzNUekllMXRHZWJkc3R0dnN5aUhONndXUVdpR1VR?oc=5",
-    "timestamp": "2026-06-27T09:51:25+00:00",
     "source": "fars"
   }
 }
