@@ -1,4 +1,64 @@
 {
+  "5505f2c58f85bce2245e1b678b2265cc": {
+    "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
+    "timestamp": "2026-07-02T11:02:14+00:00",
+    "source": "nyt"
+  },
+  "3e85c22680cbf238237f5a6ef0bacb69": {
+    "url": "https://www.france24.com/en/37-students-missing-in-nigeria-after-yet-another-jihadist-kidnapping",
+    "timestamp": "2026-07-02T10:58:58+00:00",
+    "source": "afp"
+  },
+  "5fb4c76d6d5b6ec878aa396ea19eeb5e": {
+    "url": "https://www.france24.com/en/we-ll-give-you-a-warm-welcome-despite-losing-to-england-congolese-fans-still-proud",
+    "timestamp": "2026-07-02T10:57:39+00:00",
+    "source": "afp"
+  },
+  "9b28233dbfd417382d2a2672c62b97d4": {
+    "url": "https://www.france24.com/en/important-for-the-nation-algerians-come-out-to-vote-for-new-parliament",
+    "timestamp": "2026-07-02T10:55:30+00:00",
+    "source": "afp"
+  },
+  "97b1d2b43776f4c013c8bdf03c69f2d2": {
+    "url": "https://www.france24.com/en/video/20260702-ukraine-russia-pounds-kyiv-in-massive-drone-missile-strike",
+    "timestamp": "2026-07-02T10:53:12+00:00",
+    "source": "afp"
+  },
+  "7ca3cbb76174b92add4c5297ccaa4675": {
+    "url": "https://www.france24.com/en/video/20260702-as-hospitals-saturate-earthquakes-lay-bare-frailty-of-venezuela-s-health-system",
+    "timestamp": "2026-07-02T10:11:46+00:00",
+    "source": "afp"
+  },
+  "9b5d3048a34436684f975cb94659acd2": {
+    "url": "https://www.france24.com/en/algerians-head-to-polls-to-elect-new-parliament",
+    "timestamp": "2026-07-02T09:55:53+00:00",
+    "source": "afp"
+  },
+  "8aa407ef057d78e0f212f6bbbcb63f82": {
+    "url": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
+    "timestamp": "2026-07-02T08:56:49+00:00",
+    "source": "nyt"
+  },
+  "a2e0e7ef8ee7d294a28cc641ba03d39f": {
+    "url": "https://www.nytimes.com/2026/07/02/world/middleeast/us-iran-negotiations-economy-opening-up.html",
+    "timestamp": "2026-07-02T08:50:05+00:00",
+    "source": "nyt"
+  },
+  "e4adbc9a678f99254d61ac5b6420d6b8": {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjd1X1pITDBSckd0dXdzYzdCbTZ2T3o2UmFUWG5yaHRuZFZWR1pMclo4Z3BLNGYzeS1WREhPZ291WFlJcmZGOGNHclp0dEp4cVhaQTdweUx5Rl90U2tnRGdJOEtjZHNnbC05aUJRMXZJbHl3aUtKMzlxRl94SUl5N251SENtMVBqVVFHdldIcDJCTnpaamphc2VVWUlReGZCMkZpOEJYMlBxcGlOaVktWUdIR2RseW94clhPenQzVlVhOWM?oc=5",
+    "timestamp": "2026-07-02T08:46:23+00:00",
+    "source": "reuters"
+  },
+  "1a088a90977466f6992de7ec0507d8c1": {
+    "url": "https://www.nytimes.com/2026/07/02/world/europe/drone-incursions-europe-russia.html",
+    "timestamp": "2026-07-02T08:30:05+00:00",
+    "source": "nyt"
+  },
+  "97335e420a735a23843338bd4d914434": {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjNEQycTRCNE5YUWlnWS12UW03eUhLNVk3d09LcmpZZW9kUzFKWWhCLXFNN0p0UjkxOUtGWndKVHEzU1ZodVVZTWZxc1NrWElFOVRnUE5uYUtWelJNVy1zdHhxeWdzS2VNemIwQ2w5aGV3aUZKX3N1aA?oc=5",
+    "timestamp": "2026-07-02T08:23:28+00:00",
+    "source": "fars"
+  },
   "10b5ea78c1348940c73803fee09f458a": {
     "url": "https://www.france24.com/en/europe/20260702-ukraine-live-russian-missiles-drones-kill-massive-attack-kyiv-war",
     "timestamp": "2026-07-02T07:59:32+00:00",
@@ -14,6 +74,11 @@
     "timestamp": "2026-07-02T07:11:03+00:00",
     "source": "fars"
   },
+  "43472a2c689b6daf91680c79e2a455a6": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfS3hoN0t4WTNIRzVWSjEydFVoenJLLU0yTjF0dXBYdHRDWnRiaVpOb0JNeXJXMG9WanMtdHdhaFBSVGdWU1NBV21QUnZ4OWstd0E?oc=5",
+    "timestamp": "2026-07-02T07:04:41+00:00",
+    "source": "iranintl"
+  },
   "d81255bd478099ca6daba325498fd559": {
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3BtdF9lMUpDZWVzUlVreWJuaE43ZHZkMVdSTWVKMU1VbTZKN1IwcnRNc0tiNnV0Y1BNLWtyQ3ktcl8zdUNjMkJkV3A2dXhPc0YyOE1URzEyVGk2MDFyMGpjRnBlSjhmeTJSb3Y0TzlfS2x4Y0NiZ2lYbmJfbzBmX0tyN1JaVHBoMU5sVGtGOFU3MlpNblctMVpkTQ?oc=5",
     "timestamp": "2026-07-02T06:25:28+00:00",
@@ -23,6 +88,31 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHNTaXZqSXdZU3VxemduZGktc2NXazJYODljRUdSQTJlMEFBQ0xwY1JLdlNwWUo2MG5ETnVNWGFUanRZRXJUQVROTjZuZVVPeU9jVXpBSHBTZ1lWYnVzWVoxS3Ywa2dORElkdEt3TFBaNzhyX0Z5dVZnTktQVXZMM0EtUFh1MjRFd1M3cEpkRXkxTVdXNmtGUmJyV0VmQks5MEw4V0hkdw?oc=5",
     "timestamp": "2026-07-02T06:19:00+00:00",
     "source": "ap"
+  },
+  "59ff3583fc91160a737481574722d434": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHZzZQUGxJVS00WHZtYkluQXdrSE5jWU0zZzFhMVByLVg5TGNudmZXb0JUNV9nYkxZYjB5c2EtSTA5Rk8yZkJBN2MxYlVGbFRYQnc?oc=5",
+    "timestamp": "2026-07-02T06:11:51+00:00",
+    "source": "iranintl"
+  },
+  "ac7e2041a299a7735d3deff277e71e84": {
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMbW0zdWRJUTdIeFhjcnZfeW9PVmZydldMeXpTR1lMdlhxTE9IOHhhTWVOUVNDUXpnWEZQSUQ1NFZqcXFyTjdDS3ZibzhfODVFN2VnVklPRk5xUQ?oc=5",
+    "timestamp": "2026-07-02T05:32:16+00:00",
+    "source": "fars"
+  },
+  "cfe0995e473aa520842a7302db18d37e": {
+    "url": "https://www.nytimes.com/2026/07/02/world/middleeast/iraq-us-dollar-transfers-resumes.html",
+    "timestamp": "2026-07-02T04:01:11+00:00",
+    "source": "nyt"
+  },
+  "ced4d0d81040d6bb3b9e53ebfcb7de54": {
+    "url": "https://www.nytimes.com/2026/07/02/world/asia/vietnam-stadium-corporate-inequality.html",
+    "timestamp": "2026-07-02T04:01:09+00:00",
+    "source": "nyt"
+  },
+  "d2b2f05cf4236ecc51474a68f1746e97": {
+    "url": "https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html",
+    "timestamp": "2026-07-02T04:01:05+00:00",
+    "source": "nyt"
   },
   "153ef5550001a22a6a2827e16e3a6692": {
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KTVhKamlQVTFHM3d0cGpoS25FLVRoOTgzUWdINHJVR1lFc05oS3ZaSkN1ZlI0WmxrM2t4b2ZFVlR2VDZLMXY2S0RUQnp5LWpDNjBaajdaaWlJYkE1SjFwRmRMODBscFhqT2IxYU5ET2tweEgzTmFVSFVIWWw?oc=5",
@@ -113,6 +203,11 @@
     "url": "https://www.france24.com/en/tv-shows/spotlight/20260701-france-s-political-landscape-dynamics-right-now-seem-to-favour-extreme-right-or-extreme-left",
     "timestamp": "2026-07-01T19:23:55+00:00",
     "source": "afp"
+  },
+  "018df4d375fbd5b4caa1da2737b5a0fa": {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcFNQbU5lNnZvdXkxbzN5UEdWOFVydWprSDZMMlBmTGdUaTE1TlZ1YTFXLTF6TmJGeC15UDlmemExd0J4c3VTM0c4YWdjSTVBaFN1RjBvTDlWaGx2V1BrQU9DSy1RRlVwV3Bxd2pUc3c3Y1BXanFHOWFEcy16dTBtNmlURmVBdDlLbFdLWG9fZHpOajJrVS1meFJaVXAxNmlrbV9zd1JEcjk?oc=5",
+    "timestamp": "2026-07-01T19:16:00+00:00",
+    "source": "ap"
   },
   "a5f22059e8be8bc8cd6c81de273a2ad6": {
     "url": "https://www.france24.com/en/americas/20260701-venezuela-death-toll-rises-to-2-295-seven-days-of-national-mourning-declared",
@@ -2403,100 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2hwcUE3ZzFvNlpZNDhWT2RaMWpKdWpPTllGZng0NzRSUDkxVnByb1VkZE84WDQycUhqam5GWU5RSWd4Z0tfck4yNmV2TExPVXlxTm1iR016aEZIdV9QQlZ5aWpJN0RhQ240am5DeUZta1RTVzhjNlZZZFlHZzNUekllMXRHZWJkc3R0dnN5aUhONndXUVdpR1VR?oc=5",
     "timestamp": "2026-06-27T09:51:25+00:00",
     "source": "fars"
-  },
-  "14546121b3fab618c06c16ed9bb772d4": {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamVFR0VfZVlNU01BWjNWakdNczVUSHAzNWFlM0J3MGV1b0ZmbldmdnhQUHVpLTNabjVZSG5tSDJ0RDlQREk0emJnT3ZGbjFEZjVpTEt2UDgxOXpMdWV3dTIzX1ZtQVNpeUdDRVplMkUxd0FVNzNPTEFwZ3BVSUo4SG1BcHFDeEdYS2tIM3RUaWpZNEtyeWlub0h5c29pNjJmdDZ6Y2tha2hKWkNGa3Y0Y2JNYnk4ZWJuUlk4?oc=5",
-    "timestamp": "2026-06-27T09:46:27+00:00",
-    "source": "reuters"
-  },
-  "4f0d25918f3fa5bf0ad8f5eacfe19190": {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU21jd0pJa095S19rRUp3Q1NSN3dJZkxJVzYwNGFNbWtMa2ZqZ1lxWkx1T2xjbGI4UkhJd0sxXzJNcjVNNmllcmZ5SDlnZUlTMU1sV1NSRGlSbVRHMHFvX2pOWW5zT0JNNF8tdnEtSnYwQ1dQV3d0M0g4U0RBZEdZWlcwMFVFMGVER1N6NlRUOVVacVp4X18yS2FoczFWd1piYzdDeDlhSkc?oc=5",
-    "timestamp": "2026-06-27T09:33:53+00:00",
-    "source": "ap"
-  },
-  "3427ba1fb2f2297f22f37ce4807cf5ae": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SdUFOM0YyUVExVk9uSzB2WEFOUEhnOGhXTTFRb3NNSFVkU2swM3ZKNHh3TXRUZElCLW5sSjBlNV9qWGF0U1V2VEsyZG53WmkxV1E?oc=5",
-    "timestamp": "2026-06-27T09:24:30+00:00",
-    "source": "iranintl"
-  },
-  "c1af21b6979fb3540c01de696c58b3c2": {
-    "url": "https://www.nytimes.com/2026/06/27/world/americas/venezuelas-economy-earthquake.html",
-    "timestamp": "2026-06-27T09:02:39+00:00",
-    "source": "nyt"
-  },
-  "7a667482ee410af8a890fd5d7289bffd": {
-    "url": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html",
-    "timestamp": "2026-06-27T09:02:30+00:00",
-    "source": "nyt"
-  },
-  "5c99475978f91c6fee1cb5f17b8c1035": {
-    "url": "https://www.france24.com/en/deadly-heatwave-choking-france",
-    "timestamp": "2026-06-27T08:50:51+00:00",
-    "source": "afp"
-  },
-  "da90ce26016101e43cccb310acc9844f": {
-    "url": "https://www.france24.com/en/venezuela-quake-toll-tops-900",
-    "timestamp": "2026-06-27T08:47:44+00:00",
-    "source": "afp"
-  },
-  "a4eb97945fb9872f54aecf877470a140": {
-    "url": "https://www.france24.com/en/new-us-lebanon-israel-agreement-signed",
-    "timestamp": "2026-06-27T08:46:20+00:00",
-    "source": "afp"
-  },
-  "cd7479233b36f3a42bdf60d11dcfa461": {
-    "url": "https://www.france24.com/en/a-cargo-ship-in-the-strait-of-hormuz-targeted-by-iran",
-    "timestamp": "2026-06-27T08:44:45+00:00",
-    "source": "afp"
-  },
-  "b1adb21f53492335ca5da6691a739224": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5T3MzQXNINHN3YzRpOGRhMFdYNnpXcWdfRGUyeWttVm5ldXJLV1YyVDB1dFVwSHJYX29JTEs3VkROM2tPcE9RWDRvSkdGR05jZnc?oc=5",
-    "timestamp": "2026-06-27T08:41:35+00:00",
-    "source": "iranintl"
-  },
-  "35723640f3f188c0be8af06fc52d40f1": {
-    "url": "https://www.france24.com/en/video/20260627-fans-react-to-haaland-absence-in-france-norway-game",
-    "timestamp": "2026-06-27T08:37:16+00:00",
-    "source": "afp"
-  },
-  "6d65322085856372ebdd3cba28ad872b": {
-    "url": "https://www.france24.com/en/europe/20260627-germany-braces-for-record-temperatures-as-heatwave-moves-east",
-    "timestamp": "2026-06-27T07:56:41+00:00",
-    "source": "afp"
-  },
-  "f775eb361ac668313dbcccc216b9dc28": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxSUdicGE1V0J4QnltS2NJOGJ4aUtMdXVsRmFvVU5KamdheUZFM2d5aVc0V1FtdS0tWmVJeDRXQ2VlcElVN1VhYWhqMEJkem1TWHc?oc=5",
-    "timestamp": "2026-06-27T07:38:47+00:00",
-    "source": "iranintl"
-  },
-  "dc379f0404cc9a2615ef0f9245b6766c": {
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNktYNzVmLTUySmdMVXhzNW1nWm5BdGItYjVaRmVxNUVYemZHZkdRWXJ6WG8yTFQweUd0cndNNnMzUEpKSGsxOVh4bnBsSmVEN3ZoeEJ3SDRwM1J4Z1RWU3pCRloxR2RFREpld3AtWGhhQ2o2SUJGdTNBOVJuM3JvWEM3Q0V5NDJIUE5ZTmR1V1RKVVJhTE9rNVhtZHg?oc=5",
-    "timestamp": "2026-06-27T07:26:19+00:00",
-    "source": "fars"
-  },
-  "766b3e7c4d20e7cd27eeef12c2d14b29": {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXpUT2FRX1NCT3hyTF9kaXZmRVFXeDF5dmliRDNpb0R1S2VtYXJOYnMtWUlZNlM2bkRVX2twR2tqVElmeENmQzBnZ3ZyNXRiZGFZT2lpR2tuVU5ISkdTSERPb05BWDdrRHZSVV9UWkZ6S2lxUVM1VHo0dk0yZzJKVlZiTGVuaTJDRHcwdkRFZ1ktT2RHTkFoQmZVeGhuX2wzRjh0MGIyMEZQUmhXVTlhcg?oc=5",
-    "timestamp": "2026-06-27T07:24:31+00:00",
-    "source": "reuters"
-  },
-  "b4dd78070cf675fc9b5bdb217a575d24": {
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RTHdiOTJqY1NoazVxNmh2dUJ6d3pubnQ4NFJPbnN2MUZreFVEV2pCN0tzMlJteDJkR1dhWjRaVDhwYUR5aUV5STNrVVRiN3MxZEVJWEJuWDdXSUdOZTZkZVJYVQ?oc=5",
-    "timestamp": "2026-06-27T07:19:51+00:00",
-    "source": "fars"
-  },
-  "c529821c0ea46d5232b86c8aa6ae9727": {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXdJa0JiM0ZCZlVFaTZNVjA5NkJWNXJFRzRfY2ZLR2xIXzB1a0JNUmVDY0R5YWdlTno1VldGNEozb0U5M2c4UHVEVnRPMHFYVTI2ZVdVRXAxZnBzS05mTFlTeTRULWpwd2VySDQyMFdPT0xMNnFnS1JpaVYwbExCQkpsTG9LZEFvSHhQS2NteVJxd1p0cnBFR1A3aDFQVkNFY1I5ZUc0SWY?oc=5",
-    "timestamp": "2026-06-27T06:17:00+00:00",
-    "source": "ap"
-  },
-  "baa033d0f5951c7e70e529f935d3bf91": {
-    "url": "https://www.france24.com/en/sport/20260627-belgium-egypt-into-world-cup-last-32-as-iran-face-anxious-wait-after-stoppage-time-drama",
-    "timestamp": "2026-06-27T06:05:05+00:00",
-    "source": "afp"
-  },
-  "9117d656fee3518e93840d098e373bdf": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZdFdzaVRhdHJ0QWg1ZUdXcDJNaGJTeFBkWE83WklzUlVwNHFUbGdQOVBJUVMyckRKSGRkZkd0NFRlczVPY2ZicWlEQXA1MUtCQ1E?oc=5",
-    "timestamp": "2026-06-27T05:56:22+00:00",
-    "source": "iranintl"
   }
 }
