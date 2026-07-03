@@ -1,4 +1,29 @@
 {
+  "8d73b8888a1c2193ba14aedae940ee7f": {
+    "url": "https://www.france24.com/en/tv-shows/talking-europe/20260703-eu-tech-sovereignty-uncoupling-from-the-us-and-china",
+    "timestamp": "2026-07-03T16:13:15+00:00",
+    "source": "afp"
+  },
+  "3dcf9fcc15cc00220816c25f6380763f": {
+    "url": "https://www.france24.com/en/sport/20260703-world-cup-fans-embrace-france-les-bleus-deschamps-takes-brake-off-mbappe-dembele-olise",
+    "timestamp": "2026-07-03T16:09:02+00:00",
+    "source": "afp"
+  },
+  "ffd1c7a8ac705de7ce3dbbb4174dedc7": {
+    "url": "https://www.nytimes.com/2026/07/03/world/middleeast/iran-funeral-supreme-leader.html",
+    "timestamp": "2026-07-03T15:39:00+00:00",
+    "source": "nyt"
+  },
+  "99fd01f15afad3311489db6425b8efa0": {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVVpfS2o3VWFYUDVhMF9wRERQYzVlX1kycGw5TmxMTnplTGZCdmZkU0tzcjhRMmljT2FYT1NqWXk2OTJGeVlFMnFPVl90Y3Z0c1U5Q1VQZVF1T2V6OUtZWWpYYUZfM0pTLUtOcmFfN1hqSndMZGlnb1lkN29Bd0haOWtXM2ltclNTU3N1d0JBTHp6Z3JCanprbV9GSXpBSTBLazJwQXdDY2NjYjJWRm51Zg?oc=5",
+    "timestamp": "2026-07-03T15:36:35+00:00",
+    "source": "reuters"
+  },
+  "8ff75ceb6cd0676e716cd4d440251282": {
+    "url": "https://www.france24.com/en/video/20260703-millions-expected-to-attend-as-iran-begins-dayslong-khamenei-funeral",
+    "timestamp": "2026-07-03T14:58:59+00:00",
+    "source": "afp"
+  },
   "5f2f9c351bfe158fa8ea9ec7ec74b274": {
     "url": "https://www.france24.com/en/tv-shows/focus/20260703-victims-of-sexual-assault-in-belgium-find-support-in-a-pioneering-centralized-initiative",
     "timestamp": "2026-07-03T14:22:15+00:00",
@@ -19,6 +44,11 @@
     "timestamp": "2026-07-03T13:46:14+00:00",
     "source": "nyt"
   },
+  "153ef5550001a22a6a2827e16e3a6692": {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VdmpYbHM2ZERZX21PdjF2Y0RqRVdFbjFwZVNPa3puSFVXbC1fQXZlaFFMVTdaYy1JbW05Y3NEODRhV0pxbXF0S0tLYzBNcUVvek9pa0RlYWxqVnJFV3pvZkpKUTUxcHg4QWcxZnU0bU93UjVxTVZ1bk53?oc=5",
+    "timestamp": "2026-07-03T13:42:30+00:00",
+    "source": "fars"
+  },
   "ab545ee944de455ef1aceceea14792c7": {
     "url": "https://www.nytimes.com/2026/07/03/world/middleeast/iran-funeral-supreme-leader.html",
     "timestamp": "2026-07-03T13:35:05+00:00",
@@ -38,6 +68,11 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGZVF3bFJ4aG5Id3Q3bmJTS2J6SkYwdnVMODIyc2VjUFR1X0NaeWxac3pEV1hMN3FLQ2JxX3R1dXItY1lXSDRISkpGN2QtRHFvVFE?oc=5",
     "timestamp": "2026-07-03T13:08:48+00:00",
     "source": "iranintl"
+  },
+  "9fba0da671a1e95dadb4267025ff3b8c": {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLTV6SzJqdGtOTmRfYkJQdUx4MW40T0x2Q0V2dlZvWUZTSkNCQ3UxNTAwOVBaamxpMm91UGxHMUM0OXREcU90TUtwMWhTWUFYd2pZSEExd0tTWDd1QVFjTENVUHB3U094VWlUUUwwUmtyRGxTTDNsX1lVM2R3NzJYTndfZkNuWjZpVUpZVFhGWC1teFAxU3phRXI4cFBzM2R5TGl5OERYQ0k4UVFLS0thTw?oc=5",
+    "timestamp": "2026-07-03T12:49:44+00:00",
+    "source": "reuters"
   },
   "ff93e5162e0efb9e7944397f7f182528": {
     "url": "https://www.france24.com/en/video/20260703-human-rights-catastrophe-unfolding-in-sudan-s-al-obeid-says-un",
@@ -83,6 +118,11 @@
     "url": "https://www.france24.com/en/tv-shows/press-review/20260703-the-usa-has-survived-250-years-but-can-it-survive-donald-trump",
     "timestamp": "2026-07-03T10:24:21+00:00",
     "source": "afp"
+  },
+  "0e5b58c5b9b53569711c60eff6bee582": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIV2VpOTNoXzA1MjN1NzdtMGRSUFNSRHpTMUw1VS1saEo3eGNwTWlsTEZLVkJNTWc5R1NQZVhRb0s5UEVQRHdUOHBmQlkwemFIUnc?oc=5",
+    "timestamp": "2026-07-03T10:23:08+00:00",
+    "source": "iranintl"
   },
   "29a14321656051fb501bc1abb40a48d1": {
     "url": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html",
@@ -683,11 +723,6 @@
     "url": "https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html",
     "timestamp": "2026-07-02T04:01:05+00:00",
     "source": "nyt"
-  },
-  "153ef5550001a22a6a2827e16e3a6692": {
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KTVhKamlQVTFHM3d0cGpoS25FLVRoOTgzUWdINHJVR1lFc05oS3ZaSkN1ZlI0WmxrM2t4b2ZFVlR2VDZLMXY2S0RUQnp5LWpDNjBaajdaaWlJYkE1SjFwRmRMODBscFhqT2IxYU5ET2tweEgzTmFVSFVIWWw?oc=5",
-    "timestamp": "2026-07-02T03:53:12+00:00",
-    "source": "fars"
   },
   "b126206a7720838795184229d9bce4d8": {
     "url": "https://www.france24.com/en/middle-east/20260702-middle-east-live-iran-says-to-use-frozen-funds-in-qatar-to-buy-required-goods",
@@ -2463,40 +2498,5 @@
     "url": "https://www.france24.com/en/new-caledonia-election-tests-territory-s-future-after-unrest-and-deadlock",
     "timestamp": "2026-06-28T11:30:22+00:00",
     "source": "afp"
-  },
-  "0ebc3b017bca610964d6336cbc462963": {
-    "url": "https://www.france24.com/en/new-us-iran-exchange-of-attacks-threatens-ceasefire",
-    "timestamp": "2026-06-28T11:27:57+00:00",
-    "source": "afp"
-  },
-  "30c91abd8b5be06e003a0a6b644db4c0": {
-    "url": "https://www.nytimes.com/2026/06/28/world/europe/central-europe-heat-wave.html",
-    "timestamp": "2026-06-28T11:26:26+00:00",
-    "source": "nyt"
-  },
-  "55f3762a1ad68b7114c78f2aa88fdcfd": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uLXlINjlMeTFUWGZQLVNlTzlJeWVRc09qUllFNmd3dWt2djIzQjgteU9yNHhXUzF2QnlwT3F2U1hoNk5laFUxZUxaZ1lfdWRtdVE?oc=5",
-    "timestamp": "2026-06-28T11:25:07+00:00",
-    "source": "iranintl"
-  },
-  "67742ef09ee4fadbf24975d575ba3009": {
-    "url": "https://www.france24.com/en/venezuela-death-toll-reaches-1-430",
-    "timestamp": "2026-06-28T11:23:25+00:00",
-    "source": "afp"
-  },
-  "bccadc8b52a78d326c3f64274cc18f69": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4NkhfN0JzN1licVNLd3lvX1FISDNXY1RQMkViZ2NBczdDek5jdmYzemQ1eWhTUjlyeDQtdzNBLW42VjJIT09sMnVteUFGSUMwQVE?oc=5",
-    "timestamp": "2026-06-28T11:03:44+00:00",
-    "source": "iranintl"
-  },
-  "33e370e98093d1f3782582c7c8f86e1f": {
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb0FNcTR1bFgxYXhyTlJGc1otcWJfbkQ3RGdGZGJFRUV4TGF0dGplbGpwYnZPY2Rxcm04LW9aNUVFZUlZTzExSW5PSlhjZ1dtYVhGaW9ldzBlRUItNVFXWmtzZ0owOTZpOXE1dkxsQjJZWGhXRTJ0dzFULUo4SXR4VFYxTkhZNUIyS056SjZpOG1EX0psMktwR2RBTHQ3MmdaOTh3eDBJMVR2Y3RaRkEw?oc=5",
-    "timestamp": "2026-06-28T11:02:49+00:00",
-    "source": "fars"
-  },
-  "f5c4a99b46d54bb28cd7d8e008d93cca": {
-    "url": "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html",
-    "timestamp": "2026-06-28T10:26:19+00:00",
-    "source": "nyt"
   }
 }
