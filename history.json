@@ -1,4 +1,14 @@
 {
+  "7978bbb30dc5c17ca7840e8007d92c02": {
+    "url": "https://www.france24.com/en/americas/20260705-trump-blasts-communists-celebrates-the-united-states-in-250th-anniversary-speech",
+    "timestamp": "2026-07-05T05:35:54+00:00",
+    "source": "afp"
+  },
+  "e8c29719d1fb4680e2de38ad4b87cc8d": {
+    "url": "https://www.nytimes.com/2026/07/05/world/asia/impeachment-trial-philippines-sara-duterte.html",
+    "timestamp": "2026-07-05T04:01:15+00:00",
+    "source": "nyt"
+  },
   "4e5512b2da7aa0a572eb9768613cd102": {
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ3Z6dHlGeW9Jcy1FYzg0OGJMRFhNWlFucnlnalREWTZnQnlrVUxMSm9Mclloclh2QkRqMlRTSDBCNHNBS0VFV08xLUVBejFrVVFKQk5rNGk0YlhiSXZYcFlJbWFqY0tpQWNnTkdNMVRhd0ZYN2s1bThsbk5xMEc2VklRd1pCc1huMDNFTjBlLTlHeE1XaUFudmR6RTE4ejhtUERSREVGNEN0emdyd3RSekJwWm5IRUgzWmdsVGs1dDMtNTg?oc=5",
     "timestamp": "2026-07-04T23:49:59+00:00",
@@ -32,6 +42,11 @@
   "9c86c2632975bb444e6d9cc789399b9d": {
     "url": "https://www.france24.com/en/middle-east/20260704-hezbollah-hamas-and-houthi-officials-attend-funeral-ceremonies-for-iran-s-khamenei",
     "timestamp": "2026-07-04T20:28:50+00:00",
+    "source": "afp"
+  },
+  "797b936bc4c1a843a61da95c5ebb04df": {
+    "url": "https://www.france24.com/en/americas/20260704-venezuela-quake-death-toll-rises-to-nearly-3-000-as-tens-of-thousands-still-reported-missing",
+    "timestamp": "2026-07-04T20:19:11+00:00",
     "source": "afp"
   },
   "e1826b68e95a000d84bf59c9552f3c56": {
@@ -2483,20 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YNldXWWNxVXZsRmstdWhyUzNjN3o2TXV6Q0JQVldodWJ4enFUdkM1a0ZkbkY4Z1gtWXdfQk00QzJGYmtYT3ZQWXpYM21iWWRsNGc?oc=5",
     "timestamp": "2026-06-29T14:27:36+00:00",
     "source": "iranintl"
-  },
-  "d5bc13df40ed90eb29a6f8d2cc852a3a": {
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSGw4TkJCNUpfellkLVZuMWludlVPMnpDMFJ3OS1WcDRWVHNyUks0MjB2ZERaOXYwQ3BIa3I3VzU1VWhjMHFES0tVZG5tbDdjbGllN05xNWtyZGd1Z2J6cy1tQ01XNTVWMjNtUUFXUk5LQ1ZiNXZiZDZqamRuaHNWRkQ2SnJ4UVRCTWFxb2dMR1A5cVctaVhyYnpmclVUZw?oc=5",
-    "timestamp": "2026-06-29T14:26:00+00:00",
-    "source": "ap"
-  },
-  "54ea6b303b399306f57deb7e62cf2bf9": {
-    "url": "https://www.france24.com/en/africa/20260629-all-warring-parties-in-mali-committed-grave-abuses-against-civilians-report-says",
-    "timestamp": "2026-06-29T14:16:34+00:00",
-    "source": "afp"
-  },
-  "9be968b70d15407c7cb1a1239b34ebc1": {
-    "url": "https://www.france24.com/en/video/20260629-why-oman-has-become-a-key-diplomatic-player-in-mideast-war",
-    "timestamp": "2026-06-29T14:02:18+00:00",
-    "source": "afp"
   }
 }
