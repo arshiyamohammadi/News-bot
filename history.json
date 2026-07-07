@@ -1,8 +1,73 @@
 {
+  "8cbdc0cf9f4654e2ce102ac7763abb5c": {
+    "url": "https://www.france24.com/en/europe/20260707-french-court-clears-way-for-far-right-leader-le-pen-to-run-in-2027-with-ankle-bracelet",
+    "timestamp": "2026-07-07T12:24:00+00:00",
+    "source": "afp"
+  },
+  "bc5c27bf0dbe19dd539b3b74254a055f": {
+    "url": "https://www.france24.com/en/who-is-jordan-bardella-the-successor-to-french-far-right-s-marine-le-pen",
+    "timestamp": "2026-07-07T12:23:35+00:00",
+    "source": "afp"
+  },
+  "4e464837e57ea3d83eb8a9b0fee803e6": {
+    "url": "https://www.nytimes.com/2026/07/07/world/europe/nato-defense-spending-trump-rutte.html",
+    "timestamp": "2026-07-07T12:16:08+00:00",
+    "source": "nyt"
+  },
+  "b113eed9cc438f9b655262cdc173d9aa": {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWRETjVnbTljM3FIcDF1U0tESGJmVnVQSTBqemxJOUhKMUgtalFLcFVTOE9WSXB0SmJJSjZnSnhSOTBWajhqV0trX3dNSnlHdnVZNEh1ZVpFTnhlZXdSWWhGUTgyNHJ2Tm1pd05zQ1JOeFlFYXFkQlB6N2h0WkV0N0x2cEtjLVdTeXBHVEttY2o1aEZlRmFsaHlsUkNsUlZXMVFRM2g2X2FvOC02?oc=5",
+    "timestamp": "2026-07-07T12:04:57+00:00",
+    "source": "reuters"
+  },
+  "fc64afedc31815ff8cb75b29d74c3042": {
+    "url": "https://www.france24.com/en/france/20260707-live-french-far-right-leader-marine-le-pen-faces-key-ruling-in-race-for-president",
+    "timestamp": "2026-07-07T12:02:14+00:00",
+    "source": "afp"
+  },
+  "777c7e6742b62c65633c35ab7589f3ee": {
+    "url": "https://www.france24.com/en/europe/20260707-woman-suspected-in-monaco-bombing-found-shot-dead-near-kyiv-prosecutors-say",
+    "timestamp": "2026-07-07T11:12:50+00:00",
+    "source": "afp"
+  },
+  "4f552583a6fecb8fe154d10fbc4be558": {
+    "url": "https://www.france24.com/en/tv-shows/focus/20260707-german-gen-z-joins-the-bundeswehr-the-military-becomes-a-plan-b",
+    "timestamp": "2026-07-07T10:55:51+00:00",
+    "source": "afp"
+  },
+  "2e6064244a7cef021bb2fbb9e04832d3": {
+    "url": "https://www.france24.com/en/what-to-know-about-macron-s-landmark-visit-to-syria",
+    "timestamp": "2026-07-07T10:53:55+00:00",
+    "source": "afp"
+  },
+  "30d402ff29845ac8c6fa158edafa76b0": {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODJVNHE4UGZsX3UtTFlYcGUtMVB3Y2hocDZULVp2Ul9sSGlDRGZBa0xBZVdtU1pJbW1QTmtXem5IMFV3S3Y4V0VxcmRmcnlJRlJQc0luajZnazloZklIWnpEdzlUSHVJQVdabnJESklESEpkQUJrOVNEbzdwYUNZTVdQVUExQVpyZjJOT0dmNXlWR21sdzY5OTVUN0dJLXlZQ3hpZlBKNU5BdVB2bzRCdkFNcHNVYVlhc2g2RE5R?oc=5",
+    "timestamp": "2026-07-07T09:58:57+00:00",
+    "source": "fars"
+  },
+  "73d03362b65812ad4be1beee1ae32ae6": {
+    "url": "https://www.nytimes.com/2026/07/07/world/asia/china-missile-test-submarine-pacific.html",
+    "timestamp": "2026-07-07T09:55:05+00:00",
+    "source": "nyt"
+  },
+  "823e50b479526e50062acaeae0d3c3cf": {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaFN6Z2FBbHVubUk2ZGhVVEdGVlVuNmVLMlUtMmpKVDc2TDRieHc2b2pZVXhiS1dYcEZmVTVvbW5YYmhSSmJEYlpkSHpBTUs1U3ZjS2ZLRnY5YkJVQnRjdUYwUFAzelMwMEtob3d3NTc5U0w4OTcwclE0dUhhYVhWRHdCVGQ2YkNOOENXRzhBMXhpNUszTmU0RWpPdFRWSmtlR2Q3YzExTlF1WFRNa0x1UDRxQXRrak12VGI4SA?oc=5",
+    "timestamp": "2026-07-07T09:44:10+00:00",
+    "source": "reuters"
+  },
   "891d0abe8539b9f88e7521cd5053ed44": {
     "url": "https://www.france24.com/en/tv-shows/business/20260707-samsung-electronics-profits-surge-1-800-annually-amid-artificial-intelligence-spending-boom",
     "timestamp": "2026-07-07T09:30:29+00:00",
     "source": "afp"
+  },
+  "bf9d952a4f8da622575368a994d8df70": {
+    "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-khamenei-qom-funeral.html",
+    "timestamp": "2026-07-07T09:28:50+00:00",
+    "source": "nyt"
+  },
+  "cf96c11643b9ada59e6dc3571801a3e6": {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN0VzR0ZTV1Rwb2FaaXNRWDAzWGFzeVZMT1ZOeVA4NUdTVWZTRjBpYWUwdU80NWtod0NNTG9oTGdudGNpNjhOOFVnOGpTZnFzY1YxeE9aSXphMTVDM0NNM2Q1bnZZRlc1bXh0T0FRbzNTbzJBaXlHM0ExazZOc3ZYcWkxekNyZWlBWWlyckZRdV9QRjNJN0phN19UOC1Va2Q5dWdIOUhlTS1NMS15cjAxSEQyRWNzYlpoZnJJZXZvX3pBSGFWSC1ZdWxaZ1E5dw?oc=5",
+    "timestamp": "2026-07-07T09:24:19+00:00",
+    "source": "reuters"
   },
   "1e1a4f325a13447d5dc873b48e716ced": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GQW5XSXAtU1lXZzhTNmZ6U0lVUlRLLW00anJyNW0tUjV2c3FwODF5eGVHNkZsbllIMC0ta2U0TTBGNTRSZFIyM0FMT0RHNEdhMlE?oc=5",
@@ -22,6 +87,11 @@
   "996da329c021397df46280178e4ea911": {
     "url": "https://www.nytimes.com/2026/07/07/world/europe/estonia-won-the-war-on-fentanyl-what-came-next-was-even-worse.html",
     "timestamp": "2026-07-07T09:00:37+00:00",
+    "source": "nyt"
+  },
+  "ee52753ceb1f277957ac6ce77746273d": {
+    "url": "https://www.nytimes.com/2026/07/07/world/americas/world-cup-argentina-maradona-trademark.html",
+    "timestamp": "2026-07-07T09:00:14+00:00",
     "source": "nyt"
   },
   "a02c62cdf31dcca5561b19db8ef85fbc": {
@@ -97,6 +167,11 @@
   "088473b146cad63eae18cd60c09712ef": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1MUtHUXlfVjlBRGg0NEFFRFhVeUJjZ2RwZlJRWlJLdDRtUzNsaV8tbHdPMUh2Wk5zN1dPLV9JME9zZlp4dGd6elNzN2w3d2JuZ2c?oc=5",
     "timestamp": "2026-07-07T03:14:00+00:00",
+    "source": "iranintl"
+  },
+  "1b27937c3aebf5a53f407c9c6e2cd665": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FYmlnclBGbGhYX1NmdXZNM1QycmlqbFo4VW9PSjduQzBPSVJLV0tMRFVyeG1ZbVFGaGg3aElTMGZITEZOTlVRTjRzSTBNclRJWUE?oc=5",
+    "timestamp": "2026-07-07T03:04:00+00:00",
     "source": "iranintl"
   },
   "0f445fbf0593bf16f1be413dd9d9a42a": {
@@ -202,6 +277,11 @@
   "5da8e6d32bc86e753f69caf9ab1a9eb9": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UMWxDMnF6V2JHT3dLYkRIMTVMRzBiN1QyMEVVSlRjRDRDUmlaRG5yV1NTcHNLVVlsU25EamVwWWpELTR3Vzlod1ZHN0dpLWg1N0E?oc=5",
     "timestamp": "2026-07-06T21:56:28+00:00",
+    "source": "iranintl"
+  },
+  "7179011d90ad382d4caab717a19c7650": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16OHFCTTdjcjN0QUwyS1A0NGVIN1p1bEJpMWM1T1BzVzRRVzlER3BxOG5PRUJWQ1pqNWxVSk9iOW1wUmVZT1lkOTExVkZIN3RFTXc?oc=5",
+    "timestamp": "2026-07-06T21:23:16+00:00",
     "source": "iranintl"
   },
   "52a3ff7dc72269c7fa1d62ae22a30e17": {
@@ -343,6 +423,11 @@
     "url": "https://www.nytimes.com/2026/07/06/world/middleeast/syrian-torture-verdict-vienna.html",
     "timestamp": "2026-07-06T14:12:07+00:00",
     "source": "nyt"
+  },
+  "451ec5e7de6a35e9ff79fa181c5d8b67": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zTXdJZkQ2SzJWSm9tXzZKdnZjU2s2dzJSOURfRjY0LWZSRDdtbWM3bXp1YXA2WUNkTmNHazNZazNMVEc0SWhpSkRBQTd6dDRFcmc?oc=5",
+    "timestamp": "2026-07-06T14:10:36+00:00",
+    "source": "iranintl"
   },
   "7f12d3c1756272e7576f26c4debde20c": {
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MeFllQnh3UG5ySjY2T3NKZkNraHV1SnQ5V3BZck1PVlY5UnhhS3FwTVBBelphaVhQLURURmdvczVBQ0tiTXBZMk1NZ3Y4ZlhvWGNOV1ZudnJUOFltOXctcjJ2Zw?oc=5",
@@ -2412,91 +2497,6 @@
   "ced4d0d81040d6bb3b9e53ebfcb7de54": {
     "url": "https://www.nytimes.com/2026/07/02/world/asia/vietnam-stadium-corporate-inequality.html",
     "timestamp": "2026-07-02T04:01:09+00:00",
-    "source": "nyt"
-  },
-  "d2b2f05cf4236ecc51474a68f1746e97": {
-    "url": "https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html",
-    "timestamp": "2026-07-02T04:01:05+00:00",
-    "source": "nyt"
-  },
-  "b126206a7720838795184229d9bce4d8": {
-    "url": "https://www.france24.com/en/middle-east/20260702-middle-east-live-iran-says-to-use-frozen-funds-in-qatar-to-buy-required-goods",
-    "timestamp": "2026-07-02T03:47:49+00:00",
-    "source": "afp"
-  },
-  "a6f11c9e153497286ffd01136da3d378": {
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTF8tSkhfbjZmQ1VSanpsRUw0aEljSWRwSlpNZ2s2ZWZSYVExcUZnWFVTSDBHeHZkdXExREQwLXFwdlJLc0Fabko3djA0OURZU25hanQyel9SbWRSd3pyS0szR1JmelZQSXdqMzBaUkZTTFRaNVFsdVBrS1hSdzA5Z2M0dzV6QnFNNVlESDZHNDJxVTU2ZG5OZ0pnSTdhcF9oVGh0anlseGN0R1VNMU1WeUxhNWZrUi12UnpHc2JWLWthc0RicHZGSmJmdWxxQQ?oc=5",
-    "timestamp": "2026-07-02T03:36:24+00:00",
-    "source": "fars"
-  },
-  "5d6009e9c5c4ebe39c3ecfaf6732cf02": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZSFF2TXVmVFVKMExRekNwRDJ0cXFBdVktaURkRVkyOVA0RHRTeGxveVZzcERuRGQ5c0NNbmllZWI0ZEg3ajdncl9zVXo1bDVjQzl5cGxnVkZVaXd6VXVHMg?oc=5",
-    "timestamp": "2026-07-02T02:57:27+00:00",
-    "source": "fars"
-  },
-  "589b84e6d54416a6411b05ae50f8ab60": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWkF3SU55QldiV1o3OFI4bmZGVkwwWmNxVlNhMWRqSmNLRS15YXgwcHl3eWRMMnZnZTdpLW9LV2FWSTJvaG1pMy1pVkFkdmpjVi1xOU5sd1cyNlJPWmJMWF9HTlVjWFIyMHpPU0I5d2dBVGxIQnRJQVNCXzdVN2tnTzczcUh4ZDRZb3VxVkRFdllEakMtUDZCbTF6TnVFd28?oc=5",
-    "timestamp": "2026-07-02T01:40:00+00:00",
-    "source": "reuters"
-  },
-  "89ac06d86b5f68f006716fe7c27b74b1": {
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjJuTlNEejJjWHZfckJtT3BHcWVLbXpJQUZzOVEzaDJCMThGUmJaU1pXRXdKYV9RUG9Nc09WaVRaVHhYUXh5LW43QzNzU3dzNDd5dGVQaFpmQzNhenJRcW1HMVVOQ3pnNVptVHpCSk9mUC1BWl9xTUJyQmttcHdRWF9jdkZiS3dZMkQ2ekY5aWpPX284MnFMOVVBaw?oc=5",
-    "timestamp": "2026-07-02T01:11:00+00:00",
-    "source": "reuters"
-  },
-  "2791fbc4a86b0820af0f00d5b652de61": {
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjJuTlNEejJjWHZfckJtT3BHcWVLbXpJQUZzOVEzaDJCMThGUmJaU1pXRXdKYV9RUG9Nc09WaVRaVHhYUXh5LW43QzNzU3dzNDd5dGVQaFpmQzNhenJRcW1HMVVOQ3pnNVptVHpCSk9mUC1BWl9xTUJyQmttcHdRWF9jdkZiS3dZMkQ2ekY5aWpPX284MnFMOVVBaw?oc=5",
-    "timestamp": "2026-07-02T01:11:00+00:00",
-    "source": "reuters"
-  },
-  "1933bbac83092622f3132db75e5689bb": {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRlppNjh3eVpGS2g2VXFLcW95WnJnakctcUFCVEZsamFXaWQwRTZEU2ZLZU5ieGp3alR0SXR1RGNXa1haWkItcHZYNWVtNmdvd0pyaGQxQkJTa05kT0hnTHd3S1pxd2g4dkxqM0RBcHE2WlZDQTdFN0RTUjl6ZERZLUVYRDdSQ2oya0psRjVBd3F1dW9PVktxeWpNTnNCOGFES21NTg?oc=5",
-    "timestamp": "2026-07-01T23:46:00+00:00",
-    "source": "ap"
-  },
-  "d45ff08c91070b93c12cf63ad75ea643": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43V3NXLW5ldzJ3eHZJalVfRG5ILUFfSzR2YWpVT3Z5TXByZWlpOFFxSk5VaURyOC1pbXA4NzRJUWZNbmF2aVdYanRKb0lwcXlVUkE?oc=5",
-    "timestamp": "2026-07-01T23:20:45+00:00",
-    "source": "iranintl"
-  },
-  "1b5a26c86ade6475a40bb1dcb1637f01": {
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXpINkNPNmhoNlBLZ1FyUHM5alRZVWp0dUlGS3F2ajlhNGJmUFlrU1lYNHBWQzlZenZUYWRaSFByeFVxTG5vVlMtQm5Gd3E1U3FKVlM0TTdZXzFJMEZ3RFZGQV8xdDB5dVUya2dXNWRhTF9Xa1hmdXQ1bXF0WjFELU0xaWdvVFhSbEhMRElBdUtnNk5sRFEtR0NsUmxZNXZLV1NlVEtrNHBTaEFhWmlHQ2luUQ?oc=5",
-    "timestamp": "2026-07-01T22:02:00+00:00",
-    "source": "reuters"
-  },
-  "c5cf94d9a5beab26bc4cede8a01bd3c3": {
-    "url": "https://www.france24.com/en/europe/20260701-fire-breaks-out-in-central-kyiv-after-explosion-during-air-raid-alert",
-    "timestamp": "2026-07-01T21:41:54+00:00",
-    "source": "afp"
-  },
-  "dc5315ddfefa49b44a723e38abbaab6f": {
-    "url": "https://www.france24.com/en/europe/20260701-fire-breaks-out-in-central-kyiv-after-explosion-during-air-raid-alert",
-    "timestamp": "2026-07-01T21:41:54+00:00",
-    "source": "afp"
-  },
-  "aa9756ca7d4a7eb41b6f98496062339a": {
-    "url": "https://www.france24.com/en/europe/20260701-fire-breaks-out-in-central-kyiv-after-explosion-during-air-raid-alert",
-    "timestamp": "2026-07-01T21:41:54+00:00",
-    "source": "afp"
-  },
-  "5f40a109bb7185d6d033e997eed70fd5": {
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ2lQSWQwRDQ4OFduMjN6LWJ6N0Q3VWQ2bTNDSGk3NzcyM01FYlBPd1ozSTgzM056VnZEck1UR2VvbE96dkZocFZ1cmNjS3NyOENOWlJJbDg0eHVmelg5NlZyQ0l2dTZPZW8zb0RzUGJRUnI0VFk5Q1dyZ0plQk1wQXR3STBEVHVWa1JoUE9qd0xGT2Jza2J0YzhHX1ljaHRkTXc?oc=5",
-    "timestamp": "2026-07-01T21:37:00+00:00",
-    "source": "ap"
-  },
-  "ee36b6894e4e809cdfcfcbcab94ca1b9": {
-    "url": "https://www.france24.com/en/middle-east/20260701-us-iran-doha-talks-end-without-breakthrough-strait-of-hormuz",
-    "timestamp": "2026-07-01T21:33:40+00:00",
-    "source": "afp"
-  },
-  "1b075dff79458d8bb9da101836451dbc": {
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS0M0clBnUnpWa0NVdnRCYlFjcFFDaGg5TXU0VnRZS3JROF9YZzB1LWduQ05IMUc4S0M1WGRqb0VTMTkzcHEzM2RjZWZRbVNRZVhmY0NoT2U3dWE0UXhuYzNlaDM5VFVRNEhvVy1SeWdIZkZ4QUpEc2U5aTQ0NlVYRzdkUkxXVGxyd3pOS3d2RV94RjR3T0FLQUVhZ1Z1eDc3a2E1TmN2b3JjTFRxOTFLdjlmMU81Sjd5dU4wVExrVGEwZWhyQTBPYTlR?oc=5",
-    "timestamp": "2026-07-01T21:11:02+00:00",
-    "source": "reuters"
-  },
-  "e7c36950075c599993711246c6c3440b": {
-    "url": "https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html",
-    "timestamp": "2026-07-01T20:55:08+00:00",
     "source": "nyt"
   }
 }
