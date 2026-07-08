@@ -1,7 +1,47 @@
 {
+  "ae66c2843a2addbc330f862e52163d42": {
+    "url": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
+    "timestamp": "2026-07-08T16:29:02+00:00",
+    "source": "nyt"
+  },
+  "a502aa572a636f901946f877538c9d65": {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0tiMk9sUC1oMXdEOFM1cnljQkMyWEZqcnlDSVkyY0l4LUpleFlZdk4zM3Y1d0o4RnVUYVRFbnZ6Rk5qOWZVby0wSGxkUHZDaThhQm9MZ2pldUt1cDZReXc1YmFKSWNmajJLbnpIbGZlZnhWNDkyNXQ4X0wxckFPNGRlR2dDZXdkdFRBbG1HbmFPaEFRWEVn?oc=5",
+    "timestamp": "2026-07-08T16:25:00+00:00",
+    "source": "ap"
+  },
+  "743b2be3a27465b831596184d7038899": {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnZfNjg1eEdZNWlueERQYzhObG1hQ05BN3FNUVlvV1dYRk5uakl0SHFwNkVpTmluWGo2aGdHc29lWFhZNnBWUUVTSTc1MVgwWFZ4cmM5aThvQldlYzZyTktnRG9MRXdUdGI1ekhTLUhGNGJlak1xcFJnYkNRQlMzVm9iV043djdqQ0lyang5NkJ6eVJQUTJUbHFDUlJoWkU?oc=5",
+    "timestamp": "2026-07-08T16:02:47+00:00",
+    "source": "reuters"
+  },
+  "55d5ece760008563d71a168268a4e236": {
+    "url": "https://www.france24.com/en/video/20260708-after-quake-venezuelans-left-to-deal-with-trauma-and-grief",
+    "timestamp": "2026-07-08T15:38:40+00:00",
+    "source": "afp"
+  },
+  "aaa7b3bc256c460000691990c30b7f55": {
+    "url": "https://www.france24.com/en/middle-east/20260708-regime-supporters-opposition-share-ai-generated-images-khamenei-funeral",
+    "timestamp": "2026-07-08T15:32:17+00:00",
+    "source": "afp"
+  },
+  "3b18e7e027573c065dc766361c993201": {
+    "url": "https://www.france24.com/en/video/20260708-iran-talks-in-doubts-as-trump-says-ceasefire-over",
+    "timestamp": "2026-07-08T15:14:46+00:00",
+    "source": "afp"
+  },
+  "701ecc09c62076f5d7d452cffb27dc14": {
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKNHdzcU0ybFNJRS1zbHNxWUhNbXFwOWE1T0ZIVHlYSGJobVQzdl9zcGhNLXN4U2UwbFNvbDEtRmJiZkhxQ0JvUDlLbXJ3WVJwenk0clRB?oc=5",
+    "timestamp": "2026-07-08T15:11:12+00:00",
+    "source": "fars"
+  },
   "10ab8ac67427f39b6cbcf3c280bcee93": {
     "url": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
     "timestamp": "2026-07-08T14:49:10+00:00",
+    "source": "nyt"
+  },
+  "af7f46385b9ae57a1c10d77f7bb96471": {
+    "url": "https://www.nytimes.com/2026/07/08/world/europe/marine-le-pen-presidential-campaign.html",
+    "timestamp": "2026-07-08T14:46:50+00:00",
     "source": "nyt"
   },
   "6408a52b68f2d0256a2e95cea0e2bd56": {
@@ -17,6 +57,16 @@
   "af61388d024ca76bac76cdf327db8a14": {
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnZfNjg1eEdZNWlueERQYzhObG1hQ05BN3FNUVlvV1dYRk5uakl0SHFwNkVpTmluWGo2aGdHc29lWFhZNnBWUUVTSTc1MVgwWFZ4cmM5aThvQldlYzZyTktnRG9MRXdUdGI1ekhTLUhGNGJlak1xcFJnYkNRQlMzVm9iV043djdqQ0lyang5NkJ6eVJQUTJUbHFDUlJoWkU?oc=5",
     "timestamp": "2026-07-08T14:14:41+00:00",
+    "source": "reuters"
+  },
+  "6f06531c8b713ba5af8156b1312d7851": {
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DSmpURm5CVXRwWGkxSnlmRkZReHJKcWtVM280bkxkZm1ianFNdktBUVhudTR0anIxNVRYV2FPbzR4b1AzbHZFMGlyT0E1MmJ2anFpcVBPckxjdldReGFIdlZzUzlvR3RuV1ZFV0FR?oc=5",
+    "timestamp": "2026-07-08T14:07:17+00:00",
+    "source": "fars"
+  },
+  "ab69ab0ee84b4629fb1083620316530c": {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSEFSS3VEdmtCN2Q4RTdUUzg3Wk53LUcxNGxkb3ZXcUtucnQyYXEwLUVlb0c3UDZaS3JLZEd3ZHZfblVpRjdDSnNMSENkb2lndjFmN1VtQXZGaGJVR2luZWdTTHJFTTJiLXR3TUlzUF9hWjFodXpnZ2E5VmxfTzI2Mmo2VERVVlJTRUpfQk9oQ1VBTkZBZjdnWEtxWEVKMTNEckdIbUpMLUtlZnZ3TU12RlVXTzh2SlBHX2lhSlI0ei1uYmM?oc=5",
+    "timestamp": "2026-07-08T13:59:23+00:00",
     "source": "reuters"
   },
   "f3038737031e7f2ad12808bbd3710a2a": {
@@ -49,6 +99,11 @@
     "timestamp": "2026-07-08T13:11:38+00:00",
     "source": "afp"
   },
+  "b7988740cb3c3dfdb8421c043c4b08a4": {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xYURsS0Jfd2M2bzdTMWhrM0stU2VORDRjazFCeENHVGt1ME1jY0dCV3VIMmJHVnhHNkZJWDk0Rk9wSm50UzE5OWRVUjBrcmRBYkIteTdPV3hmNFpOenBKWEYyQ1FpLWtfeGFXWjhreU5uQ3hjUU40bw?oc=5",
+    "timestamp": "2026-07-08T13:06:17+00:00",
+    "source": "fars"
+  },
   "f34ec22bb882f1ccb793597bb1550659": {
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSEFSS3VEdmtCN2Q4RTdUUzg3Wk53LUcxNGxkb3ZXcUtucnQyYXEwLUVlb0c3UDZaS3JLZEd3ZHZfblVpRjdDSnNMSENkb2lndjFmN1VtQXZGaGJVR2luZWdTTHJFTTJiLXR3TUlzUF9hWjFodXpnZ2E5VmxfTzI2Mmo2VERVVlJTRUpfQk9oQ1VBTkZBZjdnWEtxWEVKMTNEckdIbUpMLUtlZnZ3TU12RlVXTzh2SlBHX2lhSlI0ei1uYmM?oc=5",
     "timestamp": "2026-07-08T12:44:46+00:00",
@@ -78,6 +133,11 @@
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0wtak4yR1c5V1VydHktZHRDdncxdk5FSFZFYl9PZ2RxRDR0eFZfVTdhU05ha0c2NWlHa1FQcWlnVjlGb0E3MFdCU2RZVWxCRFNocnl5UVZWakFTOTdfQjJreTRVTlBGMjdJUDA2ODZKSzZ4UFFQSUozdkdJVkp3WFRadV9WQ09UaHQzdW1uc3FoallwOEZyVVF6Q0g3aU9hWWtkcm1IZDJiT0JlaDBucVM5TU9yYllM?oc=5",
     "timestamp": "2026-07-08T11:53:45+00:00",
     "source": "reuters"
+  },
+  "1c90e848118987590cc04095b7fa1ba2": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GNmZxYUZDT241Y3d1dW53Y1dKSUJPVHpnNERLeGdzc0M0TTkzbkdVUWZIaXJRbkNLcVI5VVdhenVaTjdKTlNqWFFqRzRoTlRxZkE?oc=5",
+    "timestamp": "2026-07-08T11:27:26+00:00",
+    "source": "iranintl"
   },
   "87f4ef58c68e4bcbd3a3a24dd13b0d0e": {
     "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260708-i-feel-forgiveness-daniel-gwynn-on-life-after-30-years-on-death-row",
@@ -123,6 +183,11 @@
     "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
     "timestamp": "2026-07-08T10:33:22+00:00",
     "source": "nyt"
+  },
+  "b21ba78264eb0cf1b91012e12057d666": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85MkE4V1lTeEg4RW1pNUdsajVlZTFRbWc4NGZQcG1uTzFIRHd2YUlXVDUyOFFHRUJhWktJanJpMENpVDJ2MjZEcFhSRU1nZEg5NWc?oc=5",
+    "timestamp": "2026-07-08T10:19:22+00:00",
+    "source": "iranintl"
   },
   "3b3eefa8f7d614eed498833d085f7603": {
     "url": "https://www.france24.com/en/video/20260708-russia-strikes-kyiv-as-zelensky-trump-set-to-meet",
@@ -223,6 +288,11 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXVzMnQ5aVh0S2MxNlBNWXBLcWZ0TFNrUWJuVFRRWjhKSmFVb2UtcGVWNWNVajcwb2dGVERnc3E5QVZseV9qN3RqdFBueUtRUUp3WTA0UVlSREdxOHN4UmV1QUdxSDh1cHVjNFZCWkRqVGpudXpHRnNiOWlMamoyaXY3Tl9ZT0pua1lDTHFNR3hUY1BxWWxHWktDSmpSNEVSOTVTQVZLb1VXaHg0dHc?oc=5",
     "timestamp": "2026-07-08T04:28:51+00:00",
     "source": "reuters"
+  },
+  "0f018b6951b97980539c0143d5433911": {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObnoyMDQ2NjVPZ2xqZEtXeEhDbkY2SkhvYkY2dUVhUnlPQnE4bUJDSDMxWXkxZ25uT0doY2F3STdzSV85WWpHelQ1M3JVTjlEVWJZZDB2SjJ6UGZRd3htRDZpVmV0elpHajhtMGxYaTVWaGJheF8yaFZlLWctQ1ZoOHd5OGtGdUpvN3Fyc3dZVFBLVE42ZGRnc045Sk9iYkhLaUxGVTNHVWdGYU9DZTVGMzR2Z0FhT2pPQUp0b2wzdEsxcTg?oc=5",
+    "timestamp": "2026-07-08T04:19:01+00:00",
+    "source": "fars"
   },
   "d2758f460d01e12cb6b7108eb1ad2553": {
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwRkhuLVZzeWEzRUFHLTRHNDVGdk9vdHJmeS14UEd3RFRVa1poRVc3YmJCZm9PRDJib3ZkMXA4ZGFmd2ZSQ3NsdVVuSjRDaDJyYjhmUGdyMHliSW0zZlE3M2dpMERsRFNzd1Zn?oc=5",
@@ -2428,75 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5seUI2aVh0VWlVeEJFdXJaYl9VdHZRaTVYZTBMVVFVTERramYtY1JlUTdlU0hZX09ybjYyWUV2RlFwdnp0QjJ6VUxkc3dFOGJrelpONE5hRmNMU1hWSG1MRmRwVWVZMUpPNW13?oc=5",
     "timestamp": "2026-07-03T13:18:47+00:00",
     "source": "fars"
-  },
-  "86a1731704fe141cbc2230e7a5637fdc": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGZVF3bFJ4aG5Id3Q3bmJTS2J6SkYwdnVMODIyc2VjUFR1X0NaeWxac3pEV1hMN3FLQ2JxX3R1dXItY1lXSDRISkpGN2QtRHFvVFE?oc=5",
-    "timestamp": "2026-07-03T13:08:48+00:00",
-    "source": "iranintl"
-  },
-  "9fba0da671a1e95dadb4267025ff3b8c": {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLTV6SzJqdGtOTmRfYkJQdUx4MW40T0x2Q0V2dlZvWUZTSkNCQ3UxNTAwOVBaamxpMm91UGxHMUM0OXREcU90TUtwMWhTWUFYd2pZSEExd0tTWDd1QVFjTENVUHB3U094VWlUUUwwUmtyRGxTTDNsX1lVM2R3NzJYTndfZkNuWjZpVUpZVFhGWC1teFAxU3phRXI4cFBzM2R5TGl5OERYQ0k4UVFLS0thTw?oc=5",
-    "timestamp": "2026-07-03T12:49:44+00:00",
-    "source": "reuters"
-  },
-  "ff93e5162e0efb9e7944397f7f182528": {
-    "url": "https://www.france24.com/en/video/20260703-human-rights-catastrophe-unfolding-in-sudan-s-al-obeid-says-un",
-    "timestamp": "2026-07-03T12:43:53+00:00",
-    "source": "afp"
-  },
-  "eee390dd14b221ec8d43744460996c2e": {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORXpMemJHeWdSem1ZSTR1aFZMQjgzNzZna1VrRmFIQVVkUkQzVUp4QzV1LXBhUjdOVHRWWkF0dHJyc0ZIZDhmUXNMYjVOZWs5dFNONVEwUGJmQlFNYXpLalM2Y25NMjI5UXVMNzhaMmhDaHVQb1VvMzJGZEFSMUxJN3JhWllBVzE5RFZiVzRhUks0MlBuXzZBaTNUM2QybVlyNUlabG9jekdSN3hTR3ZQZGxheTJ4ZXVGRW9lMG9VX3JOQQ?oc=5",
-    "timestamp": "2026-07-03T12:35:12+00:00",
-    "source": "reuters"
-  },
-  "92c809cee59b8625735d47a4a2fb3f33": {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ2J2aHh6bnExQ1NhblpZYl9lZk1hZklPV1kwVmh0S3Z4U3pIY3F6SnF4ZEowbUE2TTVycDloQ0t4WUl5Nm00YVZZMTJOZGY2WjBwcDRhR1NTVWp3ZGc3azdOQ3BwdE1mWFUtcVVfUG9VbnhUMFJKU0t6Y3RUQjJXeDNiN0lobGwxRFMzaGJUMXB3bVdkS0lZcjgyRW5HemZlMGgzemJXU1FWLTVyMDdGUWJTY0ltUQ?oc=5",
-    "timestamp": "2026-07-03T12:15:22+00:00",
-    "source": "fars"
-  },
-  "9798f8ae6d55a3cc5df137e7daa395f6": {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ2J2aHh6bnExQ1NhblpZYl9lZk1hZklPV1kwVmh0S3Z4U3pIY3F6SnF4ZEowbUE2TTVycDloQ0t4WUl5Nm00YVZZMTJOZGY2WjBwcDRhR1NTVWp3ZGc3azdOQ3BwdE1mWFUtcVVfUG9VbnhUMFJKU0t6Y3RUQjJXeDNiN0lobGwxRFMzaGJUMXB3bVdkS0lZcjgyRW5HemZlMGgzemJXU1FWLTVyMDdGUWJTY0ltUQ?oc=5",
-    "timestamp": "2026-07-03T12:15:22+00:00",
-    "source": "fars"
-  },
-  "a03125fdea61a93e6cd7c1dd30d9bf0a": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wWmprOUtTYzBPWTNlM215ZXNpMHdmZzYwU0RtTWpkV2haNDdtMGIwaWpJbmZwUW81TnRpaVpuNFY2VmJSeE0yMHBfbVdCcVZFb2c?oc=5",
-    "timestamp": "2026-07-03T12:01:25+00:00",
-    "source": "iranintl"
-  },
-  "ec5c65a39eed045ca941548185d8b559": {
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PakVob0M5SDQ0aGt1STJqbmFVNzhtYnVuRU1FSjJrQnh0NEtIVW80a25GNXltaHFzckhyRTVyczNBTlUzOVpJVUEtWXhUd1VXYTgtZGRvMA?oc=5",
-    "timestamp": "2026-07-03T11:49:18+00:00",
-    "source": "fars"
-  },
-  "e11678f3d0549706221fbc454281f0a9": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hbXFzTEEwRENiQW4yYWtPZkVGbjhRcFJnaEpGbm5XR1Q1cWFOVjVJSEhRc1o1dHJRajc2dWZMMkhYX3FwemJ6bFN2UGJ3QldEZmc?oc=5",
-    "timestamp": "2026-07-03T11:22:48+00:00",
-    "source": "iranintl"
-  },
-  "e573619afcd50c3a28bf916b754f3cc3": {
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYkJORzdZX3BXLVNLSE5DWEFMNkUybVc5U3B1TU1XclIxbEd1YXA4bnNLTkZHQ0c4OUZmOFVSUGtXcHdtMTNSYmkwT3VLZ2VlNWdKM0Q2R0Z2Q1RxZGcxRV82NnpRTzhoR1plNFFNZXhlOGdEVHRKX09vM2FJZ3ZYbFYtYU5iNTE3S3pQV3ZqNThuTFZSdHhjMlFhbkhra2Z5aVI1WU1jYXIxdmZGbUIxUk5oV21uX2NjQWVjSG5GRmNlUUxLUWc?oc=5",
-    "timestamp": "2026-07-03T11:12:39+00:00",
-    "source": "reuters"
-  },
-  "a883cf84b0ae4f748bc90c084732563b": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11ZXA4Mi1aTEFEa2g4N2wxMnhCY2RJQWFCWXBPNDJTUFZkZVpSTEE4WjFRbUJ4TDhUWjI4ejBaQS04Z2lsQlJhSmpGRGxieGRSSEpFajBockZtdHpDZV9tNA?oc=5",
-    "timestamp": "2026-07-03T10:54:10+00:00",
-    "source": "fars"
-  },
-  "02cba16202acbd58fd3f1a002415b3fb": {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORXpMemJHeWdSem1ZSTR1aFZMQjgzNzZna1VrRmFIQVVkUkQzVUp4QzV1LXBhUjdOVHRWWkF0dHJyc0ZIZDhmUXNMYjVOZWs5dFNONVEwUGJmQlFNYXpLalM2Y25NMjI5UXVMNzhaMmhDaHVQb1VvMzJGZEFSMUxJN3JhWllBVzE5RFZiVzRhUks0MlBuXzZBaTNUM2QybVlyNUlabG9jekdSN3hTR3ZQZGxheTJ4ZXVGRW9lMG9VX3JOQQ?oc=5",
-    "timestamp": "2026-07-03T10:51:28+00:00",
-    "source": "reuters"
-  },
-  "7ad6ea1c7a7f07d69eaf69373b644310": {
-    "url": "https://www.france24.com/en/video/20260703-venezuela-two-weeks-after-the-earthquakes-rescuers-hunt-for-last-signs-of-life",
-    "timestamp": "2026-07-03T10:50:37+00:00",
-    "source": "afp"
-  },
-  "2e44c88a3ddddb340d6c30b163a44d3e": {
-    "url": "https://www.nytimes.com/2026/07/03/world/europe/russia-gas-shortages.html",
-    "timestamp": "2026-07-03T10:47:14+00:00",
-    "source": "nyt"
   }
 }
