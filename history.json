@@ -1,4 +1,14 @@
 {
+  "1bd3b7d473b0e3d4a94ff083502dab08": {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXVzMnQ5aVh0S2MxNlBNWXBLcWZ0TFNrUWJuVFRRWjhKSmFVb2UtcGVWNWNVajcwb2dGVERnc3E5QVZseV9qN3RqdFBueUtRUUp3WTA0UVlSREdxOHN4UmV1QUdxSDh1cHVjNFZCWkRqVGpudXpHRnNiOWlMamoyaXY3Tl9ZT0pua1lDTHFNR3hUY1BxWWxHWktDSmpSNEVSOTVTQVZLb1VXaHg0dHc?oc=5",
+    "timestamp": "2026-07-08T04:28:51+00:00",
+    "source": "reuters"
+  },
+  "f47a184bcac08eee5fdb93fb4450f4d5": {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXRXN1ZOY3dWb0Y3bFliM0t6QVRjQkxGNmNRRkVPM29YazVXaXVpaFo3N2h2MHdBLUlTMWNROTJuTUJQNFhaR3BwTzV5b0NDYk1WOG5NMXRHLWhuNHF1NXJqOFM0Vzg2TWo2bXRCUS11WmFEeU45UURDV0dqX0szLWxfbkptQXFxQVJXM0hjY2lkS1VJdkljZWFR?oc=5",
+    "timestamp": "2026-07-08T03:37:00+00:00",
+    "source": "ap"
+  },
   "37b2f49a9dc59911d0e8307881fdb152": {
     "url": "https://www.france24.com/en/europe/20260708-zelensky-signs-defence-deals-with-denmark-estonia-and-netherlands",
     "timestamp": "2026-07-08T02:54:16+00:00",
@@ -9,10 +19,30 @@
     "timestamp": "2026-07-08T02:46:00+00:00",
     "source": "ap"
   },
+  "b225be80ce2b4b6d4f9f4a2eebd9f2c7": {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemJfQWZSNnQ3bXp6ZTRMbWlwU3NRendZSmxUX0lkRF9fWk5GRm41TVpxSW5qOHVwWmF6NEctNGN6LVNkZlhmV1hQaUFzVTMwajByOWY0X3ZPSG03VGRYSUhNUGVVcldiXzJIYy1wdlVCUHBoaEQ5UkhBVGpEQlJINWFXZVA2NWgtY2dFbzJDVEVrRmszYmJzMndGSnFZc3pBcEVRTU5vdFRWNGlOYlE?oc=5",
+    "timestamp": "2026-07-08T02:35:00+00:00",
+    "source": "reuters"
+  },
+  "d6f09f3350985b50214f0e0b1c6d371e": {
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUEVNU2RSNGlfY1hHTkpSVFpWcjFYcDJHa3FHRkNHWEM3U19nM1lxSWN5SUY1Zjl6czA4LTNrNENOZ1lYMFlDZ2JyWllaRURvU2ZJSTctcFEzWUNKLVoxSmdVT3RmWFNfenFhblhMZUFvXzBrb2M3VDkxQm9PdlZIWmN2YmRaS3lPaGRBcE5XcHdrZFV2NWFSNmZuWUY4VjZmWUhXUXB2RHNQS0ZYdnRHMWxkM3daNlJQR3B6eW5yem1qRDhFRXZLVU1fbjJTelh6S1UybQ?oc=5",
+    "timestamp": "2026-07-08T02:03:00+00:00",
+    "source": "reuters"
+  },
+  "d5801e14c37b99061f943b7b40e327b2": {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1hzdnRhSUFjNm5yb3RRTUlITEtOd1NMOFJJNlc0VVczR0s1S295WjY5b0YyaEhIMjZxZWEtdk5WUjlPcC05dUtFaThpNGo3QVl4REZiMzIxZ252bHE4a2VRRjFUYXlfR3Myb0Y3aUlSVnplSEp5eW9YQjBvNXU1UmwySVFjaXhuXzNLMFBXNE5Rdk5IcWxqUXJZR3FvNGRjc2p2b3hoa2x3U2ZvOE5XYU1n?oc=5",
+    "timestamp": "2026-07-08T01:28:00+00:00",
+    "source": "reuters"
+  },
   "9482abaf52815de9f61df87fead29b3a": {
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LLWdUTXg2UnVYVGp1RC0wMzBCcG5qWG1zMEFlRHc1R195bW5uTm9xZjlSYWVhVmhDMEhjN01EQ2dmRER4cnZ6eGo1NjVXQXlCN0RQdXRUcTRNMVNnU0wwbXQ2S0w2dURMWk5J?oc=5",
     "timestamp": "2026-07-07T23:58:18+00:00",
     "source": "fars"
+  },
+  "371535d17390bf82af436c0341b44e05": {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3VBRlUtLVZiWl9MOVV2dWpVcnZBV2NId05pZVRzdXJFQkhQcWxySkJ6a05ua1ZHYk9PZG1hVUZiY3JQMmtZZ1VxaHhSRFQ0a2FMV1lUWVQyZnBzbVFobUdOWE02Umo4bG9QblhfM25XenQ4ZU1oSS10cm1DX0JscVlKUFBZRUtWNzRoX3pfVUJJNWpaWDFrbVhvc2F6Vml1dFdWeg?oc=5",
+    "timestamp": "2026-07-07T23:42:00+00:00",
+    "source": "reuters"
   },
   "8257650517a1eef8fbea96aac1f75426": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fQ3NNdmtnWnRPNWVWMF9GVUVucWVGLThZclVLMUZFbThrbTV5OTFqZ05ndmgtb010R3pYd2E2UlpNd2M0N0VYUUF0VzRpMktCbHc?oc=5",
@@ -20,6 +50,11 @@
     "source": "iranintl"
   },
   "45dc2112b43e02321d0396518ff0344b": {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcW1oQmNkNnFFdEdYaTI4SDJwR0FpbHZjaVZCYnAzdTEyanppYjZTNFlOeE1KODQ5SmtVNC1hOWVhNHh6d3dVNGJ4enNEYkdPZFlEamVaXzRtN3RKME5Od2VKR0dUbUFRWDJ0b0xMcy1TUThmaF9Tem5YNHZUZlZpMGw0Uzc4TzRTT3p2aFhNZU8xT3Fsa2xld2pBRDFvTE5QS3RORTQ5TkowYjB5X2JaVUtQVUU5c2owcXc?oc=5",
+    "timestamp": "2026-07-07T22:42:00+00:00",
+    "source": "reuters"
+  },
+  "4a870f46244ad0d00ef22819a5ab8999": {
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcW1oQmNkNnFFdEdYaTI4SDJwR0FpbHZjaVZCYnAzdTEyanppYjZTNFlOeE1KODQ5SmtVNC1hOWVhNHh6d3dVNGJ4enNEYkdPZFlEamVaXzRtN3RKME5Od2VKR0dUbUFRWDJ0b0xMcy1TUThmaF9Tem5YNHZUZlZpMGw0Uzc4TzRTT3p2aFhNZU8xT3Fsa2xld2pBRDFvTE5QS3RORTQ5TkowYjB5X2JaVUtQVUU5c2owcXc?oc=5",
     "timestamp": "2026-07-07T22:42:00+00:00",
     "source": "reuters"
@@ -35,6 +70,11 @@
     "source": "radiofarda"
   },
   "c1ef399e8732b3f6a64f12e12b94847a": {
+    "url": "https://www.france24.com/en/middle-east/20260707-middle-east-live-us-launches-strikes-on-iran-after-ships-attacked-in-strait-of-hormuz",
+    "timestamp": "2026-07-07T21:46:41+00:00",
+    "source": "afp"
+  },
+  "3aae2209fef052cb3490a00138f60125": {
     "url": "https://www.france24.com/en/middle-east/20260707-middle-east-live-us-launches-strikes-on-iran-after-ships-attacked-in-strait-of-hormuz",
     "timestamp": "2026-07-07T21:46:41+00:00",
     "source": "afp"
@@ -99,6 +139,11 @@
     "timestamp": "2026-07-07T19:27:14+00:00",
     "source": "reuters"
   },
+  "2a3c37e50bcda9cbf35ca418a370c4e4": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpdDZ1VF9SSS1PcU1MblpzUDhiZHFlNmNHQWF6d1VEOER1Qk5qN0NRMndMb1hzU0xDOEs5ZXRobjJhMUVQR0lIcjdFeS1pMmk4RHc?oc=5",
+    "timestamp": "2026-07-07T18:35:49+00:00",
+    "source": "iranintl"
+  },
   "b6f40864bb84852b12792f1a75cd9670": {
     "url": "https://www.france24.com/en/tv-shows/the-debate/20260707-no-stopping-le-pen-french-appeals-court-clears-way-for-2027-presidential-run",
     "timestamp": "2026-07-07T18:15:12+00:00",
@@ -123,6 +168,11 @@
     "url": "https://www.nytimes.com/2026/07/07/world/americas/venezuela-earthquakes-delcy-rodriguez-trump.html",
     "timestamp": "2026-07-07T17:15:12+00:00",
     "source": "nyt"
+  },
+  "ecb0087b9cfd08378ae7d080077803c3": {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGVNUlZFWkE4dkZoM1dOZkNla1RjY2QxQjJGQnVDcjNWM2hKV2hGakVkWTZmZlFlNlRFVFJ0OFBnblA3a0l0VElhcEJuZkNzQ1ltX3g4azZnSW5EcnJYSnVEN1lielpIdkJxSmI3OEozczQxUzBQRVFwanhYS2ZTQmNJNWZnR29ZaFFNclJ2UXJ5NTh6YlpxWlNlRFBzVXQyb2ZJY1hYN2lDQQ?oc=5",
+    "timestamp": "2026-07-07T17:08:00+00:00",
+    "source": "ap"
   },
   "4072e183cb96ebe1fd17b1a509d80bc0": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBWFZ6ZTlBd0UxbFJ6ZVVSWURPcXJ6MXJJOWF4RXA4Z3VTbWliVkNzbzJ2UjdYS1hETHNoejVTMHpWVXpDYnVDNkpNaEF2dkdJNXc?oc=5",
@@ -2448,55 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ma0d3Z1dPVTk0b2N1VDh0cmhKMEtLYUlSRHZYelpKQjNxSmJXVXU3Ym1SWk9nWG1BLVI4Zm1JRlVrQlpCdnQybnVWZzI4Ry0wQ2dNcnNiVFA4MEVyYzNiQg?oc=5",
     "timestamp": "2026-07-02T19:06:35+00:00",
     "source": "fars"
-  },
-  "849912512f9f09819b2fa252da0c1f11": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ma0d3Z1dPVTk0b2N1VDh0cmhKMEtLYUlSRHZYelpKQjNxSmJXVXU3Ym1SWk9nWG1BLVI4Zm1JRlVrQlpCdnQybnVWZzI4Ry0wQ2dNcnNiVFA4MEVyYzNiQg?oc=5",
-    "timestamp": "2026-07-02T19:06:35+00:00",
-    "source": "fars"
-  },
-  "e534634f7a168a9953adf7c4f65854a2": {
-    "url": "https://www.france24.com/en/vatican-excommunicates-six-ultraconservative-bishops-over-ordination",
-    "timestamp": "2026-07-02T19:04:32+00:00",
-    "source": "afp"
-  },
-  "f37defce2d0d9a00fecbba1d9e17f97a": {
-    "url": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html",
-    "timestamp": "2026-07-02T18:53:58+00:00",
-    "source": "nyt"
-  },
-  "b80061a7b1756e14314de50675f0f908": {
-    "url": "https://www.france24.com/en/a-clear-sense-in-israel-that-israel-hasn-t-won-anything",
-    "timestamp": "2026-07-02T18:41:32+00:00",
-    "source": "afp"
-  },
-  "353724170e20b4327119ae480cad580c": {
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcEtLOEllLVlXcS1PM2hvMU9iR1ExbkRuTm40RGlvTTJCQ00yZWM3OXdSODdOMnFWN0xXTlJtWVFqRGFOaTFSZjJ6cVhFbTNZRVNYUUFsU3NtbW10bjNzN19sR1FRSThwRlZ1ZjJZaTdJeXlTdFprcnVCcUw4M2RhbXAyWk1LMHFJdmNVakR3N25FV2diX1VOV1pKMGNRdmVyQUY1OE1ON2d5Zw?oc=5",
-    "timestamp": "2026-07-02T18:25:00+00:00",
-    "source": "ap"
-  },
-  "830d63c9c911badb3d8a1fe8fa596875": {
-    "url": "https://www.france24.com/en/ukraine-will-retaliate-for-russian-attack-on-kyiv-zelensky",
-    "timestamp": "2026-07-02T18:12:37+00:00",
-    "source": "afp"
-  },
-  "97b0b97c3fa1132ef9e52172f06582af": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xdG1wMjV3eldrZWh5a0JZaXhDcDc4cERTWEowTWZPd0x6N2tqVTc1TTJYUHk2Wmlqb2haeXVoWnk4c1JpRC1rRy13U2NWTThCM1E?oc=5",
-    "timestamp": "2026-07-02T18:02:03+00:00",
-    "source": "iranintl"
-  },
-  "223d0c4ca1e43a1d830538b20472a745": {
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSjRoUlR5czFVVDNsWU93NHBObFNJdm1rUk9kX3VyT3hyUGlfY2lNQmpRdzhHNWZhNkhwd0xyQ284UVRDNlpQT1lfdExLbGxZeXZIYnRqY0tVdV9kbUFKSk0wbDZCYlVxMC1nei1QLVVvejVXX0lrN0J6R0VtU2FTM1pfVE0?oc=5",
-    "timestamp": "2026-07-02T17:53:25+00:00",
-    "source": "fars"
-  },
-  "ace7c85efe813fcd49f21a5ae0cfadbd": {
-    "url": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
-    "timestamp": "2026-07-02T17:31:12+00:00",
-    "source": "nyt"
-  },
-  "7c247d980904de220d4b53f8fa6771a1": {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSUZ5NjAzaEhPR2JIbkNQR2pCRUdDYS16TEhueUM3NVR6eElEVklGVnAzYmdpVDExLTBlTTdzQWpma1lSblFOYWR5N2g5MENPM29WVUhaVWdtOEFnTllBd3VWc21JaDFrMGxZMjFrYzBiWF8wOUpwU01BU0pFcEFQSzBqbk0tVFI3MG9VX3JYQVh2dDBOTWtjQktiRkhtVFdrdDdPMQ?oc=5",
-    "timestamp": "2026-07-02T17:25:47+00:00",
-    "source": "reuters"
   }
 }
