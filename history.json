@@ -1,4 +1,64 @@
 {
+  "10ab8ac67427f39b6cbcf3c280bcee93": {
+    "url": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
+    "timestamp": "2026-07-08T14:49:10+00:00",
+    "source": "nyt"
+  },
+  "6408a52b68f2d0256a2e95cea0e2bd56": {
+    "url": "https://www.nytimes.com/2026/07/08/world/europe/uk-nigel-farage-resigns-clacton-election.html",
+    "timestamp": "2026-07-08T14:44:04+00:00",
+    "source": "nyt"
+  },
+  "a204e22c5bd81f75b2dcb8c93ba82547": {
+    "url": "https://www.nytimes.com/2026/07/08/world/middleeast/iraq-funeral-ayatollah-khamenei.html",
+    "timestamp": "2026-07-08T14:22:51+00:00",
+    "source": "nyt"
+  },
+  "af61388d024ca76bac76cdf327db8a14": {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnZfNjg1eEdZNWlueERQYzhObG1hQ05BN3FNUVlvV1dYRk5uakl0SHFwNkVpTmluWGo2aGdHc29lWFhZNnBWUUVTSTc1MVgwWFZ4cmM5aThvQldlYzZyTktnRG9MRXdUdGI1ekhTLUhGNGJlak1xcFJnYkNRQlMzVm9iV043djdqQ0lyang5NkJ6eVJQUTJUbHFDUlJoWkU?oc=5",
+    "timestamp": "2026-07-08T14:14:41+00:00",
+    "source": "reuters"
+  },
+  "f3038737031e7f2ad12808bbd3710a2a": {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ01BUXhMZVZ3RS1QSm9sa0dhcG9IV3I2RThZUnhLdGN5VlREUXQyVjIwVi11bG8wVkR1aW9fY3FITnhSeFkxWEY0TlhFVWhfZjk4WnRWa1A4S0ZqWG54ZnZLMXFXOUxvQmpsdm1RbHlqWkdkOFhoMXZldUtsbnNOazBjVDRlLVZObXBBSHh3M1F3aklvbm5JY25FSXZaWDJudXc?oc=5",
+    "timestamp": "2026-07-08T13:51:41+00:00",
+    "source": "reuters"
+  },
+  "73e5ae2391647a89a83992dca258d2b1": {
+    "url": "https://www.france24.com/en/video/20260708-replay-macron-addresses-ukraine-greenland-at-nato-summit",
+    "timestamp": "2026-07-08T13:46:01+00:00",
+    "source": "afp"
+  },
+  "76103d99c559fbf881b77b21af0ebdcf": {
+    "url": "https://www.france24.com/en/video/20260708-replay-trump-zelenksy-meet-at-nato-summit",
+    "timestamp": "2026-07-08T13:38:23+00:00",
+    "source": "afp"
+  },
+  "dbdb2fb733508576bd522bf76171eee8": {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1gtSjBfOFFBczJZY05LR2Y5MVY5eUhrQUp2TW9nZDlRMEJVRjNxT19mNzJBQklsaUFpSTAtTHFLNjV1SjI0M1ZUb3REbXlYZVRkWi13bXJfVUprb2RycFFPNVFkTkZFTlg0TE5HakNqUWxPZWNpX2tEOEZIQ3lHOXVZdURMRnp2S0tsLXZRdFZTeEtGekhUSWpVR1Fjc3k5S0FhQVVEaVB5SDRqQ0RZdUFOZVFYTE5FcU5R?oc=5",
+    "timestamp": "2026-07-08T13:23:34+00:00",
+    "source": "reuters"
+  },
+  "368dec2a4871c4d4380ea1bf222a60b6": {
+    "url": "https://www.france24.com/en/video/20260708-uk-s-farage-resigns-as-mp-to-force-snap-vote-in-finances-row",
+    "timestamp": "2026-07-08T13:14:09+00:00",
+    "source": "afp"
+  },
+  "0a83c27b80a523a196658a4f4363a369": {
+    "url": "https://www.france24.com/en/video/20260708-trump-turns-on-spain-and-demands-greenland-as-nato-summit-exposes-cracks",
+    "timestamp": "2026-07-08T13:11:38+00:00",
+    "source": "afp"
+  },
+  "f34ec22bb882f1ccb793597bb1550659": {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSEFSS3VEdmtCN2Q4RTdUUzg3Wk53LUcxNGxkb3ZXcUtucnQyYXEwLUVlb0c3UDZaS3JLZEd3ZHZfblVpRjdDSnNMSENkb2lndjFmN1VtQXZGaGJVR2luZWdTTHJFTTJiLXR3TUlzUF9hWjFodXpnZ2E5VmxfTzI2Mmo2VERVVlJTRUpfQk9oQ1VBTkZBZjdnWEtxWEVKMTNEckdIbUpMLUtlZnZ3TU12RlVXTzh2SlBHX2lhSlI0ei1uYmM?oc=5",
+    "timestamp": "2026-07-08T12:44:46+00:00",
+    "source": "reuters"
+  },
+  "509eff874f84cbb7209a3005bbaf6524": {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORkM4Zk5fSVY2LWktUmVWdlFPOFd6cE5vYWJJQXBzTFhjY2FuZXVWbFg3LWFsdjJPRU1ZUU1vZnVDUUxIVlk5VjdmUENyNGFYNjRIWG5Rbm95blBVbzJuWi11YnYwckVrMmVnTkFydkJnRGl5eFpBOVRuZjRNU2lDYzBKRTUzazhmNnlvZk82eC1DV0xCVFJsbEZ6REE2UTA5Q1A3SQ?oc=5",
+    "timestamp": "2026-07-08T12:24:46+00:00",
+    "source": "reuters"
+  },
   "757c35503c0baa29015c244c22005fc8": {
     "url": "https://www.france24.com/en/video/20260708-thousands-of-mourners-march-as-khamenei-s-funeral-procession-crosses-into-iraq",
     "timestamp": "2026-07-08T12:13:07+00:00",
@@ -9,6 +69,11 @@
     "timestamp": "2026-07-08T12:10:38+00:00",
     "source": "afp"
   },
+  "ec919a0534a3d64400f8346e4a3cc174": {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTlFBbWNpejctSVVTTXdWLVZCN19LVWxIbS1YYnRuTHNEdldPNHV0OU9MTDRRUFRKaVhfMG9RWjlXcUlXa0NpQnhQaFR5b1cyZUJEZ0hWSGhnaC1zb2F4YWtaN3VzMGdYY1RmVHJhZ3VkZjl6dXJHYVhQMnVLcFM5SUw4aU40aUh1cnNidnVCYUFxYWFuX3RiaGpRM09kek9RQ29rNmhwa1d5QzNDRUdsVUhrcTZ3dXpQbDQ1OWZ1c2hUeHc1WHc?oc=5",
+    "timestamp": "2026-07-08T11:57:14+00:00",
+    "source": "reuters"
+  },
   "23ec8e56e77c3fd93dab9ad79ba1ab17": {
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0wtak4yR1c5V1VydHktZHRDdncxdk5FSFZFYl9PZ2RxRDR0eFZfVTdhU05ha0c2NWlHa1FQcWlnVjlGb0E3MFdCU2RZVWxCRFNocnl5UVZWakFTOTdfQjJreTRVTlBGMjdJUDA2ODZKSzZ4UFFQSUozdkdJVkp3WFRadV9WQ09UaHQzdW1uc3FoallwOEZyVVF6Q0g3aU9hWWtkcm1IZDJiT0JlaDBucVM5TU9yYllM?oc=5",
     "timestamp": "2026-07-08T11:53:45+00:00",
@@ -18,6 +83,16 @@
     "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260708-i-feel-forgiveness-daniel-gwynn-on-life-after-30-years-on-death-row",
     "timestamp": "2026-07-08T11:15:07+00:00",
     "source": "afp"
+  },
+  "ad54a943b919c015a206be2c9033de77": {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UbElUYlYwWklZOVhtVkR0NEl0VjA4WTZjN2o5MnNhY3ZvaksyX01OLXVjbjJfWVh1dFZucGVXMXZ1bGtxR1d0VUc5Mk9UOE54TWh0YWQyNjlzcVpLbHZRNEpHUQ?oc=5",
+    "timestamp": "2026-07-08T11:00:34+00:00",
+    "source": "fars"
+  },
+  "0a73330b99147f809b252ab8af1debbd": {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0tiMk9sUC1oMXdEOFM1cnljQkMyWEZqcnlDSVkyY0l4LUpleFlZdk4zM3Y1d0o4RnVUYVRFbnZ6Rk5qOWZVby0wSGxkUHZDaThhQm9MZ2pldUt1cDZReXc1YmFKSWNmajJLbnpIbGZlZnhWNDkyNXQ4X0wxckFPNGRlR2dDZXdkdFRBbG1HbmFPaEFRWEVn?oc=5",
+    "timestamp": "2026-07-08T10:54:00+00:00",
+    "source": "ap"
   },
   "ce8cbfb1816c3d118f644d0740612f6c": {
     "url": "https://www.nytimes.com/2026/07/08/world/europe/albania-sazan-island-kushner-ivanka.html",
@@ -129,6 +204,11 @@
     "timestamp": "2026-07-08T05:57:51+00:00",
     "source": "afp"
   },
+  "cae3905824d27add1ef4eb6e5af52fce": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRQllkN252YVFOTEh4Unc4YzFHbkhKbzFycWpUeHFCWExSZ0tmS3B1NjFzRkh5SWNwckFjSzJFVWZLT3NFR1Y3T1Fac3VaRTdaNlE?oc=5",
+    "timestamp": "2026-07-08T05:52:11+00:00",
+    "source": "iranintl"
+  },
   "6a8b0dd9d101506799248b2c109c5c79": {
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUGg0M1U4ckhfRFJKQTRnZjUwSFFHZWlrX0U0dHJXT2hDMkE3NzItM19WT2d1QmZPdUg4c3hsQmJ1NFgzeTl1RnpUTlpYeUdKdTVLRnh1WUIzbFplcW1ESl9WOUMyOFpoNndlcmZ2czBzVXJJWTlVbjZ5U294SWMxdnhLaHpGNnE3UU1WR3dROC1oTkxXOEEwT0xYVnFzLXNpNnYxclc3UUoxd3REUkx2YWQzNWtqWm5JaFJF?oc=5",
     "timestamp": "2026-07-08T05:20:00+00:00",
@@ -143,6 +223,11 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXVzMnQ5aVh0S2MxNlBNWXBLcWZ0TFNrUWJuVFRRWjhKSmFVb2UtcGVWNWNVajcwb2dGVERnc3E5QVZseV9qN3RqdFBueUtRUUp3WTA0UVlSREdxOHN4UmV1QUdxSDh1cHVjNFZCWkRqVGpudXpHRnNiOWlMamoyaXY3Tl9ZT0pua1lDTHFNR3hUY1BxWWxHWktDSmpSNEVSOTVTQVZLb1VXaHg0dHc?oc=5",
     "timestamp": "2026-07-08T04:28:51+00:00",
     "source": "reuters"
+  },
+  "d2758f460d01e12cb6b7108eb1ad2553": {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwRkhuLVZzeWEzRUFHLTRHNDVGdk9vdHJmeS14UEd3RFRVa1poRVc3YmJCZm9PRDJib3ZkMXA4ZGFmd2ZSQ3NsdVVuSjRDaDJyYjhmUGdyMHliSW0zZlE3M2dpMERsRFNzd1Zn?oc=5",
+    "timestamp": "2026-07-08T04:07:13+00:00",
+    "source": "fars"
   },
   "b3f23eafecaeaefefa1f8ddc870ddb46": {
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YUlVYeE43dVNrVDBpRFg5dUJXU0Nwd0dhWHZvRTdGSUJiUjJ3S2lEU1YwQjkyY2p0ZEFLNWloaW1XMWVEV3VhUGxxWDVYU2g0OEtyMFNkZVB6T2tiamtGc2RsRm0wS2VkdUw4?oc=5",
@@ -178,6 +263,11 @@
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56a3NMSjNwNnZ5MWlZX21jWTdEZTJOc3NhSjl6cy1tdVBidUNtbTBRa2hMSVkxMHVuWU1CQTd3ajgyWVhXYkE4NEQtTVdXdHYzeU1YT2VVMXY1Ti1raDZQSmUxVVpINjZhMWc?oc=5",
     "timestamp": "2026-07-08T02:30:35+00:00",
     "source": "fars"
+  },
+  "c88eadf6639a1d6d017fedc14fd8bdd2": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrMmx2aUIyZkp2VFJGMGMzR0xEUGYwZXM0WXFEOGtrZmM0ZElyRnlsT2JiOUFOdmZSeUNDWjV2T01pN1FjM3pHNHlwYTh2ZFhpaGc?oc=5",
+    "timestamp": "2026-07-08T02:06:54+00:00",
+    "source": "iranintl"
   },
   "d6f09f3350985b50214f0e0b1c6d371e": {
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUEVNU2RSNGlfY1hHTkpSVFpWcjFYcDJHa3FHRkNHWEM3U19nM1lxSWN5SUY1Zjl6czA4LTNrNENOZ1lYMFlDZ2JyWllaRURvU2ZJSTctcFEzWUNKLVoxSmdVT3RmWFNfenFhblhMZUFvXzBrb2M3VDkxQm9PdlZIWmN2YmRaS3lPaGRBcE5XcHdrZFV2NWFSNmZuWUY4VjZmWUhXUXB2RHNQS0ZYdnRHMWxkM3daNlJQR3B6eW5yem1qRDhFRXZLVU1fbjJTelh6S1UybQ?oc=5",
@@ -2408,95 +2498,5 @@
     "url": "https://www.nytimes.com/2026/07/03/world/europe/russia-gas-shortages.html",
     "timestamp": "2026-07-03T10:47:14+00:00",
     "source": "nyt"
-  },
-  "6fd37df9856286a3bd7e1c2311c3bd66": {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPanlfMW1EMnFya2ZMNmFLVjBtT3ctNzZIdmVvVlVsYlNYNTJMRXJaTXlRU3BET0dncnF1UDlTMFdmVy14ZnkwdVdjWjNrS203OExQQjBjTUJHRTRBVUdYYkRSVUVLVGszZjF2ZWRMU2VvY0RhWGhVTFpPV0VkTmE1cTVHVnZueU9OOHBnT0xCcmNZdVVmeS1WZzdyS050NUVNcm1BQVlGZmV6N0NySlFJa3NIRG9YNDk2QUhR?oc=5",
-    "timestamp": "2026-07-03T10:27:16+00:00",
-    "source": "reuters"
-  },
-  "14c8fce51904628d16aba6a037edeb01": {
-    "url": "https://www.france24.com/en/tv-shows/press-review/20260703-the-usa-has-survived-250-years-but-can-it-survive-donald-trump",
-    "timestamp": "2026-07-03T10:24:21+00:00",
-    "source": "afp"
-  },
-  "0e5b58c5b9b53569711c60eff6bee582": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIV2VpOTNoXzA1MjN1NzdtMGRSUFNSRHpTMUw1VS1saEo3eGNwTWlsTEZLVkJNTWc5R1NQZVhRb0s5UEVQRHdUOHBmQlkwemFIUnc?oc=5",
-    "timestamp": "2026-07-03T10:23:08+00:00",
-    "source": "iranintl"
-  },
-  "4a3c180da2091a66be2bd1833fc8a2c3": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QSU1wY0twMGRUUWVwaktycWg4Wm8yUXNPbi1YZHNtTG5oVFZNN0NfelNMaldEWmhlUk1hUWUxYUxPRHJSNFhwSTNQdXJLWXdaWml3cW9FRDZ4em5hWF8xOA?oc=5",
-    "timestamp": "2026-07-03T10:06:21+00:00",
-    "source": "fars"
-  },
-  "43efc50cf9b00a136a65270f0403600d": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QSU1wY0twMGRUUWVwaktycWg4Wm8yUXNPbi1YZHNtTG5oVFZNN0NfelNMaldEWmhlUk1hUWUxYUxPRHJSNFhwSTNQdXJLWXdaWml3cW9FRDZ4em5hWF8xOA?oc=5",
-    "timestamp": "2026-07-03T10:06:21+00:00",
-    "source": "fars"
-  },
-  "29a14321656051fb501bc1abb40a48d1": {
-    "url": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html",
-    "timestamp": "2026-07-03T09:38:09+00:00",
-    "source": "nyt"
-  },
-  "a7871f219fde45b21311eec69cdb0a5a": {
-    "url": "https://www.france24.com/en/video/20260703-bad-bunny-mania-comes-to-france",
-    "timestamp": "2026-07-03T09:36:51+00:00",
-    "source": "afp"
-  },
-  "b6281f3d37bf335a4fb09564c31d016b": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qcVBOZUNxLWNaWWxxM1BZMlA0cGVVa3JtZm1yWVE1Qk5hUUExVG11UFktYmpSYWxLQWZBNE5XUUg2ZEpWa2JPQlZ4dEZkd0JVSFE?oc=5",
-    "timestamp": "2026-07-03T09:24:51+00:00",
-    "source": "iranintl"
-  },
-  "0bf073584201d84b85e7bad7b99a49d9": {
-    "url": "https://www.france24.com/en/video/20260703-rescue-teams-in-venezuela-cling-to-hope-as-president-defends-response",
-    "timestamp": "2026-07-03T09:19:26+00:00",
-    "source": "afp"
-  },
-  "84a9b3e93db17913f86caabedf2deeee": {
-    "url": "https://www.france24.com/en/video/20260703-kyiv-mourns-30-killed-in-russian-attack-as-rescuers-continue-search",
-    "timestamp": "2026-07-03T09:15:01+00:00",
-    "source": "afp"
-  },
-  "039950114247dd108a68e6cf3981c414": {
-    "url": "https://www.nytimes.com/2026/07/03/world/europe/a-hitler-bunker-faces-demolition-in-housing-challenged-berlin.html",
-    "timestamp": "2026-07-03T09:00:20+00:00",
-    "source": "nyt"
-  },
-  "d099c7df9576d2c5f5674dbc22a1b0b9": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1aEVKNmtJZnhIUmY0UjcyMlZLX29YSHkyVXBNOWFic1FQM0hJc0VSa1dRUGRFalJyc1VWZ2JPcmRDSUZ3LUljRHNGRkFmb1VHdVE?oc=5",
-    "timestamp": "2026-07-03T08:59:44+00:00",
-    "source": "iranintl"
-  },
-  "969390266b1af22c730f7579d888ce77": {
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRHVkZGdZYnZVQ0t2T01wTzFVQzRwM0l4cmxuVVdsRjA2WUJaNXRjMnZnS1dxMHVhcFJCSEVpb2xWOFhrMHM5NzlseHM4TE0yd3p1OVN1WTNjS0pvSFIxcV9LbHNRY00teDJYWWFMd1NfeGJDV0R3eUVZX1p0Z2NTREpHRFFoUTgzTWt5ZHV0dUlya0tfWlV1bVdGYnNJc2txUERwZG1FdTJvUmJFMGctRENVNi10aGpFMmtOZk5QRlBsaWQ2NjN4UUdFalUxeVBhTEFZYlRJYTR3T1hHcHdkOElmNkc?oc=5",
-    "timestamp": "2026-07-03T07:49:15+00:00",
-    "source": "fars"
-  },
-  "c9720891ff568205905bd6b0020d466b": {
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LckQ0M3U5NlN1TXVocnc1eUplbnQwNzJNWmJXbGpJZ3FUNmxiOWlwa2l4bUJ4MXo2WXNvMy1haGo1dkRSa2o3dTQ1ZVJTOWdTZVhnTUgwX1JUUGxIWF9uMzFETjZFaDJEYXh5Ny1KNA?oc=5",
-    "timestamp": "2026-07-03T07:39:02+00:00",
-    "source": "fars"
-  },
-  "a2942051fa61f5f3d20ebdb2848a66e9": {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONU1hNlBDTURsc1NhcHNqODU1dTRDdnVLOUladWNPbTBGTUVVaDlzbFRVUU94SVVuM2w2c3E3Zjk2b0hUSVEtZk5tSkxoVzRRWDNsWjd0NmE0V2J6NnJGWXhoYzlETDdfT3VGaGtLaWhfUlFPc3JPYkM5djFBM3ZuTFZCYXVpcUpKcUt2M1ZueEpEWm9SYWNFdzE0Z2FCek1Qek9JM250M1hUUkNQTHVIUksybURObjJT?oc=5",
-    "timestamp": "2026-07-03T07:31:49+00:00",
-    "source": "reuters"
-  },
-  "614b76892cd06e6d332028f7eaed5a9f": {
-    "url": "https://www.france24.com/en/americas/20260703-250-years-of-us-independence-why-france-chose-to-support-the-american-revolutionaries",
-    "timestamp": "2026-07-03T07:08:12+00:00",
-    "source": "afp"
-  },
-  "7c5c8fefd3994b013826fb340d3ae59e": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RdTZQUDAyWVpXUkVSbnJzOE45RFVGQ1QyRkRpMFZVcXdwZUlzTmFUdDhRMkFYdzBNQ3ItRmtpSm4ybTM1OHJid2kzSlB6a3RMM0E?oc=5",
-    "timestamp": "2026-07-03T07:05:57+00:00",
-    "source": "iranintl"
-  },
-  "38f11a15e33f5c3fd1dd104b8831fa79": {
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkJLWS1Wbnk4WEdvWjVXR01zVmJmVlBYLXpnT2g5OVlxSG15bF9QbWEzMS1Ca2EtcjFJaUt2dlNlLUhRZzAxa2tVS2Y3WWFNWDBpN0JIdkpoN1JINTUyZ1Q5dGZMaUFkWmJtaGVGeEFLWHdSZkd3VTkxUWdHR1VIM2F1a0RCVTMwUkQ2OHlEckNIUFlTdjJlTVF5YU1pWW1kMTM2Rm1tVUNaNGYyQUZSSmYwa3MwQ3UtNVgyTjgyLXpBdUs4SVpJ?oc=5",
-    "timestamp": "2026-07-03T07:03:43+00:00",
-    "source": "reuters"
   }
 }
