@@ -1,8 +1,48 @@
 {
+  "cdec54700921cbdaed86069f6c28aa1a": {
+    "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
+    "timestamp": "2026-07-08T20:01:03+00:00",
+    "source": "nyt"
+  },
+  "450d6eb160467e5a2aed2f115c0e4378": {
+    "url": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
+    "timestamp": "2026-07-08T19:59:49+00:00",
+    "source": "nyt"
+  },
+  "cac4837d17185e21dc445c558db97188": {
+    "url": "https://www.france24.com/en/trump-says-the-u-s-will-give-license-to-ukraine-to-produce-patriot-defense-systems",
+    "timestamp": "2026-07-08T18:57:58+00:00",
+    "source": "afp"
+  },
+  "0159f5a9ee5118d23997e72e82042742": {
+    "url": "https://www.france24.com/en/trump-says-will-cut-off-all-trade-with-spain-over-nato-contribution-row",
+    "timestamp": "2026-07-08T18:55:32+00:00",
+    "source": "afp"
+  },
+  "a47a121177666ebeab8f69280e89db24": {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjNfYy16UERGMkFmTE01eDZtUXllSmtob0sxSHNnSzE2S1g2NFBSbm9kc1hkWEQ2alp2NV9WVG9YSjlfLWxwVDRnYjhNZTAtanB3LW42eFNTUTNaVHp4TkJjdHNoTURyTXduMnpRQzlBcndEZndjQm5DcWowVHk0OG1yUWltQWlyMmpOdTlRQURydUJla2w2UHJQRENvbnhZQjRKTW1pV3hzUWNKWWsydg?oc=5",
+    "timestamp": "2026-07-08T18:51:05+00:00",
+    "source": "reuters"
+  },
+  "4e16330b29b400d52855481f142e5cb6": {
+    "url": "https://www.france24.com/en/tv-shows/the-debate/20260708-can-nato-survive-trump-s-changes-of-heart",
+    "timestamp": "2026-07-08T18:10:33+00:00",
+    "source": "afp"
+  },
   "17a6aed2f0b9d30e87dd8c78acf83617": {
     "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
     "timestamp": "2026-07-08T18:10:05+00:00",
     "source": "nyt"
+  },
+  "33c20d4a18e4478057e55695b15e61e4": {
+    "url": "https://www.nytimes.com/2026/07/08/world/americas/venezuela-earthquakes-deaths-remains.html",
+    "timestamp": "2026-07-08T17:57:26+00:00",
+    "source": "nyt"
+  },
+  "6cfd669021cbc0d5067aab23172b8a0a": {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUNLSnZKRklpZ2xEeEVHUVBfVGZBbHAxY2w2WTBIUHR4NDNzNjVxbThxdFR0anBfV2NRQUJDQ2lmdktkOXNsWVEtcVpPeVdMUlB6elVPZWFObnpXS3NiWVFHMGhXOGxmOTE5c1N5MHM1Tk9fSGpoYzkydU9fWkh3cXpfd2dWcXRLSFBZN09POHVLSzNnbEdZLXh6WndWV3JlY1AyWFRJR3VfcFJBMUg3RXBtMjl4Tm5uM0Jn?oc=5",
+    "timestamp": "2026-07-08T17:23:02+00:00",
+    "source": "reuters"
   },
   "aa9ada037abce5e8d2b85a941b20021f": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sbnkxOThqYW12aTF3SXRwUUxaQ1pHT0xnQVBPU3dXLU9WaTVBYlctdWw4bUtzYVJmUTl5WHNxSThYanB1cVZOR1E3RGtxZnVxQ3c?oc=5",
@@ -458,6 +498,11 @@
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcW1oQmNkNnFFdEdYaTI4SDJwR0FpbHZjaVZCYnAzdTEyanppYjZTNFlOeE1KODQ5SmtVNC1hOWVhNHh6d3dVNGJ4enNEYkdPZFlEamVaXzRtN3RKME5Od2VKR0dUbUFRWDJ0b0xMcy1TUThmaF9Tem5YNHZUZlZpMGw0Uzc4TzRTT3p2aFhNZU8xT3Fsa2xld2pBRDFvTE5QS3RORTQ5TkowYjB5X2JaVUtQVUU5c2owcXc?oc=5",
     "timestamp": "2026-07-07T22:42:00+00:00",
     "source": "reuters"
+  },
+  "9ebc4f160e5e7c5a833955fd2a6657f9": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DVHlxeldEQkJhZGlQYUtXT2ZZV1EzY3paREZIXzhNWnZ3S0ZTUi1remRoX3NKZER1UjExMkJFZ21rVDNmV0lMSnotWjhFcjZvOEE?oc=5",
+    "timestamp": "2026-07-07T22:35:34+00:00",
+    "source": "iranintl"
   },
   "2d5890155451262d045af20050141194": {
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2tfRFIyMHM3Y3R0UHRSQ0xwNEdNX2pjVUV5QkFGZk4yLUpVeU9RN0RHLXpUYU5UMzVIZkNwOWV4Q2dKTnJYZVl6UzZadkxHYUVYNmUzYWxoUEo1S2pPRUkxWmFsMHhadUYyams3ME5TOTlVSHhuTmgtRVA4NGo1NlJIOF9ZOUU2dGc?oc=5",
@@ -2453,50 +2498,5 @@
     "url": "https://www.france24.com/en/tv-shows/talking-europe/20260703-eu-tech-sovereignty-uncoupling-from-the-us-and-china",
     "timestamp": "2026-07-03T16:13:15+00:00",
     "source": "afp"
-  },
-  "3dcf9fcc15cc00220816c25f6380763f": {
-    "url": "https://www.france24.com/en/sport/20260703-world-cup-fans-embrace-france-les-bleus-deschamps-takes-brake-off-mbappe-dembele-olise",
-    "timestamp": "2026-07-03T16:09:02+00:00",
-    "source": "afp"
-  },
-  "657c0b9b453c3f8cbb33e20315fa911d": {
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lZVg2ZjhZdVJ3bWowY09yRUdoQTZxSXZWWGlBeWM4c3VLWkRIS0hkTi05cGsycm9CdlZGQlVZYk1VQVdQb0JLTmZXYlpoSzJiQUZTN0FiY3Y1a1BBODBCdmRvSWZfUEpMaFk0bkYwZFdWX21IVGdDZ1psNEc?oc=5",
-    "timestamp": "2026-07-03T16:08:35+00:00",
-    "source": "fars"
-  },
-  "0b44f7d7a5ab7c6395dbd58529061bf1": {
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lZVg2ZjhZdVJ3bWowY09yRUdoQTZxSXZWWGlBeWM4c3VLWkRIS0hkTi05cGsycm9CdlZGQlVZYk1VQVdQb0JLTmZXYlpoSzJiQUZTN0FiY3Y1a1BBODBCdmRvSWZfUEpMaFk0bkYwZFdWX21IVGdDZ1psNEc?oc=5",
-    "timestamp": "2026-07-03T16:08:35+00:00",
-    "source": "fars"
-  },
-  "a98cb8754ca027ccfe2b0da4b7c28b0c": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UeW1Vcm9qT2JxcnI1LURLTVc2SVY4cXRXQjZrbnE1MnoycDlWbWdQTGVEeGZLbFFGemhkNVJDcWNLZ2ZhTUxkWEJDRmR2bmtnWVE?oc=5",
-    "timestamp": "2026-07-03T16:05:27+00:00",
-    "source": "iranintl"
-  },
-  "a48f2e665df3ee611897cdcbb060852d": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQVldCM0tRLXRVbldSYjhuWFF0MTdBWnd5ckMwSml3VXJxSGRFWmlVb05FLWZEN1VsUUJ3NmRPYjNyMC1DOHNIbU1HOEl2MzNDWGc?oc=5",
-    "timestamp": "2026-07-03T15:57:12+00:00",
-    "source": "iranintl"
-  },
-  "ffd1c7a8ac705de7ce3dbbb4174dedc7": {
-    "url": "https://www.nytimes.com/2026/07/03/world/middleeast/iran-funeral-supreme-leader.html",
-    "timestamp": "2026-07-03T15:39:00+00:00",
-    "source": "nyt"
-  },
-  "99fd01f15afad3311489db6425b8efa0": {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVVpfS2o3VWFYUDVhMF9wRERQYzVlX1kycGw5TmxMTnplTGZCdmZkU0tzcjhRMmljT2FYT1NqWXk2OTJGeVlFMnFPVl90Y3Z0c1U5Q1VQZVF1T2V6OUtZWWpYYUZfM0pTLUtOcmFfN1hqSndMZGlnb1lkN29Bd0haOWtXM2ltclNTU3N1d0JBTHp6Z3JCanprbV9GSXpBSTBLazJwQXdDY2NjYjJWRm51Zg?oc=5",
-    "timestamp": "2026-07-03T15:36:35+00:00",
-    "source": "reuters"
-  },
-  "73193156b7e52b959f18a3617661840d": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvRV9GZDhuUDRGVFhtWTBoX3g5cTl4U05tRk8tYzZ1UVozc3hIWVV6cFhnOWhBUmZrd3l0d25qcXhKV0VPVG44c2xYWlhuSEVoUUE?oc=5",
-    "timestamp": "2026-07-03T15:27:23+00:00",
-    "source": "iranintl"
-  },
-  "4e6cb8e8ed2c26a6a3f3960767fb23c5": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yYXJYMVppQW1pOWZFUWlpM3g4YTExdXFIZy01dUpLQm1DdGxycmF3Q0FoRDBFV1pid25BRDdXWHpGZUpKUU1QbGlsMjZZb05zM2c?oc=5",
-    "timestamp": "2026-07-03T15:23:59+00:00",
-    "source": "iranintl"
   }
 }
