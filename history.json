@@ -1,8 +1,38 @@
 {
+  "410cb9399960d74f839c1d32edcd815f": {
+    "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
+    "timestamp": "2026-07-09T05:16:03+00:00",
+    "source": "nyt"
+  },
+  "2289c9e1511a4f01a0fcfdd344883b5b": {
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DS2g3V1pxSmR0cjdRT2lBYzRDeldhUXhPS2wxUFYxcEFyVGVaN2J1ZlhzQjNDeFdGMTVLM1dCVXBiYm5fWVdlbTFsZlk?oc=5",
+    "timestamp": "2026-07-09T04:39:44+00:00",
+    "source": "iranintl"
+  },
+  "4df114a7ed9a5f76202f6dba830b0acb": {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXRXN1ZOY3dWb0Y3bFliM0t6QVRjQkxGNmNRRkVPM29YazVXaXVpaFo3N2h2MHdBLUlTMWNROTJuTUJQNFhaR3BwTzV5b0NDYk1WOG5NMXRHLWhuNHF1NXJqOFM0Vzg2TWo2bXRCUS11WmFEeU45UURDV0dqX0szLWxfbkptQXFxQVJXM0hjY2lkS1VJdkljZWFR?oc=5",
+    "timestamp": "2026-07-09T03:01:00+00:00",
+    "source": "ap"
+  },
+  "39754b2b8efa747e94ca54fba8a51648": {
+    "url": "https://www.france24.com/en/middle-east/20260709-middle-east-live-kuwait-and-bahrain-targeted-by-strikes-after-broken-ceasefire",
+    "timestamp": "2026-07-09T02:06:43+00:00",
+    "source": "afp"
+  },
+  "e890e362cd305cc9134f1bccf9540f19": {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdklGcG9tdzh1UWdoWldFbWpRaXJELXpXclBKYzlJbzBpaXNJMWJBTnRYUFh1WndvTmNVN2x3ZHBlQm94ZVI0M24zdnVHSVZtR0dNVDMxdmM0SmJUTGZLUWZTWGdwcWlQM0JfcHlBVVB6V2lZOEo1bzFHMUZ1ZkM4b2ZCdnFWOGhOZmVkSXVIODdhUWxDYU9mNlMxdnRoRkZBUV9iNEVMakdpZw?oc=5",
+    "timestamp": "2026-07-09T01:04:00+00:00",
+    "source": "reuters"
+  },
   "d3476f21cf9c22a9c82d2a433672974e": {
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXRXN1ZOY3dWb0Y3bFliM0t6QVRjQkxGNmNRRkVPM29YazVXaXVpaFo3N2h2MHdBLUlTMWNROTJuTUJQNFhaR3BwTzV5b0NDYk1WOG5NMXRHLWhuNHF1NXJqOFM0Vzg2TWo2bXRCUS11WmFEeU45UURDV0dqX0szLWxfbkptQXFxQVJXM0hjY2lkS1VJdkljZWFR?oc=5",
     "timestamp": "2026-07-09T00:56:00+00:00",
     "source": "ap"
+  },
+  "7803826a5b122b535fd016d6c98692cd": {
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweFpEQ2xFLU1zMGVUanltUlJhdE53M0FraGxLMHdWSk8yTWVhbUo2X0dDMFdFVy1IeXU4d3NJclNUbE1WNFhJVnFMdC1uRVZYNWRpTjhR?oc=5",
+    "timestamp": "2026-07-09T00:46:09+00:00",
+    "source": "radiofarda"
   },
   "58c8ee826c33d61f1d989c136246ed04": {
     "url": "https://www.france24.com/en/middle-east/20260709-us-launches-new-strikes-on-iran-trump-says-they-could-get-much-worse",
@@ -29,10 +59,30 @@
     "timestamp": "2026-07-08T22:23:53+00:00",
     "source": "reuters"
   },
+  "1acdb6c06c4a74d99a788e666e5532da": {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS0pHVEdRNUNZcTAweU03YkRCNXI5R0VMb1JIQlRkLWp4bGZCTC1XQXlFMHhYQ3Yta25BaEt4SXYzb3lhOGRuc1VGN2dSZTJ2SDVrT2VUUFNfX0xGeENncWYwYjU5RTRUVzJxYlRFVmhRcUVJUjlFaWJHVlJ6ellLQXBfVEpVNE1NN215NzNJT0dYalNpUlJ5YU80eFh0LW1KMjNnNGd4Yk1RcmF1Z1E?oc=5",
+    "timestamp": "2026-07-08T21:52:58+00:00",
+    "source": "fars"
+  },
+  "6e0350a709c130aa60318326b49111d1": {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUM2ZFdKamlfMWU5T1hKektYbWUwdFVoX3BRLXZLTGthRFluNnROWFpNYVh0VGVKRW1wVXF4ZFRIaHl4VFhwbElOMjZ1cWlnWlFKTXNHQWl6blBubkFKbnhwTW1mZGl1Snl5V1pkaVhBeU5zY3VpV0Zna3JmTGxLVHphX0dlM3JnRHMyQUhNalNKRmhpY1R3Qmhwa3dEVXZfRmRiUw?oc=5",
+    "timestamp": "2026-07-08T21:52:51+00:00",
+    "source": "fars"
+  },
+  "83822b39b998c8e32867436857434cd8": {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0NqVzlKZzNJNW9zNXBKRDZBNENiYUZqdHktVVZ4YUZTeWV2N21Ka1RsMjZTc19NUWpFSjBzbDJwb25WaC1HYUJzVU5RU25DZGVVZTc3V1ljdi1TdWdHcFJiTGdYa3lacHEydGdDZ2FEek4zV0o4eVEzZUNlV0RETTNZM2Z6UFVkZXVqMVMyYnhZLW5SSnA3d05BX3NfMGNfMGc5ckQ1eTBSSDVqWjY1d2Zn?oc=5",
+    "timestamp": "2026-07-08T21:52:41+00:00",
+    "source": "fars"
+  },
   "925aaf89e382753b173a02d4870a09bf": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13SDRoMkZ0cGNlb1FhdGNaeTZldTJrM19UZEM0dTQ4VXRfTVctVXNUZFVSZlpDdncyeEtPcHk0dmlVT1ZxRXlOODFtZXFaaVdwUnc?oc=5",
     "timestamp": "2026-07-08T21:36:12+00:00",
     "source": "iranintl"
+  },
+  "5ec74be08f1cf97749910d94389e4a53": {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDdlUFI0ZlhmRXYzUkRWWUlVV005dk9vdjJQQ3AxVUtfN0tyTXJzRGxHZ3JqQTJ1SXBqYk5IdV9NSjN1dWptYWtpRVZCdWN1TkltSFpmX3o4ZzQ0RFpRTmxyb2tNR0hmTllzNThLbGhQazBzZzhLQ2x2REpndFZjX2pDRE5RRkRsQVlNcXRoOHd1eDhNaDIxeUN2bHVEdjRTaU9EZF9KcE9maU5TSGVfRWNYWEdnei11dUE?oc=5",
+    "timestamp": "2026-07-08T21:36:00+00:00",
+    "source": "reuters"
   },
   "4c2aaa42245440f052f1b64243f92148": {
     "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
@@ -334,6 +384,11 @@
     "timestamp": "2026-07-08T11:15:07+00:00",
     "source": "afp"
   },
+  "4d7d8d0308217149a3df87806b8a25f1": {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFYybkdpUEY4OUpKZ25Ha0pDNVBXbGVYU0dKLWczQjh1ZjNEcjdsTkVfX3FzLVJNRGdwaVotellzdGMwbTJwZmE4UGVWTWV2cXNaY0NsNThzTTlPaHNxc1M3clhwRF9GaGtOYVRoeXNyN3NCTE9uX25XMTNiOFZWanlheWpPb0xDRTVrWVpRRERMVHZxMDVtN2R1Zkozc1kxd3ZSMWlfakdRcEVOemNVbE1jcw?oc=5",
+    "timestamp": "2026-07-08T11:05:51+00:00",
+    "source": "fars"
+  },
   "ad54a943b919c015a206be2c9033de77": {
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UbElUYlYwWklZOVhtVkR0NEl0VjA4WTZjN2o5MnNhY3ZvaksyX01OLXVjbjJfWVh1dFZucGVXMXZ1bGtxR1d0VUc5Mk9UOE54TWh0YWQyNjlzcVpLbHZRNEpHUQ?oc=5",
     "timestamp": "2026-07-08T11:00:34+00:00",
@@ -623,11 +678,6 @@
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2tfRFIyMHM3Y3R0UHRSQ0xwNEdNX2pjVUV5QkFGZk4yLUpVeU9RN0RHLXpUYU5UMzVIZkNwOWV4Q2dKTnJYZVl6UzZadkxHYUVYNmUzYWxoUEo1S2pPRUkxWmFsMHhadUYyams3ME5TOTlVSHhuTmgtRVA4NGo1NlJIOF9ZOUU2dGc?oc=5",
     "timestamp": "2026-07-07T22:13:00+00:00",
     "source": "ap"
-  },
-  "7803826a5b122b535fd016d6c98692cd": {
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jbTBXQ1NEUXB0NjVSVXpOWWR5X2JieXRNZGpxeVYwLXQ2RzJvZDZhdk1ETTV6eGFndHJJNFpScjE5QzE5eFhEMUdvSWlGUW92NUx0N01B?oc=5",
-    "timestamp": "2026-07-07T22:00:40+00:00",
-    "source": "radiofarda"
   },
   "c1ef399e8732b3f6a64f12e12b94847a": {
     "url": "https://www.france24.com/en/middle-east/20260707-middle-east-live-us-launches-strikes-on-iran-after-ships-attacked-in-strait-of-hormuz",
@@ -2448,55 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMHZfMWxQUDNxQU5OUHMxeXVpbTd1WWpPR3BnTG56NWZfb21YclhYdnBMcEN0c2gxczNLZUpJNFcxaDlPZURNa3ozdktHOGw3OTZ3d0F6UjluZHVjMUZHc0I3RXppdXVweHNTbGVROFZ1bFRVT1BueDg4X0ZOd1R4aUlwN1pnZy04QXNKc2d2bzlEaWVkNHZEMm9DWjE3VGxlaGVrSVhn?oc=5",
     "timestamp": "2026-07-04T07:38:16+00:00",
     "source": "fars"
-  },
-  "670fa0e120ec4891f1d6c18f44ed8d2a": {
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMHZfMWxQUDNxQU5OUHMxeXVpbTd1WWpPR3BnTG56NWZfb21YclhYdnBMcEN0c2gxczNLZUpJNFcxaDlPZURNa3ozdktHOGw3OTZ3d0F6UjluZHVjMUZHc0I3RXppdXVweHNTbGVROFZ1bFRVT1BueDg4X0ZOd1R4aUlwN1pnZy04QXNKc2d2bzlEaWVkNHZEMm9DWjE3VGxlaGVrSVhn?oc=5",
-    "timestamp": "2026-07-04T07:38:16+00:00",
-    "source": "fars"
-  },
-  "ca430d9d8bba14afaf9279bc325d3c7d": {
-    "url": "https://www.france24.com/en/americas/20260704-250-years-of-us-independence-how-france-helped-turn-the-tide-of-the-revolutionary-war",
-    "timestamp": "2026-07-04T07:26:23+00:00",
-    "source": "afp"
-  },
-  "aff8aa29dad89972ffe91ad437b5edb9": {
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDF2ZkFFUHEyZnpvN3FqZ2QxbV83T1h2RUxZc3p2Um5YeG1GMlBKOXlhUEZ6VzNtc1BqekVGVzVESFhNRk1zcVRmdDV1UDRRVDMtT2lOWEp6T2czM1VpUEVwSUFCdFhwLWtsMmlIT3hxZzNLZGtrazlrRXVGVVQtY0tiT1hsc3dvZUVod1k2NVdmY2c?oc=5",
-    "timestamp": "2026-07-04T07:18:54+00:00",
-    "source": "reuters"
-  },
-  "d6ff23c07ace2fafc1313c8c3d70a7cd": {
-    "url": "https://www.france24.com/en/americas/20260704-us-royal-wedding-taylor-swift-and-travis-kelce-marry-at-madison-square-garden",
-    "timestamp": "2026-07-04T07:02:57+00:00",
-    "source": "afp"
-  },
-  "422abe99fe9d244bbc187c03d4290ca0": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdG5OWkQ3QVl5emhaZDcyRE9PNU5mSF93SVk5RmU0ME4tNjYyTEVOT3RQaGR4Y3pqWnh1NVlQTm1TTFFnel95RG9UNjlTbjU0aWdkWHZjV05EcnNVaTVLVDdHRzF6TGxGQkYxTVk5R0htcll0T3FJT3pKSFVxcGthc0VTdlg3TkdWWDdkZ0JONGVCbk9Yd3d2RzBPcnRoVEJCc3BNRUFJSXpzSDJLeVZlZnl1TUdsOVI2WkY4ZA?oc=5",
-    "timestamp": "2026-07-04T06:53:00+00:00",
-    "source": "reuters"
-  },
-  "d8b16fbb1e13121e843b5e73c3ea4962": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdG5OWkQ3QVl5emhaZDcyRE9PNU5mSF93SVk5RmU0ME4tNjYyTEVOT3RQaGR4Y3pqWnh1NVlQTm1TTFFnel95RG9UNjlTbjU0aWdkWHZjV05EcnNVaTVLVDdHRzF6TGxGQkYxTVk5R0htcll0T3FJT3pKSFVxcGthc0VTdlg3TkdWWDdkZ0JONGVCbk9Yd3d2RzBPcnRoVEJCc3BNRUFJSXpzSDJLeVZlZnl1TUdsOVI2WkY4ZA?oc=5",
-    "timestamp": "2026-07-04T06:53:00+00:00",
-    "source": "reuters"
-  },
-  "944061c32266cc8cb83841596640975b": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdG5OWkQ3QVl5emhaZDcyRE9PNU5mSF93SVk5RmU0ME4tNjYyTEVOT3RQaGR4Y3pqWnh1NVlQTm1TTFFnel95RG9UNjlTbjU0aWdkWHZjV05EcnNVaTVLVDdHRzF6TGxGQkYxTVk5R0htcll0T3FJT3pKSFVxcGthc0VTdlg3TkdWWDdkZ0JONGVCbk9Yd3d2RzBPcnRoVEJCc3BNRUFJSXpzSDJLeVZlZnl1TUdsOVI2WkY4ZA?oc=5",
-    "timestamp": "2026-07-04T06:53:00+00:00",
-    "source": "reuters"
-  },
-  "1634a0e54b9394e421e1e3f353ca4182": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VeWZFRzlkR2VIMGFTMm1WbkFhcFc4TGlUNFRWek1FUmdaTWJyMDlMYmF1bEpSWEczUkhZZTRsS1JUcDZ4MjIxSHJ3Q1dsOWpxaGlXMlZSOVV4R1UzUkE?oc=5",
-    "timestamp": "2026-07-04T06:33:05+00:00",
-    "source": "iranintl"
-  },
-  "d5ecc2df6e28a88ba4fdfd440a029e07": {
-    "url": "https://www.france24.com/en/middle-east/20260704-middle-east-live-iran-begins-days-long-funeral-for-late-supreme-leader-ayatollah-ali-khamenei",
-    "timestamp": "2026-07-04T05:14:07+00:00",
-    "source": "afp"
-  },
-  "9486d0133e8189a11356c5bcdaaa6d63": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Edkk0WnVhclZQeDVYemRYYnBWVWFISHV6aFgyclA0elpBWXhPR0VBMDk4ZE91STNQc0dXVGl6dDl3bFBSbFhWOVJtMzVoc1lzdFE?oc=5",
-    "timestamp": "2026-07-04T04:23:54+00:00",
-    "source": "iranintl"
   }
 }
