@@ -9,6 +9,11 @@
     "timestamp": "2026-07-12T18:19:10+00:00",
     "source": "nyt"
   },
+  "f67f8a369ff69fa2e9ae7c76b91fc1ca": {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVlfeEhKTEQwUVJDNzQ3eWVJM2JQd2JNMUZSV2pMVFRQUnp3YUNlN1RRQ2VmWVVITTZiUzJwZEJGbWVNUzR5Y0FPaHRZZU5YM0FpQ3Z0UWo1UGI5Tk9BNlNfNUhMMmRGckxhSHBDTzk5RWtsUTM5bGxfTjFkWEp3dF9Mb2RiT1kyNUZINksyTk9KQWt0Tk1qdjNjcjJqOURpUUxKQllTR2M3TC1wRzRLY3Z3N2o?oc=5",
+    "timestamp": "2026-07-12T17:50:55+00:00",
+    "source": "reuters"
+  },
   "8380051ce2e5498dc029bc991d052093": {
     "url": "https://www.france24.com/en/tv-shows/spotlight/20260712-are-tanks-aging-like-the-cavalry-in-ww1",
     "timestamp": "2026-07-12T17:33:28+00:00",
@@ -64,6 +69,11 @@
     "timestamp": "2026-07-12T15:12:33+00:00",
     "source": "reuters"
   },
+  "c96578663a7088f44c0b7be84aa226a6": {
+    "url": "https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html",
+    "timestamp": "2026-07-12T14:51:40+00:00",
+    "source": "nyt"
+  },
   "57845bb474fe8df84275618ffd9a1e32": {
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTEJUQkhzN1ZwbUdlc2ZtLUpkNmxObUoydGFsUTJZY2lrX2k4WUh4WnYzN2l4V1h2V0hiNGY5RzgxaW1Iczlpb00tcnhCXy1lVDhQdkJzMnlLMFVCRFE4M2lNRy1rdmwycXliQTRjQWJSa1hCUHFEbWhMWGItbjBrektMaG9rQXV0c1l2dWxZUDd4b2Z5bTVHVElOMW1qSVVJaVJHd2RPNzlZMExHNnRhUjJ3Q3ByelhT?oc=5",
     "timestamp": "2026-07-12T14:51:27+00:00",
@@ -84,10 +94,20 @@
     "timestamp": "2026-07-12T14:06:00+00:00",
     "source": "ap"
   },
+  "d202a2573b1f4fdc468d69c54832e138": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3V2xyeDdJM1ZQUmJjeUxxdHJPamxsd3p4aFp3VE5IRGRvbUtENE9Ha1NHN0FiN0ZuUDF0bUYtTjNPR3hMV012WG5HamZXT1RfeFE?oc=5",
+    "timestamp": "2026-07-12T14:03:39+00:00",
+    "source": "iranintl"
+  },
   "6938692ce82b6f35c4aed1407bb80051": {
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmw1bUVFVGYxWlZDbmR2eVB0QkZreWY0SW8wUW9rYkdSXzF6QVJWa1QyeDhOLVRjWVNiSkhSVURjdFg4RHA5eW9peC14SzZ3cHNqLVNTS0VsbWdFTlNVREtzTEFnaHpfSFEzWEppbG9taElxMUlHMllGenJiSGJzemQyRFBGS0labzdCX1dYQlEzcDh0ODJ2enpScw?oc=5",
     "timestamp": "2026-07-12T12:46:34+00:00",
     "source": "reuters"
+  },
+  "6750c6d33c9f87d4ab7060b5c21b02c2": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zOUtjN1ZRTzUzeFI0bDd4VFBxdENfc0FqQnJCRV9xcUVsSUt1blRlc3lwX2RyUVc5M2xsRl9JWHhqbk9hcnpadGhGTGU0M3ZNNGc?oc=5",
+    "timestamp": "2026-07-12T11:54:03+00:00",
+    "source": "iranintl"
   },
   "1335cf89fe5f4c07bd74635b1187461f": {
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
@@ -2478,25 +2498,5 @@
     "url": "https://www.france24.com/en/africa-s-world-cup-dream-fades",
     "timestamp": "2026-07-07T20:19:44+00:00",
     "source": "afp"
-  },
-  "d1d2e4c58b8f05dca6e4cf07554239f7": {
-    "url": "https://www.france24.com/en/it-seems-like-the-politics-are-starting-to-drown-out-some-of-the-excellent-football",
-    "timestamp": "2026-07-07T20:09:09+00:00",
-    "source": "afp"
-  },
-  "bc105271fbe0fb8d741379d97d497740": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yRzlFVHBJdi1lMXZhVV94ckZzaUZFTHg0NHE3Qkl0bEpXTU1ZcG95TTIzXzVpNEpmRmlvYXZGMm9HQjF5SnRQMkFmZE4tSWdwaGc?oc=5",
-    "timestamp": "2026-07-07T19:41:08+00:00",
-    "source": "iranintl"
-  },
-  "c59105754f4c0efcb46a8d103650bdc3": {
-    "url": "https://www.france24.com/en/woman-suspected-of-monaco-bombing-is-found-dead-in-ukraine-authorities-say",
-    "timestamp": "2026-07-07T19:27:39+00:00",
-    "source": "afp"
-  },
-  "3a56e17e1cba5ff06c2ff610758311fa": {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRF9kZUxkQm9QMzgwTWI4c0hrMXRiWkdFWGNOZk9KSkxfcFplSUxKLWlwZGFRWTVCYnRSZzdBRU82eXJMRHduenF5RTF4bVBVSVNVMWcwNkdjUElzd05RcjVya2hsRkplYWhRcnR4ajBhVWphWW5rdS1UZlNBSjFPNUVzcXlxSHhrUWdkZC1pcHVjQUtLV0pzUFd5UXhoY01DaE9zYUQ0V3FqemM1UW8wTm9LUlpreFJfdnBj?oc=5",
-    "timestamp": "2026-07-07T19:27:14+00:00",
-    "source": "reuters"
   }
 }
