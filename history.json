@@ -4,6 +4,11 @@
     "timestamp": "2026-07-12T10:53:34+00:00",
     "source": "afp"
   },
+  "65ff842b431ec4d6a7a96d34f30966b9": {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRmw3UE9KZ1NMaGl1clkyazJINnRnbXpHY2tCc3paMENsVm1mWWlkRDc5RDlDdGZkajJIUkI5TVFDa3RaRW9lblZKTS1kdjJaaDBlRzllUW40RVFZUmV4bzZqU0hhYnVnem5oMVRJTUdiWXFpYnFqOTREd1lLZ0VqYTg0SWRPUEYxRTdySy1OQ3V0Znh5Ri1mNG9rd2ltNE1MSGcxeTFQZ1Brdw?oc=5",
+    "timestamp": "2026-07-12T10:33:25+00:00",
+    "source": "fars"
+  },
   "3505ef56a6a7a80757934185dc655bea": {
     "url": "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html",
     "timestamp": "2026-07-12T09:25:20+00:00",
@@ -33,6 +38,11 @@
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS04wOFRUV1ZrMHBBRmNCSTZBaTUweGFzTVNfbWlRNzJuMmZydVQ5UllHSmh4UGpiSkZCSjlWSG1rR19Fa09wMHdkZUZlT05oY3kwNXN1dkhSbFlDdUZPbVRuM3dueDMxRG1iU0FRb3FjVTNOSTY2SExGVS1MSHo0S09sVXBmbHRWblJMNVY0cDNCT0dsQXJtOUhuMTRGaVp0bzA3UzVhRXhNdW5LMTVLRV9OR1FPcDF4QVdYZ2xzWWlzMU1jVjE5RmhB?oc=5",
     "timestamp": "2026-07-12T08:22:08+00:00",
     "source": "fars"
+  },
+  "0c1d616ce210d678396dcb202287a1f1": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jQnhYeE5GMG9XOVZ1QmZPVkhOa2Mta2Y0VzA3SlRpSU5RNkZWY1F1am9mUUJrMFRpUFo4UC1vOFFfTEVJX3Y2UWZfZndFd1pva2c?oc=5",
+    "timestamp": "2026-07-12T08:15:24+00:00",
+    "source": "iranintl"
   },
   "5a9a33a8e4d89a079cfa3853958fefb5": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nSm95M1E4cU4xLVlDY2xWUldXN2RfUjZ4RWRYWVo2N3UyVkg5RmNDV0Z0LVVBX282TjFLWEUwVEZWN2FUWkh3MkhJcVQ0U01MLXFnN015WlhIam5JbXc?oc=5",
@@ -93,6 +103,16 @@
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nSm95M1E4cU4xLVlDY2xWUldXN2RfUjZ4RWRYWVo2N3UyVkg5RmNDV0Z0LVVBX282TjFLWEUwVEZWN2FUWkh3MkhJcVQ0U01MLXFnN015WlhIam5JbXc?oc=5",
     "timestamp": "2026-07-12T04:56:24+00:00",
     "source": "iranintl"
+  },
+  "7173da00666102253a036d5d498fbbea": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAybDF3azVSZHB5b3pLeE1CWkRBUUZidURQTW9JOUN4amxLNVg1czhOWTd0WTdNTjMyUjJlSG55cVEzZnM2djlXT3RvV2lwb0lWenc?oc=5",
+    "timestamp": "2026-07-12T04:52:40+00:00",
+    "source": "iranintl"
+  },
+  "d76e8f7a56295fe8dc3ca49f23402a9d": {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1VUX0t6UEtnSzZZLVkwYUctMk1IbVZabTZtcGgyOW91RVdLZy1KQmI2SWRydDloNHJxNkJFYVdFTnpmMDV2cGNYamVXZVJISmVkem5XaC0yc09STlFHU2RJX3dXM3owZzJ3U0RLOFRjSXJOR2VqQWJtMG5aZDdmOUgxOHJSZldmWTRvV1MxMWFNZ3hGYlplWWtTUk5Ra2ZNR001dDZSbmY3Nm9YY2c?oc=5",
+    "timestamp": "2026-07-12T04:27:01+00:00",
+    "source": "reuters"
   },
   "00cf5eafccc497af4249ff5b5ca670a3": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuR2FmNm1GT1NMdEc2NTh4emF4UFBtSDFlWkF1aUxXZTZRR2NDcFlFVmF0SjVVc3NfMG5KU2M1TEJFdklLTXh3V2g0RGhLX1ZIWHc?oc=5",
@@ -2478,25 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMnhQVmx4SWhVRVo3NkRnN1hTcU9YQzZLb1ZQRS12NU1vZTduTVN4UDNUakVTa2ktSTJza2k5QzRUeHVaSHhoZ2NvWGJsbW9XazdzclFHWWg5UG51SFZya1dIZWNXRGNjeWxqbkdQUkxlcUZGX3FudGlSU1hVVnZSaGNLdGttWVRDVkpVcXphY0x3eHFramRMenJHd2xMV2toUTNoQ3NuaGg5ZGNTU0ttYzB3eUR1VWFBcEo2anE1MA?oc=5",
     "timestamp": "2026-07-07T13:11:06+00:00",
     "source": "fars"
-  },
-  "0dc3bf3f724962d49652bce4dfe0d2ea": {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMnhQVmx4SWhVRVo3NkRnN1hTcU9YQzZLb1ZQRS12NU1vZTduTVN4UDNUakVTa2ktSTJza2k5QzRUeHVaSHhoZ2NvWGJsbW9XazdzclFHWWg5UG51SFZya1dIZWNXRGNjeWxqbkdQUkxlcUZGX3FudGlSU1hVVnZSaGNLdGttWVRDVkpVcXphY0x3eHFramRMenJHd2xMV2toUTNoQ3NuaGg5ZGNTU0ttYzB3eUR1VWFBcEo2anE1MA?oc=5",
-    "timestamp": "2026-07-07T13:11:06+00:00",
-    "source": "fars"
-  },
-  "f37102477420d4a8a446e01d6cce0dd0": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02dV9UQ0ljZ0w0bl9NQ05LNFh5TUtVMjltaXdMUnRycFl5REFBRnItM3FjZHQwM0FpeGNjb3FkMDNvbE9aQ0NsajBpU1o3MmdaOEE?oc=5",
-    "timestamp": "2026-07-07T12:35:26+00:00",
-    "source": "iranintl"
-  },
-  "8cbdc0cf9f4654e2ce102ac7763abb5c": {
-    "url": "https://www.france24.com/en/europe/20260707-french-court-clears-way-for-far-right-leader-le-pen-to-run-in-2027-with-ankle-bracelet",
-    "timestamp": "2026-07-07T12:24:00+00:00",
-    "source": "afp"
-  },
-  "bc5c27bf0dbe19dd539b3b74254a055f": {
-    "url": "https://www.france24.com/en/who-is-jordan-bardella-the-successor-to-french-far-right-s-marine-le-pen",
-    "timestamp": "2026-07-07T12:23:35+00:00",
-    "source": "afp"
   }
 }
