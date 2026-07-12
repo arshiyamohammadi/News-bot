@@ -1,8 +1,38 @@
 {
+  "984dc4513fd5ce07815d88828dff0f72": {
+    "url": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
+    "timestamp": "2026-07-12T18:19:10+00:00",
+    "source": "nyt"
+  },
+  "7eded9d5c88610eeafc054bdaeb959ad": {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
+    "timestamp": "2026-07-12T17:22:00+00:00",
+    "source": "ap"
+  },
+  "5fdbf593c331cc802caf6fb7169992c3": {
+    "url": "https://www.nytimes.com/2026/07/12/world/middleeast/lindsey-graham-iran-israel-gaza-war.html",
+    "timestamp": "2026-07-12T17:11:00+00:00",
+    "source": "nyt"
+  },
+  "9599de285597a58b8f743dd03ccc9b3f": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nSm95M1E4cU4xLVlDY2xWUldXN2RfUjZ4RWRYWVo2N3UyVkg5RmNDV0Z0LVVBX282TjFLWEUwVEZWN2FUWkh3MkhJcVQ0U01MLXFnN015WlhIam5JbXc?oc=5",
+    "timestamp": "2026-07-12T16:46:06+00:00",
+    "source": "iranintl"
+  },
+  "e9705a2e4bb8ae2d11dd8a5b1a2b1edd": {
+    "url": "https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html",
+    "timestamp": "2026-07-12T16:43:37+00:00",
+    "source": "nyt"
+  },
   "769c35340257f16edad7f639beb5a7dc": {
     "url": "https://www.france24.com/en/video/20260712-lindsey-graham-he-was-the-one-who-justified-israel-s-actions",
     "timestamp": "2026-07-12T16:33:41+00:00",
     "source": "afp"
+  },
+  "d8ee2898d4d9ff36d84341c306a753a9": {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcFNWV2l4NHpONDVaQ0VPNVczX3ZhaHJHS08ycWJvWDhabVJlZDZrQU5rSDZ0bGRNZXhudFVxSDkzQnNoSTZqWkRXd0RrSWNEVGpHMzBVS2J5ZlZXZ0RPeG93ZWF2QjJWY05oV2FlVlFTODJ3dmJOSnVVOFlJSHFLUzdfYXVhY0NDOEdOVXctakZucmJZLUoxVFhuSk9qRGxPX2lMT3lmenA5LXdmTUpaSVhGcTg?oc=5",
+    "timestamp": "2026-07-12T16:29:41+00:00",
+    "source": "reuters"
   },
   "39476da07ebb359305f347b2f540eaa7": {
     "url": "https://www.france24.com/en/france/20260712-france-temporarily-shuts-down-three-nuclear-reactors-over-heatwave",
@@ -99,6 +129,11 @@
     "timestamp": "2026-07-12T09:06:39+00:00",
     "source": "fars"
   },
+  "0632367c25486b3e784a6882e35e0e59": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NX1l0cU5VdlAyY0RUb25TV09FamdYbkd3Z2o1ODM4UjZfdW56QjZaVWZtRXYxUlc0WWZCMW1MeFFzaXRCOGZEczhXc2Z6Q21NMWc?oc=5",
+    "timestamp": "2026-07-12T08:25:49+00:00",
+    "source": "iranintl"
+  },
   "864c2a059a80a29ee73dd403479050ab": {
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS04wOFRUV1ZrMHBBRmNCSTZBaTUweGFzTVNfbWlRNzJuMmZydVQ5UllHSmh4UGpiSkZCSjlWSG1rR19Fa09wMHdkZUZlT05oY3kwNXN1dkhSbFlDdUZPbVRuM3dueDMxRG1iU0FRb3FjVTNOSTY2SExGVS1MSHo0S09sVXBmbHRWblJMNVY0cDNCT0dsQXJtOUhuMTRGaVp0bzA3UzVhRXhNdW5LMTVLRV9OR1FPcDF4QVdYZ2xzWWlzMU1jVjE5RmhB?oc=5",
     "timestamp": "2026-07-12T08:22:08+00:00",
@@ -178,6 +213,11 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VZWJXd3RmWjFWRUdMNDdlaHhfblVYLUEyZmk1TG1VMmxBUGhBNU9BSEFVRGtLX0dLalBFMWdESk9EUkFsT1BRblhHeDdmd2JtMWc?oc=5",
     "timestamp": "2026-07-12T05:12:48+00:00",
     "source": "iranintl"
+  },
+  "5621f7f1832058b09aeb040682acd691": {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90bFd5elpYRFU0Vk1QQXF4YWw3Sm9yTFltUkN2ci1MS1JkSS1aTkswVm9WY2JTQ0x0dkVwaURzeFYxd2hPXzhqOG5pMV9xVkRJd0FOdVEwcFJOQmZUaWdxb25iWHd1UjBG?oc=5",
+    "timestamp": "2026-07-12T05:08:11+00:00",
+    "source": "fars"
   },
   "68925558330e2fa4385548ad99090ce5": {
     "url": "https://www.france24.com/en/middle-east/20260712-live-us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz",
@@ -328,6 +368,11 @@
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oZDNnLWZpSnBRcDQ0SWtleXl0YThMckFmLVdDSlBfanZzb2t5V1VWSVM5VGIwQ01XQmtqcmVEOWJ3dnBqcXJ2SlVETlVRUEsxSkZtU3IwLUxYWkUxZ0ozUjVodTNSamFLcEtfdlNR?oc=5",
     "timestamp": "2026-07-11T22:04:59+00:00",
     "source": "fars"
+  },
+  "cb0590e3cef9b3073a5192a796cb4ba2": {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUHRNY1Zzdl9ic1BmVjFWNFZ2bU1WWVZtLTlhZVBsVG1aNGh3U2R5NExJaF9yV2VMN2dFa3Nwa0hBN2dUcWlGclpxck53bjJGbEpxQnpURGtOWjdRTWxMNGd4VUdIYmJ4aWVrempzVXRCZHh0X190ME8yczBmMWhoMkQ1Z09yTEZPUDhWMklpbE52Y25BSEE?oc=5",
+    "timestamp": "2026-07-11T21:33:00+00:00",
+    "source": "ap"
   },
   "2c3ab94e8a51bac0a410ab4521ef226d": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84a2NRVS12RDF4SWk0Zy1QdXYxcXQtQkxieF9yY0tnblhteElXWndEbERidGRBMGExRUJPZkNqZjBhNVN4bjd4OHhNSFhfMU55UWc?oc=5",
@@ -2453,50 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGVNUlZFWkE4dkZoM1dOZkNla1RjY2QxQjJGQnVDcjNWM2hKV2hGakVkWTZmZlFlNlRFVFJ0OFBnblA3a0l0VElhcEJuZkNzQ1ltX3g4azZnSW5EcnJYSnVEN1lielpIdkJxSmI3OEozczQxUzBQRVFwanhYS2ZTQmNJNWZnR29ZaFFNclJ2UXJ5NTh6YlpxWlNlRFBzVXQyb2ZJY1hYN2lDQQ?oc=5",
     "timestamp": "2026-07-07T17:08:00+00:00",
     "source": "ap"
-  },
-  "4072e183cb96ebe1fd17b1a509d80bc0": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBWFZ6ZTlBd0UxbFJ6ZVVSWURPcXJ6MXJJOWF4RXA4Z3VTbWliVkNzbzJ2UjdYS1hETHNoejVTMHpWVXpDYnVDNkpNaEF2dkdJNXc?oc=5",
-    "timestamp": "2026-07-07T16:58:00+00:00",
-    "source": "iranintl"
-  },
-  "b8fbf4ada3acaffdeca5173265c9b8fe": {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV0xDN0RqcHN0STF3UlZrMzNPZHNZWGtZX1FBTlIwdW53Xzg2bFRTQS1XaWdmZG1JdG1ydWRzQVhYZ2ZSYVZJd0ZYX1B0V3hUaW1ORE9uYXJSUmxhTHBTTlZNcHhGajBqNEV1MUlndy1sY29ha3pUb0lKZXNxOVEzeW55OFZwVXBkaWMwZFVUcjhOVTBCOWRhREJTWWRoLXRIMGRmMEhuQWhtQUpkM005aw?oc=5",
-    "timestamp": "2026-07-07T16:21:00+00:00",
-    "source": "ap"
-  },
-  "9ef45c6d4a730d3f761e19c8c12e9479": {
-    "url": "https://www.france24.com/en/syria-s-reconstruction-and-economic-policy-will-rely-on-europe-and-turkey",
-    "timestamp": "2026-07-07T16:06:20+00:00",
-    "source": "afp"
-  },
-  "c9db4d7673cca0903b47800b24fc7d01": {
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZHlSTnI5S3I4RHUyNVNlVy1QMDY4M05oaUtZLTU4OTRxeFh1ZlRnUzlPZmpiZDQ5bUxyQTZGbG5FWDQ5RW1raGUybl8xNUVJTlRfby05LXYzc1BWaTBiVHZqSTduTDVMQTN1emZBS2VKdWhONzlnQVpLVHN1dFE1QnVrZ0p2d21TS0k2Nk56NEdiTFVjN2RzaVRpSDZiLXdtRmlJRVE1Z0FOXzdpdlU2T01zVXk5REJKMVJvZzllbUkzWENXdzFBajBSZ2ZYWUJabFZVNEhCU0JnNE94bXVaQk9QOA?oc=5",
-    "timestamp": "2026-07-07T16:02:43+00:00",
-    "source": "fars"
-  },
-  "4bb0e27ee3774fc23fbc219b28254fe6": {
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZHlSTnI5S3I4RHUyNVNlVy1QMDY4M05oaUtZLTU4OTRxeFh1ZlRnUzlPZmpiZDQ5bUxyQTZGbG5FWDQ5RW1raGUybl8xNUVJTlRfby05LXYzc1BWaTBiVHZqSTduTDVMQTN1emZBS2VKdWhONzlnQVpLVHN1dFE1QnVrZ0p2d21TS0k2Nk56NEdiTFVjN2RzaVRpSDZiLXdtRmlJRVE1Z0FOXzdpdlU2T01zVXk5REJKMVJvZzllbUkzWENXdzFBajBSZ2ZYWUJabFZVNEhCU0JnNE94bXVaQk9QOA?oc=5",
-    "timestamp": "2026-07-07T16:02:43+00:00",
-    "source": "fars"
-  },
-  "65ce1344b2daa65fc144d55ef387b2c0": {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVS1UVlU1dHd3c05RZkhqQjA1VlYwTjFwWUZwLWF2MmFBck1saWlHcWRFMkYxamhWOHFVeVdZa2FBMHVuLTlMRElsU0ExaFV1cmpaSjFLUUV1VGl1c2RhVHl4Vk95bXN4TUdkTTdDMURxQVNnRTZyallmY0J0VXUwYnhsUktWVlV5c1NWcER1VnlaMWc3Nkl2Mlg2QnVKWmExUkxmNmdWMEpwSkhKSU5zcQ?oc=5",
-    "timestamp": "2026-07-07T15:39:37+00:00",
-    "source": "fars"
-  },
-  "a877a989729d48f04af227669f59f65b": {
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS1pzX2VPdHF5MmNJUENJYkNOUkxBX2lvS0tiTUJpUzRNendBUXVNOEVudGR2R3RENXBrSHQxZ2ZocXpPN1A3ZzZ5dDB0elFpSjF4eklhMXBEMDVtd3kxRjZpNEJjc1ZTNmdWWklMaXFEUms2T2hXSUp1NllMYlBWY2NlMTNwOWVhV3NnOG03RTZhemx3ZFg4RW91eVhuUE00X1pxbkVzb3UtcFc1U0Exd1dCRlMwTjk3U2FsZzdfTkVUcGRsMWhfYUx4YkJGamtNVW5JcWFn?oc=5",
-    "timestamp": "2026-07-07T15:37:20+00:00",
-    "source": "fars"
-  },
-  "04f3d6b1b145652aca959b0c6a9ee647": {
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS1pzX2VPdHF5MmNJUENJYkNOUkxBX2lvS0tiTUJpUzRNendBUXVNOEVudGR2R3RENXBrSHQxZ2ZocXpPN1A3ZzZ5dDB0elFpSjF4eklhMXBEMDVtd3kxRjZpNEJjc1ZTNmdWWklMaXFEUms2T2hXSUp1NllMYlBWY2NlMTNwOWVhV3NnOG03RTZhemx3ZFg4RW91eVhuUE00X1pxbkVzb3UtcFc1U0Exd1dCRlMwTjk3U2FsZzdfTkVUcGRsMWhfYUx4YkJGamtNVW5JcWFn?oc=5",
-    "timestamp": "2026-07-07T15:37:20+00:00",
-    "source": "fars"
-  },
-  "1001393d567cc6223a981075ca426f25": {
-    "url": "https://www.france24.com/en/at-nato-summit-trump-berates-european-allies-while-pleasing-turkish-host",
-    "timestamp": "2026-07-07T15:36:56+00:00",
-    "source": "afp"
   }
 }
