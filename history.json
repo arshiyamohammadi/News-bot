@@ -1,8 +1,58 @@
 {
+  "228457d61bf3839bd06de071047d0579": {
+    "url": "https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html",
+    "timestamp": "2026-07-12T07:17:40+00:00",
+    "source": "nyt"
+  },
+  "8b17bbdbff229148f795de917e199b8b": {
+    "url": "https://www.france24.com/en/asia-pacific/20260712-typhoon-slams-into-eastern-china-as-more-than-2-million-people-evacuated",
+    "timestamp": "2026-07-12T06:30:49+00:00",
+    "source": "afp"
+  },
+  "8377f5d3ebf3a6cd2f7d88a60d6b8e51": {
+    "url": "https://www.france24.com/en/middle-east/20260712-live-us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz",
+    "timestamp": "2026-07-12T06:04:21+00:00",
+    "source": "afp"
+  },
+  "dad12aa088a9c46ad0b2218df18113f3": {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkJiOFUwTmF6UnZPYWVSTlJ1QVVZRDMyaEpuN2dZVC1ZME45cFFSTl8yVGlyNnRUMlhQbXRCaW1LRXhnbC1ndXpha1YydjZVekJsc0tyLTF1SENWNHJsVzl1ajhUdGozanNKcFQwZ2ZaOGtOQ0ZxelVyYVFCOXRLdS15dEc0aUM5V25MeFhleGJWTDFGSDJONVgyajBlRTJFY013Q1VWSDdYeUNiTDBj?oc=5",
+    "timestamp": "2026-07-12T05:39:06+00:00",
+    "source": "fars"
+  },
+  "d63b26a808e251febc23ef542f351383": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VZWJXd3RmWjFWRUdMNDdlaHhfblVYLUEyZmk1TG1VMmxBUGhBNU9BSEFVRGtLX0dLalBFMWdESk9EUkFsT1BRblhHeDdmd2JtMWc?oc=5",
+    "timestamp": "2026-07-12T05:12:48+00:00",
+    "source": "iranintl"
+  },
+  "68925558330e2fa4385548ad99090ce5": {
+    "url": "https://www.france24.com/en/middle-east/20260712-live-us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz",
+    "timestamp": "2026-07-12T05:05:35+00:00",
+    "source": "afp"
+  },
+  "9452f0d7b0f2139378f374cf6139c6c7": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nSm95M1E4cU4xLVlDY2xWUldXN2RfUjZ4RWRYWVo2N3UyVkg5RmNDV0Z0LVVBX282TjFLWEUwVEZWN2FUWkh3MkhJcVQ0U01MLXFnN015WlhIam5JbXc?oc=5",
+    "timestamp": "2026-07-12T04:56:24+00:00",
+    "source": "iranintl"
+  },
+  "1bc6746a4cadb22edf0dd07ec30a3798": {
+    "url": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html",
+    "timestamp": "2026-07-12T04:01:11+00:00",
+    "source": "nyt"
+  },
+  "33a465944f92d2fc98fa9ff440b045cc": {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbjdjRVRIVE9NQVA5aXdUdmlkZzN1dmM1NWgtaFY1TUtzNFlwangwRHBPdWY4TjUyVXkzZzJmRFlRWFMtYnNaSGVKZi1tTS16RzR0a0FBVUljR2NIS0pqTjRxelpPdUJrV3lNZnVpcjJuTEN4RVlnOGotUU1RakFIZXlyaXVrNG5FNGhHREZBcDIwd2hZLXlhYWtqQ01sX2otVWMzQTktYzhTVk5vaXlGU2J0bU9jTzJWd1BLV2YwN0xXemM?oc=5",
+    "timestamp": "2026-07-12T03:51:00+00:00",
+    "source": "reuters"
+  },
   "10b4097c0e490bb390dbdc452917dd74": {
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
     "timestamp": "2026-07-12T03:20:00+00:00",
     "source": "ap"
+  },
+  "af31c90e309ca83a8d61b97faa657de1": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16V2tiVjZnc3Z3WFdhRkdkdGVTdzdtZ0N3bmJDNFVjUVpqZ0ozSFZrU1lmNjdiT3o5NHFQRzZrcHJ5aG9kRHI5N21OREt1RldaT0E?oc=5",
+    "timestamp": "2026-07-12T02:41:03+00:00",
+    "source": "iranintl"
   },
   "3d666cdbfb93add3d3fb68e598e3296f": {
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QcU9LRW5iX01PWGl0eVpDckg4dDhESFZPWUVvbXVNT0s3eDJCWTlaN1RXWl9JampQczdudEhtcmF3VmNfV2RydUdXZ0lydGlPYnFiQ1ZjOTF3YzdxeXEtTVpBTTNfc3IyTFI3Z2NLTEtjazhBUWtqRg?oc=5",
@@ -45,6 +95,11 @@
     "source": "reuters"
   },
   "6be06dc1038e7c4fc6936f574e40b419": {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
+    "timestamp": "2026-07-11T23:21:00+00:00",
+    "source": "reuters"
+  },
+  "b545c166db661a6770273d78db78c2a5": {
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
     "timestamp": "2026-07-11T23:21:00+00:00",
     "source": "reuters"
@@ -2443,60 +2498,5 @@
     "url": "https://www.nytimes.com/2026/07/07/world/europe/estonia-won-the-war-on-fentanyl-what-came-next-was-even-worse.html",
     "timestamp": "2026-07-07T09:00:37+00:00",
     "source": "nyt"
-  },
-  "ee52753ceb1f277957ac6ce77746273d": {
-    "url": "https://www.nytimes.com/2026/07/07/world/americas/world-cup-argentina-maradona-trademark.html",
-    "timestamp": "2026-07-07T09:00:14+00:00",
-    "source": "nyt"
-  },
-  "a02c62cdf31dcca5561b19db8ef85fbc": {
-    "url": "https://www.nytimes.com/2026/07/07/world/asia/china-flooding-typhoon-maysak.html",
-    "timestamp": "2026-07-07T07:55:05+00:00",
-    "source": "nyt"
-  },
-  "82ad76a848add0f4f510914275446259": {
-    "url": "https://www.nytimes.com/2026/07/07/world/middleeast/tehran-khamenei-funeral-procession.html",
-    "timestamp": "2026-07-07T07:15:30+00:00",
-    "source": "nyt"
-  },
-  "062af35195fdaa20e10531f88b80b3d9": {
-    "url": "https://www.france24.com/en/americas/20260707-trump-casts-democrats-as-red-menace-with-mccarthyist-rhetoric-ahead-of-us-midterms",
-    "timestamp": "2026-07-07T07:04:36+00:00",
-    "source": "afp"
-  },
-  "367591c0aa73005c14d5d5de89140f0a": {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWl2QXAyS1k1NWszWGxURUJrTDZkRGtzblFuTVZOQy1rcFNWSnM1U25VVzZzRXpUdkZkdzM3Tl96dTg0R0Uzc2NuaFFQNzVObVdJMkJoUzk1WXUwQkV1VjRGYkdQUE9yZ1V6MGQxSHZFa0V3SjRFVC1TdHRWRmx2OHB6QzBkLWs2UzltT0tmblY1LTc2QkVvempPTmN2TXZhaUlVYXd4dFRybFF1RzMtZUVSRndiMWN0?oc=5",
-    "timestamp": "2026-07-07T07:02:19+00:00",
-    "source": "reuters"
-  },
-  "24ddbdf9b4d74143c319069e3b3870ab": {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc0U3ajNWeU9KcGJxQkgxVjZna2NGTVg5MUt5anRKZzNnMVc1RS1abVJUVEtLNWpRMWJRcURhM2ltU3N4LTlPeHlxenVUb1pRN0lJZDM1Y0x5RTlTcmlPTTB1UFp4QXVNdkgyejJOVlZNdEhZTXlxZHNOeDFHbUI1TjRrckx5YmhLNjhvcGFzY2ZUU1lfSU93dEJubG84QU41OUE5aEtWSlZ1M0pDTTRjMWNB?oc=5",
-    "timestamp": "2026-07-07T06:52:00+00:00",
-    "source": "reuters"
-  },
-  "946855ab3abbb32c0b07b541041c41fc": {
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN0pQNW84emdCUFVLZUJqRVBheWI5bXE0S1UxNkRyX2pvaUVkb1JqODktSGhCOGZhM3RTWEQ4b2VCaHNTVzlIaTRJU0ZfT2V4WHdkdXNOSFRNUzVZT292M0NIaHhFOG02eFBESExhcUpoTW9ZV2U3OE04ckl3Sjh4ZERER2hod2JPdnlTdzJDV1dEeDRQWHBmaXdVSElNdGpjb2hWYXVEVQ?oc=5",
-    "timestamp": "2026-07-07T06:37:00+00:00",
-    "source": "reuters"
-  },
-  "5774ae8942714b00cc5a9ee0bfe2be79": {
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3ZSZFk2bGd3VnR4MjRhQWxsa0RkS29maW1PSFNwblpzd2o5Sm1qRVMxTmRfbEF2ZWJoSUh6WE5mM3ZYTnJ1NEp3LTJ3MnBaU2FzaTlUcF9hOFhrUlhyZ0I3dDc3N0EzeUhvRVJCMnJicU44NWVVbVFYSWRCV29hWTIwZERWRGlYT2hlQ3FzVVpZaHR3UG4zR1V2VGYzQzAwM2tFbHRUV2lxUTk0M0hjOWo3bGZFZnE1YlJ1N1BUQ0ZIS3JCTHpDT2p0TW5sMkhO?oc=5",
-    "timestamp": "2026-07-07T06:18:00+00:00",
-    "source": "reuters"
-  },
-  "bf5d0725929fd0f9db38bf870db54a1d": {
-    "url": "https://www.france24.com/en/france/20260707-live-french-far-right-leader-marine-le-pen-faces-key-ruling-in-race-for-president",
-    "timestamp": "2026-07-07T06:13:16+00:00",
-    "source": "afp"
-  },
-  "ea8fcef72d817f6444d7a6ee439fae64": {
-    "url": "https://www.france24.com/en/middle-east/20260707-oil-tanker-hit-by-unknown-projectile-off-omani-coast-near-strait-of-hormuz",
-    "timestamp": "2026-07-07T05:52:21+00:00",
-    "source": "afp"
-  },
-  "364648c33cc6ff4dcbc4d526894d7670": {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHpLWVZhbTZ4T3lnM1hLbUppZkMxN0FfamRQT2JsWnBhMC1nNWdMdjhSbHp3WTduWUpBdEdXRUNtQ0tZdjBWTDByY2UzMzlCbnZOdVkyMUFYU2cyTkZEQVIxSTVZV2JNejlmY2pvUlpzWm03S3JWaG9mMTk0bFNrQ2ljMS12bzlGSjRJanlzNUFVSXNyczd4S1c5N3o5QmVDdXRxdWdNLW5oa253bTJyRUFmSlpHVGpzVng4?oc=5",
-    "timestamp": "2026-07-07T05:06:00+00:00",
-    "source": "reuters"
   }
 }
