@@ -1,4 +1,9 @@
 {
+  "39476da07ebb359305f347b2f540eaa7": {
+    "url": "https://www.france24.com/en/france/20260712-france-temporarily-shuts-down-three-nuclear-reactors-over-heatwave",
+    "timestamp": "2026-07-12T15:22:51+00:00",
+    "source": "afp"
+  },
   "9766662c04506e48ab2f21bbf9d0bd32": {
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
     "timestamp": "2026-07-12T14:06:00+00:00",
@@ -78,6 +83,11 @@
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmRIRDRlNzdERDd4MEJlYlpiLV9MNlE1bXVfMEJMVXpDU0cwZEtHYXJuSzZGSXZMSlNUdzVyV3VWQTNlWnRWRy14cW0wdmtKbzJKS3kteE1uOVlWUVNiY1YzOGtoRWFnbnZ1U1hSajhma0ttMnBEVjJMVmdWaS14WmVldUNrV3lEOEVv?oc=5",
     "timestamp": "2026-07-12T07:50:11+00:00",
     "source": "fars"
+  },
+  "e90a1e198c8ca26bc3fefca51d2890d4": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02eWVNNG9XYVdTSzI2YzNmd0ZwOVdNSlNaRGtPZGxVVlFPUkVDTXFWajZsMUtSUUZTVXF1RDh4TGJFbXZOYm5LejA5OHp1OTJtRHc?oc=5",
+    "timestamp": "2026-07-12T07:39:38+00:00",
+    "source": "iranintl"
   },
   "228457d61bf3839bd06de071047d0579": {
     "url": "https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html",
@@ -2488,15 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNG5tZXBBZHFQQm5CbHYwbG9EUi10VVZiTkpiWDdBbUhpNEJzMGlrUkl6cXFsMW9zMEsxYjF3dHFvY2NUcmdUUzV6VHZWc1FQZlJkZUs0RXJ1bHpjalRtcVFoQmwxS2EzOURQQXpBQTVoYzdGNzhWTG0yUGxTTV9aTnlmby1leXJ5bVpDamN1WmJ1enEyM2puSXpsQjJ5akpYSjFXWVA2aHdFSk9QVjZlOTFn?oc=5",
     "timestamp": "2026-07-07T14:10:09+00:00",
     "source": "fars"
-  },
-  "10e76d26cf411223cf7e6a838f2f6386": {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNG5tZXBBZHFQQm5CbHYwbG9EUi10VVZiTkpiWDdBbUhpNEJzMGlrUkl6cXFsMW9zMEsxYjF3dHFvY2NUcmdUUzV6VHZWc1FQZlJkZUs0RXJ1bHpjalRtcVFoQmwxS2EzOURQQXpBQTVoYzdGNzhWTG0yUGxTTV9aTnlmby1leXJ5bVpDamN1WmJ1enEyM2puSXpsQjJ5akpYSjFXWVA2aHdFSk9QVjZlOTFn?oc=5",
-    "timestamp": "2026-07-07T14:10:09+00:00",
-    "source": "fars"
-  },
-  "9faa6856acc980b83db71ca35b2e5f08": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mTXBfaTFpRHVfU3pRTm5MdTl6aVhaTWkzdE10SmxIUmRLdEFxUzlLa1VxQmo0MUJBZzl5UXp2d1ZQTEZtaVl3dzFpSDFSX1MtekE?oc=5",
-    "timestamp": "2026-07-07T14:04:50+00:00",
-    "source": "iranintl"
   }
 }
