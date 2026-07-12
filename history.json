@@ -1,8 +1,18 @@
 {
+  "fd4ea59df73a85a335179f0decb59a0e": {
+    "url": "https://www.france24.com/en/france/20260712-hundreds-evacuated-from-paris-suburb-after-weapons-found-near-synagogue",
+    "timestamp": "2026-07-12T18:48:20+00:00",
+    "source": "afp"
+  },
   "984dc4513fd5ce07815d88828dff0f72": {
     "url": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
     "timestamp": "2026-07-12T18:19:10+00:00",
     "source": "nyt"
+  },
+  "8380051ce2e5498dc029bc991d052093": {
+    "url": "https://www.france24.com/en/tv-shows/spotlight/20260712-are-tanks-aging-like-the-cavalry-in-ww1",
+    "timestamp": "2026-07-12T17:33:28+00:00",
+    "source": "afp"
   },
   "7eded9d5c88610eeafc054bdaeb959ad": {
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
@@ -19,6 +29,11 @@
     "timestamp": "2026-07-12T16:46:06+00:00",
     "source": "iranintl"
   },
+  "2d469f84949d4a197feaaea96ff24d61": {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVlFEMTBmd3hvZzZpVnBYcnNnUlBnQW9DRlkydFVqUTM0S3I2emo0TDczX3NJSGNHdXJqZGJreUhDRDhoYnNUck9vRGVpWEVtMGNnNElfY1lzR0NZakdlSWtTZEExQ2YyWFFKWTNhLXpwbk9HRkF6VGs4V0pLTDRRT013Z3dvc1hZVWthV0x6MzFneHlxei1LZWg5NVNKUE1oV2pfTUNlbkIwNU1tVU14MmhXc1Z2VmNNZnR5Q2thYjFDMWRyaUNJbw?oc=5",
+    "timestamp": "2026-07-12T16:43:45+00:00",
+    "source": "reuters"
+  },
   "e9705a2e4bb8ae2d11dd8a5b1a2b1edd": {
     "url": "https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html",
     "timestamp": "2026-07-12T16:43:37+00:00",
@@ -32,6 +47,11 @@
   "d8ee2898d4d9ff36d84341c306a753a9": {
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcFNWV2l4NHpONDVaQ0VPNVczX3ZhaHJHS08ycWJvWDhabVJlZDZrQU5rSDZ0bGRNZXhudFVxSDkzQnNoSTZqWkRXd0RrSWNEVGpHMzBVS2J5ZlZXZ0RPeG93ZWF2QjJWY05oV2FlVlFTODJ3dmJOSnVVOFlJSHFLUzdfYXVhY0NDOEdOVXctakZucmJZLUoxVFhuSk9qRGxPX2lMT3lmenA5LXdmTUpaSVhGcTg?oc=5",
     "timestamp": "2026-07-12T16:29:41+00:00",
+    "source": "reuters"
+  },
+  "f72953b11dd0a735beb372666e22c8fa": {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUXhfNmVlMUNVcFlBYzVMck55ajZsTGI2X2NDZjZ5ZEQyRTBTWmtWeUtVd2ljRWZvSm5tWm1qR2tDS2RqYzdhZ0ZQWkNlN0tCaTNiakhDcmNpWUNVTHJiejExMVdGU0NlUWp1MU11U2J1VzlodzFYeExWWnl2THNRWm5oemlxaFZOdVJ4UUFYdWZmR0xCNUtrMWZBbEl0dw?oc=5",
+    "timestamp": "2026-07-12T15:33:27+00:00",
     "source": "reuters"
   },
   "39476da07ebb359305f347b2f540eaa7": {
@@ -53,6 +73,11 @@
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TOVJvS2xWdlJqMGYyWHgxbVpCZVl5UVlrTHB3d1BuWUNsa09uQVlUSXVLQWp6NWVPcGtCdWN3dWhkOVFzNWdVN1R5VmpFT3p6NXNwLVVR?oc=5",
     "timestamp": "2026-07-12T14:16:11+00:00",
     "source": "fars"
+  },
+  "be3ff58c4de8148c016dd5663fdd45ec": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUaWRuYW4zRUM0MzJqX3JmZDdXQUVMOUptenNuVXE5T1dzeHBPOGZ5REYxeDFvQ21NU0dkd0tURUF0WDl4Mmh1czRYMHUwWGhTSmc?oc=5",
+    "timestamp": "2026-07-12T14:12:12+00:00",
+    "source": "iranintl"
   },
   "9766662c04506e48ab2f21bbf9d0bd32": {
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
@@ -194,6 +219,11 @@
     "timestamp": "2026-07-12T06:20:57+00:00",
     "source": "fars"
   },
+  "a2f258a3e216bdba7566c2b73418aefe": {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkJiOFUwTmF6UnZPYWVSTlJ1QVVZRDMyaEpuN2dZVC1ZME45cFFSTl8yVGlyNnRUMlhQbXRCaW1LRXhnbC1ndXpha1YydjZVekJsc0tyLTF1SENWNHJsVzl1ajhUdGozanNKcFQwZ2ZaOGtOQ0ZxelVyYVFCOXRLdS15dEc0aUM5V25MeFhleGJWTDFGSDJONVgyajBlRTJFY013Q1VWSDdYeUNiTDBj?oc=5",
+    "timestamp": "2026-07-12T06:20:57+00:00",
+    "source": "fars"
+  },
   "8377f5d3ebf3a6cd2f7d88a60d6b8e51": {
     "url": "https://www.france24.com/en/middle-east/20260712-live-us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz",
     "timestamp": "2026-07-12T06:04:21+00:00",
@@ -215,6 +245,11 @@
     "source": "iranintl"
   },
   "5621f7f1832058b09aeb040682acd691": {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90bFd5elpYRFU0Vk1QQXF4YWw3Sm9yTFltUkN2ci1MS1JkSS1aTkswVm9WY2JTQ0x0dkVwaURzeFYxd2hPXzhqOG5pMV9xVkRJd0FOdVEwcFJOQmZUaWdxb25iWHd1UjBG?oc=5",
+    "timestamp": "2026-07-12T05:08:11+00:00",
+    "source": "fars"
+  },
+  "d1b97a7000024b48871de80273d96b06": {
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90bFd5elpYRFU0Vk1QQXF4YWw3Sm9yTFltUkN2ci1MS1JkSS1aTkswVm9WY2JTQ0x0dkVwaURzeFYxd2hPXzhqOG5pMV9xVkRJd0FOdVEwcFJOQmZUaWdxb25iWHd1UjBG?oc=5",
     "timestamp": "2026-07-12T05:08:11+00:00",
     "source": "fars"
@@ -2463,40 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRF9kZUxkQm9QMzgwTWI4c0hrMXRiWkdFWGNOZk9KSkxfcFplSUxKLWlwZGFRWTVCYnRSZzdBRU82eXJMRHduenF5RTF4bVBVSVNVMWcwNkdjUElzd05RcjVya2hsRkplYWhRcnR4ajBhVWphWW5rdS1UZlNBSjFPNUVzcXlxSHhrUWdkZC1pcHVjQUtLV0pzUFd5UXhoY01DaE9zYUQ0V3FqemM1UW8wTm9LUlpreFJfdnBj?oc=5",
     "timestamp": "2026-07-07T19:27:14+00:00",
     "source": "reuters"
-  },
-  "2a3c37e50bcda9cbf35ca418a370c4e4": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpdDZ1VF9SSS1PcU1MblpzUDhiZHFlNmNHQWF6d1VEOER1Qk5qN0NRMndMb1hzU0xDOEs5ZXRobjJhMUVQR0lIcjdFeS1pMmk4RHc?oc=5",
-    "timestamp": "2026-07-07T18:35:49+00:00",
-    "source": "iranintl"
-  },
-  "b6f40864bb84852b12792f1a75cd9670": {
-    "url": "https://www.france24.com/en/tv-shows/the-debate/20260707-no-stopping-le-pen-french-appeals-court-clears-way-for-2027-presidential-run",
-    "timestamp": "2026-07-07T18:15:12+00:00",
-    "source": "afp"
-  },
-  "a9a6bcfb2d66f42cf727b3640b1fec4b": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Gbzk2Xzd5eEwzc0R0UmRzeG5QX2h6cElXbkh5Z0pKQjIxWXJzdWxibXlhaG5rc243S3BnTXZlVlRpTy1sbnlKWjVPdVZOSm1sZVE?oc=5",
-    "timestamp": "2026-07-07T18:04:00+00:00",
-    "source": "iranintl"
-  },
-  "16668e698c703544e64dda71746d2eae": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XMHF6c3N2MEtNLXhqUk9UR2c5VmQxOXJIYVR0M3V6UVlWak1GWTdnR0tObXJXVkRCWlNXYnpaUjZ2blZRWHJiY3hlcXBXamJ4VWc?oc=5",
-    "timestamp": "2026-07-07T17:48:45+00:00",
-    "source": "iranintl"
-  },
-  "c5148b58a401298b29c2114c17a901a3": {
-    "url": "https://www.nytimes.com/live/2026/07/07/world/nigel-farage-reform-uk",
-    "timestamp": "2026-07-07T17:27:44+00:00",
-    "source": "nyt"
-  },
-  "d03ed07006737dfb08b15dd9e58a2b41": {
-    "url": "https://www.nytimes.com/2026/07/07/world/americas/venezuela-earthquakes-delcy-rodriguez-trump.html",
-    "timestamp": "2026-07-07T17:15:12+00:00",
-    "source": "nyt"
-  },
-  "ecb0087b9cfd08378ae7d080077803c3": {
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGVNUlZFWkE4dkZoM1dOZkNla1RjY2QxQjJGQnVDcjNWM2hKV2hGakVkWTZmZlFlNlRFVFJ0OFBnblA3a0l0VElhcEJuZkNzQ1ltX3g4azZnSW5EcnJYSnVEN1lielpIdkJxSmI3OEozczQxUzBQRVFwanhYS2ZTQmNJNWZnR29ZaFFNclJ2UXJ5NTh6YlpxWlNlRFBzVXQyb2ZJY1hYN2lDQQ?oc=5",
-    "timestamp": "2026-07-07T17:08:00+00:00",
-    "source": "ap"
   }
 }
