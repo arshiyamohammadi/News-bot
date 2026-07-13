@@ -1,4 +1,19 @@
 {
+  "f0501f1c0917bf9a4c59b76b9b813ba1": {
+    "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
+    "timestamp": "2026-07-13T21:51:44+00:00",
+    "source": "nyt"
+  },
+  "23d2a19b7255092153f55adbbe6445fb": {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM2RCTlAtbmVLSG1sQjJCblpURk9nQ2JPWFpoR1dKNWJxQVVZNGpRM1hGSEFKa1VQQy14UnhtcTFOeGswVUhFQXJ3ZWRyekU4NXNzaWhPY2xyN0JoYVg3bnFXTURPSHUyYTZEOUZOWDdIQmZMTVlKV0RHU19qNjRwUDM4NFVZRVp0YnBETnhwWkxKVkpEMHpEY0ZKNEFqdzFQNjlFRE5uMUNyT2hvSXZvc2Q2Q2lIT0l1?oc=5",
+    "timestamp": "2026-07-13T21:08:07+00:00",
+    "source": "reuters"
+  },
+  "66f797a278d2c365051d6e644bb0e3c5": {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0MxRE1KWWs1OXh4SkpMa3dwZWQzSEhxMm11YkNzX1diNFJxNWl6TkxBV1VNczl0c1hheGVMT0l4UVpFcW15YVotc3ZrV1E1bi1TM2tHS3dfdTN1YTJpUTVLdG95RUpELXo5dm9GUFNKSUZ2ekdNdHNfZ2NLQlRyVV94LVhsbVVLSWNvbndVbmpNWTJiMEFlSzBLVDFoeFpXc2FpRzJ3?oc=5",
+    "timestamp": "2026-07-13T20:59:43+00:00",
+    "source": "reuters"
+  },
   "59f77208059a23a4aeb600d3e49ca9af": {
     "url": "https://www.france24.com/en/ebola-spreads-to-more-provinces",
     "timestamp": "2026-07-13T20:35:58+00:00",
@@ -14,10 +29,20 @@
     "timestamp": "2026-07-13T20:19:00+00:00",
     "source": "ap"
   },
+  "5fbc667b55e3adc3292627e6167e6f7a": {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGJJX3RrZlBnOUd3aXc5VlloY3JNOVN4V0xqX1EycG5QcU5DNUlWQU1qNmZWbUpMTTFLZjdyTzY1NTFNOFJ1d3F1aFlobUMzN1VDdnp3RWJibHI2MGFaaWZzdTJGVEJfYlFVZk5DUVRCN1V6Z1JOMTl5aldnOFUtUXdSSFFEZmR4ZUhueEM0M1o4VE4wck1HTmF5SQ?oc=5",
+    "timestamp": "2026-07-13T20:05:00+00:00",
+    "source": "ap"
+  },
   "c254ec1ae1c8acd8f73c89ce47dfb5c9": {
     "url": "https://www.france24.com/en/ukraine-and-allies-set-up-coalition-to-tackle-russia-ballistic-missile-threat",
     "timestamp": "2026-07-13T20:01:37+00:00",
     "source": "afp"
+  },
+  "dc219293d5dcbb8673984513627f5f5f": {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaFpXV2hLVHVQMmdvSC1Zd2JjNjZRMlFXN3ltcFFMOVRobWdwUjNKb1hkUnlyUnZ2RUZ1MEtqbTNkUkp3RkxIaEh5N3Fzb290QnhjeWdrVVJJNFlGNGJPLURERnpnM09tTVF5T0tDQ3ZoWEdHdngxQlVhcXA2cGN4MWVhT3kta245Sm5LN3dqT1ZVcGdtbS1GQ2sxMmJ0Q2xUaXZTXzNIWXNaYUlGODlwX0ZwbUtPSnRjbm1TMg?oc=5",
+    "timestamp": "2026-07-13T19:43:44+00:00",
+    "source": "reuters"
   },
   "232741d34b7bc3a8da4fb7906d8d3265": {
     "url": "https://www.france24.com/en/trump-reimposes-iran-naval-blockade-threatens-hormuz-fees",
@@ -42,6 +67,11 @@
   "3cf882bbd5f3403295f6b4c2e16d0b44": {
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2dZM1Z4UFFmcllDRXdWU1NXZkVHdTlOZHc5TloxS1FOQlRCYTdCbjZJRXk5OW81QnZIUFBRWnFIeThHX2ZESS1hU2JReFl4UldEcFBBS0pjdEtITlpJZWFZamtOQjhWYlVFdUJRbVdZZ1NaU2VLLTJ4Wkx1Q0dJaHdXQUE4ekNCZURKUDg5Tlo2QzRhVXNZdkdxdEFHSEFId2hEMGIwRUZuZFRPS2tqa0UzVUdkVXNNUHVLYTB3?oc=5",
     "timestamp": "2026-07-13T18:30:28+00:00",
+    "source": "reuters"
+  },
+  "c5e697919a1f23bd955f732627b87d8e": {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRm5QcGcwOEo3dlJTWm1xOUZnTGZ0Mk9uN2djb1VpbWtzNVdHRGZ6bS1FbDNyRTAyLWNPcjhGT0NLcm12QzIwRzBXdVc4R2pxY05mYi1aZV8tYUxMNU94YlNhVFJfb3ItS3YxdExyNC0zaXRwY1NfX1dLRDVDVGZRelFxUUtUc3BualhpeURaUXN5VnFueGRrX2poc3hxdnd3aEFyLVhXazc0d29Ed1Bud1RHbGdTRC02elZBV3Y3UkRSUQ?oc=5",
+    "timestamp": "2026-07-13T18:30:21+00:00",
     "source": "reuters"
   },
   "1cbea784cb81a815c6329ae7625903b9": {
@@ -2468,35 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xd1o1MzY4aXpXd3M1aEFKTk1tcEhpeXVRT1NLYU4yMmxwb2o4OFBoTmNJUTNWUldld0lWd0lHNTZDcUQwSDJKWGxocDRieXBlWGc?oc=5",
     "timestamp": "2026-07-08T15:47:20+00:00",
     "source": "iranintl"
-  },
-  "55d5ece760008563d71a168268a4e236": {
-    "url": "https://www.france24.com/en/video/20260708-after-quake-venezuelans-left-to-deal-with-trauma-and-grief",
-    "timestamp": "2026-07-08T15:38:40+00:00",
-    "source": "afp"
-  },
-  "aaa7b3bc256c460000691990c30b7f55": {
-    "url": "https://www.france24.com/en/middle-east/20260708-regime-supporters-opposition-share-ai-generated-images-khamenei-funeral",
-    "timestamp": "2026-07-08T15:32:17+00:00",
-    "source": "afp"
-  },
-  "3cf5c9e603ed8435b7f8825c2fc01704": {
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbjhvYVk3T1ZCX2hUVVhMSjRXa09KRjBWa0NSeGpzQUJ2X0hMNDBBN09WVVA0WklPbnFHT3l5LUctT0hYYkRqX0t4NTdjN0FnM0l3dmtuQlZFeS1DRmJMcXhXR3FqM1JKUXN2QXU2NTRHZmlPa3pCOFItOE1jazVmbHo2UDdvZ3RoaVQ1aGtiaFRaajFFN1RkMlUteUd2SkZtbnFnX0YzWXFJYTNzXzZtdHJzWWc0VVV4X2M2UVc3d2xadFlWWkJmenJZMzdPT2xwWnh6U0lhZjhBQzlrSThySTRPa29DOGVQY3c?oc=5",
-    "timestamp": "2026-07-08T15:20:12+00:00",
-    "source": "fars"
-  },
-  "3b18e7e027573c065dc766361c993201": {
-    "url": "https://www.france24.com/en/video/20260708-iran-talks-in-doubts-as-trump-says-ceasefire-over",
-    "timestamp": "2026-07-08T15:14:46+00:00",
-    "source": "afp"
-  },
-  "701ecc09c62076f5d7d452cffb27dc14": {
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKNHdzcU0ybFNJRS1zbHNxWUhNbXFwOWE1T0ZIVHlYSGJobVQzdl9zcGhNLXN4U2UwbFNvbDEtRmJiZkhxQ0JvUDlLbXJ3WVJwenk0clRB?oc=5",
-    "timestamp": "2026-07-08T15:11:12+00:00",
-    "source": "fars"
-  },
-  "78d91624ec7d2276adf6205f2f32fe29": {
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKNHdzcU0ybFNJRS1zbHNxWUhNbXFwOWE1T0ZIVHlYSGJobVQzdl9zcGhNLXN4U2UwbFNvbDEtRmJiZkhxQ0JvUDlLbXJ3WVJwenk0clRB?oc=5",
-    "timestamp": "2026-07-08T15:11:12+00:00",
-    "source": "fars"
   }
 }
