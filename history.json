@@ -1,8 +1,68 @@
 {
+  "db173fdcd6ecca74ecf5e5c5f5742c02": {
+    "url": "https://www.france24.com/en/ally-coalition-is-about-putting-ukraine-in-the-strongest-position-possible",
+    "timestamp": "2026-07-13T15:35:34+00:00",
+    "source": "afp"
+  },
+  "8ad7e26fd03a68301611756805ba07d3": {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHZ0YWpGZjBZakNRRmRveklzX1hRUklIWUc2MzVoWE51Z1Bjc0JFU05vd2tGVWhaSVVVSmFvbHU3QWJZcEs0R2dkRjFxcG9WaGMtWFo2SmhqTTVjSDNFVFk5Zl8xcmdiaTFHUmM5cWU0RzNDeDU2TGM4RWJJMjg3Y2lYeEJBWkdqeXFWUjg0eWpNZw?oc=5",
+    "timestamp": "2026-07-13T15:33:00+00:00",
+    "source": "ap"
+  },
+  "40cb63fa1f9435b018cb572d11649f5b": {
+    "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
+    "timestamp": "2026-07-13T15:31:12+00:00",
+    "source": "nyt"
+  },
+  "f57e03aa5435bcb03fde69d5e796af4a": {
+    "url": "https://www.france24.com/en/europe/20260713-eu-and-uk-slap-sanctions-on-russian-spies-and-hackers-over-cyberattacks",
+    "timestamp": "2026-07-13T15:05:48+00:00",
+    "source": "afp"
+  },
+  "cd9a7ee91a7a6fb6bc50a4230bd9e005": {
+    "url": "https://www.france24.com/en/the-facts-are-there-macron-salutes-fulfilling-pledge-to-boost-defence-spending",
+    "timestamp": "2026-07-13T15:05:04+00:00",
+    "source": "afp"
+  },
+  "c5d709175548f2947234ba55ed3d4473": {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMV9vbjgzc3lGdFhGN0tRekRlTDItNXRiUnN1OV90MG5VeXVsRzRXNVItYUZPLWdPZlZtVUVFYTBaQlhhUkFTU1JTQzVfSVhoMHV1VUhQUmhtelBMMllPQk40dUhjWW16dEpaaWc0bVpjazBLWmRvakxGUEtkNHExcmlmRTBMRGxaSDF3VGk3d3BqZTNRU3pZRkUzTENvUk5KYVg5Rk4tUjZ1dw?oc=5",
+    "timestamp": "2026-07-13T14:54:03+00:00",
+    "source": "reuters"
+  },
+  "c9af4e0d0f044e1faf57d2372e411a7b": {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGJJX3RrZlBnOUd3aXc5VlloY3JNOVN4V0xqX1EycG5QcU5DNUlWQU1qNmZWbUpMTTFLZjdyTzY1NTFNOFJ1d3F1aFlobUMzN1VDdnp3RWJibHI2MGFaaWZzdTJGVEJfYlFVZk5DUVRCN1V6Z1JOMTl5aldnOFUtUXdSSFFEZmR4ZUhueEM0M1o4VE4wck1HTmF5SQ?oc=5",
+    "timestamp": "2026-07-13T14:22:00+00:00",
+    "source": "ap"
+  },
+  "01c28d0854e437784d322f5d57663ad5": {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWhXdHRncXZPOURpc2ZuRVNjWWRFVjhiN1hEQzhicm41WGZzbFR4Zkk0ZWtYMTRXeFMwVW9xOEhVWVpyc3oyeFhGZWJyMFRfXzFDczhQalczWGNRQUxzMUxZdTNvLXhVUmVSejUxT1Q2NE1ZNVh0OS1Yc3NIV18tWFVKaHFiWHZlVUxxa0trMzZXV3haelpfZEtrRF96U0M2NWNEbDhyQWVFTHNkX1E?oc=5",
+    "timestamp": "2026-07-13T13:58:01+00:00",
+    "source": "reuters"
+  },
+  "f88f78db2c1315b2d54c918dd70101be": {
+    "url": "https://www.france24.com/en/despite-power-returning-to-cuba-blackouts-are-still-a-regular-occurrence",
+    "timestamp": "2026-07-13T13:42:22+00:00",
+    "source": "afp"
+  },
+  "cc245580aed1bbdaf828f42473e2e3f5": {
+    "url": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html",
+    "timestamp": "2026-07-13T12:57:30+00:00",
+    "source": "nyt"
+  },
+  "2a77442de4fd1d8c389500217191baf1": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CMkg1c2swY3RyVFc5di1LcTVheUdCbzM3TFRtUkRZYmJYLTRkb1BfRXJTWDNOY1hjRERLZ296ajhfUmJrRzl1TGxYMDQ4eXowaWc?oc=5",
+    "timestamp": "2026-07-13T12:22:54+00:00",
+    "source": "iranintl"
+  },
   "1509fd508e32c1782c75c90ad5045f2b": {
     "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
     "timestamp": "2026-07-13T12:10:41+00:00",
     "source": "nyt"
+  },
+  "8533351b9d6573997b7f71d3d6a21fe1": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04WmZmMWpKUUs3UEFWRjhGd2ViRlVVSkVaemRUOEdNdFNSWDB6WHhteTg2Q0NfWGhCVXZ2SGlHSkJ1MzRaZ0NmTFB1RVlDM1RVV2c?oc=5",
+    "timestamp": "2026-07-13T11:35:57+00:00",
+    "source": "iranintl"
   },
   "7f2f38e8ac40b19f53f94a2a7c9442bc": {
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWhXdHRncXZPOURpc2ZuRVNjWWRFVjhiN1hEQzhicm41WGZzbFR4Zkk0ZWtYMTRXeFMwVW9xOEhVWVpyc3oyeFhGZWJyMFRfXzFDczhQalczWGNRQUxzMUxZdTNvLXhVUmVSejUxT1Q2NE1ZNVh0OS1Yc3NIV18tWFVKaHFiWHZlVUxxa0trMzZXV3haelpfZEtrRF96U0M2NWNEbDhyQWVFTHNkX1E?oc=5",
@@ -13,6 +73,16 @@
     "url": "https://www.france24.com/en/tv-shows/press-review/20260713-iran-rising-regional-power-or-too-weak-to-make-peace",
     "timestamp": "2026-07-13T10:56:19+00:00",
     "source": "afp"
+  },
+  "f0b4500a6b197d551997c297e047a017": {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbEttUTJHQW9JNnpfYV9LeHhLbVYxOE93M0l6a29adlptdmhNY2VaaXZTS0VJQzBZTlV2VUtnYjl4cndFaFJGb0t4RFVRTDJBYW03VkRVSjhPUVozWkhrX1dzM1dTZlZySUwwSkJFTzlOUGdfUWtGck83djN0X0dnZUFpZUFwN09ndVB0Rks3ckE4Zw?oc=5",
+    "timestamp": "2026-07-13T10:49:53+00:00",
+    "source": "fars"
+  },
+  "f90ef7907a110ddf65cf9f33b65968cd": {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWJENDFXNzRCZ1IwN1MtWndCWEtYUWhKRlNHZHJDakVEVXZpeVFPaU0tQm9KNHRlMkxucjhVT0tHNzJEbXpnRzF2djdHSENNNTR4LW5NOUFwRXhlSzV5RkE0UW55VEVXVXdQalRDSWtwQlNYUHJQb1RqNFZ0QlhMekdGdVBhRkxwRXRfRWx0eUhXN0VlTTRNX3M5UXpXYWxUVnNmblhKYjdmUlpqV3NDU2tR?oc=5",
+    "timestamp": "2026-07-13T10:17:41+00:00",
+    "source": "fars"
   },
   "d4be18028008c1bec79447ddd57a3a82": {
     "url": "https://www.france24.com/en/france/20260713-watch-live-macron-addresses-french-military-on-eve-of-bastille-day",
@@ -99,6 +169,11 @@
     "timestamp": "2026-07-13T06:21:00+00:00",
     "source": "reuters"
   },
+  "349baf99eaf66e0788b41a99319c4631": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhanp3NzlJYVlHeWE0aF8zWkY3eUo4ZTRSZXhFblU0OG1VdXBtUXI4MkVRNUd5MXZLNU5jRURJT3g0WjJwQk52X2ViSXBNR0lHb2c?oc=5",
+    "timestamp": "2026-07-13T06:18:14+00:00",
+    "source": "iranintl"
+  },
   "2c58dd1594df1fc8276b017e978a044d": {
     "url": "https://www.france24.com/en/middle-east/20260712-middle-east-live-us-strikes-iran-gulf-states-targeted-strait-hormuz",
     "timestamp": "2026-07-13T05:58:44+00:00",
@@ -108,6 +183,11 @@
     "url": "https://www.france24.com/en/europe/20260713-ukrainian-drone-strikes-kill-at-least-3-wound-5-moscow-region",
     "timestamp": "2026-07-13T05:23:39+00:00",
     "source": "afp"
+  },
+  "035858133b843eafe5057e093c33b3a3": {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWxDVEVDeV9PTk5SbmpQMjBDRmpKLTFFTUt3NGo0MFktT1BvWWVBcXZ3OEk3dzRQUHFlY2FoWHJYbnVuSklmYzVnU2NtV25paF9ZM2RCRjE1b3dGRTVpR2VQTkdCQXB1aExwbDhvWE5ycnpuTkhoQ0lLMGF6eUplWi1McnpJUDh4Ums1VWtTNDZ3R0tBQzFfVV9OcEd6S2xYY195SnlobmRBYWVyVlVlMW5pMXNSRnc?oc=5",
+    "timestamp": "2026-07-13T05:19:52+00:00",
+    "source": "fars"
   },
   "d5631f523206aabb5f0a79596ce2377f": {
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR1lCYWdoRS1ZVjB4RTR3bHhleGU2aFlLOTdxckNDWXFtMGxQZVdTUklud0N1SXRXaG50LUk3dTBLZl8tV0FVVGg1cHNPZ3ZCOEFQY0FBUkhINUQzMEFDVUNqTzg2a3FsUkJiclZCZjJSbF9vd3AycW5ta1lNZHBObjF0Y1ZMV3UyUzVfR05iMmhLLTl2MmJ1YUhzX2pKZEZtMk14OEtHNVRPVFdYN1BkMDlscUlXRTAycjB1cGJ1Q1NYcTNyYTFr?oc=5",
@@ -228,6 +308,11 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmtWRUNibEZTUkJmZ19uanVtaVVQM2xUVzZfWVpjVTkwTzNPc25qeENMbW1TcXBFQzNXX2hHc2dWUndSWGU0VkQyLVVCM2J5cTVUTnJneFNzLVRLMVYwT0FqMTlXT2JBdkh6N0JJWE50cjR6Z0lkLTB6bTZ5cWhDNWJacENhZWh4c3pPRUxEaVFqWk5CZ0ZpdGln?oc=5",
     "timestamp": "2026-07-12T19:33:43+00:00",
     "source": "reuters"
+  },
+  "6df8298a54e974e41178bda58e85982d": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LR1RXMGtHRXQxOVdfTjJUNlFoREJzRlM2cE9PR192a3NQTzVReDh5MEtQbDZkclFnaDl5V2taOGJPN0c4LU14ZEFHU1BvYmx5RVE?oc=5",
+    "timestamp": "2026-07-12T19:20:36+00:00",
+    "source": "iranintl"
   },
   "fd4ea59df73a85a335179f0decb59a0e": {
     "url": "https://www.france24.com/en/france/20260712-hundreds-evacuated-from-paris-suburb-after-weapons-found-near-synagogue",
@@ -2413,90 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTlFBbWNpejctSVVTTXdWLVZCN19LVWxIbS1YYnRuTHNEdldPNHV0OU9MTDRRUFRKaVhfMG9RWjlXcUlXa0NpQnhQaFR5b1cyZUJEZ0hWSGhnaC1zb2F4YWtaN3VzMGdYY1RmVHJhZ3VkZjl6dXJHYVhQMnVLcFM5SUw4aU40aUh1cnNidnVCYUFxYWFuX3RiaGpRM09kek9RQ29rNmhwa1d5QzNDRUdsVUhrcTZ3dXpQbDQ1OWZ1c2hUeHc1WHc?oc=5",
     "timestamp": "2026-07-08T11:57:14+00:00",
     "source": "reuters"
-  },
-  "23ec8e56e77c3fd93dab9ad79ba1ab17": {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0wtak4yR1c5V1VydHktZHRDdncxdk5FSFZFYl9PZ2RxRDR0eFZfVTdhU05ha0c2NWlHa1FQcWlnVjlGb0E3MFdCU2RZVWxCRFNocnl5UVZWakFTOTdfQjJreTRVTlBGMjdJUDA2ODZKSzZ4UFFQSUozdkdJVkp3WFRadV9WQ09UaHQzdW1uc3FoallwOEZyVVF6Q0g3aU9hWWtkcm1IZDJiT0JlaDBucVM5TU9yYllM?oc=5",
-    "timestamp": "2026-07-08T11:53:45+00:00",
-    "source": "reuters"
-  },
-  "1c90e848118987590cc04095b7fa1ba2": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GNmZxYUZDT241Y3d1dW53Y1dKSUJPVHpnNERLeGdzc0M0TTkzbkdVUWZIaXJRbkNLcVI5VVdhenVaTjdKTlNqWFFqRzRoTlRxZkE?oc=5",
-    "timestamp": "2026-07-08T11:27:26+00:00",
-    "source": "iranintl"
-  },
-  "87f4ef58c68e4bcbd3a3a24dd13b0d0e": {
-    "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260708-i-feel-forgiveness-daniel-gwynn-on-life-after-30-years-on-death-row",
-    "timestamp": "2026-07-08T11:15:07+00:00",
-    "source": "afp"
-  },
-  "4d7d8d0308217149a3df87806b8a25f1": {
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFYybkdpUEY4OUpKZ25Ha0pDNVBXbGVYU0dKLWczQjh1ZjNEcjdsTkVfX3FzLVJNRGdwaVotellzdGMwbTJwZmE4UGVWTWV2cXNaY0NsNThzTTlPaHNxc1M3clhwRF9GaGtOYVRoeXNyN3NCTE9uX25XMTNiOFZWanlheWpPb0xDRTVrWVpRRERMVHZxMDVtN2R1Zkozc1kxd3ZSMWlfakdRcEVOemNVbE1jcw?oc=5",
-    "timestamp": "2026-07-08T11:05:51+00:00",
-    "source": "fars"
-  },
-  "ad54a943b919c015a206be2c9033de77": {
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UbElUYlYwWklZOVhtVkR0NEl0VjA4WTZjN2o5MnNhY3ZvaksyX01OLXVjbjJfWVh1dFZucGVXMXZ1bGtxR1d0VUc5Mk9UOE54TWh0YWQyNjlzcVpLbHZRNEpHUQ?oc=5",
-    "timestamp": "2026-07-08T11:00:34+00:00",
-    "source": "fars"
-  },
-  "8043cdb186234515f04049bce0e66558": {
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UbElUYlYwWklZOVhtVkR0NEl0VjA4WTZjN2o5MnNhY3ZvaksyX01OLXVjbjJfWVh1dFZucGVXMXZ1bGtxR1d0VUc5Mk9UOE54TWh0YWQyNjlzcVpLbHZRNEpHUQ?oc=5",
-    "timestamp": "2026-07-08T11:00:34+00:00",
-    "source": "fars"
-  },
-  "0a73330b99147f809b252ab8af1debbd": {
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0tiMk9sUC1oMXdEOFM1cnljQkMyWEZqcnlDSVkyY0l4LUpleFlZdk4zM3Y1d0o4RnVUYVRFbnZ6Rk5qOWZVby0wSGxkUHZDaThhQm9MZ2pldUt1cDZReXc1YmFKSWNmajJLbnpIbGZlZnhWNDkyNXQ4X0wxckFPNGRlR2dDZXdkdFRBbG1HbmFPaEFRWEVn?oc=5",
-    "timestamp": "2026-07-08T10:54:00+00:00",
-    "source": "ap"
-  },
-  "ce8cbfb1816c3d118f644d0740612f6c": {
-    "url": "https://www.nytimes.com/2026/07/08/world/europe/albania-sazan-island-kushner-ivanka.html",
-    "timestamp": "2026-07-08T10:49:03+00:00",
-    "source": "nyt"
-  },
-  "34ee5fc2c10a4599ee5c8392e0a385be": {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORkM4Zk5fSVY2LWktUmVWdlFPOFd6cE5vYWJJQXBzTFhjY2FuZXVWbFg3LWFsdjJPRU1ZUU1vZnVDUUxIVlk5VjdmUENyNGFYNjRIWG5Rbm95blBVbzJuWi11YnYwckVrMmVnTkFydkJnRGl5eFpBOVRuZjRNU2lDYzBKRTUzazhmNnlvZk82eC1DV0xCVFJsbEZ6REE2UTA5Q1A3SQ?oc=5",
-    "timestamp": "2026-07-08T10:37:23+00:00",
-    "source": "reuters"
-  },
-  "e8684320baf1ac09ce20f3732af52898": {
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc21yZ0hzUlp6ZG9xcG1MY2FJbWR0UDV0R3RmX0lqV3g2WEwxUmMwWk1qT2ZWRGdJYlI3WDdvbEo0Z2dXRU1yR2E4NUNsazZENmlWV01sYTdDNnR2Z2JDM0huRkFjUF9fOEpMVEpCQmZPMFVvSllQdlFNQklkOUl5QmFfX2oyNXI5N0pSR0dseUw3X0tqNUp5TEs5aWlMR0hjUDhBX0hTdjdpZm9zZTJFSUxQV3UxTWhpTld2aVRPYzN2VW8?oc=5",
-    "timestamp": "2026-07-08T10:35:45+00:00",
-    "source": "reuters"
-  },
-  "80c666cbf6a20592a0d2c6d3c1a3328c": {
-    "url": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
-    "timestamp": "2026-07-08T10:34:27+00:00",
-    "source": "nyt"
-  },
-  "985437f5d0efd5a0c67558d27a3ca660": {
-    "url": "https://www.france24.com/en/video/20260708-ghana-south-africa-presidential-meet-halted-over-migrant-tensions",
-    "timestamp": "2026-07-08T10:34:20+00:00",
-    "source": "afp"
-  },
-  "da469be1691ac730de03a5c1cedc71b6": {
-    "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
-    "timestamp": "2026-07-08T10:33:22+00:00",
-    "source": "nyt"
-  },
-  "b21ba78264eb0cf1b91012e12057d666": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85MkE4V1lTeEg4RW1pNUdsajVlZTFRbWc4NGZQcG1uTzFIRHd2YUlXVDUyOFFHRUJhWktJanJpMENpVDJ2MjZEcFhSRU1nZEg5NWc?oc=5",
-    "timestamp": "2026-07-08T10:19:22+00:00",
-    "source": "iranintl"
-  },
-  "3b3eefa8f7d614eed498833d085f7603": {
-    "url": "https://www.france24.com/en/video/20260708-russia-strikes-kyiv-as-zelensky-trump-set-to-meet",
-    "timestamp": "2026-07-08T10:08:43+00:00",
-    "source": "afp"
-  },
-  "37ae12a814c68cbe82ba5f9092e8ea11": {
-    "url": "https://www.france24.com/en/video/20260708-trump-says-ceasefire-with-iran-is-over-after-us-strikes",
-    "timestamp": "2026-07-08T10:05:39+00:00",
-    "source": "afp"
-  },
-  "8235fab8412603ade9626a48090fde5c": {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUTJscEV1MkQ0dmNxa2VaUHJNRUZUNjhaME1rV21xaXozTkhiQWF4WmZ0V1RIa1otSmFCWDVJYUJSS1NJU3dvRXF2VUJsQkRSMmpqZFdpclp6TUZzV1pCbEpJN2RISFpWWm1UWUJjaHZxemhhX0lJNDhhd2tiSEo4WUpkSnoyLWREbjFVQXBlcmJoY21zTEhvVjkxV3prOU1fbW90T21ZOE5jVnQycE5DUTZkSUdMQ05HeTJv?oc=5",
-    "timestamp": "2026-07-08T09:41:29+00:00",
-    "source": "fars"
   }
 }
