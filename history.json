@@ -1,8 +1,33 @@
 {
+  "1509fd508e32c1782c75c90ad5045f2b": {
+    "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
+    "timestamp": "2026-07-13T12:10:41+00:00",
+    "source": "nyt"
+  },
+  "7f2f38e8ac40b19f53f94a2a7c9442bc": {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWhXdHRncXZPOURpc2ZuRVNjWWRFVjhiN1hEQzhicm41WGZzbFR4Zkk0ZWtYMTRXeFMwVW9xOEhVWVpyc3oyeFhGZWJyMFRfXzFDczhQalczWGNRQUxzMUxZdTNvLXhVUmVSejUxT1Q2NE1ZNVh0OS1Yc3NIV18tWFVKaHFiWHZlVUxxa0trMzZXV3haelpfZEtrRF96U0M2NWNEbDhyQWVFTHNkX1E?oc=5",
+    "timestamp": "2026-07-13T11:29:06+00:00",
+    "source": "reuters"
+  },
+  "89f2e659883d5cc27c76382b324ed672": {
+    "url": "https://www.france24.com/en/tv-shows/press-review/20260713-iran-rising-regional-power-or-too-weak-to-make-peace",
+    "timestamp": "2026-07-13T10:56:19+00:00",
+    "source": "afp"
+  },
+  "d4be18028008c1bec79447ddd57a3a82": {
+    "url": "https://www.france24.com/en/france/20260713-watch-live-macron-addresses-french-military-on-eve-of-bastille-day",
+    "timestamp": "2026-07-13T09:56:45+00:00",
+    "source": "afp"
+  },
   "ba7872eb1cab40ba87510921d804cdf2": {
     "url": "https://www.france24.com/en/video/20260713-coalition-of-the-willing-meets-in-paris-to-bolster-war-support-to-ukraine",
     "timestamp": "2026-07-13T09:32:49+00:00",
     "source": "afp"
+  },
+  "8f96419ba1ff7398ccbe1fd1036b09bf": {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHZ0YWpGZjBZakNRRmRveklzX1hRUklIWUc2MzVoWE51Z1Bjc0JFU05vd2tGVWhaSVVVSmFvbHU3QWJZcEs0R2dkRjFxcG9WaGMtWFo2SmhqTTVjSDNFVFk5Zl8xcmdiaTFHUmM5cWU0RzNDeDU2TGM4RWJJMjg3Y2lYeEJBWkdqeXFWUjg0eWpNZw?oc=5",
+    "timestamp": "2026-07-13T09:27:00+00:00",
+    "source": "ap"
   },
   "5306df3ec038413532ee38327801f16c": {
     "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
@@ -24,6 +49,11 @@
     "timestamp": "2026-07-13T09:02:08+00:00",
     "source": "nyt"
   },
+  "4e3995243c2ae8ce8b3eeda2b41a1192": {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTy12R0FCU0cyRnZiZTZsZE96WG9SNi1XLXUtSXZVMUpmN0YzQzItS25XNUM5ZW1mdXhTZUxNQ1dwczh4czNzWkNaS01ia3k0ZDF1UzFteXNBXzZoYmR5cTFwRmxjY0dNS1ZPUVFQRm42RElvaFp5TVZyNmJmSjdPZnBBWHhwczVDd282b0NFcnNlQkxMVDhzRVJDMWYzUQ?oc=5",
+    "timestamp": "2026-07-13T09:01:43+00:00",
+    "source": "reuters"
+  },
   "ee1dc1ca4892c3b5470d970bcb7c56d6": {
     "url": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html",
     "timestamp": "2026-07-13T09:00:23+00:00",
@@ -34,10 +64,25 @@
     "timestamp": "2026-07-13T08:56:49+00:00",
     "source": "afp"
   },
+  "6d3816418fbf6d858ddb7ceef966579a": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wUkgtTHdTWngxRVVPWlU3bkpNOGFzam90Z3hUYzVVRzdGeGx6NE1vWE4zQXJrY0R3bVZ4RldfblpNUlZIU1kyRC1WN01qWXZic3c?oc=5",
+    "timestamp": "2026-07-13T08:54:32+00:00",
+    "source": "iranintl"
+  },
   "62d52f09bd383037e497d9f48b5b1bca": {
     "url": "https://www.france24.com/en/us-iran-talks-to-end-war-on-the-line-amid-renewed-strikes",
     "timestamp": "2026-07-13T08:49:47+00:00",
     "source": "afp"
+  },
+  "41d2a6ea8b8f7f098097f768478f5b94": {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VcHdOcVlveWFSbjJyQjRZUENYZVZxOG1lN3BwT3RUSW01WE1OUl90WEN2Y01pdlZQRVFSUTJGQS1DS3Y4LTMzanUyVDc1bG96Mkt3eG5VbGZ1aXRSaS1j?oc=5",
+    "timestamp": "2026-07-13T08:05:04+00:00",
+    "source": "fars"
+  },
+  "6ceec9b8c2673f397e4add9c6d7145db": {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcE5zM0tUaXVzMzlZUm54QzYwcVR4Nk5MbHZkYmNsQmlJWHlDZldpNjlBc3NrM0U2dWtTSnNQSTQ3YkdXM2tGSklLWkZuNl96a09XX3BtWEtoOVFseVdZYWZsT1lKaVMyT29MUk5GTkR3UUg2OG5LN1ppeVFTeGROanRYVmZORDFicGx5MDduSXBQblNqUEpMbFNpX2g3QzVaQlM4VnVhNWEtdVQ5WUtqYk50VmM?oc=5",
+    "timestamp": "2026-07-13T07:24:33+00:00",
+    "source": "fars"
   },
   "8294525dde0b53d913013a8f3be3d6ec": {
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMG0wMGZybUNSMnZyOWQzck1Eb0JwcFdfWUVXNlBYbk10c3VveDRrdzVpYVJhNjdwdUdnR1ZMZDhVTXdnWE41M09iZnZwUmJzbEpsX2V0Q2xDWmdHVjZGRkxtRmVsOFU2OWM3aGsyUGljckNVb1F1WlpmMk5GQVE4S0Q4QXJQYlI4V1hZSktORXBZYm1YXzNsQUYwQ2dOSUJtSTJrNmpvR3M5Q2szcXYzWENxeGFIbnRHS0lhaXdnN3FFcnM?oc=5",
@@ -73,6 +118,11 @@
     "url": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html",
     "timestamp": "2026-07-13T04:37:31+00:00",
     "source": "nyt"
+  },
+  "1ddc7e041a4dd3a727fc2538b3fb6f7a": {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UZkhENnBDdmkya0tIUnpRc2t1d2s4cFBHMTJsUW5jbEZ2LTV1eXkzR2VaZlNlZVJybUR2OU50S3RyWV9CeDlWYVd3NDJ5dXBYd3FzeVhRaVlITEhWNTJ4Z2JmZnh1YzE2TVlGd3o2ZXI?oc=5",
+    "timestamp": "2026-07-13T03:11:12+00:00",
+    "source": "fars"
   },
   "75249353599bff85545c8f40c0ed1595": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwb1VaZmVXNGszYlFaUjVDUEZjYVM0WW1aZ0RIRmdzVnZuME5XSFhMWVhHQkFHVU5xc0dWMS1OWUo5Rmk2bWF1M3E3b2pjclhWc1E?oc=5",
@@ -2448,55 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUTJscEV1MkQ0dmNxa2VaUHJNRUZUNjhaME1rV21xaXozTkhiQWF4WmZ0V1RIa1otSmFCWDVJYUJSS1NJU3dvRXF2VUJsQkRSMmpqZFdpclp6TUZzV1pCbEpJN2RISFpWWm1UWUJjaHZxemhhX0lJNDhhd2tiSEo4WUpkSnoyLWREbjFVQXBlcmJoY21zTEhvVjkxV3prOU1fbW90T21ZOE5jVnQycE5DUTZkSUdMQ05HeTJv?oc=5",
     "timestamp": "2026-07-08T09:41:29+00:00",
     "source": "fars"
-  },
-  "ca5f2830f47857a886a057d0e376e53c": {
-    "url": "https://www.france24.com/en/netanyahu-warns-us-destroy-mideast-power-balance-trump-floats-f-35-jet-sale-turkey",
-    "timestamp": "2026-07-08T09:08:10+00:00",
-    "source": "afp"
-  },
-  "8859fce98142fe6ac6f20049dca4c570": {
-    "url": "https://www.france24.com/en/video/20260708-iran-targets-bahrain-and-kuwait-after-us-launches-strikes",
-    "timestamp": "2026-07-08T09:04:32+00:00",
-    "source": "afp"
-  },
-  "f993c5f2097531e04efd4950fcfa1efa": {
-    "url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-khamenei-funeral-photos.html",
-    "timestamp": "2026-07-08T09:02:25+00:00",
-    "source": "nyt"
-  },
-  "5d8b45dcbe393adaa977879d85b8cb73": {
-    "url": "https://www.france24.com/en/video/20260708-replay-trump-says-deal-with-iran-is-over-to-cut-trade-with-spain",
-    "timestamp": "2026-07-08T09:00:34+00:00",
-    "source": "afp"
-  },
-  "997fb52287601d81f4c9eb4406045aea": {
-    "url": "https://www.france24.com/en/tv-shows/business/20260708-us-revokes-waiver-for-iranian-oil-sales-amid-renewed-gulf-strikes",
-    "timestamp": "2026-07-08T08:45:40+00:00",
-    "source": "afp"
-  },
-  "4e280130e8435cff27e42f7e2346540a": {
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTdTS2FQMm9xU19JZGVBRG9UUEtKOHF4SkVZVGlQMldHVjJCVjdSNDlyMjE2djFVeVJuU1NPZE5xWGlRdWZya0xsbkJKTG8zVFE2SmNwUlBYZFNLbVJ6ZlNsY1JTWkhiNi1lU0xpU1BNTVNiN2RQWXMwc25ub0dRQlFOZUdEa1ZkMGZESFJZcGpKc1hNSVowcy1rbFdOUy1XWVE?oc=5",
-    "timestamp": "2026-07-08T08:44:51+00:00",
-    "source": "reuters"
-  },
-  "bd6f967b4da31c2d24cc0cdd1ce389e1": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EbjR4RFhGZTRGWWlFMTRsSk1ub1NNNkNMajFSeS1hLUk3TThfV0txQzh3Nk1VU2dYbVZ3TEUzWXVnWEd4ckR3Y21KdHZoNkM2OVE?oc=5",
-    "timestamp": "2026-07-08T08:23:08+00:00",
-    "source": "iranintl"
-  },
-  "419825c3d51e12592776af29c01b687d": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EbjR4RFhGZTRGWWlFMTRsSk1ub1NNNkNMajFSeS1hLUk3TThfV0txQzh3Nk1VU2dYbVZ3TEUzWXVnWEd4ckR3Y21KdHZoNkM2OVE?oc=5",
-    "timestamp": "2026-07-08T08:23:08+00:00",
-    "source": "iranintl"
-  },
-  "e044a7b057f633949456f39f505ddf3f": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GNS1YMVBBbmtka3Z0UkdnbVNfbDd5YVFwUHNFenRQRzAzaVJmeWlfNUdmN0pCbmRod0dySlBpaDdqaXJUMmEwY2ZoZ3drd0NlelE?oc=5",
-    "timestamp": "2026-07-08T08:11:28+00:00",
-    "source": "iranintl"
-  },
-  "c58a45675b49287e4afc237747ed1086": {
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMExaYnBnZDQxVm9fVEpSMjNqVFhmRkhLVnRBd2ZrSk5VNHZISUQ3ekhlZHVFOEtqcFktcndPeFRxQXdLWVNKWllXQWIzdDlkMHdObGlWWDB0TVh5VEN5NHZxWTBBa0kxZ2ZyNUt1OXZPOTFMZExvMFdDTkJoS0dvS0ZNN3c0RUhObnJMZUVDUGlRSTVrOTRtRlRkX1REaXZseVptY2JBRWc0SVVnX255a05VQWxWOFNhb3ZubHY5eFpUN2pqckt3?oc=5",
-    "timestamp": "2026-07-08T07:55:51+00:00",
-    "source": "reuters"
   }
 }
