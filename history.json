@@ -4,10 +4,20 @@
     "timestamp": "2026-07-13T21:51:44+00:00",
     "source": "nyt"
   },
+  "e6a81e494d6294c26f8007b680659614": {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTZsOUhDOHRqLTNSOUNGM2VMOVhkNXExcjd6Y1lPQlNiNkYxVk40RURyNDBTbW9Wb0kzdUg2Sm5WNFRuYW1oVHhOUk05S0x1aU1tMkVRNnF4Ui1NOFNqZE92UjdFRTZpTkVaOE54Q3hnaUhtcjFsNVhYRkhyUm85QzBUcjg2QXJzczhvSzlLd0lXXzVNOFNrVlJrUC0tM0NSUjFKdDZzNTNlcWdfdjFoQ0JlX3FwM3REZHpB?oc=5",
+    "timestamp": "2026-07-13T21:09:43+00:00",
+    "source": "reuters"
+  },
   "23d2a19b7255092153f55adbbe6445fb": {
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM2RCTlAtbmVLSG1sQjJCblpURk9nQ2JPWFpoR1dKNWJxQVVZNGpRM1hGSEFKa1VQQy14UnhtcTFOeGswVUhFQXJ3ZWRyekU4NXNzaWhPY2xyN0JoYVg3bnFXTURPSHUyYTZEOUZOWDdIQmZMTVlKV0RHU19qNjRwUDM4NFVZRVp0YnBETnhwWkxKVkpEMHpEY0ZKNEFqdzFQNjlFRE5uMUNyT2hvSXZvc2Q2Q2lIT0l1?oc=5",
     "timestamp": "2026-07-13T21:08:07+00:00",
     "source": "reuters"
+  },
+  "8d22bf4c18a44efb8792a4fff311ff48": {
+    "url": "https://www.france24.com/en/ukraine-strikes-halt-shipping-on-key-wheat-route-as-russian-fuel-crisis-deepens",
+    "timestamp": "2026-07-13T21:00:50+00:00",
+    "source": "afp"
   },
   "66f797a278d2c365051d6e644bb0e3c5": {
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0MxRE1KWWs1OXh4SkpMa3dwZWQzSEhxMm11YkNzX1diNFJxNWl6TkxBV1VNczl0c1hheGVMT0l4UVpFcW15YVotc3ZrV1E1bi1TM2tHS3dfdTN1YTJpUTVLdG95RUpELXo5dm9GUFNKSUZ2ekdNdHNfZ2NLQlRyVV94LVhsbVVLSWNvbndVbmpNWTJiMEFlSzBLVDFoeFpXc2FpRzJ3?oc=5",
@@ -63,6 +73,11 @@
     "url": "https://www.france24.com/en/europe/20260713-ukraine-allies-gather-paris-step-defence-aid-heighten-pressure-russia",
     "timestamp": "2026-07-13T18:50:07+00:00",
     "source": "afp"
+  },
+  "c299a2a4c7a2a586377116f6955009c4": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80Q3pDejhpMktlZkhQUENOc1VrY01HWnozTWdmSUhUSFhQZ2pRMG8xMndaSU0zRmFMRHdQYnJTc3ZtRUdtZUhTbnVPSTB5VE5QSWc?oc=5",
+    "timestamp": "2026-07-13T18:41:48+00:00",
+    "source": "iranintl"
   },
   "3cf882bbd5f3403295f6b4c2e16d0b44": {
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2dZM1Z4UFFmcllDRXdWU1NXZkVHdTlOZHc5TloxS1FOQlRCYTdCbjZJRXk5OW81QnZIUFBRWnFIeThHX2ZESS1hU2JReFl4UldEcFBBS0pjdEtITlpJZWFZamtOQjhWYlVFdUJRbVdZZ1NaU2VLLTJ4Wkx1Q0dJaHdXQUE4ekNCZURKUDg5Tlo2QzRhVXNZdkdxdEFHSEFId2hEMGIwRUZuZFRPS2tqa0UzVUdkVXNNUHVLYTB3?oc=5",
@@ -158,6 +173,11 @@
     "url": "https://www.france24.com/en/despite-power-returning-to-cuba-blackouts-are-still-a-regular-occurrence",
     "timestamp": "2026-07-13T13:42:22+00:00",
     "source": "afp"
+  },
+  "b8c16ba2b3701687dd4e8c44c19321a9": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JNUVuWlV4SW9IMTBzTHJ1dlNOTUNBUkwtWGlBNzY3dHEzNjhQNUFvMlFUTlRGVktubmVtU1oweTNTd1pBc0FSbFBZQXRNNFFkZXc?oc=5",
+    "timestamp": "2026-07-13T13:03:31+00:00",
+    "source": "iranintl"
   },
   "cc245580aed1bbdaf828f42473e2e3f5": {
     "url": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html",
@@ -353,6 +373,11 @@
     "url": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html",
     "timestamp": "2026-07-13T04:37:31+00:00",
     "source": "nyt"
+  },
+  "28b80bc33e86a5bd2b0a3e2d7a0f08d7": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TMGZYY3hNNkpUZEVjN01hVkt0SDI1T3VxUGNjNzViYjBqT3E0OXBpbTYzTDRibUdkS0k5N0JqSlMyVk1rZEwyS1BZVm5ia0JnOWc?oc=5",
+    "timestamp": "2026-07-13T03:49:50+00:00",
+    "source": "iranintl"
   },
   "1ddc7e041a4dd3a727fc2538b3fb6f7a": {
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UZkhENnBDdmkya0tIUnpRc2t1d2s4cFBHMTJsUW5jbEZ2LTV1eXkzR2VaZlNlZVJybUR2OU50S3RyWV9CeDlWYVd3NDJ5dXBYd3FzeVhRaVlITEhWNTJ4Z2JmZnh1YzE2TVlGd3o2ZXI?oc=5",
@@ -2473,30 +2498,5 @@
     "url": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
     "timestamp": "2026-07-08T16:29:02+00:00",
     "source": "nyt"
-  },
-  "a502aa572a636f901946f877538c9d65": {
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0tiMk9sUC1oMXdEOFM1cnljQkMyWEZqcnlDSVkyY0l4LUpleFlZdk4zM3Y1d0o4RnVUYVRFbnZ6Rk5qOWZVby0wSGxkUHZDaThhQm9MZ2pldUt1cDZReXc1YmFKSWNmajJLbnpIbGZlZnhWNDkyNXQ4X0wxckFPNGRlR2dDZXdkdFRBbG1HbmFPaEFRWEVn?oc=5",
-    "timestamp": "2026-07-08T16:25:00+00:00",
-    "source": "ap"
-  },
-  "9c3effce8d9e20eaf1835fbff209253d": {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNGJYMUZ3UGdSbzVjQ1lZdEE2RWJYclBpczc3c3k2OXhROTk5NTFtTjJrbUhuWGhaaEhCQm1KQ19jQWxfZEFjUHZoS0J5Wjg0Z1lmNTQ0azNJblhrV3NCWS0zeTNGS2VsdTZ4eHJtV0Jmci14MVI2UXF0Wlh6UXBZMGczM1RsUkVOT09Mb0JCdlB3LVZDaGZfRzkxaHI3VkxYVlJGSVVhNmlBWmhOWDJ1cWVteGowZzRPbFE?oc=5",
-    "timestamp": "2026-07-08T16:22:17+00:00",
-    "source": "reuters"
-  },
-  "cb4a91cd56dd0bcc62b34d7bfd7c8dd9": {
-    "url": "https://www.france24.com/en/americas/20260708-trump-says-he-will-allow-ukraine-to-make-its-own-patriot-missiles",
-    "timestamp": "2026-07-08T16:05:16+00:00",
-    "source": "afp"
-  },
-  "743b2be3a27465b831596184d7038899": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnZfNjg1eEdZNWlueERQYzhObG1hQ05BN3FNUVlvV1dYRk5uakl0SHFwNkVpTmluWGo2aGdHc29lWFhZNnBWUUVTSTc1MVgwWFZ4cmM5aThvQldlYzZyTktnRG9MRXdUdGI1ekhTLUhGNGJlak1xcFJnYkNRQlMzVm9iV043djdqQ0lyang5NkJ6eVJQUTJUbHFDUlJoWkU?oc=5",
-    "timestamp": "2026-07-08T16:02:47+00:00",
-    "source": "reuters"
-  },
-  "d0d8bf189b8db52814ff35280d2ea05d": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xd1o1MzY4aXpXd3M1aEFKTk1tcEhpeXVRT1NLYU4yMmxwb2o4OFBoTmNJUTNWUldld0lWd0lHNTZDcUQwSDJKWGxocDRieXBlWGc?oc=5",
-    "timestamp": "2026-07-08T15:47:20+00:00",
-    "source": "iranintl"
   }
 }
