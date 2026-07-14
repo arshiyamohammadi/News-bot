@@ -1,8 +1,18 @@
 {
+  "6cc9e462eea0f0667855a283b33d4c53": {
+    "url": "https://www.france24.com/en/france/20260714-france-bastille-day-parade-showcase-european-support-ukraine",
+    "timestamp": "2026-07-14T06:16:49+00:00",
+    "source": "afp"
+  },
   "a69f947053935130286d98517114dc8b": {
     "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
     "timestamp": "2026-07-14T05:11:40+00:00",
     "source": "nyt"
+  },
+  "f35219124782f4074ae52aa1399a7a45": {
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNejNzVDJ0X1diZnVDa0dSRU1KQjN0YllPMTQxNThmVzdlaERWV0oxRGdvOUpBby02U2txQV8waXFUaUpGalhZSExKTnhJMXl1azZaaGtrY3J0SXpSUHMxa3NLZ2J1d0ZQSnlXazA0cTZ2Y21TYXU2dDltd3gybFF3Vk5JcGFKdw?oc=5",
+    "timestamp": "2026-07-14T04:32:00+00:00",
+    "source": "reuters"
   },
   "b6f930cad2bd37e3d263ebf35a2bbfdd": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fT3BLbjhlWkJxUXVnWmljLTVXNmJoV0w3aG1UM2VnYmtKUlh3aUEwelZRdlhWM3pOc1JER0c2N2xIT3dHY2ZiSmlydUpabC0zU3c?oc=5",
@@ -14,10 +24,25 @@
     "timestamp": "2026-07-14T03:02:48+00:00",
     "source": "radiofarda"
   },
+  "25d5f0e30d7b496169200488319e915f": {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGpqNHVtR2tXdDB5RnBUeHF0U2oyRDRMNnduQVM0eHBWOTVxalVjSGdOMXlFZGxNRUc2dW9fcUttclVoVTdKbk5rRUlVOEdqWHFQRzd5WllrZGI2dnhOVEJXRDU1eFhSVlAtZDk2UEFCRExBdEQxMEdhTENzdzVRVWpaVUhJU2l2RU1KT0xobmNyeGtPcEY1S3Exb3doaG8?oc=5",
+    "timestamp": "2026-07-14T02:57:00+00:00",
+    "source": "reuters"
+  },
   "d7d5ec44de42904ec20d848eb7f491e2": {
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nNDZnQnlkQkk1QVMxdEtneHNXbnh6c2M0RUdVMHFvX1lhUHpjcTBkdEFTR3gwSzFnWGZ5cERfdFVqU095cEdCSE0ydGUwV2xGeFFvWmhZamRBSmZxX2MyYlNtVWxkLUg3dFkyUlFqQnBMc3RlQUpKQQ?oc=5",
     "timestamp": "2026-07-14T02:12:56+00:00",
     "source": "fars"
+  },
+  "9e975fcb15287e0a60929248a6e04e16": {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRU40NXRXRVB0M1NDME9RaHBpSWUtSFhWZmR6MGctY3FVZnRQRFhPUUUyM0R4NUpTZ2h6M2FjVXltSDdOWXRnOUllQWlReVRWX2ttUTZaQ0hGVWFVN1EzQnloS2FUTDFCZzg1MWZwZkFoVTZBN2c1Wk9kaTJuWlFEY1dOZFZ5ZlZldUF1RVBVQ1FjRnM2c19UUnZxc0Qyc2NYMExVNlJqSHhVdHZwc2lhU0VfRU1IV3FNN2Ffa3BfUE5lSkEwNFhWVHBzLUF1S1JFc2lV?oc=5",
+    "timestamp": "2026-07-14T01:59:44+00:00",
+    "source": "fars"
+  },
+  "3d21667bcfe86415502e80e329182301": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84T2xmdEwzNFpnX2lpcjY1bVhwRWw2dnZJVXpTVkhiWXM1UEFwbVhNaHZuRzdGNFVjRzlKWXBVeEVfakNGekxPUHg3c1NURHNVZ3c?oc=5",
+    "timestamp": "2026-07-14T01:56:45+00:00",
+    "source": "iranintl"
   },
   "4714e6b7b5265675499c82213d29f25b": {
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWRaMVFPRFNSMDhQQ1dQT09aWlhsdzdhVGVFcGUzblZreE9kSms3eXc3ZjRlbVhvdUtFRW5IQ3ZSSE42bnhoTGxIaVlwbVVQR0tLUE0yY1N3NTJ2Qko2S01pNHREcW5CbmpweXpORmVRRzdCR0RDcTRjeG9oS2tqR2hIWQ?oc=5",
@@ -59,10 +84,20 @@
     "timestamp": "2026-07-13T23:10:20+00:00",
     "source": "afp"
   },
+  "636b2c855ef08ac4be5bbc1d0bb3e6ad": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xS0ZnYWs0NTdETWc5aWpGRGV1R3YxSkxUdDZ2a0hqb0VKT2l2SnN5QXpJUlNEeERVVTlfOHcyaUN0VXBoNjFXeDdGSUR0ZHlScmc?oc=5",
+    "timestamp": "2026-07-13T23:01:11+00:00",
+    "source": "iranintl"
+  },
   "7272d99781ec06ddbd8fab7b8888f825": {
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFlnQU14UlRYVHMtT3FqRk9meEE0S2ZsVFBLcEJuRWJWc2FSZzVoYmtJSlM5RG9IWnRlRGxMSE5FTmxlNVF2Unl4ZXBwNzN1WmxYSjVHU1pWNURHZDhGTVNoYnY3Z2l1LUY0WnRjU0dSbmM5NVpWaU1mTnhZZzVpNURIdGEyMWlVcFl3U1EtYU0xSVBMcEVrckk2ZVlxbHlwS2REVlJTR1FRM1NqR3c4?oc=5",
     "timestamp": "2026-07-13T22:49:43+00:00",
     "source": "reuters"
+  },
+  "cc8b0f7414b45fa39d895ffba220103e": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IN21faEJ3alNsUzc1YjJFWjZieUJZb0pPbkVUbm5EZUF1SUIyNTRTQ0JlSk9YcXdIM0dOUlVueEhCdm54VFZuLXdxLVlFWEFrbEE?oc=5",
+    "timestamp": "2026-07-13T22:38:24+00:00",
+    "source": "iranintl"
   },
   "d990b4e6f4a605cda016ec1b19b08115": {
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdF9iNjRwdm9pODdabFB6TGd0b0llZjQxY3NDQWktelE1c2NnUERlYUs2TnNPc0JBaFZvWlZhM3VfRUVwTV9MZUFteVh3VlV0QVhfZi1NUGpQdEp3elpuYnFrVE9Yb1BzNmtGLWdiYlJ2THBOT3NrRmppdG5mNWFVRDcyWmFSRHJzWXJyVVpQYy16cVZKb1I1UEh4eFdYN1VURkFtQmNVanhnM2I4Y3JSLXhHTmhOMXBmSTRMZE4xam5CSlN1eGFR?oc=5",
@@ -2463,40 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDdlUFI0ZlhmRXYzUkRWWUlVV005dk9vdjJQQ3AxVUtfN0tyTXJzRGxHZ3JqQTJ1SXBqYk5IdV9NSjN1dWptYWtpRVZCdWN1TkltSFpmX3o4ZzQ0RFpRTmxyb2tNR0hmTllzNThLbGhQazBzZzhLQ2x2REpndFZjX2pDRE5RRkRsQVlNcXRoOHd1eDhNaDIxeUN2bHVEdjRTaU9EZF9KcE9maU5TSGVfRWNYWEdnei11dUE?oc=5",
     "timestamp": "2026-07-08T21:36:00+00:00",
     "source": "reuters"
-  },
-  "4c2aaa42245440f052f1b64243f92148": {
-    "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
-    "timestamp": "2026-07-08T21:35:12+00:00",
-    "source": "nyt"
-  },
-  "a4651407a14f564a900bb3118eb3dad5": {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUM2ZFdKamlfMWU5T1hKektYbWUwdFVoX3BRLXZLTGthRFluNnROWFpNYVh0VGVKRW1wVXF4ZFRIaHl4VFhwbElOMjZ1cWlnWlFKTXNHQWl6blBubkFKbnhwTW1mZGl1Snl5V1pkaVhBeU5zY3VpV0Zna3JmTGxLVHphX0dlM3JnRHMyQUhNalNKRmhpY1R3Qmhwa3dEVXZfRmRiUw?oc=5",
-    "timestamp": "2026-07-08T21:34:14+00:00",
-    "source": "fars"
-  },
-  "4aa773c793f246c34122ab90cb0b5d88": {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0NqVzlKZzNJNW9zNXBKRDZBNENiYUZqdHktVVZ4YUZTeWV2N21Ka1RsMjZTc19NUWpFSjBzbDJwb25WaC1HYUJzVU5RU25DZGVVZTc3V1ljdi1TdWdHcFJiTGdYa3lacHEydGdDZ2FEek4zV0o4eVEzZUNlV0RETTNZM2Z6UFVkZXVqMVMyYnhZLW5SSnA3d05BX3NfMGNfMGc5ckQ1eTBSSDVqWjY1d2Zn?oc=5",
-    "timestamp": "2026-07-08T21:34:14+00:00",
-    "source": "fars"
-  },
-  "77936d6324e3fe968a98c5dac21aacb9": {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUM2ZFdKamlfMWU5T1hKektYbWUwdFVoX3BRLXZLTGthRFluNnROWFpNYVh0VGVKRW1wVXF4ZFRIaHl4VFhwbElOMjZ1cWlnWlFKTXNHQWl6blBubkFKbnhwTW1mZGl1Snl5V1pkaVhBeU5zY3VpV0Zna3JmTGxLVHphX0dlM3JnRHMyQUhNalNKRmhpY1R3Qmhwa3dEVXZfRmRiUw?oc=5",
-    "timestamp": "2026-07-08T21:34:14+00:00",
-    "source": "fars"
-  },
-  "c602adb123a047bc77104f9d083e561d": {
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXRXN1ZOY3dWb0Y3bFliM0t6QVRjQkxGNmNRRkVPM29YazVXaXVpaFo3N2h2MHdBLUlTMWNROTJuTUJQNFhaR3BwTzV5b0NDYk1WOG5NMXRHLWhuNHF1NXJqOFM0Vzg2TWo2bXRCUS11WmFEeU45UURDV0dqX0szLWxfbkptQXFxQVJXM0hjY2lkS1VJdkljZWFR?oc=5",
-    "timestamp": "2026-07-08T21:19:00+00:00",
-    "source": "ap"
-  },
-  "1ff25f29e4f17926f5a762abcec6d996": {
-    "url": "https://www.france24.com/en/tv-shows/a-propos/20260708-us-says-it-s-carrying-out-more-strikes-after-iran-s-attacks-in-strait-of-hormuz",
-    "timestamp": "2026-07-08T21:08:07+00:00",
-    "source": "afp"
-  },
-  "aee69eaa40c340450196df6607b310ea": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoRGg0WjlZaF9NY2pFWWlIY2Q0TGtWd2hyS0pRNnpBZlRrblBaeGJPMFJWQWt4ZGpGWUlXSVpaUGJLS19aUWxfeWtLX1ZIRVFRb3c?oc=5",
-    "timestamp": "2026-07-08T20:59:27+00:00",
-    "source": "iranintl"
   }
 }
