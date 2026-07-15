@@ -1,8 +1,23 @@
 {
+  "2122d07d8078da586748c8973f40ce1b": {
+    "url": "https://www.france24.com/en/video/20260715-cuba-slowly-gets-power-back-after-third-blackout-in-10-days",
+    "timestamp": "2026-07-15T13:20:42+00:00",
+    "source": "afp"
+  },
+  "9fac57773637744248cd84fb11e7f059": {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSS1YZ2NFOVEtLTFaVmtvM0N2NXc3enBnUnozLW04OENJQzJoOHBrVkhQYnlOY0l0SmJWVlNUaFZzUHNna2JZMksxWFQ4NTUyeDZPNjFwNjBkOU5RdkpPT1lodzFRMU5Gb25Sa3ZGYjNDbEhjRWpISS1jSkFuUUFJbnVuRmRWTy0xeXoxWkFaal9Yc0M2bHU4RFVYNnRYZw?oc=5",
+    "timestamp": "2026-07-15T12:45:44+00:00",
+    "source": "reuters"
+  },
   "a76d6d29ab170bb8635dfec69f3f94a1": {
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0ZjN3ZmUVdvbVVLMXFrejJubVRQczZPdVF0QkVwQ3B4SkdNWERtQU5Na0NFWGdrZ0pjU0w1MC05SjhpOHRRVDRZY2lDQkFnRERXWGR6QmlIcV9LaDBQcFdhTThxejdyUDFVbDNBZVlfR0I1Vmg1U19HWERQbnBqUFJJSmpoM2w5VDNacHA4RWZSalpUQ0xwTEpKazJMeGM?oc=5",
     "timestamp": "2026-07-15T11:48:00+00:00",
     "source": "ap"
+  },
+  "02f7fa766f2913db3f6f0b20be81c8c4": {
+    "url": "https://www.france24.com/en/trump-threatens-to-hit-iranian-infrastructure-if-no-deal",
+    "timestamp": "2026-07-15T11:47:38+00:00",
+    "source": "afp"
   },
   "b97cf12449ec81687fc0bc9e23edafb5": {
     "url": "https://www.france24.com/en/europe/20260715-deadly-russian-strike-hits-odesa-as-von-der-leyen-arrives-in-ukraine-with-defence-plans",
@@ -29,10 +44,20 @@
     "timestamp": "2026-07-15T10:59:49+00:00",
     "source": "afp"
   },
+  "ef7ac7e7599ab8d475c8a9c3966c147f": {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVzV0TkplU2pSb1RNbnVZTnAteUt2Y2xqZVphRzNVeWk2bGpYNjA0UmlyZnZwRTdlU3Q3aDhxTVNFRzU1UEtkMHRSS21ZVjhRTGROQXFXRExxNTQxOHRSVnY0TFpvWk00dE9QdjhsU2k2WjFXVXFPNmI5RjFLb3ZBTVptWkowcUFfTVV6Yld3?oc=5",
+    "timestamp": "2026-07-15T10:57:42+00:00",
+    "source": "reuters"
+  },
   "77752b82b0d5061c05804584939b76ef": {
     "url": "https://www.france24.com/en/middle-east/20260715-middle-east-live-tehran-and-us-exchange-strikes-as-blockade-of-iranian-ports-resumes",
     "timestamp": "2026-07-15T10:50:09+00:00",
     "source": "afp"
+  },
+  "9e01427bfe5079db04b4664502f83c44": {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUM2X1dwWlEtWHFxM3dFS1pvOWlDcHNlR0NLTTBiTHR2RU01Y21HTXYwSW5FUng3UFZ1S21GdGhJQlJObjJySjBEa2RLSDJMN3cwNDVjMTJmNW9QVi1UOUVvQ0daRXIyVDJQN0RHX3VZWXRqVElkc0xYUEMtQlVwWW5JYzN0cnhnSmlYS1NhajlBTXhNWUZSRlZWLVo?oc=5",
+    "timestamp": "2026-07-15T10:47:57+00:00",
+    "source": "reuters"
   },
   "728240d86bcadfd6de2ffd6ab71a834a": {
     "url": "https://www.france24.com/en/video/20260715-firefighters-continue-to-battle-contained-fontainebleau-fire-near-paris",
@@ -179,6 +204,11 @@
     "timestamp": "2026-07-15T02:28:33+00:00",
     "source": "fars"
   },
+  "fe58569ba7d4ef15c9eae9baf8e25f95": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3MFAzYnZzVjV5eWs3VXRaNWhJT3FMRWtZckE1MlgyTGh1dzlsSDlhX3VCVkxFWE9WWHBUaHRBOWVZbjJZYnB5RTZidDE0WGlhdGc?oc=5",
+    "timestamp": "2026-07-15T02:14:46+00:00",
+    "source": "iranintl"
+  },
   "4ec2df81674cab8136713af9be7fbf97": {
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WcWVvVktpd2trOEJiQmlfX3IwbU4xZl9KX0J6SUY1R1d4dHk5em5UYk4zVXdlSFlrOUVYVjIxeXR4ZFQyWWstTFdlZmQtMEdua1pCTno0cVRiUzJXNkVIeE1xQ09td3A5c3NJ?oc=5",
     "timestamp": "2026-07-15T02:08:57+00:00",
@@ -217,6 +247,11 @@
   "e89d7f2865d3e6f0b8ec513123cf0c52": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MelRxYU1GM2tCZE9FREd1cWdyZ0ZOOW5BUkkyS3k4eWtGY2dfc0JseVF2ZzYtcHBMRzBQaDlmQ1B4TnlDSTVzVkV3aXgxby1PV0E?oc=5",
     "timestamp": "2026-07-14T23:46:52+00:00",
+    "source": "iranintl"
+  },
+  "7de479df11eacbaa87476d5c83833468": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBN3VRNUw0czc2TENsVnlZRVFuQlpHRk05WkkxVjFtZzM4V29mbDFqdVNSMFE2TFdhLXVNdnlqQkJPZFNxUUk0bk9URzdoSWpXUkE?oc=5",
+    "timestamp": "2026-07-14T23:21:54+00:00",
     "source": "iranintl"
   },
   "4712ebdaa742301a1a8804bd14cc26a6": {
@@ -298,6 +333,11 @@
     "url": "https://www.france24.com/en/video/20260714-spain-s-formidable-opponent-rajoy-credits-france-s-football-success-to-having-no-french-players-1",
     "timestamp": "2026-07-14T18:18:42+00:00",
     "source": "afp"
+  },
+  "79ab0fc5120e65cf63a5821abc6eec1e": {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcmM4SEVCa3F0ZnpBMDdjSi1RejUxUGJ0VVY0RTRZMFFuWEZlUTcyZnhoOFQ5bGl5RmJ0RlJqdFNUWG1Zc2gxOFRXYkpuT184N1JZZkl5ano2VXIyc3NBYi1YQ2hCam9VaVByQklTRlhhcGFEMURhMmkybW9wQkVEdHVPNjIwTHV4SC1oZy1xcHJFcHZKaEhpNzVwUElHeENobmQzQ3d3?oc=5",
+    "timestamp": "2026-07-14T17:32:29+00:00",
+    "source": "fars"
   },
   "a0dbfe626ad641b25428bf1e5a2ebc84": {
     "url": "https://www.france24.com/en/sport/20260714-france-vs-spain-live-world-cup-favourites-european-champions-semi-final-mbappe-yamal",
@@ -2457,46 +2497,6 @@
   "b18e3adf9c15971c9cf0e8fb763b3ecd": {
     "url": "https://www.france24.com/en/asia-pacific/20260710-17th-century-king-new-anti-muslim-symbol-india-hindu-nationalists",
     "timestamp": "2026-07-10T13:05:43+00:00",
-    "source": "afp"
-  },
-  "b0ea4aa590135bdd95f94e33b4b79775": {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWm8yOEY5OW1ILWYxd3BWdElGRVZBNTlrdDNSZ1F0NWRLMnlwNERTcGV4SlE5Y255SktnYjRZeHpaV1pWU1hDWV9tWmZUR3ZLR3N1aEdPSHZBSjd3MkpIRVNiaTVLc1BKU1U4bUlXSXRuZkJhMWtEY3FKTDlXZUFRZThtbEFPQ282VHBvX1lEdGd3eklvQ1BkdjVCYXVSal8xb0ozcnEtXzVQaTFqTG9lTW9B?oc=5",
-    "timestamp": "2026-07-10T12:44:40+00:00",
-    "source": "reuters"
-  },
-  "56064b64e4f3c2387ac11388e8635984": {
-    "url": "https://www.france24.com/en/president-erdogan-s-unusual-gift-to-nato-leaders-sparks-surprise",
-    "timestamp": "2026-07-10T12:44:27+00:00",
-    "source": "afp"
-  },
-  "f480cbe533fb4e0a1b027c00cbda091c": {
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yLUVDZEdGamJKM1Rfci1ZeXlQU2lQR09qTF9Vc3o5bWVoTjVzcGx6TXNIWTk2SFZZblZhLUlGVTFHWENtWFpPM3ZYbWhZNFpJcUdXWExkaml5clhwNjVvaldFTXBLWXc?oc=5",
-    "timestamp": "2026-07-10T12:24:22+00:00",
-    "source": "fars"
-  },
-  "2632542b546829d6cdd6a66a57501c00": {
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yLUVDZEdGamJKM1Rfci1ZeXlQU2lQR09qTF9Vc3o5bWVoTjVzcGx6TXNIWTk2SFZZblZhLUlGVTFHWENtWFpPM3ZYbWhZNFpJcUdXWExkaml5clhwNjVvaldFTXBLWXc?oc=5",
-    "timestamp": "2026-07-10T12:24:22+00:00",
-    "source": "fars"
-  },
-  "33cbb4d9d20381cdb0f5c437876d56f0": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0M2ZZSEpYdWZnd2NPT3hwbDFIczlYTDBxVDh1NW9FNVpfc0g0THNDSjVLb3U1eFQ1azhibUx3M296VGlBaTZlLU1fYlZnRXBINEE?oc=5",
-    "timestamp": "2026-07-10T12:15:49+00:00",
-    "source": "iranintl"
-  },
-  "28f76bcaaa7743f3aa75b5fd5c80687b": {
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM3RKMFk3cHFOdURWcDhtd0trdzhsYWhsdjZ5dzBrQUx2Q01KeDVvTnFkODhIZTZKeXVYTUh4MzZKQ1U3NklhSWlRQUJuN0dPNTFLelFZcWY4WGVHWXNuZkxBYlZ6Nk5yQzZVSHNBZjRROHE1d3FpRGNOa194ZUczamtzdVdlQnFDUHkwb0t4bXlyWnZTWUwwcWs2OVVXQUVETndjRXJaaTJERnd4MXlUWVNpUkhwV1pQeEFZTXJRdkQ4U0ZXRHNr?oc=5",
-    "timestamp": "2026-07-10T12:11:44+00:00",
-    "source": "reuters"
-  },
-  "00b8d35fb7f1cb1c22618d0886498283": {
-    "url": "https://www.nytimes.com/2026/07/10/world/europe/greece-bombing-arrests.html",
-    "timestamp": "2026-07-10T11:26:02+00:00",
-    "source": "nyt"
-  },
-  "ec65de17b95c3e221865ac4d51ec2821": {
-    "url": "https://www.france24.com/en/iran-ramps-up-regional-pressure-after-renewed-us-strikes",
-    "timestamp": "2026-07-10T11:07:01+00:00",
     "source": "afp"
   }
 }
