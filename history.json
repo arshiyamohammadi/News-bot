@@ -1,4 +1,34 @@
 {
+  "7cfda65650edba284a99316bb9c17fcf": {
+    "url": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
+    "timestamp": "2026-07-15T15:33:48+00:00",
+    "source": "nyt"
+  },
+  "55eb471aa2d75ec5810a196a089ec006": {
+    "url": "https://www.france24.com/en/video/20260715-briton-jailed-in-iran-given-additional-two-year-sentence-family-says",
+    "timestamp": "2026-07-15T14:59:14+00:00",
+    "source": "afp"
+  },
+  "0f0679f5951d89bf8213ae7b4b5984ae": {
+    "url": "https://www.france24.com/en/video/20260715-argentina-and-england-collide-with-world-cup-final-spot-at-stake",
+    "timestamp": "2026-07-15T14:56:33+00:00",
+    "source": "afp"
+  },
+  "c2db3cf40ed87e6dd41c6c24b8cb586c": {
+    "url": "https://www.nytimes.com/2026/07/15/world/middleeast/israel-us-iran-trump.html",
+    "timestamp": "2026-07-15T14:44:50+00:00",
+    "source": "nyt"
+  },
+  "ac91c3719f14d3ebdde3c9fe34def6de": {
+    "url": "https://www.nytimes.com/2026/07/15/world/americas/argentina-england-rivalry-world-cup.html",
+    "timestamp": "2026-07-15T14:20:36+00:00",
+    "source": "nyt"
+  },
+  "c426554e754395ce271dc2ef28c22461": {
+    "url": "https://www.france24.com/en/tv-shows/perspective/20260715-expert-warns-european-temperatures-are-warming-the-fastest",
+    "timestamp": "2026-07-15T13:44:10+00:00",
+    "source": "afp"
+  },
   "2122d07d8078da586748c8973f40ce1b": {
     "url": "https://www.france24.com/en/video/20260715-cuba-slowly-gets-power-back-after-third-blackout-in-10-days",
     "timestamp": "2026-07-15T13:20:42+00:00",
@@ -44,6 +74,11 @@
     "timestamp": "2026-07-15T10:59:49+00:00",
     "source": "afp"
   },
+  "b933fba1eac905ca6092df6943ae0473": {
+    "url": "https://www.nytimes.com/2026/07/15/world/asia/china-seismologist-north-korea-nuclear.html",
+    "timestamp": "2026-07-15T10:58:43+00:00",
+    "source": "nyt"
+  },
   "ef7ac7e7599ab8d475c8a9c3966c147f": {
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVzV0TkplU2pSb1RNbnVZTnAteUt2Y2xqZVphRzNVeWk2bGpYNjA0UmlyZnZwRTdlU3Q3aDhxTVNFRzU1UEtkMHRSS21ZVjhRTGROQXFXRExxNTQxOHRSVnY0TFpvWk00dE9QdjhsU2k2WjFXVXFPNmI5RjFLb3ZBTVptWkowcUFfTVV6Yld3?oc=5",
     "timestamp": "2026-07-15T10:57:42+00:00",
@@ -78,6 +113,11 @@
     "url": "https://www.france24.com/en/middle-east/20260715-iran-threatens-to-cut-off-major-vital-seaways-in-response-to-trump-s-renewed-blockade",
     "timestamp": "2026-07-15T09:46:19+00:00",
     "source": "afp"
+  },
+  "afe5b05fe616c32ab53cc586a18dea06": {
+    "url": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-russia-crimea-azov-sea.html",
+    "timestamp": "2026-07-15T09:38:52+00:00",
+    "source": "nyt"
   },
   "938e6438221707f2eaca6bfb16b34fdb": {
     "url": "https://www.france24.com/en/video/20260715-lebanon-israel-hold-us-brokered-talks-in-rome",
@@ -2458,45 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRDF0ejRSU1R0elh3U1BIRE5ubTZLS0lOZmZHYTNUS0JZem5rVU8yc0prZE5JV2JhQUVheXNUanotbzNQSWxYLUd0Y0pSUnlCTGRsdnRiaTB0NGhabGZUeGhPNFo0blUtOXEyNUFFdTdBcGppT1BVVjd1b2JZeEowN1lqd0hPQUl1b3hfVEw3NGo4SkhPYjlfM3ViNkRsYk9w?oc=5",
     "timestamp": "2026-07-10T14:25:00+00:00",
     "source": "ap"
-  },
-  "625001b162f4460e086ed756941ae432": {
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa2Q2dEh5VWx3d29Qck56WDZFVXFyRTdzOVpBSWVmZU9yU0x5MHNVWjNGU2JuYmptaTFMSWNybVdlYmxKSWlISzJpbGFidTZ3cnA0Q2F0bWNkZHBFNlI1ZldYV2t2NEJUbERKTlpNdG00YlBKTUFjNFpiYXdnU1h5cUwtWVhudlc0ZVVNdnlWWDdRZmZOek82Mk93?oc=5",
-    "timestamp": "2026-07-10T14:25:00+00:00",
-    "source": "ap"
-  },
-  "c81c72dab82493e79d41bd4a637f9de3": {
-    "url": "https://www.france24.com/en/israel-warns-us-of-alleged-iran-plot-to-assassinate-trump",
-    "timestamp": "2026-07-10T13:57:50+00:00",
-    "source": "afp"
-  },
-  "416f6cdaa63e0d6fa4ba9de94d2a59c0": {
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd29zU3Z3SXZTdk1Gb0V5cFVnRGVFQnhwSmJoYy1RYUxfYzZRRkJXblQ4ZjRlZEV3aW9EenF1dXl3MUpvc0VVVThBN2FGb1ZQZzQzNlEtdkZYNkZWMHhIZGxSNTBjVWFSNFRldmt2LUxuNHY0YVRONzNkYkV2VVpiUjZPVVN0Q3NXZm9ONFpyU2tJeGpfZU9FNTh5RGpDa21DV19jTHpXbw?oc=5",
-    "timestamp": "2026-07-10T13:56:23+00:00",
-    "source": "reuters"
-  },
-  "8eae0efeb8ebcae9cec200db9c8dcbff": {
-    "url": "https://www.france24.com/en/behind-khamenei-s-funeral-iran-s-bid-to-show-strength",
-    "timestamp": "2026-07-10T13:37:40+00:00",
-    "source": "afp"
-  },
-  "8bdeac48c259c3ecfc3474253a34b483": {
-    "url": "https://www.france24.com/en/europe/20260710-ukrainian-spy-accused-of-killing-monaco-bombing-suspect-retracts-confession",
-    "timestamp": "2026-07-10T13:31:37+00:00",
-    "source": "afp"
-  },
-  "4b15f76e44b5bd901ae19964e21d4231": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpWGVTREhLY1lCVGgxamZaSEFNVy1MUlU2UWVJNVhsTVJhNERyRWRHN2c4VVdWSXNhckRxS29McDdOdFQ4cFdZSkJSVEdfcGlobFE?oc=5",
-    "timestamp": "2026-07-10T13:21:41+00:00",
-    "source": "iranintl"
-  },
-  "b7b0a5f5cf39eb0ce32747d95af30622": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13NDFmNTJ5S0JkRVN6ZDhKc1FtSjRWWk4yaW5GajcwWGtfMUpQUEgtTm9SNEVCTXlXcGt4S25xa0lkOGxUUFlsNFczZmc1TVZ5aEE?oc=5",
-    "timestamp": "2026-07-10T13:06:45+00:00",
-    "source": "iranintl"
-  },
-  "b18e3adf9c15971c9cf0e8fb763b3ecd": {
-    "url": "https://www.france24.com/en/asia-pacific/20260710-17th-century-king-new-anti-muslim-symbol-india-hindu-nationalists",
-    "timestamp": "2026-07-10T13:05:43+00:00",
-    "source": "afp"
   }
 }
