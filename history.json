@@ -1,8 +1,48 @@
 {
+  "1d87eecb421268da509ae2d5bbc7af94": {
+    "url": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html",
+    "timestamp": "2026-07-16T11:41:48+00:00",
+    "source": "nyt"
+  },
+  "d7e7d127ce5c192d6b5d9534c728c3ff": {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbXlsVU1ScmxkMGtQOHJaS0ZOR3UtVkJacXJKYUtwa1piZEEwWmZTVHJKYnl3STk4RzM0SXNKUE5zQlBURUJ3VFhrQmVaekhRbEYwMnpFcVVGMUNlbXc3eVdnN3BURFpndFBrRG9sbHM4WmdsbXh5WVh6MzVmdVByeXJxaWdBblRzVjQ5dnllU1U0eHRvd0FzeExGeDUtWU1IVS1ETVBRYlZxUXBfcWtXckVpeU5tV3ZHTVA5Mw?oc=5",
+    "timestamp": "2026-07-16T11:25:11+00:00",
+    "source": "reuters"
+  },
+  "570e0a1b70c4a14668664e2b95a7c218": {
+    "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html",
+    "timestamp": "2026-07-16T11:23:59+00:00",
+    "source": "nyt"
+  },
+  "da7f465b951d7f4f1648a4ea94889dde": {
+    "url": "https://www.nytimes.com/2026/07/16/world/asia/pew-opinion-survey-china-united-states.html",
+    "timestamp": "2026-07-16T10:43:34+00:00",
+    "source": "nyt"
+  },
+  "370a8ef78687baa8b8d98b160b7a4911": {
+    "url": "https://www.france24.com/en/tv-shows/business/20260716-us-imposes-a-25-percent-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
+    "timestamp": "2026-07-16T10:37:21+00:00",
+    "source": "afp"
+  },
+  "f365675993515e4f866d52e0dba4c6bf": {
+    "url": "https://www.france24.com/en/ukrainians-protest-the-dismissal-of-kyiv-s-most-successful-defence-minister",
+    "timestamp": "2026-07-16T10:33:03+00:00",
+    "source": "afp"
+  },
+  "6d1386a2ce6603556d802fcda22f29c7": {
+    "url": "https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html",
+    "timestamp": "2026-07-16T10:27:04+00:00",
+    "source": "nyt"
+  },
   "f769e4e3364ad43e0aa80a2420f7fc22": {
     "url": "https://www.france24.com/en/tv-shows/press-review/20260716-new-pegasus-spyware-revelations-as-french-pm-visits-morocco",
     "timestamp": "2026-07-16T10:25:42+00:00",
     "source": "afp"
+  },
+  "735d2142dae48a9105dc8ce5f106cb53": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JeGcyUnVHaUpnbmUtZktKY3REQUZtb2RlNkxncDlodEJpNjJEN18tZURrUVQ3Ui1Jb0tfU2dSSVhlVDNmM1c4Zm95ZUl6Ujd3NlE?oc=5",
+    "timestamp": "2026-07-16T10:13:09+00:00",
+    "source": "iranintl"
   },
   "4e97191b4c3a53216f6e0ecc0db928e1": {
     "url": "https://www.france24.com/en/ahead-of-french-pm-s-visit-rabat-faces-allegations-of-spying-on-paris",
@@ -13,6 +53,11 @@
     "url": "https://www.france24.com/en/a-week-of-strikes-shatters-hope-of-a-lasting-us-iran-peace-deal",
     "timestamp": "2026-07-16T09:58:45+00:00",
     "source": "afp"
+  },
+  "4050d05bcc1347ae207342436d2553ed": {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTDJBcVRRQUtnWnRHWTd3MENKUERJUEl5Qm5BRmlYTW5vSHNYUnVPNTVJc2pJQlRrVTBNT09MRTMwbC1scXFoclJTaUY4U0RfVUwtUXlPV24xQ3dnQTVRR1RORE1GalpWSkxGX3EtRXlseXJjb3JUeWw2azJlUlZtaHJkZWFtOUVJMThoTTZoYnZGZHBzZ2MwdjJZN1FzNkRSNEJXdWdsUTRwTkp0M3RrMFJNakxicTRlUDFnZVBuVktXUW5zd2R1WEpfTTE?oc=5",
+    "timestamp": "2026-07-16T09:56:26+00:00",
+    "source": "reuters"
   },
   "9551fb1f74da172729d4bf77fadeeac4": {
     "url": "https://www.france24.com/en/senegal-s-plastic-man-helps-raise-awareness-about-plastic-pollution",
@@ -29,6 +74,11 @@
     "timestamp": "2026-07-16T09:42:23+00:00",
     "source": "afp"
   },
+  "3d675b5aac1cebd009ac7c01dcc1babf": {
+    "url": "https://www.nytimes.com/2026/07/16/world/asia/india-sonam-wangchuk-cockroach-janata-party-hunger-strike.html",
+    "timestamp": "2026-07-16T09:30:12+00:00",
+    "source": "nyt"
+  },
   "74bb601eae687bf6f8a202d67218a7df": {
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbXlsVU1ScmxkMGtQOHJaS0ZOR3UtVkJacXJKYUtwa1piZEEwWmZTVHJKYnl3STk4RzM0SXNKUE5zQlBURUJ3VFhrQmVaekhRbEYwMnpFcVVGMUNlbXc3eVdnN3BURFpndFBrRG9sbHM4WmdsbXh5WVh6MzVmdVByeXJxaWdBblRzVjQ5dnllU1U0eHRvd0FzeExGeDUtWU1IVS1ETVBRYlZxUXBfcWtXckVpeU5tV3ZHTVA5Mw?oc=5",
     "timestamp": "2026-07-16T09:03:10+00:00",
@@ -44,10 +94,20 @@
     "timestamp": "2026-07-16T08:49:26+00:00",
     "source": "reuters"
   },
+  "8703fe78e9b1b09f37973cfcef69763d": {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43YXJkbDdCTUVWYkVUTU42V191MUM2MEtXeDVTQk5TRE14akEwWi0tQVdiSnl0SXY3d2ZKaldsb0JHSUtlUEJ3TktvWGRxVEY4NmpKOWs5bm82OXg5NlRKbmRJSXVJUC0yNmk2Qzd6RQ?oc=5",
+    "timestamp": "2026-07-16T08:21:26+00:00",
+    "source": "fars"
+  },
   "bcc8525d51e0c4087bb5d695f0fd39a2": {
     "url": "https://www.france24.com/en/europe/20260716-protests-against-removal-of-popular-defence-minister-erupt-across-ukraine",
     "timestamp": "2026-07-16T07:34:49+00:00",
     "source": "afp"
+  },
+  "d82be2d3cb8fa8ba9f7c97c1ac8c73aa": {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVHRNLW41Si1lMVFhLS1XRGQwZkxrcGZ2enh1cURzeXByS2xpSmtPT3dtRXNGYi11RGpyd3h5cDdqeXNlS0ZPSE05T0NSc0JCc1p4ak5HWkZ4dXJQLWxHUExqdVFkdHhUNWZPTjFBdnhyT2VaU0pGTFhyWjh3VDBZUXZIMDdObGdtSEc5LWQwVlFsLVFrUTFuR3B3?oc=5",
+    "timestamp": "2026-07-16T07:21:49+00:00",
+    "source": "fars"
   },
   "0d25f399695c128e3c473b599b0a4aa1": {
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXFnZWtOU1NXb01HY2FxbTBsUmJqNDlaa3NORmpyZ0pYVzhSVFZkaUNYTjczY0E1YjhpR1F1OGRoT3dJNnVTMjVuUGJyamVCckJwMi1WY0hJR2NyVGQ0ZDdzbF9LMzgteGZDRGtMd0ZQV211YWF3cHpYLWdhTXZjTXVhTG1zRkRmR3Q1NVdQRWNEb2xhZU0zRTFodmM4ZXc?oc=5",
@@ -78,6 +138,11 @@
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd2VwbFdaeDBOTHVmbVhHcnRlV2FDU1dmSGZja1pkZ3cxb0JiT3JnYjVOd0UwUmM2cDctWTZtM2xWNXVwLW9odjhlNnVRbWVNMFZSRVBOMVlfTUtxdjVhM1U5VHdYdGp1SUkyWUdvMnlUNDB3ZkNEMTI2M2pIZFd0bC1lZ0lwVzZiZ1Y0UkVWLWxsWndCcVV4cmlsREo0UFVtdm1fdXZQX1RDY1FyMW5sbkp4SkJRVnhGVGhXQnNTd2Y?oc=5",
     "timestamp": "2026-07-16T04:23:00+00:00",
     "source": "reuters"
+  },
+  "a20107aeaae833157ce7b0c511a8bb1d": {
+    "url": "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html",
+    "timestamp": "2026-07-16T04:01:08+00:00",
+    "source": "nyt"
   },
   "ea8cb8376a24a56837a0beb7593e4fc1": {
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ncWh6V0VPazRwYV9uRWswZXc2S0xlXzhHcnJkei1tOVpkbHRZMUVWM3A0aEdPaEE4dDJQTXNrRWJOV3FObk1YSVhrS3c0VlhtSjBHaWc1N0pkcldjNjU4NmVMSzVYR0M0SjJz?oc=5",
@@ -163,6 +228,11 @@
     "url": "https://www.france24.com/en/eu-ukraine-seal-drone-deal-to-boost-production-establish-joint-ventures",
     "timestamp": "2026-07-15T19:34:53+00:00",
     "source": "afp"
+  },
+  "9299a853e30b54f9ae2e95819ccab2b1": {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2emRSSnNtOVVxS2FtdjVGMGdpa1dvdVhIckp5eUdXSC11T1VrRDRjWWtfYnpuNl9VdEFrajJMbGhyNFVGenhUNGloeERHUklvWndaZkc4SEo1MERMUU5KU3RVcHBBa0o0SVZtTW1Waw?oc=5",
+    "timestamp": "2026-07-15T19:12:20+00:00",
+    "source": "fars"
   },
   "c3758e4f61c8c11ead88db6a84ee3a54": {
     "url": "https://www.france24.com/en/middle-east/20260715-us-launches-wave-of-strikes-on-iran-tehran-threatens-to-halt-regional-energy-exports",
@@ -2428,75 +2498,5 @@
     "url": "https://www.france24.com/en/video/20260711-an-islandwide-blackout-strikes-cuba-for-the-second-time-this-week",
     "timestamp": "2026-07-11T16:06:27+00:00",
     "source": "afp"
-  },
-  "3c71f51d5314640a659485c5511e0650": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nSm95M1E4cU4xLVlDY2xWUldXN2RfUjZ4RWRYWVo2N3UyVkg5RmNDV0Z0LVVBX282TjFLWEUwVEZWN2FUWkh3MkhJcVQ0U01MLXFnN015WlhIam5JbXc?oc=5",
-    "timestamp": "2026-07-11T16:06:17+00:00",
-    "source": "iranintl"
-  },
-  "9a8b6725bba105fc06a1c38175a40efb": {
-    "url": "https://www.france24.com/en/video/20260711-mojtaba-khamenei-iran-supreme-leader-vows-revenge-for-father-s-killing",
-    "timestamp": "2026-07-11T16:04:57+00:00",
-    "source": "afp"
-  },
-  "595b3eef0605d557fa88f0f0d1a17868": {
-    "url": "https://www.france24.com/en/europe/20260711-overnight-russian-missile-and-drone-strikes-on-ukraine-kill-six-officials-say",
-    "timestamp": "2026-07-11T15:44:09+00:00",
-    "source": "afp"
-  },
-  "5a115771c4b5a4dce11a637cac508202": {
-    "url": "https://www.france24.com/en/europe/20260711-overnight-russian-missile-and-drone-strikes-on-ukraine-kill-six-officials-say",
-    "timestamp": "2026-07-11T15:44:09+00:00",
-    "source": "afp"
-  },
-  "810070808f65dc38c5d95ae258d03be4": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NQ2lLLTlXVkItREczU3ROaHR1ZVhSMHhqMi1yNVVza0huR3RBV0ZGcTAtdm5USXlCWF9TWkFiZlh6T2RlUGo4MkhKS3RuRGd2bVE?oc=5",
-    "timestamp": "2026-07-11T15:33:50+00:00",
-    "source": "iranintl"
-  },
-  "6ada9c3c19f419db938c890478f42de9": {
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
-    "timestamp": "2026-07-11T14:55:00+00:00",
-    "source": "ap"
-  },
-  "95d601d618494d1a00a150d1d5bb3248": {
-    "url": "https://www.france24.com/en/video/20260711-11-wounded-in-overnight-russian-missile-and-drone-strikes-on-kyiv",
-    "timestamp": "2026-07-11T14:54:06+00:00",
-    "source": "afp"
-  },
-  "c9720891ff568205905bd6b0020d466b": {
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82OWVyejE0cnpOQTlDcDhIVm5ETnpfcWJzQzYtYnNqal85N2lnd2FranZaOFFGMGtoUHdlRzlpYnIzVS05ajZQQlpELV9uczkwMmdBNFlfRlh1V1YyN3pLeEgwMEZOYk1sUkVtMHp4TQ?oc=5",
-    "timestamp": "2026-07-11T14:45:10+00:00",
-    "source": "fars"
-  },
-  "ea4c5e4157ca4e2c3215b01878de44d6": {
-    "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
-    "timestamp": "2026-07-11T14:40:19+00:00",
-    "source": "nyt"
-  },
-  "e01c478a236e94b467f60cd8c10cfbd9": {
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa1RjbW1VQ1YtSGN4bXY1MWZrZFZEQjg1eXNuRkxfTGdHaWtiZUFJSUFSNFZObW9meXFDR3A4bFFERTB2SHozZ3lpbzJJbU5aNmFaelpIaWtLSEtHUUdlNWdHbmRvNDhRWEhPS3JSemtzbUZMSUpqVzhsRHppVW5qLWRfcVhpZkQzYVY3SE43RmU3RmJYMy1TcFVQV083Tkh5S3NFQ21QeVhXVmdraEl3?oc=5",
-    "timestamp": "2026-07-11T14:26:29+00:00",
-    "source": "reuters"
-  },
-  "b5c303009abb50de4ec2e092dd5c991a": {
-    "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
-    "timestamp": "2026-07-11T14:02:00+00:00",
-    "source": "nyt"
-  },
-  "2700bdf938fa7055afbd0a1974b22f7f": {
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
-    "timestamp": "2026-07-11T12:41:00+00:00",
-    "source": "ap"
-  },
-  "c7fde6c916aec08d38e136dd548a0959": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YUTlpS0F0NkFYZ3ZOVTFFcFdtTzdZZEZRT0g5SFpmaEs1cm1hY0g3QUVOOTdrRXd5eUZWeFhKWUo4S2xHbUp6UFkxb215Uk5nQWc?oc=5",
-    "timestamp": "2026-07-11T11:32:43+00:00",
-    "source": "iranintl"
-  },
-  "cc964ba2915244ba1fd8141c170a5a4f": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93QUxVMUUzamhKaTctTjVmNFRPeTdTNTQ4cEktRlVsZEZyRy0zVXprTTZTRFpyWktULVJhNmh2QnJKc2RFSWtPQWxYWkRsODdiMUE?oc=5",
-    "timestamp": "2026-07-11T11:18:31+00:00",
-    "source": "iranintl"
   }
 }
