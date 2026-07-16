@@ -1,4 +1,49 @@
 {
+  "f769e4e3364ad43e0aa80a2420f7fc22": {
+    "url": "https://www.france24.com/en/tv-shows/press-review/20260716-new-pegasus-spyware-revelations-as-french-pm-visits-morocco",
+    "timestamp": "2026-07-16T10:25:42+00:00",
+    "source": "afp"
+  },
+  "4e97191b4c3a53216f6e0ecc0db928e1": {
+    "url": "https://www.france24.com/en/ahead-of-french-pm-s-visit-rabat-faces-allegations-of-spying-on-paris",
+    "timestamp": "2026-07-16T10:04:48+00:00",
+    "source": "afp"
+  },
+  "a85be1a5a0f796e7efc06f5aefd3e72c": {
+    "url": "https://www.france24.com/en/a-week-of-strikes-shatters-hope-of-a-lasting-us-iran-peace-deal",
+    "timestamp": "2026-07-16T09:58:45+00:00",
+    "source": "afp"
+  },
+  "9551fb1f74da172729d4bf77fadeeac4": {
+    "url": "https://www.france24.com/en/senegal-s-plastic-man-helps-raise-awareness-about-plastic-pollution",
+    "timestamp": "2026-07-16T09:50:42+00:00",
+    "source": "afp"
+  },
+  "2fc86d336988caf3dff296741e43e34b": {
+    "url": "https://www.france24.com/en/occupied-west-bank-school-protests-planned-demolition-by-israeli-forces",
+    "timestamp": "2026-07-16T09:44:24+00:00",
+    "source": "afp"
+  },
+  "a472bbfcc5a5fd2623cc2fae7f2ef385": {
+    "url": "https://www.france24.com/en/europe/20260716-protests-against-removal-of-popular-defence-minister-erupt-across-ukraine",
+    "timestamp": "2026-07-16T09:42:23+00:00",
+    "source": "afp"
+  },
+  "74bb601eae687bf6f8a202d67218a7df": {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbXlsVU1ScmxkMGtQOHJaS0ZOR3UtVkJacXJKYUtwa1piZEEwWmZTVHJKYnl3STk4RzM0SXNKUE5zQlBURUJ3VFhrQmVaekhRbEYwMnpFcVVGMUNlbXc3eVdnN3BURFpndFBrRG9sbHM4WmdsbXh5WVh6MzVmdVByeXJxaWdBblRzVjQ5dnllU1U0eHRvd0FzeExGeDUtWU1IVS1ETVBRYlZxUXBfcWtXckVpeU5tV3ZHTVA5Mw?oc=5",
+    "timestamp": "2026-07-16T09:03:10+00:00",
+    "source": "reuters"
+  },
+  "983faab3aa42826a79d0bd22513c68ed": {
+    "url": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
+    "timestamp": "2026-07-16T08:50:14+00:00",
+    "source": "nyt"
+  },
+  "0e0c68619de42807d208e566742852f1": {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGxQSEpXZmFYRldBSGhRcTZWZlBvbUFOZFJDeVoxdXVZczVtY2w1TlhqSnhFaGxsSWlINnBKbDZhNi1mT0Q1anJRTjM0Z0toaVg3QXhMcmkyZlBQRTZ1cVZvbmhZSmU4WDU4NGdnN3FJZGRzbnYzdm0zQUVxWjNUZ1dTZHlwMTA0VTNhbUg0UHVxZmFLUlVtSmVfeHZCb0tfWEE?oc=5",
+    "timestamp": "2026-07-16T08:49:26+00:00",
+    "source": "reuters"
+  },
   "bcc8525d51e0c4087bb5d695f0fd39a2": {
     "url": "https://www.france24.com/en/europe/20260716-protests-against-removal-of-popular-defence-minister-erupt-across-ukraine",
     "timestamp": "2026-07-16T07:34:49+00:00",
@@ -13,6 +58,11 @@
     "url": "https://www.france24.com/en/environment/20260716-canadian-wildfire-smoke-pushes-toronto-air-quality-to-world-s-worst-reaches-us",
     "timestamp": "2026-07-16T06:19:43+00:00",
     "source": "afp"
+  },
+  "38e120fc65c35f71b43694ebfa704f97": {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlNEU0xzdGZaZ3lmRjRlZEFUaUJ0QnQxdEMxT25VYTdxS180T25XN3NhdlB2Tm50V1lqVzEtaGVOWFRJb3ZqeHd1LUNpZHkzdHpYUmRfZ0Z1YUxoTjBTaDFvSzhpVXYwUjB5dmYtUWExZG9sQnJsbmowY2dHeWlMcDlvX0NQN3pTRExIQkNuMjVrYWs3eDhmbnA2WmJPLU5HcUZMVXVKNFVFa1EyR1ROTTZaRUM?oc=5",
+    "timestamp": "2026-07-16T06:05:14+00:00",
+    "source": "reuters"
   },
   "d65ae862e3a296fafbb636fb445bbaaa": {
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdTZDTDdFekRhZC15N3daNVV3MDJrUXRBN2RsLWdrY0UzdWl3RVEwX0ZKd0ZmeUhWcklqcDl4c1pfMVlZUzdiQnV6dnhqbW5xVHVDd0p2NWNmZGVzMXp1cVFmRXN3czB5bkVFUEdSYkM5bjNRNkE1czBFaTBUUEN0Z1dweHlwQWpNUHhDa2YtVlBCU3NUb2FfSVJ4QUltNWFuQXoyNDNxMVUzRjJ1dU9NZ1RrWkVUSkZ0aTdPWmV0Nk92UQ?oc=5",
@@ -285,6 +335,11 @@
     "source": "reuters"
   },
   "c4735998c52b4b4c989ec144dfe5fbee": {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQVVmTEpXUVZlVW9tT2lFZ2hGellGS1lTLWhIMVotcVNla0hIT0c5WXl6SEU1NDJZVmM2M3ZmbDFRcElXVWRpRWFVaG5aWFVlUDF0Yk5uMzluSk1jMkczUVFXUXJUcUdaQ1VPV2dBNUdSNmZQbUNoZnh6RnhuQ1NZQXRwSzFRLXJvdGNfMzFobnZMYUNhb2RmeE5ES2xscWdLTFlPM0I1dWdLa2NGaFNaTTAyZExhVEZWa0htZXpEb2xnRFlSa1pEMk81TQ?oc=5",
+    "timestamp": "2026-07-15T13:43:06+00:00",
+    "source": "fars"
+  },
+  "68eef8bd4b042992c1a3862c1f92c35d": {
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQVVmTEpXUVZlVW9tT2lFZ2hGellGS1lTLWhIMVotcVNla0hIT0c5WXl6SEU1NDJZVmM2M3ZmbDFRcElXVWRpRWFVaG5aWFVlUDF0Yk5uMzluSk1jMkczUVFXUXJUcUdaQ1VPV2dBNUdSNmZQbUNoZnh6RnhuQ1NZQXRwSzFRLXJvdGNfMzFobnZMYUNhb2RmeE5ES2xscWdLTFlPM0I1dWdLa2NGaFNaTTAyZExhVEZWa0htZXpEb2xnRFlSa1pEMk81TQ?oc=5",
     "timestamp": "2026-07-15T13:43:06+00:00",
     "source": "fars"
@@ -2443,60 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93QUxVMUUzamhKaTctTjVmNFRPeTdTNTQ4cEktRlVsZEZyRy0zVXprTTZTRFpyWktULVJhNmh2QnJKc2RFSWtPQWxYWkRsODdiMUE?oc=5",
     "timestamp": "2026-07-11T11:18:31+00:00",
     "source": "iranintl"
-  },
-  "bccfc8320ae2baa43355492168483bc2": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmTEN2WWZfd1R4RHlod2FGSXNqSWdlbXF3cXBsVTFXNUFOTUFSSUUydHpibTBqWHgwNFhsVURjYk1adTNTSkdjNWVsVTdwaXRCemc?oc=5",
-    "timestamp": "2026-07-11T10:58:41+00:00",
-    "source": "iranintl"
-  },
-  "1716485392c92b035b4257182cfd7110": {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFJ6QzJlMkc1VWtrWHlLcms2NkZhSWZ5VnhDazNkY04zS0RMN01UUjhUOGZUajRWVGRqREUtbWRDUjlLakFZaFByZDgySm9mcFNGQi1rLWJFd3RHS09iUVZRZHZGTHFfM1BlTXVYdmhZczl2bFBkZVZDRHE5T0phT2NDd2dTb1F0aS1vRW12SlFCbEFrMGJhRGdSY3FCRHhhd21vbVg5QVNKMl82c1VQd1NaaEp2dw?oc=5",
-    "timestamp": "2026-07-11T10:51:09+00:00",
-    "source": "reuters"
-  },
-  "44da2bd300bba2eb9c024b6bc25cc99b": {
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaG8xNG5mQmFSbFlnUndBUGw3ektOOTE3TS1YMVN3NWNRQzZNcjhTUm4wYm5WOW40djJzeWpsV3p4S084R3AxQmwxdUpQNlVWaUZSRmNjOGZyN1RaNXhlY2RaelBBc25rd2laOG10dkM2VjFmOXV2Qmp2a3hDXzljMDVmZTJJeXZHaHR0bjhNVVpFZVd4a2duWUlZZ2ppM0hNLWlVVWVmcGN3VE9TMjlxekp6OWNDT05nb19oMWQ5VHc4RDNmeGk1TUxfOHh4Y2NxMDNJeVlNLW0?oc=5",
-    "timestamp": "2026-07-11T10:38:39+00:00",
-    "source": "fars"
-  },
-  "9b485db8b4b61366c5591c36974b9718": {
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaG8xNG5mQmFSbFlnUndBUGw3ektOOTE3TS1YMVN3NWNRQzZNcjhTUm4wYm5WOW40djJzeWpsV3p4S084R3AxQmwxdUpQNlVWaUZSRmNjOGZyN1RaNXhlY2RaelBBc25rd2laOG10dkM2VjFmOXV2Qmp2a3hDXzljMDVmZTJJeXZHaHR0bjhNVVpFZVd4a2duWUlZZ2ppM0hNLWlVVWVmcGN3VE9TMjlxekp6OWNDT05nb19oMWQ5VHc4RDNmeGk1TUxfOHh4Y2NxMDNJeVlNLW0?oc=5",
-    "timestamp": "2026-07-11T10:38:39+00:00",
-    "source": "fars"
-  },
-  "6ec24ac7a750e1776d930db4adad7ba7": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZSmZUNThUNEFsMHRiWTV6c0hvb1NUUEJsY1Q2S2tKOEdyLUUwSXN4aDkzbkVVVEtPQ2NvY0wwQ2REcTFrd3VvSEJldmxPcGVqVHc?oc=5",
-    "timestamp": "2026-07-11T10:31:57+00:00",
-    "source": "iranintl"
-  },
-  "4b8a14d8e6a5fcbf4ef389c76464b5d4": {
-    "url": "https://www.france24.com/en/video/20260711-spain-wildfires-that-killed-12-begin-to-ease-officials",
-    "timestamp": "2026-07-11T10:13:43+00:00",
-    "source": "afp"
-  },
-  "eddf5002a233b330571e30240c2b67ae": {
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
-    "timestamp": "2026-07-11T10:10:00+00:00",
-    "source": "ap"
-  },
-  "2671536e2d71c31b93c991efea36ca4f": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KUHdJYy1VQmdJZlF3bi1oLThaTjN4c2R0bWg2OERmNVVzM2N4M096LU9Dc0wyTFNvMi1HT1lQM0w5eXYyWnE3dV8tdFBHQ29VRFE?oc=5",
-    "timestamp": "2026-07-11T10:09:36+00:00",
-    "source": "iranintl"
-  },
-  "a6fce6ddcfb21f8bbcf577275d6d86f2": {
-    "url": "https://www.france24.com/en/video/20260711-kenya-s-birdman-goes-viral-with-rescued-birds-and-sparks-health-concerns",
-    "timestamp": "2026-07-11T09:32:21+00:00",
-    "source": "afp"
-  },
-  "2158c6228a597f8aff4fdf34e7b59308": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtM2JhcHJVNVQwUUZRNW5FVUdQbGlBQVIwYWNrdFl6cVYxcU5lVVFSdzRBY1Q4QkxZTFJVSlhjZ2d0TFQzWmVlTi1sSjZZaG5jX0E?oc=5",
-    "timestamp": "2026-07-11T09:30:34+00:00",
-    "source": "iranintl"
-  },
-  "e756155e59883b4ce511e6049fd68a08": {
-    "url": "https://www.france24.com/en/video/20260711-eacop-ugandan-farmers-sue-uk-company-in-london",
-    "timestamp": "2026-07-11T09:26:11+00:00",
-    "source": "afp"
   }
 }
