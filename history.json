@@ -1,8 +1,33 @@
 {
+  "52fb413ace63bc8e1afeb2887942af9d": {
+    "url": "https://www.france24.com/en/zero-tolerance-for-forest-arsonists-macron-promises-firefighters",
+    "timestamp": "2026-07-16T15:19:40+00:00",
+    "source": "afp"
+  },
+  "f54baa224378e896cafe6dc77b0f8b85": {
+    "url": "https://www.france24.com/en/africa/20260716-ebola-spreading-faster-than-any-previous-outbreak-dr-congo-who-warns",
+    "timestamp": "2026-07-16T15:02:54+00:00",
+    "source": "afp"
+  },
+  "cba5580f72a1f7981eb18f07a1badbe8": {
+    "url": "https://www.france24.com/en/canada-s-air-ranks-as-worst-in-the-world-due-to-wildfire-smoke",
+    "timestamp": "2026-07-16T14:51:09+00:00",
+    "source": "afp"
+  },
+  "5383703cc3e54402bd91fc19873c7978": {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFhQU183WFFqVnZ6Z2VtXzc2LUk0eW9kSzZ4d3Y2Mk9fMkFmQTYteGFkeGZKMW1LYzFOclEzWWRQdDFZVFUxcDYzd1hGanh3WWJoZ0tDc2ljNmZ4aVN2cURsMFVtbXh1YnhaeG9pU0hscWFYclR3QWVDRUtobUhGQ2Q4ZkVfV1Y1STVsdk5QYnhHUy16UjFpMmhFRWV1V1FQRXhuTXdNOXdIVXB6b0tGV2dyMkNTVUJZVDNSeWR5VGdidFYwWGQ0cm5Eb1I?oc=5",
+    "timestamp": "2026-07-16T14:25:14+00:00",
+    "source": "reuters"
+  },
   "093005515c5e84fc3b785f1c13e22e55": {
     "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html",
     "timestamp": "2026-07-16T14:22:03+00:00",
     "source": "nyt"
+  },
+  "f6c8463429834924e08eb55045775f2b": {
+    "url": "https://www.france24.com/en/dr-congo-s-healthcare-workers-go-on-strike-as-ebola-epidemic-spreads",
+    "timestamp": "2026-07-16T14:20:38+00:00",
+    "source": "afp"
   },
   "a1d52388a9d33e8016571f635613dc25": {
     "url": "https://www.france24.com/en/video/20260716-both-uk-and-ukraine-say-goodbye-to-keir-starmer",
@@ -277,6 +302,11 @@
   "cac82a7fc6ce8a1230c5265362066c98": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56c2dyQ3V6eDhtOEhhLU1UcGhEenAwdTdlWUNVLVN2VkZFY25EWi1pbW1WbS16TDVoMkhZR0hWd2VXM1E0LVlkS3U3clp1QW9qVXc?oc=5",
     "timestamp": "2026-07-15T21:39:00+00:00",
+    "source": "iranintl"
+  },
+  "9e29a8ce21e539ad9e00ac8bb64a231a": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6cFZDSXhiS0RkeXNLamdhRktSQ0VmZkU5WGRuYXYtUTlveElKYzRHOFFPcWVyUWJDWHRDNXhYVDlZejZEazBEOUZhU0VoYlFmRFE?oc=5",
+    "timestamp": "2026-07-15T21:13:46+00:00",
     "source": "iranintl"
   },
   "3052bcc34e9917d5c6d74ed99c659975": {
@@ -2468,35 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWnJOdE1Pa19BdXV1RzhSc2c2dGRVYy1XTVczUHhKYTNOX0xKZ1AzbnpFXzQ1R1NCcWlNT0RhSEUyb290MlhuZWxaSTZFSEdRTTVEd0FSS0E4WFZ2WTBBNHF5Si1ZOWZZYzI5Tmp4VHJTQ3U0NDN4ZzlNUTZhNjMzX3dNX3VVb0xvMVNtdVZYdUdtN2VlamN0TGZJMExGemZnNHdLLVdNWFVZVExSLTZHTzFubw?oc=5",
     "timestamp": "2026-07-11T23:15:00+00:00",
     "source": "ap"
-  },
-  "03aa7a009bda05350447497784057fbd": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nSm95M1E4cU4xLVlDY2xWUldXN2RfUjZ4RWRYWVo2N3UyVkg5RmNDV0Z0LVVBX282TjFLWEUwVEZWN2FUWkh3MkhJcVQ0U01MLXFnN015WlhIam5JbXc?oc=5",
-    "timestamp": "2026-07-11T22:36:35+00:00",
-    "source": "iranintl"
-  },
-  "2cc710958378d8bc131b2d73be6f76ba": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuQzk2cDZ5SnlfQjZOWi16QXJBbXlhT2hvcGIwSGxuSlJhOURDa2E3c0E1bDhPdjdraklfdF9GclhxOV9pSGg1SnZJNzI2Q0t5Y29XRHJfMzVDVWRXMXc?oc=5",
-    "timestamp": "2026-07-11T22:32:55+00:00",
-    "source": "fars"
-  },
-  "09c9973f8cf14f8349d581c04882f4f0": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuQzk2cDZ5SnlfQjZOWi16QXJBbXlhT2hvcGIwSGxuSlJhOURDa2E3c0E1bDhPdjdraklfdF9GclhxOV9pSGg1SnZJNzI2Q0t5Y29XRHJfMzVDVWRXMXc?oc=5",
-    "timestamp": "2026-07-11T22:32:55+00:00",
-    "source": "fars"
-  },
-  "406549483ada1e21b815e5e7945c11a8": {
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSmZVRzVlODludmRUd2hpVXBuRFY1Z0wwMTNNdGJBUEc1b01YcUtzVVRMVUxvMVg1dTROcEVOdWVfRUlOYWNvTkY4b2REM0QzRDVfVnp5MUJIcVhoeXVPb3l4RVI3MnVtWUpZUk9QRHkzUjFvcDR1UFpXeVZWOG5sSWJGSGtvTlRYeEhHYVhScE1RUWQyRUR2aUROMG9BckEtbG04QmxMSmcyMzRLMkFCZUFlWkM1cHN3UFQ5Z3IxbFpMNVVIdUw4?oc=5",
-    "timestamp": "2026-07-11T22:32:09+00:00",
-    "source": "reuters"
-  },
-  "0ce1443d15dc7e69e5d31639cf0623ae": {
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS09GLTR6OERMc0tDYndyV0VZQ3NxdEFwa1Zpc1JZZVpzVFVqME1hLWtaNElHNmZsZjZIbjFyRGwyakdSU0U2cjdXSUFaSlVBYks2ejFtOVg5LUpLZGc4akg3SjI1eXY1VHJveE1TMVUyTHgxR1ZCOWExdHAwQXRUZTloanZ2WWVrbWROLVhsR1VDSEZybHQ2OGttdmI2LWc0Z01V?oc=5",
-    "timestamp": "2026-07-11T22:12:00+00:00",
-    "source": "ap"
-  },
-  "1905aa43e8df4ff862721e724f6ba815": {
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oZDNnLWZpSnBRcDQ0SWtleXl0YThMckFmLVdDSlBfanZzb2t5V1VWSVM5VGIwQ01XQmtqcmVEOWJ3dnBqcXJ2SlVETlVRUEsxSkZtU3IwLUxYWkUxZ0ozUjVodTNSamFLcEtfdlNR?oc=5",
-    "timestamp": "2026-07-11T22:04:59+00:00",
-    "source": "fars"
   }
 }
