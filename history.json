@@ -1,4 +1,9 @@
 {
+  "78f0f0704b618573c9dd0fce04218dfe": {
+    "url": "https://www.france24.com/en/tv-shows/sports/20260716-title-holders-argentina-seal-dramatic-spot-in-world-cup-final",
+    "timestamp": "2026-07-16T05:12:43+00:00",
+    "source": "afp"
+  },
   "fb85e4f1ef2f9e02fd9416ee1eae0962": {
     "url": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
     "timestamp": "2026-07-16T02:46:34+00:00",
@@ -10,6 +15,11 @@
     "source": "afp"
   },
   "a4de7510b40b12727e1c9a1bb041fa56": {
+    "url": "https://www.france24.com/en/middle-east/20260716-middle-east-live-us-launches-fresh-strikes-on-iran-as-hormuz-remains-paralyzed",
+    "timestamp": "2026-07-16T01:10:43+00:00",
+    "source": "afp"
+  },
+  "60bbfe28a16fc225ad89598f50dcaee6": {
     "url": "https://www.france24.com/en/middle-east/20260716-middle-east-live-us-launches-fresh-strikes-on-iran-as-hormuz-remains-paralyzed",
     "timestamp": "2026-07-16T01:10:43+00:00",
     "source": "afp"
@@ -2488,15 +2498,5 @@
     "url": "https://www.nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html",
     "timestamp": "2026-07-11T06:07:32+00:00",
     "source": "nyt"
-  },
-  "09ae98108e9d3dc177674a23d1ff30ea": {
-    "url": "https://www.france24.com/en/sport/20260711-wemby-signs-multi-year-contract-with-spurs-tells-fans-i-m-here-to-stay",
-    "timestamp": "2026-07-11T06:00:55+00:00",
-    "source": "afp"
-  },
-  "49dd42aa01ce2a21b346aa86c6a06776": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YYnY3TEM0U1ItZGV0d3BZSTZ0OUNPTVR2N0RhR0dUVnNmZ3BTZ0NyYnBjOGVFUjFoa3BTVXJ1NWhkNE56RXluNzR6WS1DTUJocVE?oc=5",
-    "timestamp": "2026-07-11T05:28:30+00:00",
-    "source": "iranintl"
   }
 }
