@@ -1,4 +1,59 @@
 {
+  "093005515c5e84fc3b785f1c13e22e55": {
+    "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html",
+    "timestamp": "2026-07-16T14:22:03+00:00",
+    "source": "nyt"
+  },
+  "a1d52388a9d33e8016571f635613dc25": {
+    "url": "https://www.france24.com/en/video/20260716-both-uk-and-ukraine-say-goodbye-to-keir-starmer",
+    "timestamp": "2026-07-16T14:02:11+00:00",
+    "source": "afp"
+  },
+  "5f9c68efc9030b750c4cfc4f458b5a0a": {
+    "url": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
+    "timestamp": "2026-07-16T13:59:10+00:00",
+    "source": "nyt"
+  },
+  "09eeef3d1255291403105d1c0ae6e0a4": {
+    "url": "https://www.france24.com/en/lebanon-and-israel-conclude-round-of-talks-on-idf-withdrawal",
+    "timestamp": "2026-07-16T13:37:12+00:00",
+    "source": "afp"
+  },
+  "1d21cf8c1a4fe69d81505b83292b52a2": {
+    "url": "https://www.france24.com/en/dozens-found-guilty-in-genoa-s-deadly-bridge-collapse",
+    "timestamp": "2026-07-16T13:33:42+00:00",
+    "source": "afp"
+  },
+  "b83562c5ea085a469b9f27925c39b654": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xZzF6dU01NHBEOUJ0QUltMW1QVVEzc0VLNmdaOGQ0MDA2QnRTRWotZzljc3ktZUMyQWRpb2YzU1doSFFObFRiOXNDdDZ6TnJWVUE?oc=5",
+    "timestamp": "2026-07-16T13:29:18+00:00",
+    "source": "iranintl"
+  },
+  "11ee1f4c6a828203719cc436d3ce7fde": {
+    "url": "https://www.france24.com/en/middle-east-war-rekindles-as-us-and-iran-resume-strike-exchange",
+    "timestamp": "2026-07-16T13:28:25+00:00",
+    "source": "afp"
+  },
+  "ef39bb069becb3183867b20e7b0c02d5": {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTDJBcVRRQUtnWnRHWTd3MENKUERJUEl5Qm5BRmlYTW5vSHNYUnVPNTVJc2pJQlRrVTBNT09MRTMwbC1scXFoclJTaUY4U0RfVUwtUXlPV24xQ3dnQTVRR1RORE1GalpWSkxGX3EtRXlseXJjb3JUeWw2azJlUlZtaHJkZWFtOUVJMThoTTZoYnZGZHBzZ2MwdjJZN1FzNkRSNEJXdWdsUTRwTkp0M3RrMFJNakxicTRlUDFnZVBuVktXUW5zd2R1WEpfTTE?oc=5",
+    "timestamp": "2026-07-16T13:24:54+00:00",
+    "source": "reuters"
+  },
+  "3127155b7cd2b54f81688cda49ccf848": {
+    "url": "https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html",
+    "timestamp": "2026-07-16T13:21:39+00:00",
+    "source": "nyt"
+  },
+  "5f628ce6773833df110fac1c88ee22b6": {
+    "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260716-trump-has-launched-an-all-out-assault-on-human-rights-hrw-chief-says",
+    "timestamp": "2026-07-16T13:19:18+00:00",
+    "source": "afp"
+  },
+  "79d92b1175dd45d1ce8aa3d5a243f3e7": {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNnlkS245LVFESkFHd2V1MjVwTjdoSm9ZZmRWTlRUZ0dBdkN1VlRPUHU0ZXZLbjNVWGVIdGxldS1uVi1TOFctd2VXQy1jeXRmLWhyOVczWmpaRVY1Ml9sVWQ2N3ktdE5iRUNOcTdaWnZmNzdzT1M4NG1jMkNIeFVaa05YSHhRdHZYQ3BDS3lnb2pkYmFpYS1NR2E5WHBuOEFsTWljaDNsWGVqZ1VKSFlaNmd2UkU4aE1Xa29XeDNVcFdZZnh4bjFSQ1NuUQ?oc=5",
+    "timestamp": "2026-07-16T12:40:16+00:00",
+    "source": "reuters"
+  },
   "1d87eecb421268da509ae2d5bbc7af94": {
     "url": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html",
     "timestamp": "2026-07-16T11:41:48+00:00",
@@ -44,6 +99,11 @@
     "timestamp": "2026-07-16T10:13:09+00:00",
     "source": "iranintl"
   },
+  "8330a3c77f75b0c2c1e9313b550dcb83": {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnIxbG1weWlQMmJNcnBLeWdvaFhkbFAxYS05NjZZVEFkMnNXbDNXWlBCZWxMY2FVSllaam8waXRveG9tYjVRa3NuOG5nVlFRc1lvcXpkeFlVN2cxMWN1TjRyckMtUUhmT0ZIRzVQa0QyTkIydmdzSWtEU0lvckNhTGxSN1AtUXd6UkZYNmRKaXQtd0hHSDlqVVRTSzREVmFGT05oM2RvZV80N1oybWhJdW5tRm1WSWdRb0duUA?oc=5",
+    "timestamp": "2026-07-16T10:08:13+00:00",
+    "source": "reuters"
+  },
   "4e97191b4c3a53216f6e0ecc0db928e1": {
     "url": "https://www.france24.com/en/ahead-of-french-pm-s-visit-rabat-faces-allegations-of-spying-on-paris",
     "timestamp": "2026-07-16T10:04:48+00:00",
@@ -78,6 +138,11 @@
     "url": "https://www.nytimes.com/2026/07/16/world/asia/india-sonam-wangchuk-cockroach-janata-party-hunger-strike.html",
     "timestamp": "2026-07-16T09:30:12+00:00",
     "source": "nyt"
+  },
+  "220bd858b8b418768c581b9d472d5b2a": {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1FtT0xCbzMyYXpXME1CenRhVDZjdmpYX051ZlJpUDVQcms2LWhfY01EU2NWc0xkUE5aQTJaSDYyQ0x6SDZtTUJNUVlhZXdfOThFUkpGV3VtMUZFNGJxMU0tZ0pqSTBQZWoycHA2R0FoY2pzQzRoN29WSWNhY1ZzSkJIU1NBX21QOHZiTVctRVBZNzBtcEFYSUtqWFlkT1pONUdQVGdLRXN4MHVNVURQWHgzS1dCZDhPcE5lZ0JGQQ?oc=5",
+    "timestamp": "2026-07-16T09:17:43+00:00",
+    "source": "reuters"
   },
   "74bb601eae687bf6f8a202d67218a7df": {
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbXlsVU1ScmxkMGtQOHJaS0ZOR3UtVkJacXJKYUtwa1piZEEwWmZTVHJKYnl3STk4RzM0SXNKUE5zQlBURUJ3VFhrQmVaekhRbEYwMnpFcVVGMUNlbXc3eVdnN3BURFpndFBrRG9sbHM4WmdsbXh5WVh6MzVmdVByeXJxaWdBblRzVjQ5dnllU1U0eHRvd0FzeExGeDUtWU1IVS1ETVBRYlZxUXBfcWtXckVpeU5tV3ZHTVA5Mw?oc=5",
@@ -204,6 +269,11 @@
     "timestamp": "2026-07-15T21:49:52+00:00",
     "source": "afp"
   },
+  "c6fbe0302f066e20bc478ca1b1a37cab": {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZUwxUDdSdTd1WW5RMy1XSEhnd2ZZcHNjVkFRVjBwbHV6ZnJfYnZRS0prRnlyYzd5TTliVFhXTUxuN0pvQUFUdWcwX1FXRjlQYW5pZzljNzRNWl9TdXFEeG5rX0w1b3RqSEU2LTU2NTVha0RhbTliaWdpMXY5YVpLZGpRTWc4QjRUcXRqbzRHcFZWZXVYTWZGNHpEWnc4R2g3bTZNMWNaVmdvSXJoVk9XSA?oc=5",
+    "timestamp": "2026-07-15T21:45:00+00:00",
+    "source": "ap"
+  },
   "cac82a7fc6ce8a1230c5265362066c98": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56c2dyQ3V6eDhtOEhhLU1UcGhEenAwdTdlWUNVLVN2VkZFY25EWi1pbW1WbS16TDVoMkhZR0hWd2VXM1E0LVlkS3U3clp1QW9qVXc?oc=5",
     "timestamp": "2026-07-15T21:39:00+00:00",
@@ -223,6 +293,11 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qd25oUTJLQ29YWTBwVS1NMFczZG41SkZDT0tRYWl0WTEyUmhqM29taDNfaWpoUGd6QXFfT1JxSmV1dHc5c1F2Qm1XUktRTDdDbVE?oc=5",
     "timestamp": "2026-07-15T20:04:05+00:00",
     "source": "iranintl"
+  },
+  "0aee71bb987c9ff6d5b6cd65ab4b2d58": {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU0YtNHpvQ1MtTGZkVzhTeXB3QWpRclVuLUN3aE50eVRoWk9Xa0haMGxEVWkzd0VybDJ0N2lxV3FsWEVPU05JZGV1ZHF3LWdMNWJpbHpoVm42N1hHRnRndF9md0lCNXprTUZzR1paVWlrMlNZMy0yVlJSOWFYS2IzUmh6WmFXVUl2eHQw?oc=5",
+    "timestamp": "2026-07-15T19:50:06+00:00",
+    "source": "fars"
   },
   "ec959fc2ae1502ff0ba96f102dd63075": {
     "url": "https://www.france24.com/en/eu-ukraine-seal-drone-deal-to-boost-production-establish-joint-ventures",
@@ -263,6 +338,11 @@
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTVR6bzJlcGVZV2szYzd6SGw0emVaWGVESDNMT1p5YTZRRmJROE56NklpYjNsYkduQW82UGpWbDNqWGpXUVhibVJSY0FuOGlXRE9zdDV6dzBhV2U5V1Y5cW4yXzlFSEJJWDZFazJKLTljVUFubFZLOUJwN1I1Zk9tN2d5Y0puYUxraG9QaVY5aEtZTlBUNW5oNWlnWGpENU82V0RPV1p6aUNVSE5QSXI3dFkxQ1l6UV9tYlg0OUI1QmYzVm1fdU94NQ?oc=5",
     "timestamp": "2026-07-15T17:59:43+00:00",
     "source": "reuters"
+  },
+  "44171d5dbd35c74e0406fec0e4da37b8": {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjWDMxbFpOdUFzRFh2dzBCcHVualBUenFRcG4zWjFVeW9PS0xpcnFCd2VxbVRrNVhoRmlSM3lpRFNmaGgwTWtfNDQ3eHhCTTduQVFvWHNIZ0V3SHpqdzh2ZUtHaw?oc=5",
+    "timestamp": "2026-07-15T17:31:08+00:00",
+    "source": "fars"
   },
   "a3d2f277e67fb0a75d2b738b0951eb24": {
     "url": "https://www.france24.com/en/video/20260715-count-binface-the-joke-candidate-that-could-enter-the-british-parliament",
@@ -2418,85 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oZDNnLWZpSnBRcDQ0SWtleXl0YThMckFmLVdDSlBfanZzb2t5V1VWSVM5VGIwQ01XQmtqcmVEOWJ3dnBqcXJ2SlVETlVRUEsxSkZtU3IwLUxYWkUxZ0ozUjVodTNSamFLcEtfdlNR?oc=5",
     "timestamp": "2026-07-11T22:04:59+00:00",
     "source": "fars"
-  },
-  "58d5d1fc2e0f1de7cd48864771fe00df": {
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oZDNnLWZpSnBRcDQ0SWtleXl0YThMckFmLVdDSlBfanZzb2t5V1VWSVM5VGIwQ01XQmtqcmVEOWJ3dnBqcXJ2SlVETlVRUEsxSkZtU3IwLUxYWkUxZ0ozUjVodTNSamFLcEtfdlNR?oc=5",
-    "timestamp": "2026-07-11T22:04:59+00:00",
-    "source": "fars"
-  },
-  "cb0590e3cef9b3073a5192a796cb4ba2": {
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUHRNY1Zzdl9ic1BmVjFWNFZ2bU1WWVZtLTlhZVBsVG1aNGh3U2R5NExJaF9yV2VMN2dFa3Nwa0hBN2dUcWlGclpxck53bjJGbEpxQnpURGtOWjdRTWxMNGd4VUdIYmJ4aWVrempzVXRCZHh0X190ME8yczBmMWhoMkQ1Z09yTEZPUDhWMklpbE52Y25BSEE?oc=5",
-    "timestamp": "2026-07-11T21:33:00+00:00",
-    "source": "ap"
-  },
-  "2c3ab94e8a51bac0a410ab4521ef226d": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84a2NRVS12RDF4SWk0Zy1QdXYxcXQtQkxieF9yY0tnblhteElXWndEbERidGRBMGExRUJPZkNqZjBhNVN4bjd4OHhNSFhfMU55UWc?oc=5",
-    "timestamp": "2026-07-11T21:28:51+00:00",
-    "source": "iranintl"
-  },
-  "0f0a06fab4c0390f231be48ab825c9c8": {
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
-    "timestamp": "2026-07-11T21:28:00+00:00",
-    "source": "ap"
-  },
-  "15ffb990e272432547771a75bd4e55f5": {
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2tFWVVreXJZblN5aURPZ0p6ZWI0dVJpakJvWjRRbVlBRzZOeTZSMEp6c1c2TkliYnlIV21LOVVMemJ2X3pmcENTRmFlalpIYjBfbkRTWU5VblJrc3NPMUFRQ2N5Z19tLTJBRV9tQi1UZUJKZWtIMzNjQmtFUWNQbUtKMkwxTk5tNXRLajZsc2RicmpETGlaa0tFTHVVX0h3VjQ0?oc=5",
-    "timestamp": "2026-07-11T20:54:16+00:00",
-    "source": "fars"
-  },
-  "6ffb952f9918a3480e9240942e8e62a9": {
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mWldXcDg5aE5TbFNqd3c4OXBMSlBiblB4MDBJUTVDNFlHZldUY3JJaDJ1TTJPRXNVUU42T3RQM0R0TDBOWWR4a2ZiZERBUVlTN0NFam1feXpNb2NvNDhyckdzVQ?oc=5",
-    "timestamp": "2026-07-11T20:26:42+00:00",
-    "source": "fars"
-  },
-  "9a9cf73c0112864facd012b78ae7f204": {
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mWldXcDg5aE5TbFNqd3c4OXBMSlBiblB4MDBJUTVDNFlHZldUY3JJaDJ1TTJPRXNVUU42T3RQM0R0TDBOWWR4a2ZiZERBUVlTN0NFam1feXpNb2NvNDhyckdzVQ?oc=5",
-    "timestamp": "2026-07-11T20:26:42+00:00",
-    "source": "fars"
-  },
-  "6d11fcf92aba7b6b9c7b7876ebd78da0": {
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
-    "timestamp": "2026-07-11T19:53:00+00:00",
-    "source": "ap"
-  },
-  "67cd1b63fc4f473c51f34dc354b720a8": {
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGlRUXdUdWFmQ2JNa1pTdjNRc2wxNEpsZldnSEF2MWZQWU0tQjc5NVVHQkU2RlpFSUdyVktEMzRtZEdBN2FwQlk5UDhPMXU4dGE4dzh4d3djcHlnaHJSMHdDVnRaMDZTd0o4d1ZDcGl6U3hSQjRHTzFPakJZRDUwNm9lel9BNFVMekR4LWNtbGY0VXllM3RJSFltWkhwS2xDQWU2eWlB?oc=5",
-    "timestamp": "2026-07-11T19:15:00+00:00",
-    "source": "fars"
-  },
-  "04e81127dbea2deb44d4dbfe005e977b": {
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGlRUXdUdWFmQ2JNa1pTdjNRc2wxNEpsZldnSEF2MWZQWU0tQjc5NVVHQkU2RlpFSUdyVktEMzRtZEdBN2FwQlk5UDhPMXU4dGE4dzh4d3djcHlnaHJSMHdDVnRaMDZTd0o4d1ZDcGl6U3hSQjRHTzFPakJZRDUwNm9lel9BNFVMekR4LWNtbGY0VXllM3RJSFltWkhwS2xDQWU2eWlB?oc=5",
-    "timestamp": "2026-07-11T19:15:00+00:00",
-    "source": "fars"
-  },
-  "3cf5b7ac7fd76596754932363ff856f3": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nSm95M1E4cU4xLVlDY2xWUldXN2RfUjZ4RWRYWVo2N3UyVkg5RmNDV0Z0LVVBX282TjFLWEUwVEZWN2FUWkh3MkhJcVQ0U01MLXFnN015WlhIam5JbXc?oc=5",
-    "timestamp": "2026-07-11T19:07:57+00:00",
-    "source": "iranintl"
-  },
-  "e390daea815faa7d54326d3a1ccba902": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yWnpzTE53UkZOSW0ySU5LR2V0US1oVlI2RzRXdDlkZTdRVXg3TUVUdXpBSDFja1ljREE1bEE2bm5Ienl2OVd3bDEyek03T0JMd0E?oc=5",
-    "timestamp": "2026-07-11T19:07:57+00:00",
-    "source": "iranintl"
-  },
-  "0d29dc1aae0774db4bdab733b209e679": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51QVBIQUo3cGdDUnFjb1JXTWFGUVNoVXBKLWt6Mmpvdm9wbjZmUnVDVXdRcHFQZUtzQXY4c2lwWl96ZTZBd0F4ak1HMm9rT1hQTEE?oc=5",
-    "timestamp": "2026-07-11T18:40:00+00:00",
-    "source": "iranintl"
-  },
-  "47287d8353acb58381168eb562520955": {
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGxiS3BEWDM1MlRCOFB1Vi1tQXpvai0wbEJHODdYbUFNclJidWhkLXRxYXMtQlNzTU1NNlFQZWJneVFkN3poMFE1TnVPQVdmUEc4WldQVXhSaFE3c292VU45SEQ4eFBTcGI2LVN1ZlRtbzczWmhiM1BGeHBIVmMtX1F0a2xwQWpvWG5OWGVqY3U4dzhxYl9zU1hvODVHSjlIb1gzbm5LQmw5QnlBeGtrOVlMZw?oc=5",
-    "timestamp": "2026-07-11T18:15:03+00:00",
-    "source": "reuters"
-  },
-  "2cae20dd9007909a9b32a66d8919a054": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fRV85U08xeEFQWVJmZXM1UEJoWTFMVFo3d2NxQlM3TF8xQlZVT0JpV2xNNHNzZTVuUUtDM3JpcGFVdHNRa0tUcVpkVXg5THlMamc?oc=5",
-    "timestamp": "2026-07-11T16:39:36+00:00",
-    "source": "iranintl"
-  },
-  "605c33d263b83a3118b3178e31e66245": {
-    "url": "https://www.france24.com/en/video/20260711-an-islandwide-blackout-strikes-cuba-for-the-second-time-this-week",
-    "timestamp": "2026-07-11T16:06:27+00:00",
-    "source": "afp"
   }
 }
