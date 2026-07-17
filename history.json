@@ -1,4 +1,14 @@
 {
+  "a844305b07cb639a94b4ef4d7bd48e81": {
+    "url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
+    "timestamp": "2026-07-17T21:01:58+00:00",
+    "source": "nyt"
+  },
+  "2304c5eb7693863d977e2c01d4532c5d": {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2NqN2VtZFNDLWpDUGxnTXlpZmdWRmI3QlJyeTZSS2cwOEdyVEVGY0NGd3F4UGdqYkVoTjVaUWR0bzJVcW8yY0N1dG1zUnl0UUVDa2dKYVhKU2F5OWJPTWFfSGdZWlRfMjZZdEVxUTRiVDE1LXhMSjR0a0FOMFItVHA3V3FTYlVjU0Mzcy12VG9JbVlORGF2bXBFa1BIUjBNaHR6ZnBn?oc=5",
+    "timestamp": "2026-07-17T20:58:02+00:00",
+    "source": "reuters"
+  },
   "23dfd326b20d624292678bd6c8bd9ab2": {
     "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
     "timestamp": "2026-07-17T19:52:28+00:00",
@@ -9,10 +19,35 @@
     "timestamp": "2026-07-17T19:40:38+00:00",
     "source": "nyt"
   },
+  "c92394b9d1e954f05f258c21caec9d92": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlbzh1U3dqSVN5SEEzTGwxTnFXRGpUYXdxMmJMVEVuMjlseHFOOTRKUDlNbU9ZNGF6bWRwdmNiQ2dBMjROUU5ydFR6VEZiVnhlcWc?oc=5",
+    "timestamp": "2026-07-17T19:40:00+00:00",
+    "source": "iranintl"
+  },
+  "70588344d0f61cc180188a10abcd8923": {
+    "url": "https://www.france24.com/en/europe/20260717-thousands-protest-for-second-day-in-kyiv-over-ouster-of-popular-defence-minister",
+    "timestamp": "2026-07-17T19:35:14+00:00",
+    "source": "afp"
+  },
+  "b2a283bc9a157070ad9bae593141f6aa": {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uaThYNEk3RDIyd05uNDdVdjNCNGpCZEY5YkVCZlR1b190Y3p4NWIxV2RmQzlFVk9YZ2hCa2F2VzVSVlRUYTBFOWNaQzVpMEE5c3lrWTdWdkNGWmd5elZwMmtJWQ?oc=5",
+    "timestamp": "2026-07-17T19:11:20+00:00",
+    "source": "fars"
+  },
   "65a4bac7ec7d5da2b3ef6f412d018390": {
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TQ3ZvSm5fdmhFTUx6TnhMajkxQ3AtdUVlUVdXRzdaTDR2M1Vpd2xRSHFVZmlYZWlxdzlYcEEwazhVWENyaFRwVDlqZERZNzVfb29wZE93SDkyeTdmbmhEOV96SQ?oc=5",
     "timestamp": "2026-07-17T19:11:02+00:00",
     "source": "fars"
+  },
+  "3600c8b2ac83d51061e3a7ca1dc95366": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42a1A2bWE3VElXSGxlWXl4NGNHQ2JWa3N4Vi1td1FXejItNi1oNkJmOTlZZnVTb2h6YWV1SHRhRUg1R1J6RVFjMkV1VHl6ZXkxNkpMVm9QQkpWdS14d2c?oc=5",
+    "timestamp": "2026-07-17T19:05:56+00:00",
+    "source": "fars"
+  },
+  "03d21800f10862284b1bd0eaa653dff5": {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQWR6eU4yX0ZaaUxFYkRlZmE5R25nMG9yWEJzWk9TNGswUkZwLUhJQmVqMXg4b1dBLTdUMXZURVdIWHFtN0NjQVNaX0FtQVJsX3FMMTU5cDZ6WTVBX1hVdVZMaDlYWFRPUzZMSGlYX3V1dnRYZzMzaXJZd05nb21STTBfTkpoZGs1a1FzYUszd2k5SjNpclhZRWhHSmFKZlZoVW9vTTVQWlh4MkloQjlfdXVHcVZJMHFiQV9BUHR3?oc=5",
+    "timestamp": "2026-07-17T18:47:43+00:00",
+    "source": "reuters"
   },
   "281bf7a7a394b8612061365e17b1a76f": {
     "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260717-ukraine-trouble-at-the-top-adieu-keir-alright-andy",
@@ -189,6 +224,11 @@
     "timestamp": "2026-07-17T10:27:54+00:00",
     "source": "nyt"
   },
+  "8bb7d17d6c2a36f94f19f489c7f11e5d": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWNzNqa3NzYnJtRE80ekpYcVV2SnNjbThNWDY3X2RFNUs5RDhBYlpSTlp6Vm9fNG5lXzFsczk3QjJNbXNEUEdNVS1KTzFnS1JZeUE?oc=5",
+    "timestamp": "2026-07-17T10:22:24+00:00",
+    "source": "iranintl"
+  },
   "b03e8ac3f752208281a6247b3955c0d0": {
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xVG5TVGhkdWJRZS1kTWw0WmJZZl9FbllqWU9JcHNVdmNSUThQb2hzLVFudTJwcnhxVFpQa01XWEU3cFVkOFdYekRQZE5oSjVHY0FUOXAxZ2E3QW44Y3lFb2Q2ejNrbXFx?oc=5",
     "timestamp": "2026-07-17T10:18:28+00:00",
@@ -328,6 +368,11 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM25ibl9KeUtrQklPM3E3ZmtsN1JxVFRjNzZlQUJxOTB6RFR1RUVoQlVybjZNSkYwUkdaZFQ2WU5IQVE1UGJDTzl2cXZwM3J6b3Y1SWFOU0VaNHkwLUpGVlc5ck5RUDhHY0xaQmVVNlVLUERtcXVpOWMyRUM1LXRtV0hrS3JzMU9zVFVLWWhUNnpaNXlydkE?oc=5",
     "timestamp": "2026-07-17T04:20:39+00:00",
     "source": "fars"
+  },
+  "08e08a91c95c5db8e4ea3e6b1344c51b": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyOTBwVWQ4WktZbFNuUWVqUGR0LXVlZXowaHpzaTBXYldseFZrUGdjRno2TEhpZGxXM3B1clhzWlJzT2RqeTk0RGVaZC1lQkc2dXc?oc=5",
+    "timestamp": "2026-07-17T04:16:24+00:00",
+    "source": "iranintl"
   },
   "a4c301f0de08268d0a73e50d2d9ba2e4": {
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa2c3OHhFeUJnRHpjcE9BQTY4TXRmNm5JaE9BaUpyVWFSbEZfZERockRXX2hlOVRGNklodEtXOW5wbDRQU1ExWnFZaWx5aTVORGNvVVF6eFpjS0pVUGxCdFgzVUJpenBhYW96OHFXV3RHV3dwX2Q4RE5LTkVVVEFibmRtX1JtcWZSU0loUnpiS0ZVbVBOSFI2SThzZ01HTjI3NFJjdG1lNmhWWE93M2pNM0N3?oc=5",
@@ -2453,50 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JNUVuWlV4SW9IMTBzTHJ1dlNOTUNBUkwtWGlBNzY3dHEzNjhQNUFvMlFUTlRGVktubmVtU1oweTNTd1pBc0FSbFBZQXRNNFFkZXc?oc=5",
     "timestamp": "2026-07-13T13:03:31+00:00",
     "source": "iranintl"
-  },
-  "cc245580aed1bbdaf828f42473e2e3f5": {
-    "url": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html",
-    "timestamp": "2026-07-13T12:57:30+00:00",
-    "source": "nyt"
-  },
-  "25c755c3b0724688ff529a6616397519": {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN1BaaFF2YVJtUXdNTFFmcGNueVhOVXlyaFJGbUNxNzE1bWtyc0ZCMExVb3JLXzlHbEQ4clRtZktSNmh1TVZtWkZGaGdhQ0NHNks0Y0IzaEpRN2JLNjZnWllXMGQ5aDNTaWlsaHA0b0kzVThEVUQ1YnhjSElacGVLQU4tUGN5M09aM1J3MnlJOFRkYi1jRnZ3eFhhdy0tTEtueFRFcm5zdm5PUW52Vk5uZA?oc=5",
-    "timestamp": "2026-07-13T12:47:55+00:00",
-    "source": "fars"
-  },
-  "2a77442de4fd1d8c389500217191baf1": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CMkg1c2swY3RyVFc5di1LcTVheUdCbzM3TFRtUkRZYmJYLTRkb1BfRXJTWDNOY1hjRERLZ296ajhfUmJrRzl1TGxYMDQ4eXowaWc?oc=5",
-    "timestamp": "2026-07-13T12:22:54+00:00",
-    "source": "iranintl"
-  },
-  "1509fd508e32c1782c75c90ad5045f2b": {
-    "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
-    "timestamp": "2026-07-13T12:10:41+00:00",
-    "source": "nyt"
-  },
-  "8533351b9d6573997b7f71d3d6a21fe1": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04WmZmMWpKUUs3UEFWRjhGd2ViRlVVSkVaemRUOEdNdFNSWDB6WHhteTg2Q0NfWGhCVXZ2SGlHSkJ1MzRaZ0NmTFB1RVlDM1RVV2c?oc=5",
-    "timestamp": "2026-07-13T11:35:57+00:00",
-    "source": "iranintl"
-  },
-  "7f2f38e8ac40b19f53f94a2a7c9442bc": {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWhXdHRncXZPOURpc2ZuRVNjWWRFVjhiN1hEQzhicm41WGZzbFR4Zkk0ZWtYMTRXeFMwVW9xOEhVWVpyc3oyeFhGZWJyMFRfXzFDczhQalczWGNRQUxzMUxZdTNvLXhVUmVSejUxT1Q2NE1ZNVh0OS1Yc3NIV18tWFVKaHFiWHZlVUxxa0trMzZXV3haelpfZEtrRF96U0M2NWNEbDhyQWVFTHNkX1E?oc=5",
-    "timestamp": "2026-07-13T11:29:06+00:00",
-    "source": "reuters"
-  },
-  "a883b65d045dd8ebce7173c2e66a31ba": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fdS1FVkh0OEVUVmZJdlo2eDZvNEVrYmJKc2xqMWxObzRDb090dkJCeDAzMGpERXFURWgzckJybWFrR1RFdkJaWDVzYlVqdUdHMmc?oc=5",
-    "timestamp": "2026-07-13T11:23:22+00:00",
-    "source": "iranintl"
-  },
-  "89f2e659883d5cc27c76382b324ed672": {
-    "url": "https://www.france24.com/en/tv-shows/press-review/20260713-iran-rising-regional-power-or-too-weak-to-make-peace",
-    "timestamp": "2026-07-13T10:56:19+00:00",
-    "source": "afp"
-  },
-  "f0b4500a6b197d551997c297e047a017": {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbEttUTJHQW9JNnpfYV9LeHhLbVYxOE93M0l6a29adlptdmhNY2VaaXZTS0VJQzBZTlV2VUtnYjl4cndFaFJGb0t4RFVRTDJBYW03VkRVSjhPUVozWkhrX1dzM1dTZlZySUwwSkJFTzlOUGdfUWtGck83djN0X0dnZUFpZUFwN09ndVB0Rks3ckE4Zw?oc=5",
-    "timestamp": "2026-07-13T10:49:53+00:00",
-    "source": "fars"
   }
 }
