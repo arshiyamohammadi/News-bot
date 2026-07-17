@@ -1,4 +1,9 @@
 {
+  "4188b4f13b1eb7aa21e6b8a6220f7b57": {
+    "url": "https://www.nytimes.com/2026/07/17/world/americas/earthquake-tsunami-warning-mexico-guatemala.html",
+    "timestamp": "2026-07-17T17:53:44+00:00",
+    "source": "nyt"
+  },
   "53597eed66529885b987533593de2573": {
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2NqN2VtZFNDLWpDUGxnTXlpZmdWRmI3QlJyeTZSS2cwOEdyVEVGY0NGd3F4UGdqYkVoTjVaUWR0bzJVcW8yY0N1dG1zUnl0UUVDa2dKYVhKU2F5OWJPTWFfSGdZWlRfMjZZdEVxUTRiVDE1LXhMSjR0a0FOMFItVHA3V3FTYlVjU0Mzcy12VG9JbVlORGF2bXBFa1BIUjBNaHR6ZnBn?oc=5",
     "timestamp": "2026-07-17T16:43:20+00:00",
@@ -8,6 +13,11 @@
     "url": "https://www.france24.com/en/americas/20260717-magnitude-7-3-quake-hits-mexican-coast-near-guatemala-triggering-tsunami-alert",
     "timestamp": "2026-07-17T16:42:17+00:00",
     "source": "afp"
+  },
+  "8e1deee5d21a60fc00d827378b4eabee": {
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GYzhHQk9uV1RCRnJLeFhsenhUZUoycU81RnNtQnhkWG9ZS2NnbkZ1QUJCVGt5SUdUazZBWUpxN2h5alJCbmJEZjdza0pNTEREdUllOUZMWG5Ydw?oc=5",
+    "timestamp": "2026-07-17T16:12:49+00:00",
+    "source": "fars"
   },
   "49672396f585fab0888a40efdce5ef54": {
     "url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
@@ -90,6 +100,11 @@
     "source": "fars"
   },
   "a311f3578dd98bd4e2ad28eed4e2ae6c": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KT0hSZjNhQ3dKWk4tbnZfd04tRlM2SlI4MHlUSjVQYXJuY21DMzdHaGJJYy1ZZzFCNkd1WXF6VW43YUJHdkEzWUpreThDcWtwc3c?oc=5",
+    "timestamp": "2026-07-17T11:35:28+00:00",
+    "source": "iranintl"
+  },
+  "ee838a84687d4faaf3ca3500bdfa70bb": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KT0hSZjNhQ3dKWk4tbnZfd04tRlM2SlI4MHlUSjVQYXJuY21DMzdHaGJJYy1ZZzFCNkd1WXF6VW43YUJHdkEzWUpreThDcWtwc3c?oc=5",
     "timestamp": "2026-07-17T11:35:28+00:00",
     "source": "iranintl"
@@ -229,6 +244,11 @@
     "timestamp": "2026-07-17T07:26:51+00:00",
     "source": "iranintl"
   },
+  "7489651cc931c454246ffcf314543ecb": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Kc0pQVl9DNlc2ZUljejY4R1o3czVReXREY1dibnk5c0ZFTFl1eUF0QUNDeDExWkVlcFV6U3dyckpkbWJRTmNGY0FfSXlGbmc1UUE?oc=5",
+    "timestamp": "2026-07-17T07:19:48+00:00",
+    "source": "iranintl"
+  },
   "e4609007b5f95b043101f8b06a00d81d": {
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGllOTRGNDVFclJpYTFrM3BybWdJeURrYjhwQWdnUEtyV2RVM2U2S3dwdXZQWDJ3NmozOVFvNkhfMXNaXzRvejM3d0VlZ2U0YkRidC1hWXNfdDB2UHJ5am91Uy03ZDMtZjVhVTFJUHJHZjJ5MGI2V0lSVkprbFN3RUJmeHNvcTNVM0k4SHc3MEFiN0FWblZ3S015RWREWWs?oc=5",
     "timestamp": "2026-07-17T07:13:47+00:00",
@@ -349,6 +369,11 @@
     "timestamp": "2026-07-17T00:49:56+00:00",
     "source": "iranintl"
   },
+  "06bf9b988fedc5a5141c4e49d07dee97": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3ZW56Q3VhX0tRVUx6LTl6ZGc1NE0tbUhDbVJCdV91Q05WX1lxMnItZVVKMHZUUVZuLTFnVVloMmlwVmxLdjBPTW1NOFBBdG5EYnc?oc=5",
+    "timestamp": "2026-07-17T00:49:56+00:00",
+    "source": "iranintl"
+  },
   "7d2303e8020d971880ada37b87d24b88": {
     "url": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
     "timestamp": "2026-07-17T00:48:11+00:00",
@@ -435,6 +460,11 @@
     "source": "afp"
   },
   "7ae78e896876a0eb1d9b1e34ea2ef9a1": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OTlgxOVZqRGYxVVV1cnpQVVhNUTJkeGNPdHdETU1Pb2YwSlF5N3dnYk5IdXNLLWR5OWt6VHlCam9zUjNrUWpsMk10dnBYN0ktX0E?oc=5",
+    "timestamp": "2026-07-16T20:15:25+00:00",
+    "source": "iranintl"
+  },
+  "0a37c6f1100d39196518bb863c130e1a": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OTlgxOVZqRGYxVVV1cnpQVVhNUTJkeGNPdHdETU1Pb2YwSlF5N3dnYk5IdXNLLWR5OWt6VHlCam9zUjNrUWpsMk10dnBYN0ktX0E?oc=5",
     "timestamp": "2026-07-16T20:15:25+00:00",
     "source": "iranintl"
@@ -2467,36 +2497,6 @@
   "5306df3ec038413532ee38327801f16c": {
     "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
     "timestamp": "2026-07-13T09:23:11+00:00",
-    "source": "nyt"
-  },
-  "b00913bf11d8722462980219b72ef8fc": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LclBnQ1pQYkJSQVVuTFBQNWRKNzlnQmI4RDZONkxfRHUzMlBnc2VvaE5CekNhTlJ0VmxzVnA4RWxySnQtd0RnOEdTMEVIQW9maGc?oc=5",
-    "timestamp": "2026-07-13T09:18:50+00:00",
-    "source": "iranintl"
-  },
-  "22b551762dee2c31f2937821bf468d27": {
-    "url": "https://www.nytimes.com/2026/07/13/world/middleeast/lebanon-south-israel.html",
-    "timestamp": "2026-07-13T09:06:37+00:00",
-    "source": "nyt"
-  },
-  "92b861224d31bad4ce127bf3e62ee73e": {
-    "url": "https://www.france24.com/en/tv-shows/business/20260713-how-heatwaves-are-changing-france-s-real-estate-market",
-    "timestamp": "2026-07-13T09:04:04+00:00",
-    "source": "afp"
-  },
-  "645d21e55bf1ec58cab0e2b8d4db9774": {
-    "url": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-war-russia-cognitive-warfare.html",
-    "timestamp": "2026-07-13T09:02:08+00:00",
-    "source": "nyt"
-  },
-  "4e3995243c2ae8ce8b3eeda2b41a1192": {
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTy12R0FCU0cyRnZiZTZsZE96WG9SNi1XLXUtSXZVMUpmN0YzQzItS25XNUM5ZW1mdXhTZUxNQ1dwczh4czNzWkNaS01ia3k0ZDF1UzFteXNBXzZoYmR5cTFwRmxjY0dNS1ZPUVFQRm42RElvaFp5TVZyNmJmSjdPZnBBWHhwczVDd282b0NFcnNlQkxMVDhzRVJDMWYzUQ?oc=5",
-    "timestamp": "2026-07-13T09:01:43+00:00",
-    "source": "reuters"
-  },
-  "ee1dc1ca4892c3b5470d970bcb7c56d6": {
-    "url": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html",
-    "timestamp": "2026-07-13T09:00:23+00:00",
     "source": "nyt"
   }
 }
