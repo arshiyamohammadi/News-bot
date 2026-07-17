@@ -1,8 +1,33 @@
 {
+  "23dfd326b20d624292678bd6c8bd9ab2": {
+    "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+    "timestamp": "2026-07-17T19:52:28+00:00",
+    "source": "nyt"
+  },
+  "dbdc998415818de4f7e148db534cef31": {
+    "url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
+    "timestamp": "2026-07-17T19:40:38+00:00",
+    "source": "nyt"
+  },
+  "65a4bac7ec7d5da2b3ef6f412d018390": {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TQ3ZvSm5fdmhFTUx6TnhMajkxQ3AtdUVlUVdXRzdaTDR2M1Vpd2xRSHFVZmlYZWlxdzlYcEEwazhVWENyaFRwVDlqZERZNzVfb29wZE93SDkyeTdmbmhEOV96SQ?oc=5",
+    "timestamp": "2026-07-17T19:11:02+00:00",
+    "source": "fars"
+  },
+  "281bf7a7a394b8612061365e17b1a76f": {
+    "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260717-ukraine-trouble-at-the-top-adieu-keir-alright-andy",
+    "timestamp": "2026-07-17T18:31:02+00:00",
+    "source": "afp"
+  },
   "4188b4f13b1eb7aa21e6b8a6220f7b57": {
     "url": "https://www.nytimes.com/2026/07/17/world/americas/earthquake-tsunami-warning-mexico-guatemala.html",
     "timestamp": "2026-07-17T17:53:44+00:00",
     "source": "nyt"
+  },
+  "0ae90f6c13f79c292f9dcbfeebcd4304": {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWxrSEMwLS01RTJuYy04NmVnVm5jS3Z4a09UWXNZZ21RT0tEVU9YSGNrQW9KM0FQZDZlQ2xyOHR5aGNLM3ppUWNkTG9yaGNodnhlVzJjUXRyNEQ1TUw1VWtTLTZhbXRzSHVuNUNmSjJSMTBUYWR6anNLYmNpaXhXRXpMZ2ZoT0dNY09fSUhtYVJwaU82ZGdOOVVWNWwteGJhR2x0bDZaMzY5VzA?oc=5",
+    "timestamp": "2026-07-17T17:17:00+00:00",
+    "source": "ap"
   },
   "53597eed66529885b987533593de2573": {
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2NqN2VtZFNDLWpDUGxnTXlpZmdWRmI3QlJyeTZSS2cwOEdyVEVGY0NGd3F4UGdqYkVoTjVaUWR0bzJVcW8yY0N1dG1zUnl0UUVDa2dKYVhKU2F5OWJPTWFfSGdZWlRfMjZZdEVxUTRiVDE1LXhMSjR0a0FOMFItVHA3V3FTYlVjU0Mzcy12VG9JbVlORGF2bXBFa1BIUjBNaHR6ZnBn?oc=5",
@@ -13,6 +38,16 @@
     "url": "https://www.france24.com/en/americas/20260717-magnitude-7-3-quake-hits-mexican-coast-near-guatemala-triggering-tsunami-alert",
     "timestamp": "2026-07-17T16:42:17+00:00",
     "source": "afp"
+  },
+  "5fd15fdd84d0f39b1e26b083f646a47a": {
+    "url": "https://www.france24.com/en/americas/20260717-magnitude-7-3-quake-hits-mexican-coast-near-guatemala-triggering-tsunami-alert",
+    "timestamp": "2026-07-17T16:42:17+00:00",
+    "source": "afp"
+  },
+  "f07f4d23694d59b1bccf22fdc0ca30a4": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82YTY5MFdURkgwelRnUmt4YldVVGtiTlZ0SjZENEhlZW9GWnV6enZNNWIzbDRCTlZyMUlxNkZ4aE5EUk84WmVKWmNNcTFzS3VWYXJYRnZDU2dFaTNMZ0E?oc=5",
+    "timestamp": "2026-07-17T16:27:02+00:00",
+    "source": "fars"
   },
   "8e1deee5d21a60fc00d827378b4eabee": {
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GYzhHQk9uV1RCRnJLeFhsenhUZUoycU81RnNtQnhkWG9ZS2NnbkZ1QUJCVGt5SUdUazZBWUpxN2h5alJCbmJEZjdza0pNTEREdUllOUZMWG5Ydw?oc=5",
@@ -33,6 +68,11 @@
     "url": "https://www.france24.com/en/video/20260717-trump-doubles-down-on-2020-us-voter-fraud-claims",
     "timestamp": "2026-07-17T15:19:37+00:00",
     "source": "afp"
+  },
+  "669898daa76167eecc0cc899479a2a26": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11TUVIQXpzV282VkhnX3Jiakt6bWNKaFpvLV83Nlo2NDAxcV85Q0pGTlFEbzdoN1lPUW5TTS11Zktfdm9fcGVwN05kZkZPRTJJSUE?oc=5",
+    "timestamp": "2026-07-17T15:04:14+00:00",
+    "source": "iranintl"
   },
   "4afcf901c092160b50206258fce8c5d6": {
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVExlaTA3d0tQOTlrdTNudjNYUlluQXVPNFFFRl9zMkFhYVJNbFgyT2NtY2p5S3RtNEJuQ3dTMmlHMzBtRXJQdUMyLV9SUm1XTlNQaDg4QmUxdVBKUnpGVWs4YTNiTDh0UFltMnV2ejRuMFJPcHhmQUZSRG5xMGJTVkhpcm84V05ya3g4YnRtNmhnQlhYX1FwbzZvUG9mZ2thVkdmVHV6UGZzdk5oaXlKYzdDakZ6ODk5dWFv?oc=5",
@@ -216,6 +256,11 @@
   },
   "0db40c0917fe25c26d9ee3de482dc110": {
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOGFHeHRUNlc2UGh2M2lMVk9nYWpHSWV2ZTJNWndMYlVZZFpvRE5YRWZ0WXNMN0pCQzYwa2pxSUhDWGY4Yy05NFNsUW1WTkNUXzdaTzVPOGdTcl9YNElKQ3Z3dU1OV1Q4UnJ5LUd6LTFNdnJqeUtJVDJEVUZpY19nRVdYR2V1b3I3TWthNnJ6b3I2ZnJvOFFQSFVzdVJGYWgyWVZMUGRMME1TUQ?oc=5",
+    "timestamp": "2026-07-17T08:46:37+00:00",
+    "source": "fars"
+  },
+  "6c9b3d37979f3cdce986b8d62ea16cd0": {
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUGNMZVFNY1p5ZGNIMm4wQkhDUkJYMk1fLW54ZmhyZXpzZmpFM2Rhd21ONXFUa29SQ3ZZcEYxTlFsWWd5aVBJSjJTWnhiZVRCMVI4d29UMldHNDNQbnYySlQ0Z2xMRzNUNEhiNzBaTUk1aHNHeW9CWFQ5VFB4T0hjT3VjZzA5cW45dlpmNlFzLTVyNkZpXzVyVTVscTVaSTBRUmJfU0FNekV0MzFJazVmRDFpRWxTa2tzaWNFSkJtX1VCdlV5Mkgzc25FQk1lbGJGOHhzbGtaWHc0NF9wdHFNN2c5d1I?oc=5",
     "timestamp": "2026-07-17T08:46:37+00:00",
     "source": "fars"
   },
@@ -2453,50 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbEttUTJHQW9JNnpfYV9LeHhLbVYxOE93M0l6a29adlptdmhNY2VaaXZTS0VJQzBZTlV2VUtnYjl4cndFaFJGb0t4RFVRTDJBYW03VkRVSjhPUVozWkhrX1dzM1dTZlZySUwwSkJFTzlOUGdfUWtGck83djN0X0dnZUFpZUFwN09ndVB0Rks3ckE4Zw?oc=5",
     "timestamp": "2026-07-13T10:49:53+00:00",
     "source": "fars"
-  },
-  "f90ef7907a110ddf65cf9f33b65968cd": {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWJENDFXNzRCZ1IwN1MtWndCWEtYUWhKRlNHZHJDakVEVXZpeVFPaU0tQm9KNHRlMkxucjhVT0tHNzJEbXpnRzF2djdHSENNNTR4LW5NOUFwRXhlSzV5RkE0UW55VEVXVXdQalRDSWtwQlNYUHJQb1RqNFZ0QlhMekdGdVBhRkxwRXRfRWx0eUhXN0VlTTRNX3M5UXpXYWxUVnNmblhKYjdmUlpqV3NDU2tR?oc=5",
-    "timestamp": "2026-07-13T10:17:41+00:00",
-    "source": "fars"
-  },
-  "410e5734b89b5165e107e77cfc0f7296": {
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jT09Xd3lIZUxPWllwWkVkMW42S3lScnZSOEpEclNFZk9BZFV3Q2FjNHB5UVJYRlpvZF9RWVp2WlRjWGwyNEY4LVFFNU5DOElfMnRfVk15RG9ER2p1cDdJb09KZXVEOHZ4eGlJNmFYM3ZDREpDQUVtSXByTE5xQQ?oc=5",
-    "timestamp": "2026-07-13T10:00:53+00:00",
-    "source": "fars"
-  },
-  "87293f848849d20bd6c14b789330eb2f": {
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jT09Xd3lIZUxPWllwWkVkMW42S3lScnZSOEpEclNFZk9BZFV3Q2FjNHB5UVJYRlpvZF9RWVp2WlRjWGwyNEY4LVFFNU5DOElfMnRfVk15RG9ER2p1cDdJb09KZXVEOHZ4eGlJNmFYM3ZDREpDQUVtSXByTE5xQQ?oc=5",
-    "timestamp": "2026-07-13T10:00:53+00:00",
-    "source": "fars"
-  },
-  "d4be18028008c1bec79447ddd57a3a82": {
-    "url": "https://www.france24.com/en/france/20260713-watch-live-macron-addresses-french-military-on-eve-of-bastille-day",
-    "timestamp": "2026-07-13T09:56:45+00:00",
-    "source": "afp"
-  },
-  "4a4dab581ba7c65ca32405b635972f6f": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tRzRUTWNHUWVta2JmdmZwRDJLVVJwSjA1RXVyemR6THdhVTZqNDR0cUhyX1RtazRtc21BNmFmOU9wby1BSHZaczAzSjVJMzdLMGc?oc=5",
-    "timestamp": "2026-07-13T09:53:33+00:00",
-    "source": "iranintl"
-  },
-  "ba7872eb1cab40ba87510921d804cdf2": {
-    "url": "https://www.france24.com/en/video/20260713-coalition-of-the-willing-meets-in-paris-to-bolster-war-support-to-ukraine",
-    "timestamp": "2026-07-13T09:32:49+00:00",
-    "source": "afp"
-  },
-  "8f96419ba1ff7398ccbe1fd1036b09bf": {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHZ0YWpGZjBZakNRRmRveklzX1hRUklIWUc2MzVoWE51Z1Bjc0JFU05vd2tGVWhaSVVVSmFvbHU3QWJZcEs0R2dkRjFxcG9WaGMtWFo2SmhqTTVjSDNFVFk5Zl8xcmdiaTFHUmM5cWU0RzNDeDU2TGM4RWJJMjg3Y2lYeEJBWkdqeXFWUjg0eWpNZw?oc=5",
-    "timestamp": "2026-07-13T09:27:00+00:00",
-    "source": "ap"
-  },
-  "cef93cafaf966effc607496a9f317d03": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vS0o3YjZ5MUo5T1l3eE5xTllHOGtaZHZJa0hpM3hwaHU5eF9LUmktMTNfS0xnY1pPT2dBbWNzeE5JYUI2a2puSGtTUnhETngwZXc?oc=5",
-    "timestamp": "2026-07-13T09:23:36+00:00",
-    "source": "iranintl"
-  },
-  "5306df3ec038413532ee38327801f16c": {
-    "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
-    "timestamp": "2026-07-13T09:23:11+00:00",
-    "source": "nyt"
   }
 }
