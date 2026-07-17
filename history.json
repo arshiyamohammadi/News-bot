@@ -1,8 +1,33 @@
 {
+  "cda3aa636d2d8c169e927e2c5cc03d0d": {
+    "url": "https://www.france24.com/en/middle-east/20260716-middle-east-live-us-strikes-in-iran-hit-airport-bridges-and-railway-station",
+    "timestamp": "2026-07-16T23:56:57+00:00",
+    "source": "afp"
+  },
+  "a6adbb96f95721b1d6cbe23016056de7": {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWlZamEwLUk2TEgxem1Yel9nd2lFVVdHTXZUd09XbmlOQzVFckVzNlByc2xhaEZJNEpTMTJiVEtCb0lLc0taSWtrdjQ3VHNubEFXRE1jZHNrSUhCTEw2WXgtaEZLTHRpQVBJZXVsU3g3bWNIZmFvdnBDLVpIN20wMmQ1a1dDWWo0SHpvQmdkV2dsRkRORE5xWlExMlVxS0hlTVpybDVqTHpDRkZxXzZZQXNZTm9BMTBSVnhoN1lKX1RmZEV5?oc=5",
+    "timestamp": "2026-07-16T23:54:19+00:00",
+    "source": "reuters"
+  },
+  "76d4917877cadbaac3a9437d90351ab7": {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnIySy12MVk2eUt1V3poZUtIbERIR0pMcHcwVGFUbW5CRlllQnFHU1FHYWNoNmh5YThaZGc1NHpId0pOVXZ0Z0Npb2xvZEZJaEJlaUlwSjBVaGw5WkJNWWlfckZfWVdNMGFucGVJUUE0Z1RzNXhRVklRUlhtUjgyYTMxY19DSEl2bkNiRTRjMjBKa0huQmVTUmtyNHZZNkdOdTJmY2daYVNMaTlJUEVEZC1LMFAxMjR1Tnc?oc=5",
+    "timestamp": "2026-07-16T22:54:23+00:00",
+    "source": "reuters"
+  },
   "f09269414655b2a18b270ff55101cc86": {
     "url": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
     "timestamp": "2026-07-16T22:49:06+00:00",
     "source": "nyt"
+  },
+  "0372b4a068941dfc4f488f196087ae43": {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XU3N1RzdxRUdiWTAxM1VXa3dQMFc0YXZucWU3ekpxTXBjSUtRY3k3VVd6X3Nvb2VpcENHczFSYm4wSEpSRHNscnRtc3NGV2JYbElTYlk4M0lMUVVaOFhIMGpua1RQR3lOTnFhdDlDaGNIUnVlMWZLVA?oc=5",
+    "timestamp": "2026-07-16T22:28:04+00:00",
+    "source": "fars"
+  },
+  "02df2251f35c14ae30d691d608af7587": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xVkNNaDRVd051dUxXNEFoRmV4aHdlUEF4WUJkWjFOdFFSanBXQWVmUTBQYk1WRnZ6dW5SWThZdGgtYWhBRTI4NnUyNXVKSGVfRVE?oc=5",
+    "timestamp": "2026-07-16T22:00:16+00:00",
+    "source": "iranintl"
   },
   "8523b042a2356ee3e500c7baa12179f3": {
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWlZamEwLUk2TEgxem1Yel9nd2lFVVdHTXZUd09XbmlOQzVFckVzNlByc2xhaEZJNEpTMTJiVEtCb0lLc0taSWtrdjQ3VHNubEFXRE1jZHNrSUhCTEw2WXgtaEZLTHRpQVBJZXVsU3g3bWNIZmFvdnBDLVpIN20wMmQ1a1dDWWo0SHpvQmdkV2dsRkRORE5xWlExMlVxS0hlTVpybDVqTHpDRkZxXzZZQXNZTm9BMTBSVnhoN1lKX1RmZEV5?oc=5",
@@ -44,6 +69,11 @@
     "timestamp": "2026-07-16T19:54:53+00:00",
     "source": "reuters"
   },
+  "4392518871dc42c5d735b51632045c46": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGbkxjQjVhMlBCdTJpdUQzTmxYaG1OS0I5RFZ0VG9MRno1cDYtMjVYemtrY0ltVEpmQUpVMVVzNHFmUUJTT2ljMjZuQTRjTDJtM0E?oc=5",
+    "timestamp": "2026-07-16T19:50:18+00:00",
+    "source": "iranintl"
+  },
   "1e8a260409ffea6ffc90dd7cffe3dea5": {
     "url": "https://www.france24.com/en/bitter-row-splits-ukraine-s-military-leadership-after-defence-minister-ousted",
     "timestamp": "2026-07-16T19:32:27+00:00",
@@ -53,6 +83,11 @@
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYW1SRVdSN09Ld296TUtRNjA3UGVjVGRFenVuOEQweFRZNjM0NUNkSktZY21KNEhhQllpMFd1cUtDeUVKclh1WmhtaV9IQWRUcThMZnRFRFVrNzJRSk5oR2VUXzlUWktfXzU0anQ3V0QwVEVTNlZibmlULVRiZFItcGFzNXVTLWx2SWw1ZERJa2V3cXZkbzFkRXo0LXJ4Zm1aY29RY200d2M3b0tOaU9NSFVabFdCRndISjZlbFB5UG9HcDdnRGN4bUlWQUI?oc=5",
     "timestamp": "2026-07-16T19:22:22+00:00",
     "source": "reuters"
+  },
+  "d6a58ca0381db31895d0d5a93d16c88d": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTy11Vzl3aTlubnRhU21NMktfakVDc3FlRmVVSWc5ZlRhTldhR3hJSnA1TVRoQzFZOThUV3N5cjN6RzRrdmNOZktOU0ZJdURYVi0wcmpoYnJac0ZrZVE?oc=5",
+    "timestamp": "2026-07-16T19:07:49+00:00",
+    "source": "fars"
   },
   "82662d951f21ab921464c5071b288c09": {
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXFnZWtOU1NXb01HY2FxbTBsUmJqNDlaa3NORmpyZ0pYVzhSVFZkaUNYTjczY0E1YjhpR1F1OGRoT3dJNnVTMjVuUGJyamVCckJwMi1WY0hJR2NyVGQ0ZDdzbF9LMzgteGZDRGtMd0ZQV211YWF3cHpYLWdhTXZjTXVhTG1zRkRmR3Q1NVdQRWNEb2xhZU0zRTFodmM4ZXc?oc=5",
@@ -68,6 +103,11 @@
     "url": "https://www.france24.com/en/europe/20260716-how-rivalry-with-top-general-syrsky-brought-down-ukraine-popular-defence-minister-fedorov",
     "timestamp": "2026-07-16T18:12:37+00:00",
     "source": "afp"
+  },
+  "7b3f3d7720730da0ed99173a5d42f274": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzdkZfN2I1MURMVUhReUd2Z21remVVSUo2RTlPSEt1dmFPTVlXal9Kcks2WC13c2ZZc3RhSXN5b3Z2TVcxSUgySTFjeWpMTkNwNFE?oc=5",
+    "timestamp": "2026-07-16T17:48:01+00:00",
+    "source": "iranintl"
   },
   "e258e76f5eb084566330947fca866a9a": {
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnYzOW5nRHgwakl3NXZGMXVna2ZFN21CaTM1LVpqNDQ4Q3NhSVBzMnZBX3AybWtfN3NmUWFZU0R4SFA0ek8wSDZTWTI1akhCV2dnNWxTb0plVkZ2RnhSRmFFNkVuSG9GOXhzWHhCcEdLRzhrRlUtcUlScFlLenRVQmtGSE9rVm9CdEpKdy1DamVvU2JHU2NIRV9OMnJWSGR0NENIeDFaNkVpeGlVNUJTRGs1RQ?oc=5",
@@ -143,6 +183,11 @@
     "url": "https://www.france24.com/en/lebanon-and-israel-conclude-round-of-talks-on-idf-withdrawal",
     "timestamp": "2026-07-16T13:37:12+00:00",
     "source": "afp"
+  },
+  "4482126edbeab9fc63985744577b25f7": {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcEtDa0dBZHZpRnE0RmhCZjBMTHJySHVGS0NMMjRIVDcxTWlVZHNuR05JYm5QWjhQVUtaV2FiajVPUzdSSl9WMlJoSlVLbkIzWTJPTThGbzE0OU9Rc1ptSVMxSFQtUUp5U2FrUE5HT0R4eXg3MklIU2NwZ2FfajR1N2VobE1ENGRzM3JfeFltUzlWM3ZsSkwzUDFOVmNza092YkV2ZW1PY0JUaG1zcl9EcTlxTVgzU1ZiSkxaOFhycHFFQQ?oc=5",
+    "timestamp": "2026-07-16T13:35:09+00:00",
+    "source": "fars"
   },
   "1d21cf8c1a4fe69d81505b83292b52a2": {
     "url": "https://www.france24.com/en/dozens-found-guilty-in-genoa-s-deadly-bridge-collapse",
@@ -838,11 +883,6 @@
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORkMzazNjc1U0Uk5pTUJ2bTBxaVl5UTR6VzZXSGpTY29VVXNSTzZvSG5KVEhJSGctWGZGelh0R0ZiV1YyUVRXSHZ1al9jNG5mNkhZa1dQVjY4Nm1MTW9HZjRkRDg1anU3YS05VG4wbmhvVnB1b29wU1BoVEtrWHhSaU1lTHBZVWJER3RnOUFLdGwxbUo5dXdGcGRBMVVnU1daaU1nNDhsQ200c1JHcjJfeWVSNDU5a1JVaG9KOHE3NXFlVko1N1NR?oc=5",
     "timestamp": "2026-07-15T09:27:15+00:00",
     "source": "reuters"
-  },
-  "0372b4a068941dfc4f488f196087ae43": {
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RTzJWc2xKUHRZWHB3UENMUEo0WWZZZEUxamszUVd4ZVJuTk5jcG94andFakxUc2tZZi1TUjVyY1ZKT08xdE5LRFE2YkxsbkM0SUltMW5Rd3hVNTdlMnNzRl91Z2YweHBIT1NhaHlYZw?oc=5",
-    "timestamp": "2026-07-15T09:16:45+00:00",
-    "source": "fars"
   },
   "32cc4adeeb9e5a11c54639d9ef49563a": {
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RTzJWc2xKUHRZWHB3UENMUEo0WWZZZEUxamszUVd4ZVJuTk5jcG94andFakxUc2tZZi1TUjVyY1ZKT08xdE5LRFE2YkxsbkM0SUltMW5Rd3hVNTdlMnNzRl91Z2YweHBIT1NhaHlYZw?oc=5",
@@ -2458,45 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS04wOFRUV1ZrMHBBRmNCSTZBaTUweGFzTVNfbWlRNzJuMmZydVQ5UllHSmh4UGpiSkZCSjlWSG1rR19Fa09wMHdkZUZlT05oY3kwNXN1dkhSbFlDdUZPbVRuM3dueDMxRG1iU0FRb3FjVTNOSTY2SExGVS1MSHo0S09sVXBmbHRWblJMNVY0cDNCT0dsQXJtOUhuMTRGaVp0bzA3UzVhRXhNdW5LMTVLRV9OR1FPcDF4QVdYZ2xzWWlzMU1jVjE5RmhB?oc=5",
     "timestamp": "2026-07-12T08:22:08+00:00",
     "source": "fars"
-  },
-  "0c1d616ce210d678396dcb202287a1f1": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jQnhYeE5GMG9XOVZ1QmZPVkhOa2Mta2Y0VzA3SlRpSU5RNkZWY1F1am9mUUJrMFRpUFo4UC1vOFFfTEVJX3Y2UWZfZndFd1pva2c?oc=5",
-    "timestamp": "2026-07-12T08:15:24+00:00",
-    "source": "iranintl"
-  },
-  "5a9a33a8e4d89a079cfa3853958fefb5": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nSm95M1E4cU4xLVlDY2xWUldXN2RfUjZ4RWRYWVo2N3UyVkg5RmNDV0Z0LVVBX282TjFLWEUwVEZWN2FUWkh3MkhJcVQ0U01MLXFnN015WlhIam5JbXc?oc=5",
-    "timestamp": "2026-07-12T07:55:18+00:00",
-    "source": "iranintl"
-  },
-  "43ab91c2177185206666e3b723170fc6": {
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmRIRDRlNzdERDd4MEJlYlpiLV9MNlE1bXVfMEJMVXpDU0cwZEtHYXJuSzZGSXZMSlNUdzVyV3VWQTNlWnRWRy14cW0wdmtKbzJKS3kteE1uOVlWUVNiY1YzOGtoRWFnbnZ1U1hSajhma0ttMnBEVjJMVmdWaS14WmVldUNrV3lEOEVv?oc=5",
-    "timestamp": "2026-07-12T07:50:11+00:00",
-    "source": "fars"
-  },
-  "2cd623fed3fb6363a9ba108185ed665e": {
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmRIRDRlNzdERDd4MEJlYlpiLV9MNlE1bXVfMEJMVXpDU0cwZEtHYXJuSzZGSXZMSlNUdzVyV3VWQTNlWnRWRy14cW0wdmtKbzJKS3kteE1uOVlWUVNiY1YzOGtoRWFnbnZ1U1hSajhma0ttMnBEVjJMVmdWaS14WmVldUNrV3lEOEVv?oc=5",
-    "timestamp": "2026-07-12T07:50:11+00:00",
-    "source": "fars"
-  },
-  "e90a1e198c8ca26bc3fefca51d2890d4": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02eWVNNG9XYVdTSzI2YzNmd0ZwOVdNSlNaRGtPZGxVVlFPUkVDTXFWajZsMUtSUUZTVXF1RDh4TGJFbXZOYm5LejA5OHp1OTJtRHc?oc=5",
-    "timestamp": "2026-07-12T07:39:38+00:00",
-    "source": "iranintl"
-  },
-  "228457d61bf3839bd06de071047d0579": {
-    "url": "https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html",
-    "timestamp": "2026-07-12T07:17:40+00:00",
-    "source": "nyt"
-  },
-  "76e1a07353f1e67afed050a6820c905d": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdmVtcWZWczZUZnlGX1dvakNYX0pNZUFPdE1TaXBuZGJJTXJNUXFtSGFkQ0ozM09LQkJmd1gtU2t0VmYwTmRVYjIya0hMSG9BUjNOY01heUV2dEZCU0FmTUtGSzRFOE5CTUVjVF9zQlF0MHpXdWg1MjAtNk9Fam00aWNkdDJxZXcyT2JfeFo3UE5zSmgwZFkycFRBYVBQOE1pVzdUZjV1ckU4akNRTzlFcm5vMi1jUkFsMlZfRw?oc=5",
-    "timestamp": "2026-07-12T07:03:58+00:00",
-    "source": "reuters"
-  },
-  "8b17bbdbff229148f795de917e199b8b": {
-    "url": "https://www.france24.com/en/asia-pacific/20260712-typhoon-slams-into-eastern-china-as-more-than-2-million-people-evacuated",
-    "timestamp": "2026-07-12T06:30:49+00:00",
-    "source": "afp"
   }
 }
