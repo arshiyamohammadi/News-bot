@@ -1,4 +1,24 @@
 {
+  "53597eed66529885b987533593de2573": {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2NqN2VtZFNDLWpDUGxnTXlpZmdWRmI3QlJyeTZSS2cwOEdyVEVGY0NGd3F4UGdqYkVoTjVaUWR0bzJVcW8yY0N1dG1zUnl0UUVDa2dKYVhKU2F5OWJPTWFfSGdZWlRfMjZZdEVxUTRiVDE1LXhMSjR0a0FOMFItVHA3V3FTYlVjU0Mzcy12VG9JbVlORGF2bXBFa1BIUjBNaHR6ZnBn?oc=5",
+    "timestamp": "2026-07-17T16:43:20+00:00",
+    "source": "reuters"
+  },
+  "63bcf41778645f55ab56936f593dc3b9": {
+    "url": "https://www.france24.com/en/americas/20260717-magnitude-7-3-quake-hits-mexican-coast-near-guatemala-triggering-tsunami-alert",
+    "timestamp": "2026-07-17T16:42:17+00:00",
+    "source": "afp"
+  },
+  "49672396f585fab0888a40efdce5ef54": {
+    "url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
+    "timestamp": "2026-07-17T16:07:11+00:00",
+    "source": "nyt"
+  },
+  "3cc8b8e5aaf62e931d5ed28f858b86f3": {
+    "url": "https://www.france24.com/en/france/20260717-from-colonial-symbol-sanctuary-paris-grand-mosque-turns-100",
+    "timestamp": "2026-07-17T15:57:48+00:00",
+    "source": "afp"
+  },
   "b47948b0c2b9d0c0fd7b93bb54aec594": {
     "url": "https://www.france24.com/en/video/20260717-trump-doubles-down-on-2020-us-voter-fraud-claims",
     "timestamp": "2026-07-17T15:19:37+00:00",
@@ -48,6 +68,11 @@
     "url": "https://www.france24.com/en/tv-shows/spotlight/20260717-ukrainians-disillusioned-outraged-zelensky-reshuffled-entire-govt-to-dismiss-defence-minister",
     "timestamp": "2026-07-17T13:25:54+00:00",
     "source": "afp"
+  },
+  "51c01b20eee316568ba12cd654c7493b": {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcTdva3VJQmgwbDRiYTMwV1BqZkZkWUxIcTZFXzQybDF4X1VpWnRxTXBGTEVuN1E0MERkVHotNk1vNWtxY0lYZURnVEZTcHNMZXI3V0gwdVZkYU1sRjJKakl5NTZ6bExhd2NtbGdZenZrRDQyZS1kemhnRHc5SGhlSlF1ZEF5LWhYZ3c0Y1BEUmNOWm1FOFVxNERJMEhiT2k5dkpQMDRhOGE?oc=5",
+    "timestamp": "2026-07-17T13:13:43+00:00",
+    "source": "reuters"
   },
   "c1899f6203bdb3c5fad424b174b45b07": {
     "url": "https://www.france24.com/en/whether-you-re-labour-or-not-andy-burnham-embodies-the-uk-s-hope-for-political-stability",
@@ -2473,30 +2498,5 @@
     "url": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html",
     "timestamp": "2026-07-13T09:00:23+00:00",
     "source": "nyt"
-  },
-  "81b5e2026d8e9f97ca2030c62329792a": {
-    "url": "https://www.france24.com/en/strait-of-hormuz-back-to-square-one-as-us-iran-flare-up-brings-uncertainty",
-    "timestamp": "2026-07-13T08:56:49+00:00",
-    "source": "afp"
-  },
-  "6d3816418fbf6d858ddb7ceef966579a": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wUkgtTHdTWngxRVVPWlU3bkpNOGFzam90Z3hUYzVVRzdGeGx6NE1vWE4zQXJrY0R3bVZ4RldfblpNUlZIU1kyRC1WN01qWXZic3c?oc=5",
-    "timestamp": "2026-07-13T08:54:32+00:00",
-    "source": "iranintl"
-  },
-  "62d52f09bd383037e497d9f48b5b1bca": {
-    "url": "https://www.france24.com/en/us-iran-talks-to-end-war-on-the-line-amid-renewed-strikes",
-    "timestamp": "2026-07-13T08:49:47+00:00",
-    "source": "afp"
-  },
-  "84d808df3b4781d0f1fa4b819c78dd75": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12MFVhUXFDUHRVN3lUNU9LTXgyMGxlMGduZGI0bUtVX29MWGVmdFRnR2x5T2Y0X05zbWlOOHo2Q0hjZXo2Yk9tTURydzBCN1h2Qnc?oc=5",
-    "timestamp": "2026-07-13T08:29:01+00:00",
-    "source": "iranintl"
-  },
-  "41d2a6ea8b8f7f098097f768478f5b94": {
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VcHdOcVlveWFSbjJyQjRZUENYZVZxOG1lN3BwT3RUSW01WE1OUl90WEN2Y01pdlZQRVFSUTJGQS1DS3Y4LTMzanUyVDc1bG96Mkt3eG5VbGZ1aXRSaS1j?oc=5",
-    "timestamp": "2026-07-13T08:05:04+00:00",
-    "source": "fars"
   }
 }
