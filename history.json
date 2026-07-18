@@ -1,4 +1,14 @@
 {
+  "a6abf8133a77eb51ef84d9cbce334084": {
+    "url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
+    "timestamp": "2026-07-18T02:01:48+00:00",
+    "source": "nyt"
+  },
+  "c56f8ea9c75cf6f4959f5a3b401f38ce": {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SNl9oVDhpNkp4NHlpa1RuWlpSNXk5bHE3Q2ctVHdWeGgwNklST3dOMERmN0NhbV9PaERHTUllWTd6MVhsemRzRlp5cEhnU2hwNHI5N1pIMlJQRjRwbUdwTWVrakRLa2dEMDQ4Vm12RQ?oc=5",
+    "timestamp": "2026-07-18T01:37:32+00:00",
+    "source": "fars"
+  },
   "5996cae7c437b867a9a461dbf2d9dcc8": {
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNlU0dUhJOUI3Z1hZNVIxLTBmNnBGUTlKLU9VUGFyM1FpaFE5S3RlblNPWFFNVWJpekZJMmxlNVdPUDVvNUZTNFkyZEJQVVF4RzdoaDQ2TWlWcnE5czhNN1VEdGtKbkhRNGlvTDFZaDdoNW1QQjVmNE95YWhETDQtVy1JRlQwbTQ0ZXJHUkNJb0dOU0s3aTJIdzNuajRBMDVyQmxEYkRiRzdISFQ4bVhQMXR2aG1fQQ?oc=5",
     "timestamp": "2026-07-17T23:03:21+00:00",
@@ -69,10 +79,20 @@
     "timestamp": "2026-07-17T18:47:43+00:00",
     "source": "reuters"
   },
+  "70a4a47557c3e769c18a5d44a2008cdd": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52UWdGVWZVbFRyaVFxbGpqbTNnRXlaXzRIRVhORS0xc053Z1doNGNlRFU1Qm5FUnRpRGp6WnlOakhvemNyUE5hWHgySC1BcDFudUE?oc=5",
+    "timestamp": "2026-07-17T18:33:10+00:00",
+    "source": "iranintl"
+  },
   "281bf7a7a394b8612061365e17b1a76f": {
     "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260717-ukraine-trouble-at-the-top-adieu-keir-alright-andy",
     "timestamp": "2026-07-17T18:31:02+00:00",
     "source": "afp"
+  },
+  "5f8e69a8b8b4a9b9917eded63f03e496": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmUW5UUlFRS1NtblFXbmJTbHBOeTkxMTlYZnp4SVo5U3FDU29hcFEwZUpxcEsxX0I4REFZejZhQ19hd2N1akVuN0FMY1UxNlBVSlE?oc=5",
+    "timestamp": "2026-07-17T18:24:00+00:00",
+    "source": "iranintl"
   },
   "4188b4f13b1eb7aa21e6b8a6220f7b57": {
     "url": "https://www.nytimes.com/2026/07/17/world/americas/earthquake-tsunami-warning-mexico-guatemala.html",
@@ -153,6 +173,11 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOEM5V3Uwbng5aWRoRTNmeGVyUUpVbloyUktDSU9pOVhMSmgzaEI0UWQwZnhTYXpfOEtqUUhwQlNzVWJhUHRBY1RMVHNrSmxaRlJGdFdUd2FaOWY0XzFhb256blF3eVZ6NlJrWDhIZmhCbTdpNllIWDJRbFBGZXBwa29weUZJMW52UHNXRTJXWlE3eVVzSU9PSjFjN3J2cWtQbmtFMUF4TkFSYS1YS0MxTmpB?oc=5",
     "timestamp": "2026-07-17T14:25:00+00:00",
     "source": "ap"
+  },
+  "49d3b701b8078ecbdbc2b45c344b43b0": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5b0VjUlcwOXdJaThhaFk0czlsUUkxWF9RbFo4WW9abjNLTEdpMnFqSnJ1R19Id21jNnJKQXhNNUtiaExaM0pXXzVHVFhJWjNWeHc?oc=5",
+    "timestamp": "2026-07-17T14:19:08+00:00",
+    "source": "iranintl"
   },
   "03c4996b53ed0f0b4b56db9777919ef7": {
     "url": "https://www.france24.com/en/tv-shows/the-51/20260717-new-approach-for-survivors-of-sexual-violence",
@@ -2473,30 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrcDZUUFQyMUFaUFppMlRub04yRjhnTEJZUmNxN2lDX2JiN1JUWWtja2VZbmhGcm1rMXBSM2xnc2ZHaDZEM0ZOMDh3NEc1ZXYtbnc?oc=5",
     "timestamp": "2026-07-13T17:48:00+00:00",
     "source": "iranintl"
-  },
-  "8724915d170aded04d228b7e6be3a266": {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2dZM1Z4UFFmcllDRXdWU1NXZkVHdTlOZHc5TloxS1FOQlRCYTdCbjZJRXk5OW81QnZIUFBRWnFIeThHX2ZESS1hU2JReFl4UldEcFBBS0pjdEtITlpJZWFZamtOQjhWYlVFdUJRbVdZZ1NaU2VLLTJ4Wkx1Q0dJaHdXQUE4ekNCZURKUDg5Tlo2QzRhVXNZdkdxdEFHSEFId2hEMGIwRUZuZFRPS2tqa0UzVUdkVXNNUHVLYTB3?oc=5",
-    "timestamp": "2026-07-13T16:45:49+00:00",
-    "source": "reuters"
-  },
-  "dc75c9ac94c9fddccd4b43b0bb8620a0": {
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjRGVm92N1B3TGQ1aWlmTDdQa3llVWhraXJ1Mm5PSE14SVI5NDBHUkc4WDljdUZyQjZzRVBGMzdiak9RekNxZ2lWWXJCaGIyQm5YSjdIQVpPMHhpazgxVVJZSWM0VGJ2Y0ZBWU9EMHJXQjhySWJSR1FTWXVSbWVGdzllY0x4dmpvRllSVEhwTk9CMFRmVmhEdy1LUHQzbTRTZDdGRTJuUm81SHFNYkwyRlp1cw?oc=5",
-    "timestamp": "2026-07-13T16:36:20+00:00",
-    "source": "reuters"
-  },
-  "bd3185aad8b5d6bf3ffaf817f64b791c": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xQU5IZDk0ZHNaeXlaaGhzdVhYTi13SE1FbGdwSzlqbndSMEg3QlM1QnpINFNBYnVzVzdKY1N4QlFab1UzdjRkQjEyWUlhRTNyWUE?oc=5",
-    "timestamp": "2026-07-13T16:25:00+00:00",
-    "source": "iranintl"
-  },
-  "0f562ca33765ec8e45ae8011d83b1603": {
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGJJX3RrZlBnOUd3aXc5VlloY3JNOVN4V0xqX1EycG5QcU5DNUlWQU1qNmZWbUpMTTFLZjdyTzY1NTFNOFJ1d3F1aFlobUMzN1VDdnp3RWJibHI2MGFaaWZzdTJGVEJfYlFVZk5DUVRCN1V6Z1JOMTl5aldnOFUtUXdSSFFEZmR4ZUhueEM0M1o4VE4wck1HTmF5SQ?oc=5",
-    "timestamp": "2026-07-13T16:06:00+00:00",
-    "source": "ap"
-  },
-  "db173fdcd6ecca74ecf5e5c5f5742c02": {
-    "url": "https://www.france24.com/en/ally-coalition-is-about-putting-ukraine-in-the-strongest-position-possible",
-    "timestamp": "2026-07-13T15:35:34+00:00",
-    "source": "afp"
   }
 }
