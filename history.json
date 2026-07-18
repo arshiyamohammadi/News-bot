@@ -1,8 +1,23 @@
 {
+  "246d5656c05ee5cb9c54cdde186eb62b": {
+    "url": "https://www.france24.com/en/middle-east/20260718-khamenei-threatens-unforgettable-lessons-two-us-troops-killed-in-iranian-attack",
+    "timestamp": "2026-07-18T20:10:02+00:00",
+    "source": "afp"
+  },
   "4463fbaae80cf2182a923b09e40a04c4": {
     "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
     "timestamp": "2026-07-18T19:39:02+00:00",
     "source": "nyt"
+  },
+  "a76ca0af18b171b5a599c918d85dfc32": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjeGkzZFdWeFRyVjRTMzBZblFqZWtDTURrZm44aUpPeFM5ckpEb010UXJSeXNWZWR6NVg0OE9GQzdrb0hLd0J6enM2WmlPSFUzdUdJNTRxY3lYRGVWQXc?oc=5",
+    "timestamp": "2026-07-18T19:19:28+00:00",
+    "source": "fars"
+  },
+  "7fdf98440f0af0e816a35dca56e0163f": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTnp0LW9PQlFrQ2FwUk9jcmQtbTFjc2dqTkc2MlVYaGhNbjc0ZlBsY2d4dlI2bzRLcjVHNUVTNlBCTERaS05icF95dWZkUkV0RFJPU1BnN3FadHlKTnc?oc=5",
+    "timestamp": "2026-07-18T19:08:23+00:00",
+    "source": "iranintl"
   },
   "546f5e48db5a463a6a84781c4d08bb06": {
     "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
@@ -318,6 +333,11 @@
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SNl9oVDhpNkp4NHlpa1RuWlpSNXk5bHE3Q2ctVHdWeGgwNklST3dOMERmN0NhbV9PaERHTUllWTd6MVhsemRzRlp5cEhnU2hwNHI5N1pIMlJQRjRwbUdwTWVrakRLa2dEMDQ4Vm12RQ?oc=5",
     "timestamp": "2026-07-18T01:37:32+00:00",
     "source": "fars"
+  },
+  "1ce1dff67b5bcb40f6c04cd4b1b00c9f": {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamFyb3ZPb1RDQmxFdVN3SVRkRjVZcU9Fa1A1V2ZEdlQzZ2dnM0I0WXFLc3I4UjNab0c5Sm1vWWpzelZncnhWb1dNa1RZazJVSXUzRzducXJTWjVKT2JzNldOalktZTBFSmktQnl5d192MHExN0N6d2g0aEtrcUFsa2s5WDNTN2pmNmRzYkVyOG5LZFM3VVZXUzVFRQ?oc=5",
+    "timestamp": "2026-07-18T00:07:00+00:00",
+    "source": "ap"
   },
   "5996cae7c437b867a9a461dbf2d9dcc8": {
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNlU0dUhJOUI3Z1hZNVIxLTBmNnBGUTlKLU9VUGFyM1FpaFE5S3RlblNPWFFNVWJpekZJMmxlNVdPUDVvNUZTNFkyZEJQVVF4RzdoaDQ2TWlWcnE5czhNN1VEdGtKbkhRNGlvTDFZaDdoNW1QQjVmNE95YWhETDQtVy1JRlQwbTQ0ZXJHUkNJb0dOU0s3aTJIdzNuajRBMDVyQmxEYkRiRzdISFQ4bVhQMXR2aG1fQQ?oc=5",
@@ -2478,25 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KaHF4ZUJySmloUjQyOFVtNFJQZnVLWTFBS1pPaUlHYXlyTzIxRG9SbEM1SlRGYW1YaURNU1QtRDhvTWctdm9JVWk4dVNpZDRRZktqYWQyQVlJSFVs?oc=5",
     "timestamp": "2026-07-14T07:52:16+00:00",
     "source": "fars"
-  },
-  "153ef5550001a22a6a2827e16e3a6692": {
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONWdzRW1vdHVkMklSaVNyUk1qRTRNYjd1bGRJYm8tekprRXl2QmliTFBVQjgxVWFRSEVZTzE1WWRnQnUzRTd0Q1Ztdkh5X2ZkdWNmWGN6Z0JBaE1QVGR6R2xjRkVyRDRwbm9EbngxTWYzUTM1S1RxeHpzTi1MSldpVHA5bnVKSWZf?oc=5",
-    "timestamp": "2026-07-14T07:48:55+00:00",
-    "source": "fars"
-  },
-  "ee79ab6b049262c46e93ce2480f13afe": {
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNXd5cDBlUDhHQmh6QWx1alVjUVdxVFQ5Q091SzFzdU5ISlZldUNxa29zZWFDWTR4UVZ2NTVXSlZMQ2RKdDF4bTNiYXhiSnNpYjFKdHlyLW5yNHB0VjlyU3AxUXJDN25kQnBRZ0ZWbjRwRldNaWNpV1cyZl8yVG5DcjVlbWZsYTlLaDlKTENKdWk2eC0wYkp3MmNpbzJQRk1sTjVCSzdHcHRxLThwTzd6UVhQbEMzSHlLYjQxQWI3NWV1TnZxNEdhOVpuNHJ5VWFtUmFjaTJtM2o1aWc?oc=5",
-    "timestamp": "2026-07-14T07:40:40+00:00",
-    "source": "fars"
-  },
-  "88ea3d8f7ab235052fead95f547ae7bf": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ONHh5eHk2eDEyb3VRbkc4UjBTWFBqbTZycGxnQWlZcHdvcUNVWE9aZUtPTmlzcVpGQnY2SWVIMTNUUlhKd1U5eWk4anNwbi1abHc?oc=5",
-    "timestamp": "2026-07-14T07:39:17+00:00",
-    "source": "iranintl"
-  },
-  "ec23adf586c850f315109a395f0e2ed2": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ONHh5eHk2eDEyb3VRbkc4UjBTWFBqbTZycGxnQWlZcHdvcUNVWE9aZUtPTmlzcVpGQnY2SWVIMTNUUlhKd1U5eWk4anNwbi1abHc?oc=5",
-    "timestamp": "2026-07-14T07:39:17+00:00",
-    "source": "iranintl"
   }
 }
