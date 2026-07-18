@@ -4,6 +4,16 @@
     "timestamp": "2026-07-17T23:03:21+00:00",
     "source": "reuters"
   },
+  "b979f31f124a31829abce64fb8a3af8b": {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeE53UG1LZmItQzZQRW9PaW41aThBSmhNMEJsYnNRM1NWa0trNFFZeXBWY2dpMU5yNGhqX2syUzlzY2hIWFIwb0hORW1fTmV3MDBCbHVOTkpSVEF3bThDZ2tNLTU5TFM1djRrVHFUYnY4d2w0N3RwcENKMEM5T2YxaGNJSk5kdEdmLXNlMThESW9TSmVyWjQ2QlNfVUswZHZWT1p4ZGxNNXlkTUZ4VkVpMEoyQmJ6d0U?oc=5",
+    "timestamp": "2026-07-17T22:15:17+00:00",
+    "source": "reuters"
+  },
+  "741fcde3ebd60086102735af482bcbba": {
+    "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260717-un-launches-new-refugee-hub-in-ethiopia-offering-legal-aid-and-protection",
+    "timestamp": "2026-07-17T21:40:21+00:00",
+    "source": "afp"
+  },
   "a844305b07cb639a94b4ef4d7bd48e81": {
     "url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
     "timestamp": "2026-07-17T21:01:58+00:00",
@@ -139,6 +149,11 @@
     "timestamp": "2026-07-17T14:38:07+00:00",
     "source": "afp"
   },
+  "83f85484999ebc0610b72218804ba14c": {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOEM5V3Uwbng5aWRoRTNmeGVyUUpVbloyUktDSU9pOVhMSmgzaEI0UWQwZnhTYXpfOEtqUUhwQlNzVWJhUHRBY1RMVHNrSmxaRlJGdFdUd2FaOWY0XzFhb256blF3eVZ6NlJrWDhIZmhCbTdpNllIWDJRbFBGZXBwa29weUZJMW52UHNXRTJXWlE3eVVzSU9PSjFjN3J2cWtQbmtFMUF4TkFSYS1YS0MxTmpB?oc=5",
+    "timestamp": "2026-07-17T14:25:00+00:00",
+    "source": "ap"
+  },
   "03c4996b53ed0f0b4b56db9777919ef7": {
     "url": "https://www.france24.com/en/tv-shows/the-51/20260717-new-approach-for-survivors-of-sexual-violence",
     "timestamp": "2026-07-17T14:18:27+00:00",
@@ -178,6 +193,11 @@
     "url": "https://www.france24.com/en/whether-you-re-labour-or-not-andy-burnham-embodies-the-uk-s-hope-for-political-stability",
     "timestamp": "2026-07-17T12:56:27+00:00",
     "source": "afp"
+  },
+  "60c6ec843ce5466fc48b425cf0826943": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wWWJjM2U0SUhPd2VINUNxd1ZwRVJUNmFxQndHaFVfY2NSWF9uX3lyWklnbXZyVm04dkZXMDYtSWhXYXhodG1fRHJPY3EzS2ZUSnc?oc=5",
+    "timestamp": "2026-07-17T12:22:26+00:00",
+    "source": "iranintl"
   },
   "64cb0fb180d041fa9833c961da1525c9": {
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT3BrSTBMQ3g2aVFzcXNuQmF4bm5BeUtzUC1IZDV4LVZhby1oY19QajdQMWdtQVVlNVc5TVJ5eHdWZzM1WUN3N1RLNzBvd3k2TUdTdFRGR3FNbERWd3V5ZEZFendRSXh2cVpCbG5qclV2ZGZRRHBNYWlLTjVqc193SmVrcXBUc2Eyck9na0lzMEN6TElqbVJhUk4yTDE1cWxtM3RqU0x1TDJWUENmZnA4U1B3TTBrUVNKcDAxTXA0QQ?oc=5",
@@ -340,6 +360,11 @@
     "source": "nyt"
   },
   "a6459059a985d9701245bbc806d0b1a0": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QVmlTR2tKMXB1MzBCMmQ0d1dTbTRNS0V2Q1o1UkJjbDIydDR0MFVqSHpWOC05ZTdKbVowV1dFeGlpR3F5emdiVUY2TTNXcG9WOFE?oc=5",
+    "timestamp": "2026-07-17T07:26:51+00:00",
+    "source": "iranintl"
+  },
+  "7a40a61a5b89f0e777472de7d4ddf60e": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QVmlTR2tKMXB1MzBCMmQ0d1dTbTRNS0V2Q1o1UkJjbDIydDR0MFVqSHpWOC05ZTdKbVowV1dFeGlpR3F5emdiVUY2TTNXcG9WOFE?oc=5",
     "timestamp": "2026-07-17T07:26:51+00:00",
     "source": "iranintl"
@@ -2472,31 +2497,6 @@
   "db173fdcd6ecca74ecf5e5c5f5742c02": {
     "url": "https://www.france24.com/en/ally-coalition-is-about-putting-ukraine-in-the-strongest-position-possible",
     "timestamp": "2026-07-13T15:35:34+00:00",
-    "source": "afp"
-  },
-  "8ad7e26fd03a68301611756805ba07d3": {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHZ0YWpGZjBZakNRRmRveklzX1hRUklIWUc2MzVoWE51Z1Bjc0JFU05vd2tGVWhaSVVVSmFvbHU3QWJZcEs0R2dkRjFxcG9WaGMtWFo2SmhqTTVjSDNFVFk5Zl8xcmdiaTFHUmM5cWU0RzNDeDU2TGM4RWJJMjg3Y2lYeEJBWkdqeXFWUjg0eWpNZw?oc=5",
-    "timestamp": "2026-07-13T15:33:00+00:00",
-    "source": "ap"
-  },
-  "40cb63fa1f9435b018cb572d11649f5b": {
-    "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
-    "timestamp": "2026-07-13T15:31:12+00:00",
-    "source": "nyt"
-  },
-  "4c9b28ff9eb4facaa96b9f259658800b": {
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSUJ0anRLODRFQ0lXTWE4emFJVWZwM2Y4WTZtRUFXeFNwQ3ctQXlUWGJZQ2lRMUdGWnUxTVViM3pBaWpzdGZ2THdQTHVfQWpkNWNCZGJCWGg5bzk3eE5YQTdwT2xzQXROV1hfVHppekZCYTh3TFAyZkdTNHZjRjViX1pMWHJjQUhRZnkyUmJGcEw5bFMxMW1pM0c5RjJ5dkFoaVItYUo0LTNzN0JZSXJtYW5LTEFoSWpZSTh2SUhxSlBtcTFpMTZMRWJ3?oc=5",
-    "timestamp": "2026-07-13T15:07:02+00:00",
-    "source": "reuters"
-  },
-  "f57e03aa5435bcb03fde69d5e796af4a": {
-    "url": "https://www.france24.com/en/europe/20260713-eu-and-uk-slap-sanctions-on-russian-spies-and-hackers-over-cyberattacks",
-    "timestamp": "2026-07-13T15:05:48+00:00",
-    "source": "afp"
-  },
-  "cd9a7ee91a7a6fb6bc50a4230bd9e005": {
-    "url": "https://www.france24.com/en/the-facts-are-there-macron-salutes-fulfilling-pledge-to-boost-defence-spending",
-    "timestamp": "2026-07-13T15:05:04+00:00",
     "source": "afp"
   }
 }
