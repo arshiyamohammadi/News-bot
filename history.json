@@ -1,8 +1,53 @@
 {
+  "30b512f8335a7f6e0eb85b34e8003ba6": {
+    "url": "https://www.france24.com/en/americas/20260718-us-democrats-divided-over-support-for-israel-ahead-of-midterm-elections",
+    "timestamp": "2026-07-18T09:05:45+00:00",
+    "source": "afp"
+  },
+  "504e688fb743667731df48a744a0bafd": {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdy1tV0VCdllFYU1ydXJTWE1YbmM3TlZIYU5yLTZSQ243TVZacXFXc3lzVmxBMEtHNzJLS1RfWEk2bGViWHgxdVBaUjVjN0tZV1dDS1VXN3BvVTZsMW1PeENJbVNrOUZXVHY1UHUxLV9HVVlodFdhQnczQldxd0QtTWh1a2RwR3EteTVINHhfM0hpZlh2SGZyUS1RZlo1cDR6WXZlVHNDU0tHUEtsUFlwRkg5cGpJT2JrY09mQUZIalVfRmtG?oc=5",
+    "timestamp": "2026-07-18T08:47:06+00:00",
+    "source": "reuters"
+  },
+  "7d5c030e99e9896c8e1e0ec49dbc0e29": {
+    "url": "https://www.france24.com/en/france-2-000-hectares-lost-in-forest-fires",
+    "timestamp": "2026-07-18T08:39:04+00:00",
+    "source": "afp"
+  },
+  "cffc281345d581f59ee7510339862764": {
+    "url": "https://www.france24.com/en/video/20260718-ukraine-protests-over-fedorov-s-removal-continue-for-a-second-day",
+    "timestamp": "2026-07-18T08:37:58+00:00",
+    "source": "afp"
+  },
+  "f9ff5e0dd1763e3f6dbb9df368a9a5f0": {
+    "url": "https://www.france24.com/en/us-strikes-hit-iran-for-seventh-night",
+    "timestamp": "2026-07-18T08:35:59+00:00",
+    "source": "afp"
+  },
+  "112c8b40b4c611720fb7c040923b6eef": {
+    "url": "https://www.france24.com/en/americas/20260718-venezuela-quake-death-toll-tops-5-000-as-imf-releases-recovery-funds",
+    "timestamp": "2026-07-18T08:25:28+00:00",
+    "source": "afp"
+  },
   "5aa081720bbb7698e64d6e9d7516e3df": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTnp0LW9PQlFrQ2FwUk9jcmQtbTFjc2dqTkc2MlVYaGhNbjc0ZlBsY2d4dlI2bzRLcjVHNUVTNlBCTERaS05icF95dWZkUkV0RFJPU1BnN3FadHlKTnc?oc=5",
     "timestamp": "2026-07-18T07:55:40+00:00",
     "source": "iranintl"
+  },
+  "f90bec9a975722fcab18eaf971278d33": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0S0ZWcEp2djBnMWZ6dDFFSlhFRkIzZ0lyRjhXYlAtRDVYbDdJVVRMZG43MkhjMDJMZTlyUGRybWtVSEFfcmRrYzFlbThnelR6dXhmTTB5SS01MmtsSFE?oc=5",
+    "timestamp": "2026-07-18T07:03:39+00:00",
+    "source": "fars"
+  },
+  "32cc4adeeb9e5a11c54639d9ef49563a": {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GcXhQR1dJSTJ6ZUE5X0lmbHpWN0kwcElaZDNHNFVmSzloMVR1ZTI2WHFLbFgzYko4c1VJeVB2WmJCdmZvMG94Y3dKdUNxazk1SWdUbTVMaXVEWEhxQlgxY3ZFSjNGSkhWMlNra1NzcXJWb01mRzkyVw?oc=5",
+    "timestamp": "2026-07-18T06:25:38+00:00",
+    "source": "fars"
+  },
+  "a5637cadc6d02b9a854d22902a14c207": {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeS15OGt5NnpoN1Fjb1FKQzU2aWJQc282YnI2RnRlT2Z5aWd4WW5CVmpwMWpCWkRLS3ZVcEw2WVNSRW04NzBrT2Jod0VpOHFuUmVqT3VrUm14YjZac2RmVThTZFRDVHlENUVjTEZWbFNZSnlTMDlMczViVjh2OGdCNGpwVGRmck1MVV9PZlhsdkg0dWsyQnpmTlYtUXhlUWRTcjBv?oc=5",
+    "timestamp": "2026-07-18T06:25:18+00:00",
+    "source": "fars"
   },
   "09ab9c4387865053eca9f5bfc97e9cf7": {
     "url": "https://www.france24.com/en/europe/20260718-russia-says-ukrainian-drone-attack-killed-several-in-moscow-logistics-centre",
@@ -55,6 +100,11 @@
     "source": "nyt"
   },
   "c56f8ea9c75cf6f4959f5a3b401f38ce": {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SNl9oVDhpNkp4NHlpa1RuWlpSNXk5bHE3Q2ctVHdWeGgwNklST3dOMERmN0NhbV9PaERHTUllWTd6MVhsemRzRlp5cEhnU2hwNHI5N1pIMlJQRjRwbUdwTWVrakRLa2dEMDQ4Vm12RQ?oc=5",
+    "timestamp": "2026-07-18T01:37:32+00:00",
+    "source": "fars"
+  },
+  "23e4407d3ae25f8192843e5445601a6b": {
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SNl9oVDhpNkp4NHlpa1RuWlpSNXk5bHE3Q2ctVHdWeGgwNklST3dOMERmN0NhbV9PaERHTUllWTd6MVhsemRzRlp5cEhnU2hwNHI5N1pIMlJQRjRwbUdwTWVrakRLa2dEMDQ4Vm12RQ?oc=5",
     "timestamp": "2026-07-18T01:37:32+00:00",
     "source": "fars"
@@ -119,12 +169,22 @@
     "timestamp": "2026-07-17T19:11:20+00:00",
     "source": "fars"
   },
+  "08f87b515562f2031b4b849d3e2edd27": {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uaThYNEk3RDIyd05uNDdVdjNCNGpCZEY5YkVCZlR1b190Y3p4NWIxV2RmQzlFVk9YZ2hCa2F2VzVSVlRUYTBFOWNaQzVpMEE5c3lrWTdWdkNGWmd5elZwMmtJWQ?oc=5",
+    "timestamp": "2026-07-17T19:11:20+00:00",
+    "source": "fars"
+  },
   "65a4bac7ec7d5da2b3ef6f412d018390": {
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TQ3ZvSm5fdmhFTUx6TnhMajkxQ3AtdUVlUVdXRzdaTDR2M1Vpd2xRSHFVZmlYZWlxdzlYcEEwazhVWENyaFRwVDlqZERZNzVfb29wZE93SDkyeTdmbmhEOV96SQ?oc=5",
     "timestamp": "2026-07-17T19:11:02+00:00",
     "source": "fars"
   },
   "3600c8b2ac83d51061e3a7ca1dc95366": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42a1A2bWE3VElXSGxlWXl4NGNHQ2JWa3N4Vi1td1FXejItNi1oNkJmOTlZZnVTb2h6YWV1SHRhRUg1R1J6RVFjMkV1VHl6ZXkxNkpMVm9QQkpWdS14d2c?oc=5",
+    "timestamp": "2026-07-17T19:05:56+00:00",
+    "source": "fars"
+  },
+  "f5833963d2f03f8c9cd38052d4980398": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42a1A2bWE3VElXSGxlWXl4NGNHQ2JWa3N4Vi1td1FXejItNi1oNkJmOTlZZnVTb2h6YWV1SHRhRUg1R1J6RVFjMkV1VHl6ZXkxNkpMVm9QQkpWdS14d2c?oc=5",
     "timestamp": "2026-07-17T19:05:56+00:00",
     "source": "fars"
@@ -179,7 +239,17 @@
     "timestamp": "2026-07-17T16:27:02+00:00",
     "source": "fars"
   },
+  "e26aaabeec7942e7ecef263165da6335": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82YTY5MFdURkgwelRnUmt4YldVVGtiTlZ0SjZENEhlZW9GWnV6enZNNWIzbDRCTlZyMUlxNkZ4aE5EUk84WmVKWmNNcTFzS3VWYXJYRnZDU2dFaTNMZ0E?oc=5",
+    "timestamp": "2026-07-17T16:27:02+00:00",
+    "source": "fars"
+  },
   "8e1deee5d21a60fc00d827378b4eabee": {
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GYzhHQk9uV1RCRnJLeFhsenhUZUoycU81RnNtQnhkWG9ZS2NnbkZ1QUJCVGt5SUdUazZBWUpxN2h5alJCbmJEZjdza0pNTEREdUllOUZMWG5Ydw?oc=5",
+    "timestamp": "2026-07-17T16:12:49+00:00",
+    "source": "fars"
+  },
+  "91e520cc31633d625d01802a1275ce04": {
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GYzhHQk9uV1RCRnJLeFhsenhUZUoycU81RnNtQnhkWG9ZS2NnbkZ1QUJCVGt5SUdUazZBWUpxN2h5alJCbmJEZjdza0pNTEREdUllOUZMWG5Ydw?oc=5",
     "timestamp": "2026-07-17T16:12:49+00:00",
     "source": "fars"
@@ -289,6 +359,11 @@
     "timestamp": "2026-07-17T11:55:25+00:00",
     "source": "fars"
   },
+  "40177883d77dba24a1ab99d1aa26c374": {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbHdCRzJjcDJCYnNQSHhvT3NEVEszbHJvM2NjY28xMTlCa1U2Y3pHZkpBZWJDakZLcVJheHZublRaRG5vdUhNLWVud2hZWTdaYTNPamVLUjJUZENtV3pHTUphUmNycHlzMWFEcVY2bm5qQVI1ZjJmWThiN2hEVi02dWY0UVM5WThsUTlkeTNkWUNvX3V0X1FjSVBBcjZzSVlOMkZxeDFQbGkyZzd2ZldmY2w2ZlZLYVNkUG1GSU9HRTlqOHh0WmVhTEZtbw?oc=5",
+    "timestamp": "2026-07-17T11:55:25+00:00",
+    "source": "fars"
+  },
   "a311f3578dd98bd4e2ad28eed4e2ae6c": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KT0hSZjNhQ3dKWk4tbnZfd04tRlM2SlI4MHlUSjVQYXJuY21DMzdHaGJJYy1ZZzFCNkd1WXF6VW43YUJHdkEzWUpreThDcWtwc3c?oc=5",
     "timestamp": "2026-07-17T11:35:28+00:00",
@@ -305,6 +380,11 @@
     "source": "reuters"
   },
   "eb5f4308b0c536563b9d80d8d429b996": {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXFpYlREUGpsbEN0N0lCeDJsOWp1QU1FTGpRSkpTRmRqa1JtTUExLVMwc0NPZDlXYWRFTGlONzRRTTRmajNhdHktcG1jckZTSEZHa1dFVjJ6QkhESHhqNnB5LU1hMExITE96Mml4dXoySUpHTmR0TVRMZ0JxSXRleTdIcVBIalVWUjJEVFM1OWJkQUlRVHEwS01ZbUk2WU5kWmRZY3lIbkFPZjMxMnh3bDJR?oc=5",
+    "timestamp": "2026-07-17T11:24:38+00:00",
+    "source": "fars"
+  },
+  "d43dc6ae7a88605bb8cc2a99fa8dcb25": {
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXFpYlREUGpsbEN0N0lCeDJsOWp1QU1FTGpRSkpTRmRqa1JtTUExLVMwc0NPZDlXYWRFTGlONzRRTTRmajNhdHktcG1jckZTSEZHa1dFVjJ6QkhESHhqNnB5LU1hMExITE96Mml4dXoySUpHTmR0TVRMZ0JxSXRleTdIcVBIalVWUjJEVFM1OWJkQUlRVHEwS01ZbUk2WU5kWmRZY3lIbkFPZjMxMnh3bDJR?oc=5",
     "timestamp": "2026-07-17T11:24:38+00:00",
     "source": "fars"
@@ -1564,11 +1644,6 @@
     "timestamp": "2026-07-15T09:27:15+00:00",
     "source": "reuters"
   },
-  "32cc4adeeb9e5a11c54639d9ef49563a": {
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RTzJWc2xKUHRZWHB3UENMUEo0WWZZZEUxamszUVd4ZVJuTk5jcG94andFakxUc2tZZi1TUjVyY1ZKT08xdE5LRFE2YkxsbkM0SUltMW5Rd3hVNTdlMnNzRl91Z2YweHBIT1NhaHlYZw?oc=5",
-    "timestamp": "2026-07-15T09:16:45+00:00",
-    "source": "fars"
-  },
   "c7e4ad69e706282ed91427c2d86ac089": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPSkhLek12UmI5c2lLd0tRY2hZRkUwcXNoZXFnX2RyTkZzeE1ScXdFN1hmTFRvVHpZX2U1SzNXVTdURDJxSkhhcFdJNjVPUm84eEE?oc=5",
     "timestamp": "2026-07-15T09:07:23+00:00",
@@ -2423,80 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM2RCTlAtbmVLSG1sQjJCblpURk9nQ2JPWFpoR1dKNWJxQVVZNGpRM1hGSEFKa1VQQy14UnhtcTFOeGswVUhFQXJ3ZWRyekU4NXNzaWhPY2xyN0JoYVg3bnFXTURPSHUyYTZEOUZOWDdIQmZMTVlKV0RHU19qNjRwUDM4NFVZRVp0YnBETnhwWkxKVkpEMHpEY0ZKNEFqdzFQNjlFRE5uMUNyT2hvSXZvc2Q2Q2lIT0l1?oc=5",
     "timestamp": "2026-07-13T21:08:07+00:00",
     "source": "reuters"
-  },
-  "8d22bf4c18a44efb8792a4fff311ff48": {
-    "url": "https://www.france24.com/en/ukraine-strikes-halt-shipping-on-key-wheat-route-as-russian-fuel-crisis-deepens",
-    "timestamp": "2026-07-13T21:00:50+00:00",
-    "source": "afp"
-  },
-  "66f797a278d2c365051d6e644bb0e3c5": {
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0MxRE1KWWs1OXh4SkpMa3dwZWQzSEhxMm11YkNzX1diNFJxNWl6TkxBV1VNczl0c1hheGVMT0l4UVpFcW15YVotc3ZrV1E1bi1TM2tHS3dfdTN1YTJpUTVLdG95RUpELXo5dm9GUFNKSUZ2ekdNdHNfZ2NLQlRyVV94LVhsbVVLSWNvbndVbmpNWTJiMEFlSzBLVDFoeFpXc2FpRzJ3?oc=5",
-    "timestamp": "2026-07-13T20:59:43+00:00",
-    "source": "reuters"
-  },
-  "454150c5b2f1b2b7047b29348414c6a1": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BYTBjVEZtYjZLeWphYXh2LTRSSnN4MWRBelp2dGxIQXVOSExvSFBBMnQ0NDFHVEhUcjc5eDV3dEZXbE9BU1pseS1CSXVqRGNEdGc?oc=5",
-    "timestamp": "2026-07-13T20:58:44+00:00",
-    "source": "iranintl"
-  },
-  "bf91cfb6fbe3c9b68f496500b26e7e82": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zUWRidlQ4Z2tmel84VzM0aVYwWWVJX1BNd3RXYUo0Z3cyNnNpWU8tYjRXUGlJb2pNQVNtOXRXMEE1MG1neTNyRXY4QVNUdUJKSmc?oc=5",
-    "timestamp": "2026-07-13T20:39:00+00:00",
-    "source": "iranintl"
-  },
-  "59f77208059a23a4aeb600d3e49ca9af": {
-    "url": "https://www.france24.com/en/ebola-spreads-to-more-provinces",
-    "timestamp": "2026-07-13T20:35:58+00:00",
-    "source": "afp"
-  },
-  "d8a7a9a5e28449445a5a660b6c62d07e": {
-    "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
-    "timestamp": "2026-07-13T20:23:03+00:00",
-    "source": "nyt"
-  },
-  "907f0b7a9c41887b606a4c6792cd3b57": {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHZ0YWpGZjBZakNRRmRveklzX1hRUklIWUc2MzVoWE51Z1Bjc0JFU05vd2tGVWhaSVVVSmFvbHU3QWJZcEs0R2dkRjFxcG9WaGMtWFo2SmhqTTVjSDNFVFk5Zl8xcmdiaTFHUmM5cWU0RzNDeDU2TGM4RWJJMjg3Y2lYeEJBWkdqeXFWUjg0eWpNZw?oc=5",
-    "timestamp": "2026-07-13T20:19:00+00:00",
-    "source": "ap"
-  },
-  "5fbc667b55e3adc3292627e6167e6f7a": {
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGJJX3RrZlBnOUd3aXc5VlloY3JNOVN4V0xqX1EycG5QcU5DNUlWQU1qNmZWbUpMTTFLZjdyTzY1NTFNOFJ1d3F1aFlobUMzN1VDdnp3RWJibHI2MGFaaWZzdTJGVEJfYlFVZk5DUVRCN1V6Z1JOMTl5aldnOFUtUXdSSFFEZmR4ZUhueEM0M1o4VE4wck1HTmF5SQ?oc=5",
-    "timestamp": "2026-07-13T20:05:00+00:00",
-    "source": "ap"
-  },
-  "c254ec1ae1c8acd8f73c89ce47dfb5c9": {
-    "url": "https://www.france24.com/en/ukraine-and-allies-set-up-coalition-to-tackle-russia-ballistic-missile-threat",
-    "timestamp": "2026-07-13T20:01:37+00:00",
-    "source": "afp"
-  },
-  "dc219293d5dcbb8673984513627f5f5f": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaFpXV2hLVHVQMmdvSC1Zd2JjNjZRMlFXN3ltcFFMOVRobWdwUjNKb1hkUnlyUnZ2RUZ1MEtqbTNkUkp3RkxIaEh5N3Fzb290QnhjeWdrVVJJNFlGNGJPLURERnpnM09tTVF5T0tDQ3ZoWEdHdngxQlVhcXA2cGN4MWVhT3kta245Sm5LN3dqT1ZVcGdtbS1GQ2sxMmJ0Q2xUaXZTXzNIWXNaYUlGODlwX0ZwbUtPSnRjbm1TMg?oc=5",
-    "timestamp": "2026-07-13T19:43:44+00:00",
-    "source": "reuters"
-  },
-  "232741d34b7bc3a8da4fb7906d8d3265": {
-    "url": "https://www.france24.com/en/trump-reimposes-iran-naval-blockade-threatens-hormuz-fees",
-    "timestamp": "2026-07-13T19:34:08+00:00",
-    "source": "afp"
-  },
-  "45c6d099006fdbaf6a1bebff4fc3480d": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HT1B1OEFMa25YOG9SalktU2I3WE9RTV9fQzJxZUxXeF96ZFFVN3J0WkNzZXE2djBVaDdleHF4MkFSLXVpY0NPblpNMV9oWU5vT0E?oc=5",
-    "timestamp": "2026-07-13T19:28:35+00:00",
-    "source": "iranintl"
-  },
-  "29cdc90e0f4bbd339b3118c2fb38d6e3": {
-    "url": "https://www.france24.com/en/video/20260713-replay-macron-speaks-as-ukraine-s-coalition-of-the-willing-meeting-ends-in-paris",
-    "timestamp": "2026-07-13T19:13:07+00:00",
-    "source": "afp"
-  },
-  "0eab38dd16cc89f5afc7545113047434": {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVndVUlFjeXZyV1lrNVRsZzJEVXdIUTEwRmdBclIyMDJlRmVGcUNGREdVMVRIQ1l3NWpmNXM5UTdtV3RCZW01V2h5dk1VUy1OU3ZQSDk4b1I0Z0xybEQ2N0lkZUtOLWpvYnFEUWRNVEsyWnIydUtDZXY1cGN0T0RSM25oblAyVG1EaHR5WG9oUXVtRXFPWVR1M3NET1BMZ05mOE0yclA0eDFXTTBLS01wUEx2dG5qUGN4MWJtbWpB?oc=5",
-    "timestamp": "2026-07-13T19:05:44+00:00",
-    "source": "reuters"
-  },
-  "aa8eb2751f008bcb2ee7f8a76dc138c5": {
-    "url": "https://www.france24.com/en/europe/20260713-ukraine-allies-gather-paris-step-defence-aid-heighten-pressure-russia",
-    "timestamp": "2026-07-13T18:50:07+00:00",
-    "source": "afp"
   }
 }
