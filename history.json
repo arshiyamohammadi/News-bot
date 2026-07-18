@@ -1,4 +1,9 @@
 {
+  "4463fbaae80cf2182a923b09e40a04c4": {
+    "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
+    "timestamp": "2026-07-18T19:39:02+00:00",
+    "source": "nyt"
+  },
   "546f5e48db5a463a6a84781c4d08bb06": {
     "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
     "timestamp": "2026-07-18T18:19:56+00:00",
@@ -53,6 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UdXE3cjBQZktWUFhrY1lBNVlLUENMYUJydlBXTWVTQ2QtUnBJbGpvN1B3ZmpWQjRraFF2ckF2ZW04OVgzV1RzbWcxNnlXVmpJSEZsR3loNA?oc=5",
     "timestamp": "2026-07-18T14:25:39+00:00",
     "source": "iranintl"
+  },
+  "1945e39363532ab16ea589258c80a2b2": {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMXJxRmNmNHc0RUxrRF94dVNOdEdEbkM2Q3U4R3dJZnZBTEJ3a0g0cDF4NHB1U1hLRHVYR2cyeER5SDYwTEpQazFBMEVWNXFtdXpjWnBvX1FPT2NUQjF1bkV4T2tmWTVCYnZEZ2ZPMFU0Z1BadVppMUpzQzIwSGhVaXVsOTFwSmJwZ0luMkhXckhpSGJHeG42MUhiQlhENlltRHc?oc=5",
+    "timestamp": "2026-07-18T14:08:49+00:00",
+    "source": "fars"
   },
   "150773b887b4aa9825b70bb7251df9c0": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTnp0LW9PQlFrQ2FwUk9jcmQtbTFjc2dqTkc2MlVYaGhNbjc0ZlBsY2d4dlI2bzRLcjVHNUVTNlBCTERaS05icF95dWZkUkV0RFJPU1BnN3FadHlKTnc?oc=5",
@@ -2488,15 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ONHh5eHk2eDEyb3VRbkc4UjBTWFBqbTZycGxnQWlZcHdvcUNVWE9aZUtPTmlzcVpGQnY2SWVIMTNUUlhKd1U5eWk4anNwbi1abHc?oc=5",
     "timestamp": "2026-07-14T07:39:17+00:00",
     "source": "iranintl"
-  },
-  "220fdc6f87eaa5cfd7d91230a4bdc1e6": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yaEVKVmFVTkNwalg0UTFzaW5WTkVYbGNiYWYwN01OWjJYaEdDSWw1V0RNOUEyLThDLU9yZkJLeEh2cUNiQ1hiVFBjeUNJdUJkVkE?oc=5",
-    "timestamp": "2026-07-14T07:13:39+00:00",
-    "source": "iranintl"
-  },
-  "cc5cd37904daa46b48eb4374f96684fa": {
-    "url": "https://www.nytimes.com/2026/07/14/world/asia/india-bangladesh-border-migration.html",
-    "timestamp": "2026-07-14T07:12:27+00:00",
-    "source": "nyt"
   }
 }
