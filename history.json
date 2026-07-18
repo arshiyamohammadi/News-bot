@@ -1,4 +1,14 @@
 {
+  "150773b887b4aa9825b70bb7251df9c0": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTnp0LW9PQlFrQ2FwUk9jcmQtbTFjc2dqTkc2MlVYaGhNbjc0ZlBsY2d4dlI2bzRLcjVHNUVTNlBCTERaS05icF95dWZkUkV0RFJPU1BnN3FadHlKTnc?oc=5",
+    "timestamp": "2026-07-18T13:56:09+00:00",
+    "source": "iranintl"
+  },
+  "d42c441a578e7a1866aeaab7c2dcbf0a": {
+    "url": "https://www.france24.com/en/middle-east/20260718-middle-east-live-tehran-threatens-full-scale-offensive-as-us-launches-seventh-night-of-attacks",
+    "timestamp": "2026-07-18T13:43:05+00:00",
+    "source": "afp"
+  },
   "9602b65ea83e8cac41cf86a987b886a5": {
     "url": "https://www.france24.com/en/asia-pacific/20260718-indian-police-shift-cockroach-party-activist-on-hunger-strike-to-hospital-against-his-wish",
     "timestamp": "2026-07-18T13:00:36+00:00",
@@ -174,7 +184,17 @@
     "timestamp": "2026-07-18T04:56:02+00:00",
     "source": "fars"
   },
+  "54026963c695058f90fa467163e0b744": {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDdzTHpvMkVtSEIzSklZWnpnSk8wZVE4QVUzOHFBLXl2Smc0eUxaTkNQdi1KLTBtb3piRU5aeDlXcVB3eXRRazRlcXVWaHl4QTFMOUR6S0VwMjlpWGlCd1hwSGgyV3NEd3QycE1CWEZ5VEVpbFdKVEdUSE14MThPUmdoTFFJXzRQTDdBMVZaeDYxam41TWY2VnBhZjU4ME0?oc=5",
+    "timestamp": "2026-07-18T04:51:00+00:00",
+    "source": "ap"
+  },
   "2ca38616df49e8e8a4771ec9b23cfaed": {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
+    "timestamp": "2026-07-18T03:55:00+00:00",
+    "source": "reuters"
+  },
+  "b16c9b8015eb58a936920d0de6ed9118": {
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
     "timestamp": "2026-07-18T03:55:00+00:00",
     "source": "reuters"
@@ -380,6 +400,11 @@
     "source": "afp"
   },
   "669898daa76167eecc0cc899479a2a26": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11TUVIQXpzV282VkhnX3Jiakt6bWNKaFpvLV83Nlo2NDAxcV85Q0pGTlFEbzdoN1lPUW5TTS11Zktfdm9fcGVwN05kZkZPRTJJSUE?oc=5",
+    "timestamp": "2026-07-17T15:04:14+00:00",
+    "source": "iranintl"
+  },
+  "3c8110e03a1fd78eda4bd9a986a830c2": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11TUVIQXpzV282VkhnX3Jiakt6bWNKaFpvLV83Nlo2NDAxcV85Q0pGTlFEbzdoN1lPUW5TTS11Zktfdm9fcGVwN05kZkZPRTJJSUE?oc=5",
     "timestamp": "2026-07-17T15:04:14+00:00",
     "source": "iranintl"
@@ -2473,30 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRU40NXRXRVB0M1NDME9RaHBpSWUtSFhWZmR6MGctY3FVZnRQRFhPUUUyM0R4NUpTZ2h6M2FjVXltSDdOWXRnOUllQWlReVRWX2ttUTZaQ0hGVWFVN1EzQnloS2FUTDFCZzg1MWZwZkFoVTZBN2c1Wk9kaTJuWlFEY1dOZFZ5ZlZldUF1RVBVQ1FjRnM2c19UUnZxc0Qyc2NYMExVNlJqSHhVdHZwc2lhU0VfRU1IV3FNN2Ffa3BfUE5lSkEwNFhWVHBzLUF1S1JFc2lV?oc=5",
     "timestamp": "2026-07-14T01:59:44+00:00",
     "source": "fars"
-  },
-  "0112abc0aaf9767890beab15a2b64603": {
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRU40NXRXRVB0M1NDME9RaHBpSWUtSFhWZmR6MGctY3FVZnRQRFhPUUUyM0R4NUpTZ2h6M2FjVXltSDdOWXRnOUllQWlReVRWX2ttUTZaQ0hGVWFVN1EzQnloS2FUTDFCZzg1MWZwZkFoVTZBN2c1Wk9kaTJuWlFEY1dOZFZ5ZlZldUF1RVBVQ1FjRnM2c19UUnZxc0Qyc2NYMExVNlJqSHhVdHZwc2lhU0VfRU1IV3FNN2Ffa3BfUE5lSkEwNFhWVHBzLUF1S1JFc2lV?oc=5",
-    "timestamp": "2026-07-14T01:59:44+00:00",
-    "source": "fars"
-  },
-  "3d21667bcfe86415502e80e329182301": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84T2xmdEwzNFpnX2lpcjY1bVhwRWw2dnZJVXpTVkhiWXM1UEFwbVhNaHZuRzdGNFVjRzlKWXBVeEVfakNGekxPUHg3c1NURHNVZ3c?oc=5",
-    "timestamp": "2026-07-14T01:56:45+00:00",
-    "source": "iranintl"
-  },
-  "5dca4beb682f3d2b10c2906126a5b1e0": {
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0yU2NqaHUtRzNEcjJxRVd0cmVCR0lqbGFmcmh1UzczVGlOZEFnMUY4Z1ZEZmc1R0Q2Y1U0amhRcHpLV3lJQjNCOTRidVY?oc=5",
-    "timestamp": "2026-07-14T01:36:14+00:00",
-    "source": "iranintl"
-  },
-  "4714e6b7b5265675499c82213d29f25b": {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWRaMVFPRFNSMDhQQ1dQT09aWlhsdzdhVGVFcGUzblZreE9kSms3eXc3ZjRlbVhvdUtFRW5IQ3ZSSE42bnhoTGxIaVlwbVVQR0tLUE0yY1N3NTJ2Qko2S01pNHREcW5CbmpweXpORmVRRzdCR0RDcTRjeG9oS2tqR2hIWQ?oc=5",
-    "timestamp": "2026-07-14T01:27:00+00:00",
-    "source": "reuters"
-  },
-  "bc5a54fe4c84e9def7a52bbd4957f1f6": {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM3dNNmJQLXczRFNZeWVhc01WeGRBWEpGbGtVejR5X2VIUzVUUHVCUDNIbWxqVElSamZ0ZkhySGtUelhhNVduTUlqc2YzWnl0cnVNbDU0aVd2ZmNBUzNCWUdxanpwbVgzMnBEV2ViTGFVSXZGZ3RUMTBPMEZDbXlVVC1JMHpNT0ltRkx0YXFUQVI5YmUtaGUtOFc1MDVoSHRfTXJ6LQ?oc=5",
-    "timestamp": "2026-07-14T01:02:26+00:00",
-    "source": "reuters"
   }
 }
