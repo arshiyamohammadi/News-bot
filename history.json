@@ -1,4 +1,39 @@
 {
+  "c0e09401461ff2940c0f946d26c83e03": {
+    "url": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-targets-iran-s-revolutionary-guard-in-retaliation-for-killed-troops",
+    "timestamp": "2026-07-19T05:09:41+00:00",
+    "source": "afp"
+  },
+  "7803826a5b122b535fd016d6c98692cd": {
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91SzZLRkpYNjczSlZmTjU2V3hJS2REV0h1WGFFalpVdHZYbnJjanRPeXlLbTRObkR2amxLVFJSTUZYRW53Mmc3TlA5UkVGTFM1SnlPbmFBQQ?oc=5",
+    "timestamp": "2026-07-19T04:25:29+00:00",
+    "source": "radiofarda"
+  },
+  "dd1ece73312bb97e015a68001efc4a4e": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTnp0LW9PQlFrQ2FwUk9jcmQtbTFjc2dqTkc2MlVYaGhNbjc0ZlBsY2d4dlI2bzRLcjVHNUVTNlBCTERaS05icF95dWZkUkV0RFJPU1BnN3FadHlKTnc?oc=5",
+    "timestamp": "2026-07-19T04:25:01+00:00",
+    "source": "iranintl"
+  },
+  "4025dcb9faa94d04558274e5e5670ec5": {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbS1jN0tZcUtrbk9GU3RKeUxqTHM1Qk5DUDF1VDBVOUVqaVp4QV8xWGhEMmtFV3JRRDc1SXlxalZwcElvUlBXQk13R1NPdW91eUFNRF9UT3JRM3ZHTC03a2ZaZmg0Z2tJdXdCRjVMUml0eWtTSWFLU2U5WGxIMHBNSG1hb2dTS3VLak0zVXdZdHhKY1duRml2MW9Ea0xxVlU?oc=5",
+    "timestamp": "2026-07-19T03:10:00+00:00",
+    "source": "ap"
+  },
+  "bfaec0283ebc148b2443a3d9f57ead27": {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX2tmdG9jeU9JcGhlNVVYMTRHSG9ZejlGb2pRbG1SNUpqZVF5aTZSa0pXSGxjeUl6WTUydUE1TmdORFZrbURGcmNYWHRhQ3hTNmNmZTZXamtaVVBkczh3T09LYWVQRXJweHlSamppc2ViWFZGbnlOYWU0d0hjNWhpRzNaZzd3cTZQUEVWdXBGRDN2eWtTc3VmSGQwaXlBOE45aVBwUkxqNHg5VDc0cnI4?oc=5",
+    "timestamp": "2026-07-19T02:27:00+00:00",
+    "source": "reuters"
+  },
+  "820eb7372c5b935eb6b87cd2c3414e41": {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIYTdYTXEtOTM2NHhLZTltXzViMzViVWNVSmVKWHZHcjBUeHFsWFRHM2RQS0tKbDJtUGR0dWF3N2Vhc0NjamNLWHdpWnhtSDZvbm5tYk92bkl4ZS1jTko0U0RUQThDVnVrX2tn?oc=5",
+    "timestamp": "2026-07-19T02:04:38+00:00",
+    "source": "fars"
+  },
+  "fadffcc5d7b24860f38e5d627062847f": {
+    "url": "https://www.france24.com/en/europe/20260719-russia-launches-deadly-strikes-on-kyiv-after-attack-on-moscow-warehouses",
+    "timestamp": "2026-07-19T01:51:16+00:00",
+    "source": "afp"
+  },
   "6a5d4eb9f354d5f501af8d170e939377": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTnp0LW9PQlFrQ2FwUk9jcmQtbTFjc2dqTkc2MlVYaGhNbjc0ZlBsY2d4dlI2bzRLcjVHNUVTNlBCTERaS05icF95dWZkUkV0RFJPU1BnN3FadHlKTnc?oc=5",
     "timestamp": "2026-07-19T00:10:19+00:00",
@@ -34,6 +69,11 @@
     "timestamp": "2026-07-18T22:50:19+00:00",
     "source": "iranintl"
   },
+  "a4f2e9943f558a92f218a105340e5d0d": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tV0tFZjR6dTdZVE1ZQklLNHJfNXdEVFNEYmZLdkZ6anFuSjhYc1IyR2REdTdLUDFZYXdXeWJzdEx3WEd4dGdSbkZxejJKZVFaN2c?oc=5",
+    "timestamp": "2026-07-18T22:46:07+00:00",
+    "source": "iranintl"
+  },
   "80b41a794f4e66ec29313f7379ece9ed": {
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVWMweUo2ZDU1a3FQdk1RY0FNY281eVU1SVRMU053SVVHWVp4Y1R2SnYtSXhrOGVPbDVoQ3IxTGp2NUVDcDR6aUZxNkh6X2hSY3gtamtjZEJ1eExibFhTdG9nRHVQZTRvbThHeW9vamdEREMxVHJrcWlLWXVTZ1lpX2hsS0swZEJKRldJTDhBRkZQTUJrd3NQN0tCb3ZlTkVsaUFMNl9WV2F5Q0doMWlsNklaWmNtc3VfWkwxN2s1RQ?oc=5",
     "timestamp": "2026-07-18T22:36:40+00:00",
@@ -43,6 +83,11 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FbG1UbV93cmVRRFktQXZOUTU1NDJoU1kzZlkyUGtPLUh3blhlTFN4eDl4WUNOTGtXQWxLSWFLbmFxUkZlRkFlQVBWVVd3TjFkc3c?oc=5",
     "timestamp": "2026-07-18T20:55:00+00:00",
     "source": "iranintl"
+  },
+  "a0797d94234821dcb31da93fec03f7ee": {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQldSVzRUSldGOFFxMWdpb2FFdm9oZURyN1VNakRvcVpBVlA1QmJJT0E0RUJPOVYxRTc5NEkwZEk1b1Q1dGlIWGRFd1RxMEcyUWlXMngzYTJmQTVVd0tESmJJN2doOHFwYVlzcnpYaF93MUtseFR1dmpzQVRHdld0bnY5WHljRkdWWTdUUEVFbTBZeVZZUmlZ?oc=5",
+    "timestamp": "2026-07-18T20:52:00+00:00",
+    "source": "ap"
   },
   "f17f9983e7217b323678301b50c16e3f": {
     "url": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html",
@@ -304,6 +349,11 @@
     "timestamp": "2026-07-18T07:55:40+00:00",
     "source": "iranintl"
   },
+  "504f755b276d8570429ff9e5b27216a6": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qTnVOZTlGaFQ3dk43T2lHT2JxS20wekI1b0NOZzhGazlCMFplVkpOTzVfTV9MV25oTzh1U25lampXcnlMSy16ZjFsRklvelJyVUE?oc=5",
+    "timestamp": "2026-07-18T07:55:40+00:00",
+    "source": "iranintl"
+  },
   "76f964cb6b504a2711007d55b4324a93": {
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWk55dk12cjE4aG5oUTk2eXIxQ1haN2hpWlhsS2R1azEzTzdfQ0JyemhEWVZxZVdac3JDLU9JRzN3TE9uWklfVENJbVFwa0hFZGZnMTJ4TnJLLUlrNjRTR0hZM1ItdjFxbl82SkNvZ1hPX2R5NUtYM1ZRQXhjc0NNUmx6TXJWc0NBeHlmag?oc=5",
     "timestamp": "2026-07-18T07:37:22+00:00",
@@ -408,11 +458,6 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
     "timestamp": "2026-07-18T03:55:00+00:00",
     "source": "reuters"
-  },
-  "7803826a5b122b535fd016d6c98692cd": {
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tem5JMTNuUm1jaTcxb3gtcnJBWXdlNjZCeVpIa2wxNjQzYzItRi1mWmxkSzJFS0huYk1WNU92M3owZ3kxSlkzSjFKXzJYZmJvNnBhMnVpWQ?oc=5",
-    "timestamp": "2026-07-18T02:50:26+00:00",
-    "source": "radiofarda"
   },
   "445332fed2520ebe94d34294b0467a82": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sV3ZycXh5N2V0R3BHZnN4ZTEwMko1Y1FRRm9zVlZYSlgwQnQyOThaN19qcjN2LV85dGFZWi1qRWRjUXNEZ0JMVWlZYzdLWVNNQXc?oc=5",
@@ -2453,50 +2498,5 @@
     "url": "https://www.france24.com/en/europe/20260714-eu-uk-sign-gibraltar-status-treaty-easing-border-checks",
     "timestamp": "2026-07-14T13:24:43+00:00",
     "source": "afp"
-  },
-  "370ec638ef816cc3a89853085a607eea": {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGppX2RzT3p4QlVHSGtCdHJjamFweXQ2dkVZR09reTZvdWZKR190WFRabWZ3bWRyN1BWT0doSVFVeWNFWHRza0RublZySVN5NGtrOEhadGs1RHF2QWEtZDZYQzR0WWxMZWdBalZkYlVEN1l2X29kU25pNzZOOGhVQ1JzVGtZdGVPWDZzYkVsVlpqZ2RVY1ZFVEdMUFAzM0gtRklTZ2daU1FtdEl0LTNJY3ZwcmVvZ1Uwc19uSEYzZw?oc=5",
-    "timestamp": "2026-07-14T13:13:20+00:00",
-    "source": "reuters"
-  },
-  "81343b732b66e47a5bb88b91c7d58d8b": {
-    "url": "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz",
-    "timestamp": "2026-07-14T13:11:14+00:00",
-    "source": "nyt"
-  },
-  "bee314f3fa80446dc8a61493df45ca05": {
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbGR4ekkzOEpjeVBPeG5KX2ROTF9zYmsyWl9fcE1CLXZCWmZ5S0FWVHJuZHZRVDdSR3p4Ty1oVE5WOEpyWnNWUzZFbXV5TXdFdzNQSlZjTmlTWURiRkcwdHBIalFNM3YySm1kTDIxQWl6bEF4cEJhbHo4U2puVjVLRUNrWGNhTkYtV2M5d0dlVm1Pb0lLODJEWWZKX3g3U3NmVDdaRE1rU1VXc2JUQ1JMVENiN2JVWld5R2hyUi1lRU1qRUQ1UUJXUm5FMFJWUVNQ?oc=5",
-    "timestamp": "2026-07-14T13:03:36+00:00",
-    "source": "reuters"
-  },
-  "dadfed75fa4bbddc20b0cb4463a39861": {
-    "url": "https://www.france24.com/en/europe/20260714-june-was-deadliest-month-ukrainian-civilians-four-years-un-says",
-    "timestamp": "2026-07-14T13:01:20+00:00",
-    "source": "afp"
-  },
-  "3811c5fc1062bb3e34d14fa4b7924e97": {
-    "url": "https://www.france24.com/en/europe/20260714-what-the-lviv-draft-riot-tells-us-about-ukraine-struggle-send-men-fight",
-    "timestamp": "2026-07-14T12:24:02+00:00",
-    "source": "afp"
-  },
-  "7e66ea64f26c33903e6b3c489f877571": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXZXdWw0Um15aXgwRy1uU3dobEJIREY5cDItRFd0d2ZvQjRDdXdVdHZJNmtWWmNuVG5hVWlNZmlXaVQ0eWJ2WndSM1JMOGtIQmpWM29XeVR0OVVheFZQNGVfNmhlYldNdjlfLU1MazZLMjJGVmc4TzdvSWRKNnVkRjNJemVxNGtrck5EWVA5c1dWdUdBSW92Y0RBWDRrdms?oc=5",
-    "timestamp": "2026-07-14T12:21:23+00:00",
-    "source": "reuters"
-  },
-  "606dbb552cbe3ed66598a6709fd804d4": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UdE5JclpvUXV4QzRSYXlyV1J4QzlLTnBodDZKaVlkaUo2VldqWFRicFdaRC10LVU2X3dEanVXRjBpdGg0TThLY191UDFLa3FnVVE?oc=5",
-    "timestamp": "2026-07-14T12:16:12+00:00",
-    "source": "iranintl"
-  },
-  "8daa80a26e3e1fb8b24dd90d99fec8c8": {
-    "url": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260714-spain-are-favourites-says-french-coach-ahead-of-semi-final",
-    "timestamp": "2026-07-14T12:16:00+00:00",
-    "source": "afp"
-  },
-  "611ff6d0bb761c6262dc7e215a9b3430": {
-    "url": "https://www.nytimes.com/2026/07/14/world/europe/ukraine-fire-point-patriot-missiles.html",
-    "timestamp": "2026-07-14T11:56:53+00:00",
-    "source": "nyt"
   }
 }
