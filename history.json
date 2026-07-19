@@ -1,10 +1,55 @@
 {
+  "f9412d189cb66285607844e017789953": {
+    "url": "https://www.france24.com/en/africa/20260719-at-least-50-malian-soldiers-killed-in-rebel-jihadist-attack",
+    "timestamp": "2026-07-19T09:44:32+00:00",
+    "source": "afp"
+  },
+  "2db0340b2cf30007dd23ff3a0312e877": {
+    "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
+    "timestamp": "2026-07-19T09:40:45+00:00",
+    "source": "nyt"
+  },
+  "221d463366ab5cbdab7b8a46327dd454": {
+    "url": "https://www.france24.com/en/first-us-soldiers-killed-in-jordan-trump-vows-to-shift-action",
+    "timestamp": "2026-07-19T08:52:59+00:00",
+    "source": "afp"
+  },
   "91552bc556bc687a9282cd7a780b4f8c": {
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmRBWlkxX0dxeEI4cl9UUGZNLVI1WlJVcXFRLXR6OUpNZUl0YnRjNmhsT0czcnI4YkZFbjRWUTktZVF6LVlTZ2wtMzRSb3BBdVZ5QU5WaDBWUlluTHhZQ0dBenNGN1I2TXQ4c3F2eWRjNTFSMDgweXZnYTFzeEl2S3cyZDBySXBJc3VJZXh5R0FxdTFYdHpRN043M0RGRWtlUkN1clNhdl92Zw?oc=5",
     "timestamp": "2026-07-19T07:50:10+00:00",
     "source": "fars"
   },
+  "cb8f6c90b186300e796c1db6e13813f1": {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmRBWlkxX0dxeEI4cl9UUGZNLVI1WlJVcXFRLXR6OUpNZUl0YnRjNmhsT0czcnI4YkZFbjRWUTktZVF6LVlTZ2wtMzRSb3BBdVZ5QU5WaDBWUlluTHhZQ0dBenNGN1I2TXQ4c3F2eWRjNTFSMDgweXZnYTFzeEl2S3cyZDBySXBJc3VJZXh5R0FxdTFYdHpRN043M0RGRWtlUkN1clNhdl92Zw?oc=5",
+    "timestamp": "2026-07-19T07:50:10+00:00",
+    "source": "fars"
+  },
+  "0f8484b70b7c3e2cb5247bdc66e0d9f6": {
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tYzlMZTFmMVVjZjJoSGo5WW52Q0R3bmJLaHFhM0doYjI1UVk3TlJpY2xVMHFTVW5sM3dEWGpGTlRwRlVQR2dnMm5VZG9fSWQ3LURDX0lzb1JRdw?oc=5",
+    "timestamp": "2026-07-19T07:37:51+00:00",
+    "source": "fars"
+  },
+  "96f1fe83bd2f4e0cde8344fcb1473037": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTnp0LW9PQlFrQ2FwUk9jcmQtbTFjc2dqTkc2MlVYaGhNbjc0ZlBsY2d4dlI2bzRLcjVHNUVTNlBCTERaS05icF95dWZkUkV0RFJPU1BnN3FadHlKTnc?oc=5",
+    "timestamp": "2026-07-19T07:16:04+00:00",
+    "source": "iranintl"
+  },
+  "040ec624db8107b20be68044f7808b1b": {
+    "url": "https://www.france24.com/en/video/20260719-us-launches-new-airstrikes-on-iran-after-confirming-troop-deaths-1",
+    "timestamp": "2026-07-19T07:15:46+00:00",
+    "source": "afp"
+  },
+  "eef62ca16bedfbfa2775f38f2b5bbc23": {
+    "url": "https://www.france24.com/en/millions-in-kyiv-didn-t-have-time-to-seek-shelter-ahead-of-russian-attack",
+    "timestamp": "2026-07-19T07:12:16+00:00",
+    "source": "afp"
+  },
   "460a7b9ac078277060e596f273dedaf4": {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFA0NGpIcm1xekppNzlKMmFDSlk0UXNTckVmSmg0alF5X2VzRkxHZlc4NnQyLWpONV9SV2ZTbWZGZDV4ZVZ1VnFXczRXVWpvbk1ONnlrV1pUd011cDFhMV80TVFjRzV3SGpJNlVId2x6SjRQMzVKMzhJaFFaMnhtTEVWdHZrOTRPT1k2eW1iZnVTcDdsUEsxSnVRS2I3eUsxbHotV1NRMmpoc1E4?oc=5",
+    "timestamp": "2026-07-19T06:08:23+00:00",
+    "source": "fars"
+  },
+  "fd746ad18ef9f62053de3f97a7e8f802": {
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFA0NGpIcm1xekppNzlKMmFDSlk0UXNTckVmSmg0alF5X2VzRkxHZlc4NnQyLWpONV9SV2ZTbWZGZDV4ZVZ1VnFXczRXVWpvbk1ONnlrV1pUd011cDFhMV80TVFjRzV3SGpJNlVId2x6SjRQMzVKMzhJaFFaMnhtTEVWdHZrOTRPT1k2eW1iZnVTcDdsUEsxSnVRS2I3eUsxbHotV1NRMmpoc1E4?oc=5",
     "timestamp": "2026-07-19T06:08:23+00:00",
     "source": "fars"
@@ -39,7 +84,17 @@
     "timestamp": "2026-07-19T02:27:00+00:00",
     "source": "reuters"
   },
+  "9667873c170044e395345e6b06cbe80f": {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX2tmdG9jeU9JcGhlNVVYMTRHSG9ZejlGb2pRbG1SNUpqZVF5aTZSa0pXSGxjeUl6WTUydUE1TmdORFZrbURGcmNYWHRhQ3hTNmNmZTZXamtaVVBkczh3T09LYWVQRXJweHlSamppc2ViWFZGbnlOYWU0d0hjNWhpRzNaZzd3cTZQUEVWdXBGRDN2eWtTc3VmSGQwaXlBOE45aVBwUkxqNHg5VDc0cnI4?oc=5",
+    "timestamp": "2026-07-19T02:27:00+00:00",
+    "source": "reuters"
+  },
   "820eb7372c5b935eb6b87cd2c3414e41": {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIYTdYTXEtOTM2NHhLZTltXzViMzViVWNVSmVKWHZHcjBUeHFsWFRHM2RQS0tKbDJtUGR0dWF3N2Vhc0NjamNLWHdpWnhtSDZvbm5tYk92bkl4ZS1jTko0U0RUQThDVnVrX2tn?oc=5",
+    "timestamp": "2026-07-19T02:04:38+00:00",
+    "source": "fars"
+  },
+  "1de3a91d1c30521b0d5176dc04c82eea": {
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIYTdYTXEtOTM2NHhLZTltXzViMzViVWNVSmVKWHZHcjBUeHFsWFRHM2RQS0tKbDJtUGR0dWF3N2Vhc0NjamNLWHdpWnhtSDZvbm5tYk92bkl4ZS1jTko0U0RUQThDVnVrX2tn?oc=5",
     "timestamp": "2026-07-19T02:04:38+00:00",
     "source": "fars"
@@ -64,7 +119,17 @@
     "timestamp": "2026-07-18T23:21:00+00:00",
     "source": "reuters"
   },
+  "bd431692073fe670b57a8f39e3c58c01": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwZmROQlJZQjVMakY4VWFmVlllZzljV2NtSmQzMVVrRDE2b1dBQkVVSnA1T2Noa3FFOTFKdG9YZ1FndWtGaXRmOHZrYy1EaUlqQkJmVFBJeC1NVENpcUV2bQ?oc=5",
+    "timestamp": "2026-07-18T23:20:53+00:00",
+    "source": "fars"
+  },
   "98c39f8dd8ab078eed3506de3108ff4d": {
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GTjFJWjUzcFhGMk9WU0l1LTQ3RlBXcXIwUDJ3YWg3ZGJzMGRESnFveTZoZ0RVS3lQcS1mRTZtTGkyNGJHbktrTFBBd2lOcnNrdk9Fd2VEQ1hwY1JranZvMWRNS1R0TVcyem1UczFQdkFEV09YV25rejZSOFI?oc=5",
+    "timestamp": "2026-07-18T23:16:46+00:00",
+    "source": "fars"
+  },
+  "f2e2ff19894a3b81b9cf638d5f5a6e89": {
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GTjFJWjUzcFhGMk9WU0l1LTQ3RlBXcXIwUDJ3YWg3ZGJzMGRESnFveTZoZ0RVS3lQcS1mRTZtTGkyNGJHbktrTFBBd2lOcnNrdk9Fd2VEQ1hwY1JranZvMWRNS1R0TVcyem1UczFQdkFEV09YV25rejZSOFI?oc=5",
     "timestamp": "2026-07-18T23:16:46+00:00",
     "source": "fars"
@@ -119,6 +184,11 @@
     "timestamp": "2026-07-18T20:24:21+00:00",
     "source": "iranintl"
   },
+  "386eee625540d9fea8092d2f96d3ea3c": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sTVB2MnNtRXR3Ry1ianM1U3oxUGxLNDUzZTZGVkx4elRORUJBZXFReWtreHFfUnZXX1J6dGl5R2M4b19ueFdwMzVuZTZzMjNhNlE?oc=5",
+    "timestamp": "2026-07-18T20:19:46+00:00",
+    "source": "iranintl"
+  },
   "246d5656c05ee5cb9c54cdde186eb62b": {
     "url": "https://www.france24.com/en/middle-east/20260718-khamenei-threatens-unforgettable-lessons-two-us-troops-killed-in-iranian-attack",
     "timestamp": "2026-07-18T20:10:02+00:00",
@@ -140,6 +210,11 @@
     "source": "nyt"
   },
   "a76ca0af18b171b5a599c918d85dfc32": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjeGkzZFdWeFRyVjRTMzBZblFqZWtDTURrZm44aUpPeFM5ckpEb010UXJSeXNWZWR6NVg0OE9GQzdrb0hLd0J6enM2WmlPSFUzdUdJNTRxY3lYRGVWQXc?oc=5",
+    "timestamp": "2026-07-18T19:19:28+00:00",
+    "source": "fars"
+  },
+  "5932e3dad7e8d7592deff517481eaf09": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjeGkzZFdWeFRyVjRTMzBZblFqZWtDTURrZm44aUpPeFM5ckpEb010UXJSeXNWZWR6NVg0OE9GQzdrb0hLd0J6enM2WmlPSFUzdUdJNTRxY3lYRGVWQXc?oc=5",
     "timestamp": "2026-07-18T19:19:28+00:00",
     "source": "fars"
@@ -224,6 +299,11 @@
     "timestamp": "2026-07-18T14:08:49+00:00",
     "source": "fars"
   },
+  "96543461512a3fcde059d9955e01a56a": {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMXJxRmNmNHc0RUxrRF94dVNOdEdEbkM2Q3U4R3dJZnZBTEJ3a0g0cDF4NHB1U1hLRHVYR2cyeER5SDYwTEpQazFBMEVWNXFtdXpjWnBvX1FPT2NUQjF1bkV4T2tmWTVCYnZEZ2ZPMFU0Z1BadVppMUpzQzIwSGhVaXVsOTFwSmJwZ0luMkhXckhpSGJHeG42MUhiQlhENlltRHc?oc=5",
+    "timestamp": "2026-07-18T14:08:49+00:00",
+    "source": "fars"
+  },
   "150773b887b4aa9825b70bb7251df9c0": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTnp0LW9PQlFrQ2FwUk9jcmQtbTFjc2dqTkc2MlVYaGhNbjc0ZlBsY2d4dlI2bzRLcjVHNUVTNlBCTERaS05icF95dWZkUkV0RFJPU1BnN3FadHlKTnc?oc=5",
     "timestamp": "2026-07-18T13:56:09+00:00",
@@ -304,7 +384,17 @@
     "timestamp": "2026-07-18T10:34:08+00:00",
     "source": "fars"
   },
+  "4fd11cb8002e28ec01b3a215f22a8a03": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoV2ZMMlVVM0NjejFWYW9fQkdXUGNlRTB2ejNjWUdtY3hteXlUaUZZYXplcXlMUU5mdnBMRE5LLURORGtqcy1RRktGNWJ1X2ZSX0E?oc=5",
+    "timestamp": "2026-07-18T10:26:02+00:00",
+    "source": "iranintl"
+  },
   "5bc55d3cb1ad819c477bb390b03ca930": {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56blF6TFRrSDJteWswazVuOW04UmNIM3FWYXljSzlSY1NqTko3Y3pJTV9XVnBJS2R3MkZ3UjRRMG9jNUVKN0p6Z2hlTUhlTnBraUdnVXhYeXV0Qnl3WnJOMHJXMA?oc=5",
+    "timestamp": "2026-07-18T10:12:29+00:00",
+    "source": "fars"
+  },
+  "320b2046119932c1d7ab5f469709cd14": {
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56blF6TFRrSDJteWswazVuOW04UmNIM3FWYXljSzlSY1NqTko3Y3pJTV9XVnBJS2R3MkZ3UjRRMG9jNUVKN0p6Z2hlTUhlTnBraUdnVXhYeXV0Qnl3WnJOMHJXMA?oc=5",
     "timestamp": "2026-07-18T10:12:29+00:00",
     "source": "fars"
@@ -2407,96 +2497,6 @@
   "5f10f2b948420e191be4645c744ceb14": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zWlUzOXlzNkI1aUtYZU9QZW8yendPMjJBY1FyRjJzOWN1VWNJWVk0ZEdKSUlCVGdtZWNVV2JCTmhlbVdfZGxkcTNJVkFWbERTUWc?oc=5",
     "timestamp": "2026-07-14T17:51:58+00:00",
-    "source": "iranintl"
-  },
-  "79ab0fc5120e65cf63a5821abc6eec1e": {
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcmM4SEVCa3F0ZnpBMDdjSi1RejUxUGJ0VVY0RTRZMFFuWEZlUTcyZnhoOFQ5bGl5RmJ0RlJqdFNUWG1Zc2gxOFRXYkpuT184N1JZZkl5ano2VXIyc3NBYi1YQ2hCam9VaVByQklTRlhhcGFEMURhMmkybW9wQkVEdHVPNjIwTHV4SC1oZy1xcHJFcHZKaEhpNzVwUElHeENobmQzQ3d3?oc=5",
-    "timestamp": "2026-07-14T17:32:29+00:00",
-    "source": "fars"
-  },
-  "a0dbfe626ad641b25428bf1e5a2ebc84": {
-    "url": "https://www.france24.com/en/sport/20260714-france-vs-spain-live-world-cup-favourites-european-champions-semi-final-mbappe-yamal",
-    "timestamp": "2026-07-14T17:15:23+00:00",
-    "source": "afp"
-  },
-  "9c53f9fd696c4c86c923253046ff882a": {
-    "url": "https://www.france24.com/en/sport/20260714-france-vs-spain-live-world-cup-favourites-european-champions-semi-final-mbappe-yamal",
-    "timestamp": "2026-07-14T17:15:23+00:00",
-    "source": "afp"
-  },
-  "f1ffd73d1b6047b7c4ac7967c2d1981b": {
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYW9Yb2N3aXZuNlJEWEtmbTZfd1Q3ZGtGWnFGRkdHSjdNelZQd0dWUktpMUhFdVM3UWxUNms0TC1YUFFZTU5HZkRxWmlpdk45QnlkWEItbmlRb19lQzl1OVV2Ml9UMkFJc2xoVUFtQU9jQk5lMmRhM2liUGJzNllvNV9VM1Q1c1R0NEpnZ05TXy1MWGJWcWN3Ukh5OUc?oc=5",
-    "timestamp": "2026-07-14T17:09:02+00:00",
-    "source": "reuters"
-  },
-  "a58e4c462cd3f9f5c47be4872cc6e547": {
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaFNrNjhwbkhMdjZ0dTNVRjNuZl9Rc3NkM3NtX3VhWHhOVklKMG83TTdubWtBRHo4czJuUHVwMWpBaXpXZmFsRnRDc2RVSHl5NURNMUdrcVpWWjRrV25CWkdoVUdtVWVaRXpBbC0zSHF6ODRLbXptd2RCcTFXSUtHTE44U1RFMnF6QUg2Zg?oc=5",
-    "timestamp": "2026-07-14T16:59:00+00:00",
-    "source": "ap"
-  },
-  "e996baf23ec244d7386f5ff2f57660eb": {
-    "url": "https://www.france24.com/en/africa/20260714-how-jihadist-groups-like-boko-haram-use-ai-for-acts-of-terror",
-    "timestamp": "2026-07-14T16:36:46+00:00",
-    "source": "afp"
-  },
-  "b1e3a5d75f6690f77b794fe8b276fdef": {
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGlUSjEtcGs2cXl3c3llbFhFNGtvcENoQkF5WTB0TVZVYnk4Y3o5TEZmcXREUjhFRFJBbDQwakM2WjF0S01nQ2ZhaWZaRXdJRk8yc3h2SVhrYTBrZkxpbGpRTWRHWm9Rc2RwRmJfOHNLREVRUzBYNDM3QjNXRF9aM0Rwb3lEc01EUDBKdWZrOVNMaElmZnh2eUI2dEZUWDdTc1pTOVVTaGFCMjN0WDJPaURrX1M?oc=5",
-    "timestamp": "2026-07-14T16:07:00+00:00",
-    "source": "ap"
-  },
-  "f1f7d28ef96568121ee4fcae5aaa8506": {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGppX2RzT3p4QlVHSGtCdHJjamFweXQ2dkVZR09reTZvdWZKR190WFRabWZ3bWRyN1BWT0doSVFVeWNFWHRza0RublZySVN5NGtrOEhadGs1RHF2QWEtZDZYQzR0WWxMZWdBalZkYlVEN1l2X29kU25pNzZOOGhVQ1JzVGtZdGVPWDZzYkVsVlpqZ2RVY1ZFVEdMUFAzM0gtRklTZ2daU1FtdEl0LTNJY3ZwcmVvZ1Uwc19uSEYzZw?oc=5",
-    "timestamp": "2026-07-14T15:53:54+00:00",
-    "source": "reuters"
-  },
-  "449c6c8d3e81cef29f456fad90448777": {
-    "url": "https://www.france24.com/en/sport/20260714-pogacar-wins-tour-de-france-10th-stage-in-bastille-day-showdown",
-    "timestamp": "2026-07-14T15:51:10+00:00",
-    "source": "afp"
-  },
-  "c81f12cd972c69b33ec98db76eff9fce": {
-    "url": "https://www.nytimes.com/2026/07/14/world/europe/ann-widdecombe-targeted-attack.html",
-    "timestamp": "2026-07-14T15:50:39+00:00",
-    "source": "nyt"
-  },
-  "d8d587a369f5d90dd2bf422c159f5012": {
-    "url": "https://www.france24.com/en/france/20260714-france-marks-tenth-anniversary-of-deadly-nice-terror-attack",
-    "timestamp": "2026-07-14T15:50:25+00:00",
-    "source": "afp"
-  },
-  "2c2c15cf104b6a44d5d50dda3f1d2437": {
-    "url": "https://www.france24.com/en/france/20260714-france-marks-tenth-anniversary-of-deadly-nice-terror-attack",
-    "timestamp": "2026-07-14T15:50:25+00:00",
-    "source": "afp"
-  },
-  "19c848619ce793a724952a468f71a566": {
-    "url": "https://www.france24.com/en/france-marks-10-years-since-nice-terror-attack",
-    "timestamp": "2026-07-14T15:49:53+00:00",
-    "source": "afp"
-  },
-  "1afa8b3bb4c594737e6d103488bebb72": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Oc29MekdWd3JCWTlLQWdmeS1FdElRekdocDZIZlRvRGkwQXZTRWF1U2g1WnpieVZYUjNFSFNYdnJ1ZlRmRzlDckJfc0dfMzhFUVE?oc=5",
-    "timestamp": "2026-07-14T15:46:13+00:00",
-    "source": "iranintl"
-  },
-  "680205a660bb3a2c9ead547f5d97a3f2": {
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRFBoTjItdFU2ZDA0dVBERk1NTjBiVVFTNU1hZW5pRlFTUmRTQzd0RXN4QmU3WTVJMWxxRmNzSmpwNENIbjkyWGZSbllYU2Rhc1p5MEFmU1dzRV9rdWYwMHdGVFpGOFRVQWtoYm11eUJTM0lzeEZjejJTdF9pZGtRQ2FSdnp1ZmU3QXpfV1oyUEYzWU42OTg2R3dtLU9oR05xUXFZaHR3UVItYWlVUmFV?oc=5",
-    "timestamp": "2026-07-14T15:46:01+00:00",
-    "source": "reuters"
-  },
-  "b1a3b010454442b3b7513a17c6208253": {
-    "url": "https://www.france24.com/en/spain-s-lamine-yamal-warns-france-we-have-no-fear-ahead-of-world-cup-semifinal",
-    "timestamp": "2026-07-14T15:35:03+00:00",
-    "source": "afp"
-  },
-  "890f89c12eb8eb28a9d18361f1352bac": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSlhFN3VYRkt4NUIycGhvbDhVQXpyaUhiNjFnb3dnVzA1Vko3cmpqalRSN3pRY0NQcjVHYm41RGRaV1NuMGhkSGx2cjdrSGgxRXFmUG1TT2RGNmN2M0M2WjE5c3E4ODVJN2E4Sk04X3UzbURZRkQ1MTJjcXFUX09uQnI4SC1Val9zc3JaeXAwN3NCY2Vfb0JDZ19qQ0xVR3hMZkVYMlI4NDhHMkUyUHg1S3hKRmo3dUZEdGo2Yg?oc=5",
-    "timestamp": "2026-07-14T15:33:38+00:00",
-    "source": "reuters"
-  },
-  "7669e22778147438c96aed151ab015ab": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qR0ZUSEVrWjZhWWhmV1dwekJYWi1iNzBQN1dkXzVSeXVkYkdXaUZBblhMVElCNjhYMVlJSk5ORmZvd082ZkNQZDdJSU5ZRWFmSVE?oc=5",
-    "timestamp": "2026-07-14T14:40:52+00:00",
     "source": "iranintl"
   }
 }
