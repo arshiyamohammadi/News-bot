@@ -1,4 +1,19 @@
 {
+  "7c086e4c06852f58b238f2f4ffb7a54b": {
+    "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
+    "timestamp": "2026-07-19T16:50:56+00:00",
+    "source": "nyt"
+  },
+  "43d0ab93fe0fc9007da8acbc5929be39": {
+    "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
+    "timestamp": "2026-07-19T16:33:44+00:00",
+    "source": "nyt"
+  },
+  "90cfd935c158767d045379b03686ad62": {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVVPQXpIUjAzU1c2TG1GcXJUU19aU2FodDRTVWV4RVdVN2stQ1NueUtIRC03M2hXNFZLRkQzUUdqMWNQOVBMbzFmc1NGejY3bXFNSnJYMXNNRTIyMlNMYjFPbXVOcXJCSkFPVHNsMkRvblBzcjc5aXJhbHlndGlrek9RbmVBTlN4SHI3N1VHLUpGVlNmTE4tSlAwSktTd1k?oc=5",
+    "timestamp": "2026-07-19T14:52:00+00:00",
+    "source": "ap"
+  },
   "3172d4aa2481b1ff1b42c42712de3ac7": {
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPck5ZRjdsblZrSnlIbzNOdURERmQ5SWV6MFNabGR1ZHBrMEpOY3RNQXlFd1Zwb1JOakNLNzFMTk56N3hJNEtBSGo0Vi1Fa2tRZXZ0T0NYNng0TVZYZENJU3B4b2RQYWxDSHptb1F6eUJDMHZyUVY4RThLVnM0ek9OYnVpVUZnVVZNVndSdlRfMy0yb2hEdTZ5c0h2TFlFd0ZlUDZaTEUwdFY2Q2hFR3pCaU5JRmt3WTJ4?oc=5",
     "timestamp": "2026-07-19T14:43:06+00:00",
@@ -8,6 +23,11 @@
     "url": "https://www.france24.com/en/russia-hits-kyiv-with-ballistic-missiles",
     "timestamp": "2026-07-19T14:41:56+00:00",
     "source": "afp"
+  },
+  "6695c9ffa7ab76d26e2b5a66e8260653": {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0tZTmxiOXpOU2dVZ2xQTUJEMUxBN0RkU1paeHhNOUFkQUI1bE5Wc1pfYXdtSGxZZTlHeVFnUV9uenhvNlJva2dOcjZnOVBHU0RkRlkyc3FZdDZtbmhXU1NwaFRGOXJ6UVBvRTdWOGhvSWN0bTBEMjNkcEkxSGFFV09NYmVrY19ETkpRakF0bmRfOEhvLVY1QUgwRzhlNFFxTmpZ?oc=5",
+    "timestamp": "2026-07-19T14:28:00+00:00",
+    "source": "ap"
   },
   "0a8e5bb06865dab6915423447e9ad649": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTnp0LW9PQlFrQ2FwUk9jcmQtbTFjc2dqTkc2MlVYaGhNbjc0ZlBsY2d4dlI2bzRLcjVHNUVTNlBCTERaS05icF95dWZkUkV0RFJPU1BnN3FadHlKTnc?oc=5",
@@ -352,6 +372,11 @@
   "7fdf98440f0af0e816a35dca56e0163f": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTnp0LW9PQlFrQ2FwUk9jcmQtbTFjc2dqTkc2MlVYaGhNbjc0ZlBsY2d4dlI2bzRLcjVHNUVTNlBCTERaS05icF95dWZkUkV0RFJPU1BnN3FadHlKTnc?oc=5",
     "timestamp": "2026-07-18T19:08:23+00:00",
+    "source": "iranintl"
+  },
+  "132fd1fe8ac6fe9088004eb46c7ef883": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtaGpfRTNnd0tMR3BTckxyaTJ0cWt1b1hvcFNzeFByVHZCbzlFZUlWb3VjalluNFlab3hWOTlKLV8yUlNucl9tTDR0YV90aTE4MXc?oc=5",
+    "timestamp": "2026-07-18T18:55:20+00:00",
     "source": "iranintl"
   },
   "8b4caa89da8cd95508c7449654cab33c": {
@@ -2473,30 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3MFAzYnZzVjV5eWs3VXRaNWhJT3FMRWtZckE1MlgyTGh1dzlsSDlhX3VCVkxFWE9WWHBUaHRBOWVZbjJZYnB5RTZidDE0WGlhdGc?oc=5",
     "timestamp": "2026-07-15T02:14:46+00:00",
     "source": "iranintl"
-  },
-  "4ec2df81674cab8136713af9be7fbf97": {
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WcWVvVktpd2trOEJiQmlfX3IwbU4xZl9KX0J6SUY1R1d4dHk5em5UYk4zVXdlSFlrOUVYVjIxeXR4ZFQyWWstTFdlZmQtMEdua1pCTno0cVRiUzJXNkVIeE1xQ09td3A5c3NJ?oc=5",
-    "timestamp": "2026-07-15T02:08:57+00:00",
-    "source": "fars"
-  },
-  "d248dc30c1478ac9dfa539d90bb0c166": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pamdYeHhUM3VjeHVXV0JmSnNPWWs3Q2JxSW5scHdkdGhlOHUweWZ6TWhQc0MtV1cwOHNwTEloTW1FbHUzWHI4c1IzbWV4SHJKNVE?oc=5",
-    "timestamp": "2026-07-15T01:58:12+00:00",
-    "source": "iranintl"
-  },
-  "4806a5287ab823003c7a7ecd48dd2b12": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pamdYeHhUM3VjeHVXV0JmSnNPWWs3Q2JxSW5scHdkdGhlOHUweWZ6TWhQc0MtV1cwOHNwTEloTW1FbHUzWHI4c1IzbWV4SHJKNVE?oc=5",
-    "timestamp": "2026-07-15T01:58:12+00:00",
-    "source": "iranintl"
-  },
-  "0e22f8e4b494158318177f72e2119f75": {
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFh4aWhsMnJmRnlKQkFsZXUxTWd4cjVvU0pKZG1TemNJTzZHWF9qZUFMZkFCR1Vic05WN2dqVk03RU1JWkxfOG1nQ3lzT3hmeVF6SDZkcVpiZFpTNGtBaUZyRUFxNmg0b0ZqMFJXSlRobGFqRmZwSE1ycy1TaEF2UTdQZU1WbGctVkNtTm8xaUdyMkpvZGlvMm4wOTBRVXZjVWhtYURYSHU5alBWREx6ZGF0YkYyalFkb0ZBLUd0LTVGdXdWZGc?oc=5",
-    "timestamp": "2026-07-15T01:14:45+00:00",
-    "source": "reuters"
-  },
-  "10d5c89ddf8eb4f2ed4feede0998c9c9": {
-    "url": "https://www.france24.com/en/middle-east/20260715-middle-east-live-tehran-and-us-exchange-strikes-as-blockade-of-iranian-ports-resumes",
-    "timestamp": "2026-07-15T01:08:15+00:00",
-    "source": "afp"
   }
 }
