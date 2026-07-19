@@ -1,4 +1,14 @@
 {
+  "f9a20554d6e2a55a861df03a7f7111dc": {
+    "url": "https://www.france24.com/en/ukraine-thousands-take-to-the-streets-to-protest-against-fedorov-removal",
+    "timestamp": "2026-07-19T10:31:43+00:00",
+    "source": "afp"
+  },
+  "d4ef80354d832e790aae3389292eeb21": {
+    "url": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-targets-iran-s-revolutionary-guard-in-retaliation-for-killed-troops",
+    "timestamp": "2026-07-19T10:13:33+00:00",
+    "source": "afp"
+  },
   "f9412d189cb66285607844e017789953": {
     "url": "https://www.france24.com/en/africa/20260719-at-least-50-malian-soldiers-killed-in-rebel-jihadist-attack",
     "timestamp": "2026-07-19T09:44:32+00:00",
@@ -320,6 +330,11 @@
     "source": "iranintl"
   },
   "ef27b2877864a724ba409f82a7c67c0c": {
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56dWJYMmZvTllDYjFNdGg0OVlnbHllTVZhZnRtd04zMjZ0bUg1aEdZZkxtQS1XLXhEN1VhSVp3VTJfY0RWMnpjaFFHbVYwNmV0NG5MV24tcVl0QQ?oc=5",
+    "timestamp": "2026-07-18T13:13:25+00:00",
+    "source": "fars"
+  },
+  "8c0261e088d5a97e53eff17d1b7d9eea": {
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56dWJYMmZvTllDYjFNdGg0OVlnbHllTVZhZnRtd04zMjZ0bUg1aEdZZkxtQS1XLXhEN1VhSVp3VTJfY0RWMnpjaFFHbVYwNmV0NG5MV24tcVl0QQ?oc=5",
     "timestamp": "2026-07-18T13:13:25+00:00",
     "source": "fars"
@@ -2483,20 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEalBrcVR0a01YN2dDcElYUWw0OVpaUFY1M1g2X0dpV2lqekhHdWIzczN4V0FpaXRJcTZTUTlVVjNWWXI3c0dOcTVJajdKZzZBcFBSLXp6eDBFdXBuNmc?oc=5",
     "timestamp": "2026-07-14T18:55:17+00:00",
     "source": "fars"
-  },
-  "9e0673641163f6afb10e06825721cb4d": {
-    "url": "https://www.france24.com/en/tv-shows/the-debate/20260714-war-talks-repeat-how-to-break-the-cycle-between-us-and-iran",
-    "timestamp": "2026-07-14T18:27:17+00:00",
-    "source": "afp"
-  },
-  "06c6cbceb56474ef9774eff319fee7cb": {
-    "url": "https://www.france24.com/en/video/20260714-spain-s-formidable-opponent-rajoy-credits-france-s-football-success-to-having-no-french-players-1",
-    "timestamp": "2026-07-14T18:18:42+00:00",
-    "source": "afp"
-  },
-  "5f10f2b948420e191be4645c744ceb14": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zWlUzOXlzNkI1aUtYZU9QZW8yendPMjJBY1FyRjJzOWN1VWNJWVk0ZEdKSUlCVGdtZWNVV2JCTmhlbVdfZGxkcTNJVkFWbERTUWc?oc=5",
-    "timestamp": "2026-07-14T17:51:58+00:00",
-    "source": "iranintl"
   }
 }
