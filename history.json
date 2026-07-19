@@ -1,4 +1,19 @@
 {
+  "d21dd7d6401f1551985a069b1220da53": {
+    "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
+    "timestamp": "2026-07-19T13:06:21+00:00",
+    "source": "nyt"
+  },
+  "8758bcb0697d792fb6dba79cd860d330": {
+    "url": "https://www.france24.com/en/americas/20260719-the-week-in-pictures-the-end-of-the-world-cup-heatwaves-and-wildfires-war-in-ukraine",
+    "timestamp": "2026-07-19T11:59:03+00:00",
+    "source": "afp"
+  },
+  "d901445cbafc592cb74af1b5d651a5b9": {
+    "url": "https://www.france24.com/en/europe-extreme-weather-fuels-climate-concerns",
+    "timestamp": "2026-07-19T11:55:08+00:00",
+    "source": "afp"
+  },
   "f9a20554d6e2a55a861df03a7f7111dc": {
     "url": "https://www.france24.com/en/ukraine-thousands-take-to-the-streets-to-protest-against-fedorov-removal",
     "timestamp": "2026-07-19T10:31:43+00:00",
@@ -2483,20 +2498,5 @@
     "url": "https://www.france24.com/en/an-open-wound-nice-commemorates-10-years-since-terror-attack",
     "timestamp": "2026-07-14T19:17:26+00:00",
     "source": "afp"
-  },
-  "03ab46bd1a25bdeb82310f1baa98c078": {
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85QnZQS0JzY3NnWHBGSDg2NTFEZHpTbDl5YWJhd043djgwRDMyanFsWkJMV1FIdWV0ejZ1NW0tQ192ZFFpaWxHNUVYdHB6YlZfc01scXhzT0MxemZOYmNUbFlFdw?oc=5",
-    "timestamp": "2026-07-14T19:02:20+00:00",
-    "source": "fars"
-  },
-  "24080b8b643cce1bb33010e7861cd147": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WeGRUd2JGcGZPcFZ5QXMxMFFCdGIxUFA4TF9DNmFGdXJ2WWtGVmttMzhPaWlQUGpkRFI1a3M2aUE0a3JROEpZSko4VUJIWlNyLVE?oc=5",
-    "timestamp": "2026-07-14T18:58:02+00:00",
-    "source": "iranintl"
-  },
-  "6963e93bc08bc8dcba705ed14d26412d": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEalBrcVR0a01YN2dDcElYUWw0OVpaUFY1M1g2X0dpV2lqekhHdWIzczN4V0FpaXRJcTZTUTlVVjNWWXI3c0dOcTVJajdKZzZBcFBSLXp6eDBFdXBuNmc?oc=5",
-    "timestamp": "2026-07-14T18:55:17+00:00",
-    "source": "fars"
   }
 }
