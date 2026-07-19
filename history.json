@@ -9,6 +9,11 @@
     "timestamp": "2026-07-19T20:21:00+00:00",
     "source": "ap"
   },
+  "f0f3d32b30941a40d1dee3cc331f1104": {
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QNlJDM3hEUEFQc2c4d0pmN0hSLUxfNlU1SnhxSjlYWm5zSFoyckhOMFpKUW5UVURIdTFhVlRGMVNXem95Nm8wdklzOVlJeDdodTh5RWJR?oc=5",
+    "timestamp": "2026-07-19T20:10:36+00:00",
+    "source": "fars"
+  },
   "64464a53dd38dcc191eee0663c2bfc14": {
     "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
     "timestamp": "2026-07-19T19:37:41+00:00",
@@ -2493,10 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0ZjN3ZmUVdvbVVLMXFrejJubVRQczZPdVF0QkVwQ3B4SkdNWERtQU5Na0NFWGdrZ0pjU0w1MC05SjhpOHRRVDRZY2lDQkFnRERXWGR6QmlIcV9LaDBQcFdhTThxejdyUDFVbDNBZVlfR0I1Vmg1U19HWERQbnBqUFJJSmpoM2w5VDNacHA4RWZSalpUQ0xwTEpKazJMeGM?oc=5",
     "timestamp": "2026-07-15T06:28:00+00:00",
     "source": "ap"
-  },
-  "7c0a3e471ef3d41b307a49938c7036b0": {
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XUEtHRUNNcFMwZm4tRGRLanZPVEtFTFpELUlKS0RBcmtud0dlVkllMHJuLU95aWg0X2ZhbUEySFhpQjlKSHhPS2JPZkk?oc=5",
-    "timestamp": "2026-07-15T06:15:32+00:00",
-    "source": "iranintl"
   }
 }
