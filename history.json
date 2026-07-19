@@ -1,4 +1,14 @@
 {
+  "703d5ae9a1742856833cec314e09ce06": {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR0hpOHR6RFNuWW1CU2M2ZXdqMVgta1lXUld6b2VBSTMzTXdicTQweDJZZ2RaQnhoenBYdExDN0ZtRjlsb3NxRTB4SGtCQUw2aW9jbWZHaWJsc3dhUjVXeDVPRm5NcVQxSVdITmxRbFdMTXlmVTBiWFFDUTNJbnJscWVYc2k?oc=5",
+    "timestamp": "2026-07-19T21:32:00+00:00",
+    "source": "ap"
+  },
+  "4f502c9863be18a9d84bdd7760a41c99": {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVVPQXpIUjAzU1c2TG1GcXJUU19aU2FodDRTVWV4RVdVN2stQ1NueUtIRC03M2hXNFZLRkQzUUdqMWNQOVBMbzFmc1NGejY3bXFNSnJYMXNNRTIyMlNMYjFPbXVOcXJCSkFPVHNsMkRvblBzcjc5aXJhbHlndGlrek9RbmVBTlN4SHI3N1VHLUpGVlNmTE4tSlAwSktTd1k?oc=5",
+    "timestamp": "2026-07-19T21:16:00+00:00",
+    "source": "ap"
+  },
   "96be82e043012fdde9f52723037a8580": {
     "url": "https://www.france24.com/en/middle-east/20260719-us-announces-death-of-another-service-member-jordan-summons-iranian-envoy-over-attacks",
     "timestamp": "2026-07-19T20:25:41+00:00",
@@ -93,6 +103,11 @@
     "url": "https://www.france24.com/en/us-iran-exchange-new-strikes",
     "timestamp": "2026-07-19T13:40:25+00:00",
     "source": "afp"
+  },
+  "4a1b9380ca618b60f6aeca729a4940a8": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53eVdWX0N6M1R1QTlGMDhrTVVILTdDMFp4QmVDZ1lING11SmxHNnBnc3kxMW5kM0N6VEJaQ0pUYTlKWFN5RWNkeU42dVlhajZQV2c?oc=5",
+    "timestamp": "2026-07-19T13:23:06+00:00",
+    "source": "iranintl"
   },
   "d21dd7d6401f1551985a069b1220da53": {
     "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
@@ -279,6 +294,11 @@
     "timestamp": "2026-07-19T03:10:00+00:00",
     "source": "ap"
   },
+  "1105839b8b52e03e100c64c137a900b0": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCZVgwMEtMbWx3OEZaR2lKSDBqZFFRV0pjU3VpVlhNSVEza3FDZWgzR0lqT3pPUXctc295T1ltVkZHc3FwTFlKenNSOWMzbHJZTnc?oc=5",
+    "timestamp": "2026-07-19T02:58:19+00:00",
+    "source": "iranintl"
+  },
   "2345884bc4cfc9f948ee2fd28ad436ea": {
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNXdkYVQ3QW56b1Y4OXUxei01em1aLW1Yc1dLSllzeDNwaEdzLXVtTS1EWFdLT0tZYmJoT3VIUjdsNXpid2h2ZW1nbVA2RmNLTlljWm5odXZROFhvZjRVMUZtNmJPMVN5eDZlSW9FRWhPcDB0ZnNQcFA2WDVITEQzdWt2dkJ0ZTZGNS1zVFJUVzVDU3k5TFdyMmJldGh5NFhJaHdXRnU2cTB5ckxrZjY2QQ?oc=5",
     "timestamp": "2026-07-19T02:47:10+00:00",
@@ -308,6 +328,11 @@
     "url": "https://www.france24.com/en/europe/20260719-russia-launches-deadly-strikes-on-kyiv-after-attack-on-moscow-warehouses",
     "timestamp": "2026-07-19T01:51:16+00:00",
     "source": "afp"
+  },
+  "abb670aa843520d2f43bb5a37f696930": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxOGNLZ090QU1ieUhXSkRiMmFRd1dmSWFzUFYwYzh4Y1FVZ3hLVnFJVUNQa1BFZ21Ya3cxNVluQ2JILXBZLWhnTFpiYWRPdzdaaHc?oc=5",
+    "timestamp": "2026-07-19T01:03:53+00:00",
+    "source": "iranintl"
   },
   "6a5d4eb9f354d5f501af8d170e939377": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTnp0LW9PQlFrQ2FwUk9jcmQtbTFjc2dqTkc2MlVYaGhNbjc0ZlBsY2d4dlI2bzRLcjVHNUVTNlBCTERaS05icF95dWZkUkV0RFJPU1BnN3FadHlKTnc?oc=5",
@@ -2473,30 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWFotc1dUTF83RmFhVUx0cDhVQ1hubHRYcWhRWExPN3pjTEJmYzk3YTBwd2VmSUMtSWVtdGNGdXpjczUwb3ZialdoRm1LNWhERFBET2NsV3FKeUNhV1FoTU9YMU5sOGRjZkJpQnZvRlFYZmZPek82RXVqNnA2RF9oMTVIYUllTGdfYWdjX1N1dlVDSTdudjVRWHNjZ016T2RKTllLMXZ2NDRLb2phVzV6ZWVVN3VzU3Y1NWVYX3pQUXA4Zl9IbmlrYWdHcU5raTQwMDA3eUFB?oc=5",
     "timestamp": "2026-07-15T07:25:07+00:00",
     "source": "fars"
-  },
-  "a7095d191ffcf61974b3e9057c2572ca": {
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWFotc1dUTF83RmFhVUx0cDhVQ1hubHRYcWhRWExPN3pjTEJmYzk3YTBwd2VmSUMtSWVtdGNGdXpjczUwb3ZialdoRm1LNWhERFBET2NsV3FKeUNhV1FoTU9YMU5sOGRjZkJpQnZvRlFYZmZPek82RXVqNnA2RF9oMTVIYUllTGdfYWdjX1N1dlVDSTdudjVRWHNjZ016T2RKTllLMXZ2NDRLb2phVzV6ZWVVN3VzU3Y1NWVYX3pQUXA4Zl9IbmlrYWdHcU5raTQwMDA3eUFB?oc=5",
-    "timestamp": "2026-07-15T07:25:07+00:00",
-    "source": "fars"
-  },
-  "f9b34cc4936b09ea98c2409aab66b0c0": {
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWFotc1dUTF83RmFhVUx0cDhVQ1hubHRYcWhRWExPN3pjTEJmYzk3YTBwd2VmSUMtSWVtdGNGdXpjczUwb3ZialdoRm1LNWhERFBET2NsV3FKeUNhV1FoTU9YMU5sOGRjZkJpQnZvRlFYZmZPek82RXVqNnA2RF9oMTVIYUllTGdfYWdjX1N1dlVDSTdudjVRWHNjZ016T2RKTllLMXZ2NDRLb2phVzV6ZWVVN3VzU3Y1NWVYX3pQUXA4Zl9IbmlrYWdHcU5raTQwMDA3eUFB?oc=5",
-    "timestamp": "2026-07-15T07:25:07+00:00",
-    "source": "fars"
-  },
-  "0d6d1e27b2271c9ccc6084d7f88e591d": {
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFEyN1NxTHNCaG5RT2lOTWY4WWxWd1JQUGpLdV8wY3J0RVp3RmZaN21hcm9YX1A1TWdYc3RMU3BKNV9rd0tqdnM4SEpmamFRLXJIU1NvdnhUYlo5WDFnb2dPY2JfZU5HXzBMR184ei1kSS1zeUthWmltb1VzZWhOR0lCX2FlR0NXSGUxY0gxbVJTVkw2RFo5NnZSVXFhcGYxOUhOS1BJU2gza3VYY3VHT2JEWVV2VHdCdDdmeTRyOElucVF4Mk9r?oc=5",
-    "timestamp": "2026-07-15T07:24:51+00:00",
-    "source": "reuters"
-  },
-  "d3ddf723c23e2dec048628c019ed52dc": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOckxRLXBWMlR0SjFYZVJlQlpkMmsySS1HQ3o0NS1YZlRuYTB2Ny1EQ05UM1NXeHBjSV90UlZnZW8yTkdvM1k2ZHlxcnhoNXhLbThzdFJXWkEwQUNlXzhDS3BhQUItSmItdlV0M0FueTF6WEpFMzRXQXdoYTlCdXlhUmNrN2hPalN0Y3RVdGxlUnpnNzZDWDAtczhCN0lQeVU?oc=5",
-    "timestamp": "2026-07-15T06:54:00+00:00",
-    "source": "reuters"
-  },
-  "faec50703a5eadf6c3efaf94f4136f9b": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0ZjN3ZmUVdvbVVLMXFrejJubVRQczZPdVF0QkVwQ3B4SkdNWERtQU5Na0NFWGdrZ0pjU0w1MC05SjhpOHRRVDRZY2lDQkFnRERXWGR6QmlIcV9LaDBQcFdhTThxejdyUDFVbDNBZVlfR0I1Vmg1U19HWERQbnBqUFJJSmpoM2w5VDNacHA4RWZSalpUQ0xwTEpKazJMeGM?oc=5",
-    "timestamp": "2026-07-15T06:28:00+00:00",
-    "source": "ap"
   }
 }
