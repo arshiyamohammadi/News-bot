@@ -1,4 +1,14 @@
 {
+  "96be82e043012fdde9f52723037a8580": {
+    "url": "https://www.france24.com/en/middle-east/20260719-us-announces-death-of-another-service-member-jordan-summons-iranian-envoy-over-attacks",
+    "timestamp": "2026-07-19T20:25:41+00:00",
+    "source": "afp"
+  },
+  "d3fd5bbada7bf378429f2592c252201e": {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0tZTmxiOXpOU2dVZ2xQTUJEMUxBN0RkU1paeHhNOUFkQUI1bE5Wc1pfYXdtSGxZZTlHeVFnUV9uenhvNlJva2dOcjZnOVBHU0RkRlkyc3FZdDZtbmhXU1NwaFRGOXJ6UVBvRTdWOGhvSWN0bTBEMjNkcEkxSGFFV09NYmVrY19ETkpRakF0bmRfOEhvLVY1QUgwRzhlNFFxTmpZ?oc=5",
+    "timestamp": "2026-07-19T20:21:00+00:00",
+    "source": "ap"
+  },
   "64464a53dd38dcc191eee0663c2bfc14": {
     "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
     "timestamp": "2026-07-19T19:37:41+00:00",
@@ -12,6 +22,11 @@
   "d89ec9c5bccca5b06446f7a6e5330330": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTnp0LW9PQlFrQ2FwUk9jcmQtbTFjc2dqTkc2MlVYaGhNbjc0ZlBsY2d4dlI2bzRLcjVHNUVTNlBCTERaS05icF95dWZkUkV0RFJPU1BnN3FadHlKTnc?oc=5",
     "timestamp": "2026-07-19T17:13:20+00:00",
+    "source": "iranintl"
+  },
+  "c3125237f75623c73fbf7c7988fb8465": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80WTA4WkQxUDZmYlc2OW9wdWcxclgzajNJaHdDNWdxemVKLWctY2dGbHNlZEROVGFaYldGaXhvbllTT0JBZjlIQk0wMHhwVGUyTXc?oc=5",
+    "timestamp": "2026-07-19T16:55:08+00:00",
     "source": "iranintl"
   },
   "258122eeea3d6111d46c71ad52f031d3": {
@@ -194,6 +209,11 @@
     "timestamp": "2026-07-19T07:50:10+00:00",
     "source": "fars"
   },
+  "5b2e830678afae908719b516623be858": {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY0x6UW1WUjlhMV9iREk0STZyWE91MkV2ZlFMMXAxZ0xBOEoxX0dTVVZrM0R5aTVITFpOUm9haUtJNTZiOTBOa0Z0ZGN5dm5SOTB6bVJGTk9QYVEtTEFBeGJ3SVU1OWNCblpMUGRPU0EzRVFrZG5FMm9VOU5HcDB2d2lrWkt3YVl4MUhtckNkeUtycmhneGdBT0s3N3M4S3VJSXhCcmJB?oc=5",
+    "timestamp": "2026-07-19T07:50:10+00:00",
+    "source": "fars"
+  },
   "0f8484b70b7c3e2cb5247bdc66e0d9f6": {
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tYzlMZTFmMVVjZjJoSGo5WW52Q0R3bmJLaHFhM0doYjI1UVk3TlJpY2xVMHFTVW5sM3dEWGpGTlRwRlVQR2dnMm5VZG9fSWQ3LURDX0lzb1JRdw?oc=5",
     "timestamp": "2026-07-19T07:37:51+00:00",
@@ -347,6 +367,11 @@
   "32d485a35aacd8441e8629a7bef5e8e5": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FbG1UbV93cmVRRFktQXZOUTU1NDJoU1kzZlkyUGtPLUh3blhlTFN4eDl4WUNOTGtXQWxLSWFLbmFxUkZlRkFlQVBWVVd3TjFkc3c?oc=5",
     "timestamp": "2026-07-18T20:55:00+00:00",
+    "source": "iranintl"
+  },
+  "e3629bd53195a7b2849cad5de702a9e1": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93UTFhSDFsaVZRMGxXd2FHVXJMY3RVSHN3NXpVdWgydkFBbU1JVlRfUTR3UXZrU256V0d1NTZRRVlBWFRDaTQzRXNuVXl0czluQkE?oc=5",
+    "timestamp": "2026-07-18T20:53:04+00:00",
     "source": "iranintl"
   },
   "a0797d94234821dcb31da93fec03f7ee": {
@@ -2473,30 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XUEtHRUNNcFMwZm4tRGRLanZPVEtFTFpELUlKS0RBcmtud0dlVkllMHJuLU95aWg0X2ZhbUEySFhpQjlKSHhPS2JPZkk?oc=5",
     "timestamp": "2026-07-15T06:15:32+00:00",
     "source": "iranintl"
-  },
-  "8802cbee2c347880d75357eb69d4849d": {
-    "url": "https://www.france24.com/en/europe/20260715-deadly-russian-strike-hits-odesa-as-von-der-leyen-arrives-in-ukraine-with-defence-plans",
-    "timestamp": "2026-07-15T06:01:15+00:00",
-    "source": "afp"
-  },
-  "da132962a2b9bea7ab6b01778c8a6b42": {
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQazduaE1oajJiQ1RMcHZaMko1YzZXaG1XRXFSYzNfYlFmVXlOUGJrTGlzV2R6X3VBMXd1bDVZTkFueTJBUjM5U1JGUTNhLXhhUGZCRXhWMUM1ZEZGZExTd0pOVHdwc05HXzJONlF0RUhIZEhYMTFra04zbVZpRmtXSmlXMERWemZwOGozRVFoR2xsNWh1aFFIa09zdk1VX25ueDlNbzk5a28ycjI0UU1zbG1kVjAtZDg?oc=5",
-    "timestamp": "2026-07-15T05:51:00+00:00",
-    "source": "reuters"
-  },
-  "d8c3a2f5126c63bcbe35f16dc1c34bc1": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43TzZTeFNta0N3R25QY1IyUlBVVjBzemhGNUhORFRqV1d2N1VpTWVHTENUMUZ4WmNMNWR4U2I1WGdRYnByZmRLaHdrYU9JMGhmN2c?oc=5",
-    "timestamp": "2026-07-15T05:50:36+00:00",
-    "source": "iranintl"
-  },
-  "1f932f5e2d090f2f0ce61196bafb43db": {
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDFCUTI1UUF5a1pIUXBhV09wZTJobGNVNjRlbDhBZ0RnUVVrcWJGMEtTY01XT3FFMGlxZ3hZb1drVC1ZdWNjeHhGcTNtbmN0TUdnT21PSkwyWm1zaGRITlpaMzhmMGk3TThSb1JqV2lmdnRYYWFzRS1Wbm1xNVBGa28tdXZIUmpSUTJkVXNfaUxUelNRTGpscVNuS1FqZ0M1UDJHMXZzSQ?oc=5",
-    "timestamp": "2026-07-15T05:21:00+00:00",
-    "source": "reuters"
-  },
-  "89abeb643bbe99ff15aee619a5023029": {
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDFCUTI1UUF5a1pIUXBhV09wZTJobGNVNjRlbDhBZ0RnUVVrcWJGMEtTY01XT3FFMGlxZ3hZb1drVC1ZdWNjeHhGcTNtbmN0TUdnT21PSkwyWm1zaGRITlpaMzhmMGk3TThSb1JqV2lmdnRYYWFzRS1Wbm1xNVBGa28tdXZIUmpSUTJkVXNfaUxUelNRTGpscVNuS1FqZ0M1UDJHMXZzSQ?oc=5",
-    "timestamp": "2026-07-15T05:21:00+00:00",
-    "source": "reuters"
   }
 }
