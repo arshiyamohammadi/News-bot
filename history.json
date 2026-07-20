@@ -1,4 +1,9 @@
 {
+  "6e71824aa061f502f31fd8c9e0f20356": {
+    "url": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-launches-strikes-to-punish-iran-after-troops-killed",
+    "timestamp": "2026-07-20T05:52:51+00:00",
+    "source": "afp"
+  },
   "4d3966c437beec7dc1a2333a17b2c1a3": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KaTVQWDNuZ210bVVYNlgyM3FLOWxsZEpSQWN4akZfVktXaWFHN0JmTFA5WE1VQWRhSWY5STZWRVJrT3l4R3JPVXpwMjVuN1BSa2c?oc=5",
     "timestamp": "2026-07-20T03:02:50+00:00",
@@ -18,6 +23,11 @@
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDB0dzIyZzhDNXdvemNBWHdxR3dnWXcwVk4xM082SDRRTm9xel9yX3hJeFBDN1hyQXZpRlVWcElHNi13amFSaXFZLUEtYWpva20xcmFjLWt2TEc0QjFlMDJRMHFPZ3dpb0hZNlBib1ZMNk4xNXdPcmNfUHRpRzNzVDRtdmZlY2MydWVLdS1uVnZXSkdHZjlYelZOZ1M0SXlnVzlBSGFUUU43YlE?oc=5",
     "timestamp": "2026-07-20T00:16:00+00:00",
     "source": "reuters"
+  },
+  "a4626ade6a43dc90f21a8302081561d8": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10dmF1UmlPLXpzSW1oVnpQa082Q09jMG9COFNqaVF2NUJMX2RZY0xDbXRXZjJKaE83UHB1SWpTUk0tN2kxTTR3WFNrU0liTWdKdGc?oc=5",
+    "timestamp": "2026-07-19T23:02:26+00:00",
+    "source": "iranintl"
   },
   "7cc460d98386680b16b207d5952d7535": {
     "url": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-launches-strikes-to-punish-iran-after-troops-killed",
@@ -2488,15 +2498,5 @@
     "url": "https://www.france24.com/en/video/20260715-iran-still-has-the-military-capability-to-create-chaos-in-the-region",
     "timestamp": "2026-07-15T09:30:00+00:00",
     "source": "afp"
-  },
-  "8d488e1cb463a23a50b5a50a07f14dad": {
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORkMzazNjc1U0Uk5pTUJ2bTBxaVl5UTR6VzZXSGpTY29VVXNSTzZvSG5KVEhJSGctWGZGelh0R0ZiV1YyUVRXSHZ1al9jNG5mNkhZa1dQVjY4Nm1MTW9HZjRkRDg1anU3YS05VG4wbmhvVnB1b29wU1BoVEtrWHhSaU1lTHBZVWJER3RnOUFLdGwxbUo5dXdGcGRBMVVnU1daaU1nNDhsQ200c1JHcjJfeWVSNDU5a1JVaG9KOHE3NXFlVko1N1NR?oc=5",
-    "timestamp": "2026-07-15T09:27:15+00:00",
-    "source": "reuters"
-  },
-  "c7e4ad69e706282ed91427c2d86ac089": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPSkhLek12UmI5c2lLd0tRY2hZRkUwcXNoZXFnX2RyTkZzeE1ScXdFN1hmTFRvVHpZX2U1SzNXVTdURDJxSkhhcFdJNjVPUm84eEE?oc=5",
-    "timestamp": "2026-07-15T09:07:23+00:00",
-    "source": "iranintl"
   }
 }
