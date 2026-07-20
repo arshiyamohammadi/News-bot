@@ -1,4 +1,44 @@
 {
+  "1c309973c81e4a8b4a24746fa1fd38f0": {
+    "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
+    "timestamp": "2026-07-20T09:56:52+00:00",
+    "source": "nyt"
+  },
+  "072cff7078ef7ca3bf20872e5c0684b6": {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdnQwZTRwYkFHa216RUhGUDBkaUVQQW8xeWk2S180OFo0ZUExYXJPcnZGUW5DQ21QSEpJRlQ1M05tcDNYZ2Z1MXRsNGRSbFFXREw1RWFUZGVhNnEtMnFBRlVsOGNvMk9Pd0NFM0hKRlkwWVhXNDRYY0U5bXd2QkZheTRfOUtLYi1kWXlvb3BsellRQQ?oc=5",
+    "timestamp": "2026-07-20T09:17:00+00:00",
+    "source": "ap"
+  },
+  "aa95d3a54b2e9c0a59e6ee078884e2c1": {
+    "url": "https://www.nytimes.com/2026/07/20/world/asia/india-protest-cjp-cockroach-jantar-mantar.html",
+    "timestamp": "2026-07-20T09:05:46+00:00",
+    "source": "nyt"
+  },
+  "a7ad396d410385e361ecee4d3248a631": {
+    "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html",
+    "timestamp": "2026-07-20T08:55:02+00:00",
+    "source": "nyt"
+  },
+  "3e9c7989c5b7cecf24565e73b730d879": {
+    "url": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
+    "timestamp": "2026-07-20T08:09:12+00:00",
+    "source": "nyt"
+  },
+  "c5c733f1d8f0360d0173565c34165bce": {
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yQ2ZwV3dNMnNMcmh2RW5Jdk1sZjNyb2VWY1dzZ0Y0VV9vZ1lYOGhLZ2NSajlXQlZKNnZjN243TjM3QWxoRWtyU19sRTk?oc=5",
+    "timestamp": "2026-07-20T07:40:23+00:00",
+    "source": "iranintl"
+  },
+  "aac6abe9484a2b6650367edaefcaf89d": {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHdTd1JiRGlKNG9PLVdSZlZ0Z19rdm9FQldfQmpvOXlxczhleDZISXdoRDdvYXVVcnZ4STFVaVUyX2x1WS1telN1eF9xZC0xWm56TzJBZDRHYXRLWmVmRjctblQ5Qjd0QVdLX0xiSzRCOWkwX2Rxd3pwOWs0UXJ2Q25CX3NJUEttenA0YjZ3U1ZEQVJNTnlvNTFJOW1vRG9kT2J0aFpxTHVFS1dwdkNZ?oc=5",
+    "timestamp": "2026-07-20T07:19:02+00:00",
+    "source": "reuters"
+  },
+  "9804816fa43c5d9fcf710b9558451a62": {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTG5JRFJTbDhZWlVxTVBoMFVnNVJsdkUtRjY0Yy04TUpNb3pMa2JmbzZMdFNPeGdDU3JvM2FhcVpHakNPZ1AtdUYyU2puTUtqQWpoNUlFbzI3MmNNTkpPS3pVdllaQmlRbXFfQmtQWkFnRUplaWREOUVTYXNhVHpvZmJnekItWUtzSVltQXVCQTloaDBWNWpqbXdJVmk1cGx3S05BTFRPODhfVU1GWUdLNXRnbzhyUkRaUXptakpmYmQ4QTM1SmYtOHc1SEtySEdPZ09ya0ZET1BDUQ?oc=5",
+    "timestamp": "2026-07-20T06:11:00+00:00",
+    "source": "reuters"
+  },
   "6e71824aa061f502f31fd8c9e0f20356": {
     "url": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-launches-strikes-to-punish-iran-after-troops-killed",
     "timestamp": "2026-07-20T05:52:51+00:00",
@@ -13,6 +53,11 @@
     "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
     "timestamp": "2026-07-20T02:31:26+00:00",
     "source": "nyt"
+  },
+  "bb1f77ac6b3e8cd31fd7930d3f7ec92a": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jNkQwSXdwUXAyM3NIYnl0Q3ZYQlVmbWwwWVY0RDViRzd4TWt4MUhVbnpHOFVLR0ZWdUpCdzNHb3hPalV3OXUxZXl5RU1mZTA2ZVE?oc=5",
+    "timestamp": "2026-07-20T01:47:05+00:00",
+    "source": "iranintl"
   },
   "4243d4135daa9a0d97d96aaab0d5b230": {
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVVPQXpIUjAzU1c2TG1GcXJUU19aU2FodDRTVWV4RVdVN2stQ1NueUtIRC03M2hXNFZLRkQzUUdqMWNQOVBMbzFmc1NGejY3bXFNSnJYMXNNRTIyMlNMYjFPbXVOcXJCSkFPVHNsMkRvblBzcjc5aXJhbHlndGlrek9RbmVBTlN4SHI3N1VHLUpGVlNmTE4tSlAwSktTd1k?oc=5",
@@ -2453,50 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUJiV09NYUNEb2hXRWZqR3U3c3VJd3haSU4wSEVkT1hqSnRoUWlWWmRDQVhnUVRsRjFkU1BpU1J4TmdxdG5KYkRpSWZxOS1qNGtManIzRGZWM1NlcWxHaUdpT0FlM1poV2E3RjJFbjBmd05CdGYtRm9xUVQ2YnA0UEpGQ2V4c1pHQ1Q2RWwzbzlaV0JPQUFpVHZqMXJCS09fcHV6TU1R?oc=5",
     "timestamp": "2026-07-15T10:49:09+00:00",
     "source": "fars"
-  },
-  "9e01427bfe5079db04b4664502f83c44": {
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUM2X1dwWlEtWHFxM3dFS1pvOWlDcHNlR0NLTTBiTHR2RU01Y21HTXYwSW5FUng3UFZ1S21GdGhJQlJObjJySjBEa2RLSDJMN3cwNDVjMTJmNW9QVi1UOUVvQ0daRXIyVDJQN0RHX3VZWXRqVElkc0xYUEMtQlVwWW5JYzN0cnhnSmlYS1NhajlBTXhNWUZSRlZWLVo?oc=5",
-    "timestamp": "2026-07-15T10:47:57+00:00",
-    "source": "reuters"
-  },
-  "728240d86bcadfd6de2ffd6ab71a834a": {
-    "url": "https://www.france24.com/en/video/20260715-firefighters-continue-to-battle-contained-fontainebleau-fire-near-paris",
-    "timestamp": "2026-07-15T10:40:00+00:00",
-    "source": "afp"
-  },
-  "9687c9c596d9619b461254bf47ed638f": {
-    "url": "https://www.france24.com/en/video/20260715-more-health-workers-strike-as-confirmed-ebola-cases-in-dr-congo-top-2-000",
-    "timestamp": "2026-07-15T10:37:25+00:00",
-    "source": "afp"
-  },
-  "3e2cc7f6102bc428076b9f31f1a1a8d6": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oaWVjYnc0Z1lvMm5BZXhmSVp2clFCcVpIY3BKOHNUUlFMaWNsRXhhUW1vZUFranR2LXVDWWZ1WUNQSG1DWG5RcHhHQVl2d1VMdmc?oc=5",
-    "timestamp": "2026-07-15T10:13:28+00:00",
-    "source": "iranintl"
-  },
-  "e38c2faa7c0c07ba4afefc0047cc4b8f": {
-    "url": "https://www.france24.com/en/video/20260715-eu-uk-hit-russia-with-joint-sanctions-over-cyber-attacks",
-    "timestamp": "2026-07-15T09:53:48+00:00",
-    "source": "afp"
-  },
-  "e4480393b20a463ff84c9404f3671f1d": {
-    "url": "https://www.france24.com/en/middle-east/20260715-iran-threatens-to-cut-off-major-vital-seaways-in-response-to-trump-s-renewed-blockade",
-    "timestamp": "2026-07-15T09:46:19+00:00",
-    "source": "afp"
-  },
-  "afe5b05fe616c32ab53cc586a18dea06": {
-    "url": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-russia-crimea-azov-sea.html",
-    "timestamp": "2026-07-15T09:38:52+00:00",
-    "source": "nyt"
-  },
-  "938e6438221707f2eaca6bfb16b34fdb": {
-    "url": "https://www.france24.com/en/video/20260715-lebanon-israel-hold-us-brokered-talks-in-rome",
-    "timestamp": "2026-07-15T09:35:51+00:00",
-    "source": "afp"
-  },
-  "15e9f53198c3a2b46bb8f17297d11f40": {
-    "url": "https://www.france24.com/en/video/20260715-iran-still-has-the-military-capability-to-create-chaos-in-the-region",
-    "timestamp": "2026-07-15T09:30:00+00:00",
-    "source": "afp"
   }
 }
