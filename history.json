@@ -1,8 +1,48 @@
 {
+  "bd4f0c84226b844e87e44bcb0c6246c7": {
+    "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html",
+    "timestamp": "2026-07-20T12:11:09+00:00",
+    "source": "nyt"
+  },
+  "feb66dbe492b2837ec113b77add5d184": {
+    "url": "https://www.france24.com/en/at-least-six-dead-after-earthquake-hits-peru-s-andes",
+    "timestamp": "2026-07-20T11:54:23+00:00",
+    "source": "afp"
+  },
+  "d06c36f7333dc751a48c1d2897c9c77e": {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSE4zQ25lM2VIMGM1RkYteUt5YW1tMXNWanVyRV9jX1NzUHlFU213Ry1BaTVzZ0xoc2ZzZ01IVmR2eW1BWTNMT04tci1Ual9WeDN6b1VJbjNKeFBHUlFVZi1zOEZNZ3NfckhfMkRSSjJuSU5KOGxpUG54WFdPT19YNUxCTzlrSVlXWmZZTmNZTHBpSEtVd0Zya2VqOUZpbjFMUlFiU1FJdl9MN0V0VWd0d1JnYkhhUnRoLWdFZ0ZpNDhmSW5yeVVlXy04NA?oc=5",
+    "timestamp": "2026-07-20T11:48:14+00:00",
+    "source": "reuters"
+  },
+  "7e7d9dd45c89c45e3ab8d8fe8a9b755f": {
+    "url": "https://www.france24.com/en/india-s-cockroach-party-leads-thousands-of-youth-in-protest-to-parliament",
+    "timestamp": "2026-07-20T11:35:38+00:00",
+    "source": "afp"
+  },
+  "7803826a5b122b535fd016d6c98692cd": {
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlTFEwQXdROUNGVzBUYU5DLWpWZFlxcDBMNWVxajFLV2xWZlhURGFGb25KckhybkxfYS0tbFpOR0RoazRRSENWQUxselJYWnAzbHAtQ1lXQlRKaWlO?oc=5",
+    "timestamp": "2026-07-20T10:05:37+00:00",
+    "source": "radiofarda"
+  },
+  "37745db0d8d22f2f1babb2877f3733f3": {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JcXBva2ZpNFRqY0pveXVZVXBNVzZEYXkyMnVYM1U0ZWdBRWhHN2Y0akttbVdfUHM5ZzdDcU5zcEw0eXJETkFXZ0RGckhjS3hETE9KUm5heW5TNTlCMkdPM3Q3cw?oc=5",
+    "timestamp": "2026-07-20T09:58:54+00:00",
+    "source": "fars"
+  },
   "1c309973c81e4a8b4a24746fa1fd38f0": {
     "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
     "timestamp": "2026-07-20T09:56:52+00:00",
     "source": "nyt"
+  },
+  "96962a9b0fb8b4a51ac7bea418765ad2": {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOUpiYzR0S093a3dWVVhybnpzbEtRcmw2Yy1MWHIzMEFEMWZKdWhhT1pNcFFxMHkxQU9oNzlUa1h6LTlpazUyWmxzbWFwaUU4SV9aNVJjM3Frd0tSQzlFbmFMU3I5Y0NMTFpGNmpuWnB2QnNZbHlkemlQT1ZTaGhPMndrNzF4dHFlbDZoeDZGV2k0YjdMUF95OU1lQXo2ZFdfb3o4enZkM0w0eW1uU1ZOOGt6OG1lbmp6OFNHZU5Yb25CR3hIOXU0RWNtbEI?oc=5",
+    "timestamp": "2026-07-20T09:39:35+00:00",
+    "source": "fars"
+  },
+  "159442ff4f555269b471bcf6e418ad41": {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUFhWSFh1VS05Vjl5ZWQ1YVEycGR4UzJtY1BZaDFNWXRtS3NnQnQzZ1EyazVqcXctN0sxV3draDB5SFdhdE5yYkNVVmdPbnlLbkI2UWpFN3ZtZnBQRnBvU09SUUNDRnhmalZMM0pIYXgxWDlPOFFCZG5MQloxUjhOTHJZc3NJUk9lVHJtNGRwaHZVdkduQ3kwVEFMbmN2dXFoQjRr?oc=5",
+    "timestamp": "2026-07-20T09:22:19+00:00",
+    "source": "reuters"
   },
   "072cff7078ef7ca3bf20872e5c0684b6": {
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdnQwZTRwYkFHa216RUhGUDBkaUVQQW8xeWk2S180OFo0ZUExYXJPcnZGUW5DQ21QSEpJRlQ1M05tcDNYZ2Z1MXRsNGRSbFFXREw1RWFUZGVhNnEtMnFBRlVsOGNvMk9Pd0NFM0hKRlkwWVhXNDRYY0U5bXd2QkZheTRfOUtLYi1kWXlvb3BsellRQQ?oc=5",
@@ -34,6 +74,11 @@
     "timestamp": "2026-07-20T07:19:02+00:00",
     "source": "reuters"
   },
+  "ae427424caa91c5a48584d18d50971e7": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94T2dhckF5bVFUMjJrUUtfMmdUTWhMRDdGZThUTnQ0X3hRYUVLRFVrM00yY1BWSVl0OGlmU0xyX1lCdm5LRWN3aWxLbnA5Q1FSeEE?oc=5",
+    "timestamp": "2026-07-20T06:54:48+00:00",
+    "source": "iranintl"
+  },
   "9804816fa43c5d9fcf710b9558451a62": {
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTG5JRFJTbDhZWlVxTVBoMFVnNVJsdkUtRjY0Yy04TUpNb3pMa2JmbzZMdFNPeGdDU3JvM2FhcVpHakNPZ1AtdUYyU2puTUtqQWpoNUlFbzI3MmNNTkpPS3pVdllaQmlRbXFfQmtQWkFnRUplaWREOUVTYXNhVHpvZmJnekItWUtzSVltQXVCQTloaDBWNWpqbXdJVmk1cGx3S05BTFRPODhfVU1GWUdLNXRnbzhyUkRaUXptakpmYmQ4QTM1SmYtOHc1SEtySEdPZ09ya0ZET1BDUQ?oc=5",
     "timestamp": "2026-07-20T06:11:00+00:00",
@@ -57,6 +102,11 @@
   "bb1f77ac6b3e8cd31fd7930d3f7ec92a": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jNkQwSXdwUXAyM3NIYnl0Q3ZYQlVmbWwwWVY0RDViRzd4TWt4MUhVbnpHOFVLR0ZWdUpCdzNHb3hPalV3OXUxZXl5RU1mZTA2ZVE?oc=5",
     "timestamp": "2026-07-20T01:47:05+00:00",
+    "source": "iranintl"
+  },
+  "e340021218366d036444764dffdac07b": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GdE1VaUhCZTRja1hiZFp6ZWtDWWJHM21Wc2tQU2xlYW4wNGFnWURoZmt1Z29NcmQ5a3ktTGtaclR3YkJwdm9BQV84TG9ncUlsdmc?oc=5",
+    "timestamp": "2026-07-20T01:34:00+00:00",
     "source": "iranintl"
   },
   "4243d4135daa9a0d97d96aaab0d5b230": {
@@ -383,11 +433,6 @@
     "url": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-targets-iran-s-revolutionary-guard-in-retaliation-for-killed-troops",
     "timestamp": "2026-07-19T05:09:41+00:00",
     "source": "afp"
-  },
-  "7803826a5b122b535fd016d6c98692cd": {
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91SzZLRkpYNjczSlZmTjU2V3hJS2REV0h1WGFFalpVdHZYbnJjanRPeXlLbTRObkR2amxLVFJSTUZYRW53Mmc3TlA5UkVGTFM1SnlPbmFBQQ?oc=5",
-    "timestamp": "2026-07-19T04:25:29+00:00",
-    "source": "radiofarda"
   },
   "dd1ece73312bb97e015a68001efc4a4e": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTnp0LW9PQlFrQ2FwUk9jcmQtbTFjc2dqTkc2MlVYaGhNbjc0ZlBsY2d4dlI2bzRLcjVHNUVTNlBCTERaS05icF95dWZkUkV0RFJPU1BnN3FadHlKTnc?oc=5",
@@ -2453,50 +2498,5 @@
     "url": "https://www.france24.com/en/europe/20260715-deadly-russian-strike-hits-odesa-as-von-der-leyen-arrives-in-ukraine-with-defence-plans",
     "timestamp": "2026-07-15T11:19:50+00:00",
     "source": "afp"
-  },
-  "be1e061ee0cf59045940711f3a78fd5e": {
-    "url": "https://www.france24.com/en/video/20260715-ice-suspends-traffic-stop-operations-after-second-fatal-shooting",
-    "timestamp": "2026-07-15T11:12:29+00:00",
-    "source": "afp"
-  },
-  "008c6b3df0ba2a34aefb0e78fed12d6f": {
-    "url": "https://www.france24.com/en/tv-shows/focus/20260715-haiti-trapped-by-violence-humanitarian-aid-deliveries-struggle-to-reach-local-population",
-    "timestamp": "2026-07-15T11:02:24+00:00",
-    "source": "afp"
-  },
-  "7af62b9d430215ad1b8aad6926f08375": {
-    "url": "https://www.france24.com/en/sport/20260715-world-cup-golden-era-ends-for-deschamps-france-as-midas-touch-deserts-les-bleus",
-    "timestamp": "2026-07-15T11:02:00+00:00",
-    "source": "afp"
-  },
-  "fcbe25f751fa452e33c148faeb3fc990": {
-    "url": "https://www.france24.com/en/tv-shows/spotlight/20260715-amid-democratic-backsliding-will-nato-raise-concerns-over-turkey-s-crackdown-on-opposition",
-    "timestamp": "2026-07-15T10:59:49+00:00",
-    "source": "afp"
-  },
-  "b933fba1eac905ca6092df6943ae0473": {
-    "url": "https://www.nytimes.com/2026/07/15/world/asia/china-seismologist-north-korea-nuclear.html",
-    "timestamp": "2026-07-15T10:58:43+00:00",
-    "source": "nyt"
-  },
-  "ef7ac7e7599ab8d475c8a9c3966c147f": {
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVzV0TkplU2pSb1RNbnVZTnAteUt2Y2xqZVphRzNVeWk2bGpYNjA0UmlyZnZwRTdlU3Q3aDhxTVNFRzU1UEtkMHRSS21ZVjhRTGROQXFXRExxNTQxOHRSVnY0TFpvWk00dE9QdjhsU2k2WjFXVXFPNmI5RjFLb3ZBTVptWkowcUFfTVV6Yld3?oc=5",
-    "timestamp": "2026-07-15T10:57:42+00:00",
-    "source": "reuters"
-  },
-  "77752b82b0d5061c05804584939b76ef": {
-    "url": "https://www.france24.com/en/middle-east/20260715-middle-east-live-tehran-and-us-exchange-strikes-as-blockade-of-iranian-ports-resumes",
-    "timestamp": "2026-07-15T10:50:09+00:00",
-    "source": "afp"
-  },
-  "e34999fc7e12647ae9569688ffe4c049": {
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUJiV09NYUNEb2hXRWZqR3U3c3VJd3haSU4wSEVkT1hqSnRoUWlWWmRDQVhnUVRsRjFkU1BpU1J4TmdxdG5KYkRpSWZxOS1qNGtManIzRGZWM1NlcWxHaUdpT0FlM1poV2E3RjJFbjBmd05CdGYtRm9xUVQ2YnA0UEpGQ2V4c1pHQ1Q2RWwzbzlaV0JPQUFpVHZqMXJCS09fcHV6TU1R?oc=5",
-    "timestamp": "2026-07-15T10:49:09+00:00",
-    "source": "fars"
-  },
-  "56dad9892a57a736f08f97bfb598446b": {
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUJiV09NYUNEb2hXRWZqR3U3c3VJd3haSU4wSEVkT1hqSnRoUWlWWmRDQVhnUVRsRjFkU1BpU1J4TmdxdG5KYkRpSWZxOS1qNGtManIzRGZWM1NlcWxHaUdpT0FlM1poV2E3RjJFbjBmd05CdGYtRm9xUVQ2YnA0UEpGQ2V4c1pHQ1Q2RWwzbzlaV0JPQUFpVHZqMXJCS09fcHV6TU1R?oc=5",
-    "timestamp": "2026-07-15T10:49:09+00:00",
-    "source": "fars"
   }
 }
