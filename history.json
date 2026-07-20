@@ -1,4 +1,29 @@
 {
+  "35ae3bf396304d6f46363dd56387f9b7": {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1FaMy1UbHJsTGt0b2hvMjdMSTJseExFVXljU0Q2QXphMzVRZ0h2SFAzRHdXdjBNNGF2enFHZUc5eGRHUzhDS3hKTlc4WWtqYzA2b1U3eGV2RlNpYXZsME1xUEViRnZISklTS3NRXzVRQlJEMWE5aHlGTnFCMFhXeXJ2UlgwWURISGRkdFE5bzgtMDRfUnlnUXRicDhTYUVjSGhwTEpLNWluZw?oc=5",
+    "timestamp": "2026-07-20T18:29:18+00:00",
+    "source": "reuters"
+  },
+  "80f36531bca99d8281df9006c9a10250": {
+    "url": "https://www.nytimes.com/2026/07/20/world/middleeast/gaza-talks-khalil-al-hayya-leader.html",
+    "timestamp": "2026-07-20T17:22:44+00:00",
+    "source": "nyt"
+  },
+  "a58b1ba28ed9eb3bd8d937d25cb289e7": {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcDVzdmxJOV9IMFQ1QmVxa2JjM1FVWnVmU0ZaU1hLOERCamplcEplYkhsZHNUTk5NY2RpMjhIV0RCUjZ2LV9VSUNYZ1pkbDVYZVMzc1NHcUJFZDZkWUowcGpiV18wYlR2Y1o5a1FGZEk3eVZSanVfR0FLc3dxSldmQUZHSmg2N2ljb2VSQXctUVFkaFFEaU9DT3JtcXlndkRj?oc=5",
+    "timestamp": "2026-07-20T17:08:45+00:00",
+    "source": "reuters"
+  },
+  "9cde47cae1e9283c66abbb6276741b40": {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeUxVTTdGN3I2VHpkcGVLZFAzeXZlSjh3TmVGaXpPVjlsdG5iMEtmR1hscHVmbnlNQjBVYUVoTFI1c2Q2VS15SDVfSTVPb3FjM1FFMVREY0NKdk1hQ2Y2SGhkN3hvN2p2NHk1MTd0RU1HbDJvM3ZDTGhvQmpBNzBLQ1hpNk1mNjhpQmNxUmMtMnJ1Vk45N25lN3NBUQ?oc=5",
+    "timestamp": "2026-07-20T16:45:00+00:00",
+    "source": "ap"
+  },
+  "22390449ad57e03eba1ec7f7ffe7e920": {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYXJ3V1RkU0g0cGlJZVQ3d2szc184eVBWc21KR29wb05CNDZmX0dIaGpQNU9UU1BWV3JHcW4wZmNOa0p5d1FrOFJaRGxvcDNQcUI0ejRGRUxsbVNPd1dORGdyYmRLd2JMQl9oa09FZEEyLUFMTm5IMldneDNDOEM1cmJEYjVTSVBaLWVIR2l2ZkRYV2RJNGpETkFINk8xZVhHWnFsQQ?oc=5",
+    "timestamp": "2026-07-20T16:17:44+00:00",
+    "source": "reuters"
+  },
   "0e266a6ac614f3a700d1c511c94aac2f": {
     "url": "https://www.france24.com/en/france/20260720-two-french-diplomats-subjected-extremely-serious-intimidation-iran-fm-says",
     "timestamp": "2026-07-20T16:14:22+00:00",
@@ -13,6 +38,11 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhalRHN2VySktnSlFJX2ZNSjVOb3hGcThnUE91dmlDRmJPS3dUZVp3TWpScm5WUUN3b1M3NFlUcGZYWlZxRTdzckhubkhKdkNPVnc?oc=5",
     "timestamp": "2026-07-20T15:50:00+00:00",
     "source": "iranintl"
+  },
+  "f51aa0362db8130d3504894939e6ba93": {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRW1DWjMyNmZtUWMyMzlHdGVTNHdVRUc1c2RZbWp2UURBdUw3SDlJTkphQm04bVI3bklfNUd6cGlmUndfX3JEczY1MWNKc0dYSlNwVUMzRUNHYTYtS0pXY21mbF85Y3RCSTMxUFRNQnRXb1QwWnpueWRyeUxDbWVkbGhNb2p1QnVZN0k1VTR5b014U0VvWmlabmtBeXEzdW9FSzNfNVNjQUlZaTFfVmVIVzBBcVhwWElf?oc=5",
+    "timestamp": "2026-07-20T15:49:07+00:00",
+    "source": "reuters"
   },
   "5df4bbd38d8e48421a579025734d7598": {
     "url": "https://www.france24.com/en/video/20260720-fears-over-gulf-shipping-and-water-rise-as-us-iran-trade-strikes",
@@ -174,6 +204,11 @@
     "timestamp": "2026-07-20T08:09:12+00:00",
     "source": "nyt"
   },
+  "b06c3e071a7d70ae219ca11ca759392a": {
+    "url": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
+    "timestamp": "2026-07-20T08:09:12+00:00",
+    "source": "nyt"
+  },
   "a32ddbbd896d5e96ffe3077cc55ad2fe": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nSFlkN2lyaTBIYWJWLVFwSzd1TnI0UWxOcjI1M3JzVElMTERXZmh4R0RqaUZCT1lRRlNibUJPejFxN0I0NWdwWTRPREk1eWU5cEE?oc=5",
     "timestamp": "2026-07-20T07:58:54+00:00",
@@ -196,6 +231,11 @@
   },
   "9e7bf58d522fc1c43056b03176554c0c": {
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUNQQzFMMjFobm4wOE5oMjFHWWczeDZKMVVWUXRjVmI0QlY0b2dKZG96eVF6dE9MWHBkbk5mSm1lbUl3dWVPdEQzLUJ3UXZIQWZOOVR4ZjNNaXc1VVhmQUlOaWVBeENZVjFSekNJVU45bUI2dy01S08zMnZ5dW5NMjdXU2NOUHVDSDBRMDBfcUNBR2FWYkZScVN3ZWI?oc=5",
+    "timestamp": "2026-07-20T06:48:11+00:00",
+    "source": "fars"
+  },
+  "6a93666f4ac8537cd7d7b9ba6f7901b8": {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdkp5LXJNQW4tY2ZsbTh3LXdzUkhfZ0Zzc1ZQX18xTjF3TTNIXzUySmdMV3BicFBDWmNYZXJJcTBKT1BHckJuMFp2dy00aWZRQ0xIbXRGWHZGUzJoYjVjeXZhLVIxLVA0WXNUQjVTQTA4VGpCcmJLcU5jR25WeUllUjdtSFdJZ0NRX1ZzeXFZbUxkX2NObUc1SnQ4TDV0STVJUGlPWWt6SC03VFFHUUJnZVZXYjNybW4ySC1MX21rZDVNMERpc3E0WjdXV0szOGRLME9N?oc=5",
     "timestamp": "2026-07-20T06:48:11+00:00",
     "source": "fars"
   },
@@ -223,6 +263,11 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wREMtTFF4S1Z2NEtyZER3aGJ2ZXMtT1o3bmFTd2VuMXdxeEtpVUlROExudHNEN2VTM3kxTklPSE9pd2p2Mm00M082RFNwX0F4Z2c?oc=5",
     "timestamp": "2026-07-20T03:40:00+00:00",
     "source": "iranintl"
+  },
+  "4cc1f6027615b3401e8151a4f577b85d": {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16dy16c2NKd01KTHhfXzlrOWZyN2xnOE5YYXNKZEQ5S04xdEVCd3ZNN2VxSmJ3elE5MWtGVGMyZjFvd0lpNG1HTkF6Y1duUjlBTWNrcHNBQ1BldkZQTHVJ?oc=5",
+    "timestamp": "2026-07-20T03:13:36+00:00",
+    "source": "fars"
   },
   "4d3966c437beec7dc1a2333a17b2c1a3": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KaTVQWDNuZ210bVVYNlgyM3FLOWxsZEpSQWN4akZfVktXaWFHN0JmTFA5WE1VQWRhSWY5STZWRVJrT3l4R3JPVXpwMjVuN1BSa2c?oc=5",
@@ -313,6 +358,11 @@
     "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
     "timestamp": "2026-07-19T19:37:41+00:00",
     "source": "nyt"
+  },
+  "2ed5347cc2558eadf40803729fd4f2df": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XOEtPSFRJRUpweWkyMGlqRENWME1OaVp0WVlVRUxpQUdIMUl1aUowUlJ4aDllSWYzaHBwZkpRdFhpR3JWUklsRUh3SnNsMmQwcnc?oc=5",
+    "timestamp": "2026-07-19T19:15:52+00:00",
+    "source": "iranintl"
   },
   "c4d4a769154e18734c30476cf33e8cb8": {
     "url": "https://www.france24.com/en/israel-says-iran-missile-towards-jordan-s-aqaba-intercepted",
@@ -2448,55 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWZReE9FcDlsUGt6NVY4cGU2QzRvVUdMSjlkTEd4dXgzWVF2ZnhLRDFjMmZjdzlZSkVfODYxRjdpdERhc2N2TTZDal9rUnZzZ1d1Ulp2eFVLTzhPc29Ja0xuMUVpYnB2VGxFbTVXVk5scjVaOV9CcVZsbTgtMnhNVnlZNVZrS1JaNTNybFkyQ3N1ZXNkUTViVjJKRDRNaGs3QjlwQWhBblMwTDlZd2hVZ3hBMXVHUQ?oc=5",
     "timestamp": "2026-07-15T16:50:05+00:00",
     "source": "reuters"
-  },
-  "0e25c298933d134fdd5b7a7f3e8e7317": {
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yQ09aUlVlZDBUcGk2NkZTQW1HS0pvZmN6WlM4Z2FDb3VGdGo1X0dkUDVhMmtyT1U2Tmd1OTF6WWY5V0ROT2NndDRHcGRtZXFaQ0RoSm9CZ2V1UHZNNi1V?oc=5",
-    "timestamp": "2026-07-15T16:45:50+00:00",
-    "source": "fars"
-  },
-  "925a148939faa7b26411a5697329520a": {
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yQ09aUlVlZDBUcGk2NkZTQW1HS0pvZmN6WlM4Z2FDb3VGdGo1X0dkUDVhMmtyT1U2Tmd1OTF6WWY5V0ROT2NndDRHcGRtZXFaQ0RoSm9CZ2V1UHZNNi1V?oc=5",
-    "timestamp": "2026-07-15T16:45:50+00:00",
-    "source": "fars"
-  },
-  "3bbce7a5368923e2986b408b35acc1ff": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0ZjN3ZmUVdvbVVLMXFrejJubVRQczZPdVF0QkVwQ3B4SkdNWERtQU5Na0NFWGdrZ0pjU0w1MC05SjhpOHRRVDRZY2lDQkFnRERXWGR6QmlIcV9LaDBQcFdhTThxejdyUDFVbDNBZVlfR0I1Vmg1U19HWERQbnBqUFJJSmpoM2w5VDNacHA4RWZSalpUQ0xwTEpKazJMeGM?oc=5",
-    "timestamp": "2026-07-15T16:45:00+00:00",
-    "source": "ap"
-  },
-  "70d5c12cc4c811302c8564b91b9c9c41": {
-    "url": "https://www.france24.com/en/video/20260715-%F0%9F%87%A6%F0%9F%87%B2%F0%9F%87%B7%F0%9F%87%BAarmenia-russia-armenian-apricots-caught-in-a-geopolitical-battle",
-    "timestamp": "2026-07-15T16:42:31+00:00",
-    "source": "afp"
-  },
-  "713913f2b67e0035dbd997ef289c9b47": {
-    "url": "https://www.france24.com/en/video/20260715-us-iran-why-the-cycle-of-war-talks-repeat",
-    "timestamp": "2026-07-15T16:37:50+00:00",
-    "source": "afp"
-  },
-  "d2c54e389fb264ef191a76d79aceb4b7": {
-    "url": "https://www.france24.com/en/video/20260715-europe-national-elections-may-bring-very-different-coalition-of-the-willing-next-year",
-    "timestamp": "2026-07-15T16:30:42+00:00",
-    "source": "afp"
-  },
-  "34840f303095c1979c220e5f379b21b2": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoVUlkZzM3UzdpU2RHZEpZTGVkTVBKRlJvd1RESm0wY2FhczFPUW5vekcxNHg5aFNyajA4dFB0dnIwRVJyQmRGcHprclR5UTlaMVE?oc=5",
-    "timestamp": "2026-07-15T16:30:13+00:00",
-    "source": "iranintl"
-  },
-  "94ca3653c8db1b724120525edc42f55a": {
-    "url": "https://www.france24.com/en/middle-east/20260715-why-the-us-is-launching-naval-drones-at-iran-s-port-city-of-bandar-abbas",
-    "timestamp": "2026-07-15T16:24:28+00:00",
-    "source": "afp"
-  },
-  "b2828f624bdcf34ebac226ec0bc746e7": {
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObVhaRnhqR3JHYU5zVjhhZ0N0YUVQNWpXNzFCRG1jMkZ3VjdVM0RqZGNWVXVwSUhBdGJKSDRpc2E4ZHFPTlpjN094QWk0TkxWbm44eDIteG5JMXpBMnY3dW16N0ptd3hldHJOYmJuR0I5OVNpUlNRMm82TFFxeHd6R1VEaUJSQ3BONjZLLUpXWnN0TlhTWUthUlA0cFZNV2xLWjc1OEJvckdldWFsdzRhbmVJaVdtd0MxOFVZSGlnSFljSjRUVWc?oc=5",
-    "timestamp": "2026-07-15T16:19:25+00:00",
-    "source": "reuters"
-  },
-  "ce15be7d8ba3141491e61d82999de52c": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VQlFRQXlWdDhJSHRQUk5tVWxSbldVWjREajlYTWw4UEh3US1kUE9JNFZ6TTY4SzBfR0tMUmFFcnMzUzVZWndnZEJ3cnhBRVJrUnc?oc=5",
-    "timestamp": "2026-07-15T15:55:36+00:00",
-    "source": "iranintl"
   }
 }
