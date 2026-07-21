@@ -1,7 +1,52 @@
 {
+  "38b99d2e849952c8ba5b9ad166059f50": {
+    "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html",
+    "timestamp": "2026-07-21T19:43:53+00:00",
+    "source": "nyt"
+  },
+  "300caf820f61662456fa05c53c62e5cd": {
+    "url": "https://www.france24.com/en/video/20260721-joseph-aoun-in-washington-bilal-saab-firmly-believes-this-meeting-couldn-t-have-gone-any-better",
+    "timestamp": "2026-07-21T19:15:32+00:00",
+    "source": "afp"
+  },
+  "243916d2be108e027ac914c1de01b6fe": {
+    "url": "https://www.nytimes.com/2026/07/21/world/middleeast/netanyahu-ad-gadi-eisenkot.html",
+    "timestamp": "2026-07-21T19:12:29+00:00",
+    "source": "nyt"
+  },
+  "8203f577eee3787a8ef492147137eb2e": {
+    "url": "https://www.france24.com/en/zelensky-faces-deepening-political-crisis-as-protests-dig-in",
+    "timestamp": "2026-07-21T18:38:29+00:00",
+    "source": "afp"
+  },
+  "5ab879baac1bc9db527419078c937b6f": {
+    "url": "https://www.nytimes.com/2026/07/21/world/europe/france-social-media-ban.html",
+    "timestamp": "2026-07-21T18:29:17+00:00",
+    "source": "nyt"
+  },
+  "832ef86ed71b2d4e34b56d7f02bbce3c": {
+    "url": "https://www.nytimes.com/2026/07/21/world/africa/south-africa-immigration-protests-explainer.html",
+    "timestamp": "2026-07-21T18:00:05+00:00",
+    "source": "nyt"
+  },
+  "436d4bc5392167cd6bc6834e7c84de54": {
+    "url": "https://www.nytimes.com/2026/07/21/world/asia/india-protests-cockroach-janta-party.html",
+    "timestamp": "2026-07-21T17:24:25+00:00",
+    "source": "nyt"
+  },
   "1acacb0c6ec9b114272571a7d8da1a74": {
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX2FXSFJ5VkVzRDNwYWpDNkpPMG83X3AzWTE5WTJGV1hiNHNsVDZRUUk3dGRaMWMxT1VOUTdDMWJNUkNEMG9SeFMyRVdwU2tVQkxLaVRYa0pnSktYRnlhemV2dktaNXR1TWhwSjNZbWRKZzloci1lZW45SEZkT3BEYlpmcV9xX2NMa2dYRUd1eUYzalNiQklLT0dLdXR3Sy1TVXdBUWdaSktPMTg?oc=5",
     "timestamp": "2026-07-21T15:56:56+00:00",
+    "source": "reuters"
+  },
+  "4e8b158d801cb7e2e36bb43619b18b00": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBscng1Ujd2alR2QlRrNG5UbnRmYmxjV2ZBb3ZoOV8yTk42akRsWmNKUU91OUJucGU3aEVoQW1sRlVibGRVcVZzSUxDVm90dXhkYWc?oc=5",
+    "timestamp": "2026-07-21T15:28:57+00:00",
+    "source": "iranintl"
+  },
+  "09bdbe699b152347bb732fda87d68dc5": {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcXhkYVlqOER4dUtuSWxXUUFSbml2ckhCbF9uR1VMNnZlU1NLOThiSGNFR0FGZ2p3eXg2cFVoZm12YmRuS0s0ZmVEamdGM004aWdfcVg1bkNzSm1uSGxfNm1RUVJGZXdOUWlMUDFaSDRqSllmdktxSkp1ZFUwMUFjSXhkblo2b0FUQzVTY1BQaVFHWXc3QVE4Q0oxaWJnWHpFdFRjMVZSYlIwa2JlNkVmOUp1MlA4WE1KRFBJUk9VOUxVN3M4WkV2TkpFZEltVWRDczFlcWp1MmhSdw?oc=5",
+    "timestamp": "2026-07-21T15:27:40+00:00",
     "source": "reuters"
   },
   "79a83c0b86eea7075c4f8c461f9e0cfc": {
@@ -69,6 +114,11 @@
     "timestamp": "2026-07-21T13:44:39+00:00",
     "source": "fars"
   },
+  "d82be2d3cb8fa8ba9f7c97c1ac8c73aa": {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVHRNLW41Si1lMVFhLS1XRGQwZkxrcGZ2enh1cURzeXByS2xpSmtPT3dtRXNGYi11RGpyd3h5cDdqeXNlS0ZPSE05T0NSc0JCc1p4ak5HWkZ4dXJQLWxHUExqdVFkdHhUNWZPTjFBdnhyT2VaU0pGTFhyWjh3VDBZUXZIMDdObGdtSEc5LWQwVlFsLVFrUTFuR3B3?oc=5",
+    "timestamp": "2026-07-21T13:44:39+00:00",
+    "source": "fars"
+  },
   "2ca620576430f6569479f0db6098d7c1": {
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnBDb0xYSU15Zy1BZ2JBRnU4ZG5qTXFMRGtPWjZnVVZRc3hQbkozTEF2c2pydm53a3ZMV0RsQ0d3Nml0eWhSSEs2RmJoRlJMNkd5RGZ1V1lKdURJLUNoT3pCVEdHQ1RHb1BJVE1UY1ZWWWNaSzAyY0lmY0JzckZ4bTNyZ09RX1FKN3VtQzNPRmZGRjYwdVZhNmJRbVVkQ2pESzBSTHNrSTA4dWpDTEM4cXA4T1JvX2t3bXIyb3FFRVk?oc=5",
     "timestamp": "2026-07-21T13:41:27+00:00",
@@ -90,6 +140,11 @@
     "source": "afp"
   },
   "2c1cb1488f8704099ebc0b9270a522cc": {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UbjYyUEN3a0FsU2NRVnJVcDItYUItd3c3NGJhVWN3Q2d0cUM4UnpOa1F6OHk3Ri1oLTlzRmUyME9QTXJpRm9sUl8zNWR5dEdwRWtydHdpNFMzX3dFYUZ0cGZlMDhTYVpCdXRF?oc=5",
+    "timestamp": "2026-07-21T13:36:56+00:00",
+    "source": "fars"
+  },
+  "8e9da69775310336e806f8d3287ec5c8": {
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UbjYyUEN3a0FsU2NRVnJVcDItYUItd3c3NGJhVWN3Q2d0cUM4UnpOa1F6OHk3Ri1oLTlzRmUyME9QTXJpRm9sUl8zNWR5dEdwRWtydHdpNFMzX3dFYUZ0cGZlMDhTYVpCdXRF?oc=5",
     "timestamp": "2026-07-21T13:36:56+00:00",
     "source": "fars"
@@ -149,6 +204,11 @@
     "timestamp": "2026-07-21T10:59:10+00:00",
     "source": "iranintl"
   },
+  "e4a0e07a329beaabaefaa20955117517": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IaWUwSGxNbXBIcURYQVA3T2JrZldWQk5BVzhTLUFFMFNDM04zUktEUkxSWHpSLWo2ZzZjYW13cGpTYWowZWI5MDVESHRFQ25GNWc?oc=5",
+    "timestamp": "2026-07-21T10:59:10+00:00",
+    "source": "iranintl"
+  },
   "7c4ad01d63452164f31f29115989f990": {
     "url": "https://www.france24.com/en/video/20260721-what-to-know-about-the-west-african-economic-summit-seeking-regional-reform",
     "timestamp": "2026-07-21T10:55:54+00:00",
@@ -159,10 +219,20 @@
     "timestamp": "2026-07-21T10:55:35+00:00",
     "source": "fars"
   },
+  "c20a0115412a1089f66ebbb68c65f383": {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRnZBUHQzelB5WVRZbW81cjdqd09sTk9NRmVfN2lTZklZMVZQUGo5YXVucWNIQ0JveWdEXzl2dDEtcWJDNTVZV0NqQjFwbEh5SHRpcGR3UkRXaXRVRmtNTGJDQ3cyZjYyNU5DSlFWN255eWRjMGRxLTJ5T3pkQ0hZdEZFMy1UY0dBNXJ2VHF2R2RjTVhxYWlyWXo1RjV6X0Z3bFRJVk1aN0oteTdhcHln?oc=5",
+    "timestamp": "2026-07-21T10:51:18+00:00",
+    "source": "fars"
+  },
   "16dbc79916bce4201871814aeb8ceaa7": {
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0Jlc0k2UzBpUjR0R3ZWd2NKVzZVM2F6azd0VWk0WlYySWhpTU8zc2V2NTVWc3hWRzBYSUk2LXNTSzhoUnF1VUotZ1FhdTlMVE53TmtEUllYSThLU3hSU3hIRGRxZHFoaFZXM2VReGdxNGVVcGVOYXh4NTcwdHBpWkZqLWtCTHhOdjFIbWhJcExkcUo3amxFa0x3N3VadTVqbXh2LUxQYXV1Y05IM0N4QlVlUjNmWHM?oc=5",
     "timestamp": "2026-07-21T10:16:25+00:00",
     "source": "reuters"
+  },
+  "270a3f971e4688b07acc7ddb3add0256": {
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa1FKT2g2c1pBc0RmQVYzVXVzX0NsZUoxR3NlY0F5R1BiMTduQmVtTkNyYjk3cWdTTFNHcjZZMVdrRkZaNldQcHI4UkdzdkU5QmtiWi1tWWV4RWtXRlpydGFfRGpRT0JPTG1XZWJWN0xCNDFzaDlsTk9sN0tORzNMN0RsVkFiWnlXWGVVNFF3aEdNdk0tSWd1TmdnUWNHUFFwdlpvd1k2b0lpekNyOW5xSGtQSWpOWU5sd3pmUW1rLXMxeDI1em5GUEdXODBQVHpDbHBWOXYxSUc1WW5rT3c?oc=5",
+    "timestamp": "2026-07-21T10:04:31+00:00",
+    "source": "fars"
   },
   "3e55b27a2c25f911c938083fb36857a0": {
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUDZOb0lyeDNtSHo4bVQ4MlJ3RnhPUUR2WmxYT2xqaWRVNFFVNkNUdHBNUUIxWm5kZGpVaVc0SFZicnBmN1F0RWI3RXpqNUpCbjQ3RHhPZEJkTmlaeGI3YXp3MUlSSXN2RGdBZ3dfekVaQzQxbFJzeHhuNU9veGtKMzdidFZ1N2QwbFE3Z3B1VmxoY1VuTUFtU3Rfa09XMlRMWl9B?oc=5",
@@ -184,12 +254,22 @@
     "timestamp": "2026-07-21T09:38:14+00:00",
     "source": "nyt"
   },
+  "229e8ec1502070032fb264517210f394": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Eanh0aGtoeU9OaUN0ZnlHaEtDWnN5aEJoNnQ5bmdSLXNOdW14bGhYRmJuM0VpLTRmY0ZHQ2pLSTVaelhGd2JxVHdGLWJMVzZHQWc?oc=5",
+    "timestamp": "2026-07-21T09:37:37+00:00",
+    "source": "iranintl"
+  },
   "052d977f46dda3393684efabec0a2721": {
     "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-zelensky-protests.html",
     "timestamp": "2026-07-21T09:28:09+00:00",
     "source": "nyt"
   },
   "2d93a279727ab89c99e1765f228572bc": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5UFMtSmFtbUxjYjBjTXRhU3hpR3dJd0xVYjRMeWRtNnZMc0o0MTlLdFl2ZmtYOG5zZWx0eGFrclNmV1owUGVJNVV0cl8tZlhfc1E?oc=5",
+    "timestamp": "2026-07-21T09:10:00+00:00",
+    "source": "iranintl"
+  },
+  "db85204f2c97c44a09a00a197a6b09ef": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5UFMtSmFtbUxjYjBjTXRhU3hpR3dJd0xVYjRMeWRtNnZMc0o0MTlLdFl2ZmtYOG5zZWx0eGFrclNmV1owUGVJNVV0cl8tZlhfc1E?oc=5",
     "timestamp": "2026-07-21T09:10:00+00:00",
     "source": "iranintl"
@@ -225,6 +305,11 @@
     "source": "fars"
   },
   "d948c23e9f279514ed63bb4b9b1380b9": {
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT3VVUWRJa25fWURDZnFJdTh5dzM3akRfbzJZRk14b05NQjdCWHpIcUVWN01vNlhnTjFKNWd4SzI2ZGRxQUwxZTBhbUVyWDg1NDlKYnZaamZfSmxfUjdGLWVvbHRiNlVGdmc4OXV3a2U2Q0VIMWduelZyT3FGRUJfSEVHQ3ZacFA1YWtrd1h0TFc5Q3FPdWJsdFZUNjFLaldHaVdGak5iUmpaQXBzMzF3ME9oVXoya1p1UUJBMHRzM3UxY0k4c1VpZU9SMms1ZjB4X3NnYkkzUQ?oc=5",
+    "timestamp": "2026-07-21T06:46:19+00:00",
+    "source": "fars"
+  },
+  "92c850e8b666a11449e1690f95b731ef": {
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT3VVUWRJa25fWURDZnFJdTh5dzM3akRfbzJZRk14b05NQjdCWHpIcUVWN01vNlhnTjFKNWd4SzI2ZGRxQUwxZTBhbUVyWDg1NDlKYnZaamZfSmxfUjdGLWVvbHRiNlVGdmc4OXV3a2U2Q0VIMWduelZyT3FGRUJfSEVHQ3ZacFA1YWtrd1h0TFc5Q3FPdWJsdFZUNjFLaldHaVdGak5iUmpaQXBzMzF3ME9oVXoya1p1UUJBMHRzM3UxY0k4c1VpZU9SMms1ZjB4X3NnYkkzUQ?oc=5",
     "timestamp": "2026-07-21T06:46:19+00:00",
     "source": "fars"
@@ -2413,90 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OTlgxOVZqRGYxVVV1cnpQVVhNUTJkeGNPdHdETU1Pb2YwSlF5N3dnYk5IdXNLLWR5OWt6VHlCam9zUjNrUWpsMk10dnBYN0ktX0E?oc=5",
     "timestamp": "2026-07-16T20:15:25+00:00",
     "source": "iranintl"
-  },
-  "0a37c6f1100d39196518bb863c130e1a": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OTlgxOVZqRGYxVVV1cnpQVVhNUTJkeGNPdHdETU1Pb2YwSlF5N3dnYk5IdXNLLWR5OWt6VHlCam9zUjNrUWpsMk10dnBYN0ktX0E?oc=5",
-    "timestamp": "2026-07-16T20:15:25+00:00",
-    "source": "iranintl"
-  },
-  "5a406fb25b48108377ebab337134cce0": {
-    "url": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
-    "timestamp": "2026-07-16T20:13:34+00:00",
-    "source": "nyt"
-  },
-  "ba82280fee5e8ff2b67fe1d103e88db1": {
-    "url": "https://www.france24.com/en/zelensky-s-dismissal-of-ukraine-s-defence-chief-sparks-political-crisis",
-    "timestamp": "2026-07-16T20:08:01+00:00",
-    "source": "afp"
-  },
-  "b9706d5e2e5f84d6b1bfe92dedb26dee": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aTTY0aGh3ZTEyVkJRajBXMEFySDhkWW9uNGRRbW1fNzUwc2dhZzB3MkVmTnlMUTgzQkVxelhQeVd2MVhvMUk4UGQ3SHl5aXp0cFE?oc=5",
-    "timestamp": "2026-07-16T19:55:52+00:00",
-    "source": "iranintl"
-  },
-  "51b951a1dff3ca668f496c9f679b0061": {
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWlZamEwLUk2TEgxem1Yel9nd2lFVVdHTXZUd09XbmlOQzVFckVzNlByc2xhaEZJNEpTMTJiVEtCb0lLc0taSWtrdjQ3VHNubEFXRE1jZHNrSUhCTEw2WXgtaEZLTHRpQVBJZXVsU3g3bWNIZmFvdnBDLVpIN20wMmQ1a1dDWWo0SHpvQmdkV2dsRkRORE5xWlExMlVxS0hlTVpybDVqTHpDRkZxXzZZQXNZTm9BMTBSVnhoN1lKX1RmZEV5?oc=5",
-    "timestamp": "2026-07-16T19:54:53+00:00",
-    "source": "reuters"
-  },
-  "4392518871dc42c5d735b51632045c46": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGbkxjQjVhMlBCdTJpdUQzTmxYaG1OS0I5RFZ0VG9MRno1cDYtMjVYemtrY0ltVEpmQUpVMVVzNHFmUUJTT2ljMjZuQTRjTDJtM0E?oc=5",
-    "timestamp": "2026-07-16T19:50:18+00:00",
-    "source": "iranintl"
-  },
-  "1e8a260409ffea6ffc90dd7cffe3dea5": {
-    "url": "https://www.france24.com/en/bitter-row-splits-ukraine-s-military-leadership-after-defence-minister-ousted",
-    "timestamp": "2026-07-16T19:32:27+00:00",
-    "source": "afp"
-  },
-  "3a4c3ffac47a0839aa34146a47a67740": {
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYW1SRVdSN09Ld296TUtRNjA3UGVjVGRFenVuOEQweFRZNjM0NUNkSktZY21KNEhhQllpMFd1cUtDeUVKclh1WmhtaV9IQWRUcThMZnRFRFVrNzJRSk5oR2VUXzlUWktfXzU0anQ3V0QwVEVTNlZibmlULVRiZFItcGFzNXVTLWx2SWw1ZERJa2V3cXZkbzFkRXo0LXJ4Zm1aY29RY200d2M3b0tOaU9NSFVabFdCRndISjZlbFB5UG9HcDdnRGN4bUlWQUI?oc=5",
-    "timestamp": "2026-07-16T19:22:22+00:00",
-    "source": "reuters"
-  },
-  "4e37dbcc8375e1fa16fe1c9381791b56": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhS2lOSzllYTFMYjRUWEZnYW41TTNZZ2RiYWpLQTFfWkRZcW13ZkM3NFpTMHdCU3EwN3ZsY0RnVUxzVDY5V0tfUFVDU080ZG1HZEE?oc=5",
-    "timestamp": "2026-07-16T19:19:06+00:00",
-    "source": "iranintl"
-  },
-  "d6a58ca0381db31895d0d5a93d16c88d": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTy11Vzl3aTlubnRhU21NMktfakVDc3FlRmVVSWc5ZlRhTldhR3hJSnA1TVRoQzFZOThUV3N5cjN6RzRrdmNOZktOU0ZJdURYVi0wcmpoYnJac0ZrZVE?oc=5",
-    "timestamp": "2026-07-16T19:07:49+00:00",
-    "source": "fars"
-  },
-  "82662d951f21ab921464c5071b288c09": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXFnZWtOU1NXb01HY2FxbTBsUmJqNDlaa3NORmpyZ0pYVzhSVFZkaUNYTjczY0E1YjhpR1F1OGRoT3dJNnVTMjVuUGJyamVCckJwMi1WY0hJR2NyVGQ0ZDdzbF9LMzgteGZDRGtMd0ZQV211YWF3cHpYLWdhTXZjTXVhTG1zRkRmR3Q1NVdQRWNEb2xhZU0zRTFodmM4ZXc?oc=5",
-    "timestamp": "2026-07-16T18:37:00+00:00",
-    "source": "ap"
-  },
-  "1fe9c9dee0ce616e70925c929523c9f7": {
-    "url": "https://www.nytimes.com/2026/07/16/world/middleeast/israel-divisive-new-laws.html",
-    "timestamp": "2026-07-16T18:20:21+00:00",
-    "source": "nyt"
-  },
-  "a0f353cbd98f8cdbd1479057523f4f4f": {
-    "url": "https://www.france24.com/en/europe/20260716-how-rivalry-with-top-general-syrsky-brought-down-ukraine-popular-defence-minister-fedorov",
-    "timestamp": "2026-07-16T18:12:37+00:00",
-    "source": "afp"
-  },
-  "7b3f3d7720730da0ed99173a5d42f274": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzdkZfN2I1MURMVUhReUd2Z21remVVSUo2RTlPSEt1dmFPTVlXal9Kcks2WC13c2ZZc3RhSXN5b3Z2TVcxSUgySTFjeWpMTkNwNFE?oc=5",
-    "timestamp": "2026-07-16T17:48:01+00:00",
-    "source": "iranintl"
-  },
-  "ec62d57346af66d9c393d9c5ad9d7fa7": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NTGpDNW1fcTJrdjJCUmt4bjhINUY3NXR3U09icXVkY0NhRWRMYTQ4TWZxOG9jWFBoMzVXbFN0R0xycTFEVGF1THRHTzZaV3FZWUE?oc=5",
-    "timestamp": "2026-07-16T17:26:10+00:00",
-    "source": "iranintl"
-  },
-  "e258e76f5eb084566330947fca866a9a": {
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnYzOW5nRHgwakl3NXZGMXVna2ZFN21CaTM1LVpqNDQ4Q3NhSVBzMnZBX3AybWtfN3NmUWFZU0R4SFA0ek8wSDZTWTI1akhCV2dnNWxTb0plVkZ2RnhSRmFFNkVuSG9GOXhzWHhCcEdLRzhrRlUtcUlScFlLenRVQmtGSE9rVm9CdEpKdy1DamVvU2JHU2NIRV9OMnJWSGR0NENIeDFaNkVpeGlVNUJTRGs1RQ?oc=5",
-    "timestamp": "2026-07-16T17:01:00+00:00",
-    "source": "ap"
-  },
-  "d8014db704e9d4b4e918b24569375052": {
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlWTBMZDZQaWZfVFVzeEg2WDV1V2J6UGFLNTRhclFPYzd5X0dnZ3lOdlJ1SndoZWVUUmNtRThIVWhiZjAzbHZ6em5VRlp6Ukdwd2FqMU8ybDVZSDIxOFNrOWd4bw?oc=5",
-    "timestamp": "2026-07-16T16:22:05+00:00",
-    "source": "fars"
   }
 }
