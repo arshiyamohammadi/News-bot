@@ -1,4 +1,29 @@
 {
+  "c053d319b0f5aec6067bd7f697bc850a": {
+    "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html",
+    "timestamp": "2026-07-21T20:50:31+00:00",
+    "source": "nyt"
+  },
+  "eb03950451d73848bbc9a16071f7e91f": {
+    "url": "https://www.france24.com/en/zelensky-fires-army-chief-oleksandr-syrsky-a-victory-for-protestors",
+    "timestamp": "2026-07-21T20:22:25+00:00",
+    "source": "afp"
+  },
+  "72d18131457043f84b8655dd2185743d": {
+    "url": "https://www.france24.com/en/senegal-u-turns-to-back-ex-president-sall-to-lead-un",
+    "timestamp": "2026-07-21T20:16:19+00:00",
+    "source": "afp"
+  },
+  "72fb8f8e81783df00631f9c94c0e457b": {
+    "url": "https://www.france24.com/en/ukraine-s-zelensky-fires-military-chief-after-protests-and-names-a-replacement",
+    "timestamp": "2026-07-21T20:12:45+00:00",
+    "source": "afp"
+  },
+  "20db4670e3082e9a91dcdde0b563c09a": {
+    "url": "https://www.france24.com/en/europe/20260721-zelensky-fires-ukraine-army-chief-oleksandr-syrsky",
+    "timestamp": "2026-07-21T19:59:36+00:00",
+    "source": "afp"
+  },
   "38b99d2e849952c8ba5b9ad166059f50": {
     "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html",
     "timestamp": "2026-07-21T19:43:53+00:00",
@@ -13,6 +38,11 @@
     "url": "https://www.nytimes.com/2026/07/21/world/middleeast/netanyahu-ad-gadi-eisenkot.html",
     "timestamp": "2026-07-21T19:12:29+00:00",
     "source": "nyt"
+  },
+  "7803826a5b122b535fd016d6c98692cd": {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2RkRvaExvSmJOaXJjUGY4VUJGRHI0U2MyTmZyWnVSdWJ1Mk93V1YzaC00RWw1NjU2WW84OUhYVEZrZWVPXzBHdGNYc3hVX3Z5V3J1aXdtUWtPMTBiUF91WHlBUlppcDV4RGc5R21qTXJjci1l?oc=5",
+    "timestamp": "2026-07-21T18:49:41+00:00",
+    "source": "radiofarda"
   },
   "8203f577eee3787a8ef492147137eb2e": {
     "url": "https://www.france24.com/en/zelensky-faces-deepening-political-crisis-as-protests-dig-in",
@@ -293,6 +323,11 @@
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnZCTEdpTzdNc3hPTDRkMTIzYUlFcTdVSXJDR0FFM2x3SlZfZko1VkVfUVV2RFpfd0pLUWpwQVBCZXpJSzNTekgyMTNnOUVGUkhhOWpwTjVwS0owQm9ZbnRra0hyUWZiekxpSjk4TTlhUzhGOHJnazRHM1JKQ3Nvc0FFN0R3MGY2VnBydTBmYkNHV1AzT3ptZTlLRjBOLXY5Y2c?oc=5",
     "timestamp": "2026-07-21T08:05:44+00:00",
     "source": "reuters"
+  },
+  "44c28ce37fa2bb2b0a76a3ee9fb478a1": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43RTk0WkkxbGdxTGFFY3hGdkI3blVWckozdk5paThOaW9XUldBV25OQzhyYnJ6YkV1cXZacFNoZTliZTk0NFp1a28wMFo2cnNmNHc?oc=5",
+    "timestamp": "2026-07-21T07:16:31+00:00",
+    "source": "iranintl"
   },
   "c661ffbcbfe0f6f7c30a85288461220d": {
     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVGlmQjl1NUE4RHdDQUw5Rnc2czdqYk5JVGJJYkVOVXBWTU8wS0paTU1NV2dyMWI1MGM3dlNZQmMtTmw1WFl4ME9VcEgzeVpBSi1CRHgwWmNQRlozYUV0VG5uZVFSMDVBVWpyNjlOWndQNTJ2bXpKM2tzM2xWR1FEWjU2Z3dacFp2SEJIWHB3OWYzVTRyUEhfNm4yU3QxWUt2VEZHaVBucU43S1BnbG5uVUpONk9jUkM0X2lERHhzRVJXUnNBMWZ2dXl0dnBZdVJfOU1LY0tjMW1Dd2M0RjNyRnJR?oc=5",
@@ -668,11 +703,6 @@
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOUpiYzR0S093a3dWVVhybnpzbEtRcmw2Yy1MWHIzMEFEMWZKdWhhT1pNcFFxMHkxQU9oNzlUa1h6LTlpazUyWmxzbWFwaUU4SV9aNVJjM3Frd0tSQzlFbmFMU3I5Y0NMTFpGNmpuWnB2QnNZbHlkemlQT1ZTaGhPMndrNzF4dHFlbDZoeDZGV2k0YjdMUF95OU1lQXo2ZFdfb3o4enZkM0w0eW1uU1ZOOGt6OG1lbmp6OFNHZU5Yb25CR3hIOXU0RWNtbEI?oc=5",
     "timestamp": "2026-07-20T10:12:25+00:00",
     "source": "fars"
-  },
-  "7803826a5b122b535fd016d6c98692cd": {
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlTFEwQXdROUNGVzBUYU5DLWpWZFlxcDBMNWVxajFLV2xWZlhURGFGb25KckhybkxfYS0tbFpOR0RoazRRSENWQUxselJYWnAzbHAtQ1lXQlRKaWlO?oc=5",
-    "timestamp": "2026-07-20T10:05:37+00:00",
-    "source": "radiofarda"
   },
   "37745db0d8d22f2f1babb2877f3733f3": {
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JcXBva2ZpNFRqY0pveXVZVXBNVzZEYXkyMnVYM1U0ZWdBRWhHN2Y0akttbVdfUHM5ZzdDcU5zcEw0eXJETkFXZ0RGckhjS3hETE9KUm5heW5TNTlCMkdPM3Q3cw?oc=5",
@@ -2468,35 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWlZamEwLUk2TEgxem1Yel9nd2lFVVdHTXZUd09XbmlOQzVFckVzNlByc2xhaEZJNEpTMTJiVEtCb0lLc0taSWtrdjQ3VHNubEFXRE1jZHNrSUhCTEw2WXgtaEZLTHRpQVBJZXVsU3g3bWNIZmFvdnBDLVpIN20wMmQ1a1dDWWo0SHpvQmdkV2dsRkRORE5xWlExMlVxS0hlTVpybDVqTHpDRkZxXzZZQXNZTm9BMTBSVnhoN1lKX1RmZEV5?oc=5",
     "timestamp": "2026-07-16T21:17:45+00:00",
     "source": "reuters"
-  },
-  "9008238de63a7b15876d637ad9c9491b": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RaWNEMl9TWWwwV2tpT0NicVZCNWFUYUhyVnJPbk5hLUphaFQ5eFhLN0ItSjJ1eVA2cWJyY3IxREtTbDUyczBuVWE4ZkNNV3lyb3c?oc=5",
-    "timestamp": "2026-07-16T21:09:46+00:00",
-    "source": "iranintl"
-  },
-  "f5c3c16ad64c3b8cb6148af5ed3d123d": {
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSHgwT2dpVVRnaHkyYU1vM2RzMDVqSTdQNFpNZ3puazhoV3pBN2ExaU9hZzgxLXFKcGM1M0d6dlpUQ0djMjVPbUJUc1ZWNmZGbHpOZnhBTWQ3RlhaTEw3akhydUFyOVBWTkE2bWl4R3QtTGctdFNHUncwenBEMFNTbV9icDkzVDFtZ0Z2ampybDZmcHk4UmdsZDZpSXhKNXlJMkJZT01nckZIQUk?oc=5",
-    "timestamp": "2026-07-16T20:49:43+00:00",
-    "source": "reuters"
-  },
-  "620fddea3fbf192ea34c2a6753abc5bf": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JSUI5bE04ajhMenhxSWZwOThTQ0gyc19RRHY0OENOYndEdGFxdEhmRFE5OWFXbVd3c1NEMmhKTE1ac1dFd2RIOFZYSEhKYlkxTEE?oc=5",
-    "timestamp": "2026-07-16T20:43:13+00:00",
-    "source": "iranintl"
-  },
-  "b566d4c350ed72abd595c0e0aa0191c3": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YY3djWFZvOFNYWnhmdVRTeU1nU0hNN1ZpcTc5U2VIai1GTjZ5UXZrQUtuQWY3MlIyOTlIa2syYXhYX19rdDBFTWxxQlBkdTBZalE?oc=5",
-    "timestamp": "2026-07-16T20:35:38+00:00",
-    "source": "iranintl"
-  },
-  "13606acf8cca97fc71131933ef25df8e": {
-    "url": "https://www.france24.com/en/us-defense-secretary-pete-hegseth-announces-testosterone-screening-for-us-troops",
-    "timestamp": "2026-07-16T20:24:37+00:00",
-    "source": "afp"
-  },
-  "7ae78e896876a0eb1d9b1e34ea2ef9a1": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OTlgxOVZqRGYxVVV1cnpQVVhNUTJkeGNPdHdETU1Pb2YwSlF5N3dnYk5IdXNLLWR5OWt6VHlCam9zUjNrUWpsMk10dnBYN0ktX0E?oc=5",
-    "timestamp": "2026-07-16T20:15:25+00:00",
-    "source": "iranintl"
   }
 }
