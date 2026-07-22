@@ -1,4 +1,39 @@
 {
+  "9bdb18965db8a8c20e2412e892d98eb7": {
+    "url": "https://www.france24.com/en/video/20260722-cockroach-janta-party-takes-india-by-storm",
+    "timestamp": "2026-07-22T16:03:25+00:00",
+    "source": "afp"
+  },
+  "3efb7ffbc8c34f942e774f91ad205f8c": {
+    "url": "https://www.france24.com/en/video/20260722-france-s-d-day-landing-beaches-could-become-a-unesco-world-heritage-site-in-july",
+    "timestamp": "2026-07-22T15:59:48+00:00",
+    "source": "afp"
+  },
+  "798474bbb8565910bb1c5ae6c56ca55c": {
+    "url": "https://www.france24.com/en/gaza-mamdani-urges-government-to-arrest-netanyahu-if-he-visits-us",
+    "timestamp": "2026-07-22T15:47:40+00:00",
+    "source": "afp"
+  },
+  "37cc4516a507a5c5ce808c23b02c6658": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WaDdtTGlBZmN0Y1FoRkllMENSazBPaVZNdVV5ZnBfX2Y1SEpxSEZqdjlPQTViUjBYVTNoZ0tjV0V4MU05bTRTOWR3cWtrcG80TEE?oc=5",
+    "timestamp": "2026-07-22T15:37:18+00:00",
+    "source": "iranintl"
+  },
+  "b0cee7f5c690a14bd4543f35d063e0c8": {
+    "url": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html",
+    "timestamp": "2026-07-22T14:50:07+00:00",
+    "source": "nyt"
+  },
+  "89a397f226b1950512168e88e4ee2cc2": {
+    "url": "https://www.nytimes.com/2026/07/22/world/middleeast/saudi-nuclear-deal-israel.html",
+    "timestamp": "2026-07-22T14:34:38+00:00",
+    "source": "nyt"
+  },
+  "f454155deeb4e637fd289959563e7e4a": {
+    "url": "https://www.france24.com/en/france-macron-refuses-environment-minister-s-resignation-over-pesticide-law",
+    "timestamp": "2026-07-22T14:31:13+00:00",
+    "source": "afp"
+  },
   "5033b85c0b31d674a40351f0535e031a": {
     "url": "https://www.france24.com/en/middle-east/20260722-us-announce-landmark-deal-allowing-saudis-enrich-nuclear-fuel-reports-say",
     "timestamp": "2026-07-22T14:11:16+00:00",
@@ -19,10 +54,20 @@
     "timestamp": "2026-07-22T14:01:59+00:00",
     "source": "afp"
   },
+  "0aa950f7a642c64d1f0e7c1ec25af560": {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkxVRHNEai1jeXMzeVdPZVZqZmJvUjBqdTY5ZVZyWEp5bC0yWFJTWldhSlhlbFhoRmEwcFBnNkk0UWdDdHZMWFRXMk5acElxZEFSQ0otZzFQRElSMXdER1NlT0ptZUxVbTRPT3dFM25rOGtsb08yLUdXRll4SkhUZk9QejZ2RWZrb1hLcmhBYktXeEhrTTZIR3FTSTN6RUk?oc=5",
+    "timestamp": "2026-07-22T14:00:00+00:00",
+    "source": "ap"
+  },
   "8fa4d55d363e5301913b8ff50d0c0cb8": {
     "url": "https://www.france24.com/en/india-youth-led-cockroach-protests-increase-pressure-on-modi-s-government",
     "timestamp": "2026-07-22T13:58:01+00:00",
     "source": "afp"
+  },
+  "a2009464602d55a4a1715c80f452832d": {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWlVdEVsdmI1TDRsamNjMzc3R1BFcERycV9lQVpZd0E3U08ya044Ql94TEJFMTI0eUIzUkstWU1ucmJhZWZ6bkZCUFlmb1NLVnRxT0M4U0FJN3gtNjhZWjhLSXVDcDVOTGpjNWdSYllSNlVyRWoxejJ5U2oyVnhRYVc4Z2JueDVudDRvYnZGMV9EcnJJakFFZDVlOVd0TG1BOWJoS1FRLWl4QmNQbVROZjZadkJjMEk?oc=5",
+    "timestamp": "2026-07-22T13:40:09+00:00",
+    "source": "reuters"
   },
   "824c5242a6f1fe07ce9b6d1eb6fe1519": {
     "url": "https://www.france24.com/en/donald-trump-to-announce-us-saudi-nuclear-deal-to-allow-fuel-enrichment",
@@ -53,6 +98,11 @@
     "url": "https://www.nytimes.com/2026/07/22/world/europe/germany-rearmament-innovation-reinvention-arms.html",
     "timestamp": "2026-07-22T12:28:38+00:00",
     "source": "nyt"
+  },
+  "dd592ca42070e54554a661a898bf16c3": {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa0xuVWVvNnhxc3RjTlNIMV9oenlKWGtrLXFic0Z6UVBZMHhXZk1fdkNXZHBubExVYUJPUDV2Y2FYcUR1SFZIbFM2YWRlS25LZHdRVS1Mc1RzWGhXQ0g3OF82b0lvckctLXBYX2ctQko0elFEQ1gteTdxRTUwNXk3RExVM2VsSHJnSFBsYThDUi1saGxZYlpzUzhUMkRCajNwWXNvc3pMekVFb0dSMldDaGkyX1lidEJBTzctdTNqakxQdVNy?oc=5",
+    "timestamp": "2026-07-22T12:26:01+00:00",
+    "source": "reuters"
   },
   "77d3454a4934402a654a0778128b6dac": {
     "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
@@ -124,6 +174,11 @@
     "timestamp": "2026-07-22T08:59:19+00:00",
     "source": "fars"
   },
+  "76ab34fb45d659cda32a0a3a8b9e99e8": {
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYV9uSjRRalRBSGFINjJ5ckVLWEd6ZXF0aksxdXVnaUV5RjN3X3FJZi1ZRG8yVHJrbHE3VnVjQmUxaFFqdnh2UDBlbWxSY2VoSW5fUm9ERDdwMXhKbTVPMVcwc2NLRnUzQzFqdGpaNFN2VW91X1dsUDBnRjZWbndPTXhIWXNINVY4VExNdUJOdEtpMEdOVWMwRkZWV01TNl9VWXBlXzVZd2N5a053OTduS2ZRam4xeEtpQlFmRjJjdWpRYVAwZ1hqZVh2VDZMdXVsSmZoQlQzcVRKMXZ3RzhJOW13?oc=5",
+    "timestamp": "2026-07-22T08:30:36+00:00",
+    "source": "fars"
+  },
   "abebf38923194de5ac10657f85ef561e": {
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbUpFNUlEOWNyMHk4X1JHNkhHc09QSk1IVHFBb3E4YmY5b21ITjlsT0Via1Y1WFVNeTFZamZ4RWJLay1PSWsxVm5WVWtUZmFRZnNNVkthUWVFOWlUR2h2YVJyWkQwQkFJSTBxOWp1ZkpFYUt3R3Jvd016RFR3QzRZVDdQN00zbVhTbk9oLTBEdGQ4cTFLbU9IR2NobWRBYjUyTlZDWnotV0xJRDZwYzdZaFJRazd1Q3Z0a1MzNnhyc0xvTlk?oc=5",
     "timestamp": "2026-07-22T08:30:00+00:00",
@@ -143,6 +198,16 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZC16b2g2QThBbW9aNUdEYjY5aFVWdG04WEtZLWtpbUtOczVGWi1sb1FTZFlBaWtpNThaeXJfcGFqR2xfb3ZSRWw4T24xVTlWUWYyVXlmRlpHRzh5THNCWHk4SFM0TkR1Mm5kRExiXzJBQVhZWklVS0FJQUJDT3NsRUlXSWt5eFdRb1dRUHRMYW4tbHlKMWU2VENoUnAxUVZTWUJ4ME1SYnl1ZFJod0dqRmgyRQ?oc=5",
     "timestamp": "2026-07-22T08:20:01+00:00",
     "source": "fars"
+  },
+  "f688f06f6b8adfaba53fc1b8e72a3706": {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRl9wOFpFSzdpdTN6SzBucUhOY2thanV5QlJwenhLS09fRFVJQXhWenVvS2o4UTNQaVJydTFYWkkwZFJfMGp5ejk0WTFPSWdTYXNlT04zaUdEdVJaSjlGaHJjSFFLeHZjZFZELWFMXzc4S2VRZzhzZTN2eV82SnB6YnJpSHppVmI1VmdsMi1zSUtKWmpTdFZycHRiQWtSV0NNcTBvTTVNbDRYaU9IbnRFUlI2RHFlRTEzV2JYRU11cTlpNGpsMUFwSzM5SXZCSXBQSVE?oc=5",
+    "timestamp": "2026-07-22T08:20:01+00:00",
+    "source": "fars"
+  },
+  "3a6a4aa7c42cafef641a029069c86c53": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FRjBrWGZDaWYzb2tYZ3N5LVVDN01tdHNKSldiYmN3aG9YT2h3WG1yX3pQTnk5Ym9QLU0tZlpwNTRpSWV2V2NlM0FpcXoyLWNzV2c?oc=5",
+    "timestamp": "2026-07-22T07:55:08+00:00",
+    "source": "iranintl"
   },
   "0dc3bf3f724962d49652bce4dfe0d2ea": {
     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOcjllQ0J4NVoxczZzYlUtNnpKTUFjaTN3UEFsTnRTYlZsd3VoWEpmTUUyd2JJV1VpU1k5a0hHN1UzRU9ORXZMYkxBbWYwTXdBNDR3bEJVcERndHR6dmNOVmlSZ08tMlJiR2doQzBrNnNHQk5NSkY3bXh5MEhtdWNfenRpRnNFejNJZ0NaVThkNnBBQ0E3MXBlVVpUb01jUURTOTZCMFVPanJUOVVfNDJHQTFPQ1VWaTY5dEtxbFNRaWJyQXY3UUZMandfaWxYYkI1ZXpkYUJ5VEhwU01vREJ0RGtITmtMQV9Vb1B4VkZncnVyTUFLWkxyWTFVT215QWZGN25XTDd3elRJcHh1b2NHanlBNjhpU0pSaHpHdQ?oc=5",
@@ -168,6 +233,11 @@
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOHg4X05fdi0zdURXTmwzVExVbTU1d2lxY2VxSk05dFdMSVJpb3AxVldiakF3RE9FbHJiWjZqVlJFanN5OWdhZm1CeFdTYUR1SWpWdXAtdnpyX25OakdvbWRMMDlISnl1VWFxdFRiY0JiVWRlZmV6RDB3RVRUTlVPRUNfUk9OX0RlMFFJQ1U0bDhoZFdPNk1qeER4YzFaYTNadklFT2tHNmRraDVCRUhXUHNxTW5zVDBCVS1PdS1nVVd3N2RVU3c?oc=5",
     "timestamp": "2026-07-22T05:29:00+00:00",
     "source": "reuters"
+  },
+  "ccb44118a96673df825835eb26d0d2cf": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GdjljY19MYTNSUWJieDFYdXBHc3dtR1FSM2NvNGhFR0Nub3FVN0ROUGswcFRlN0lrTFpPVy12SUp6UlNGaFpFOEczN3AzQWtYM2c?oc=5",
+    "timestamp": "2026-07-22T05:20:09+00:00",
+    "source": "iranintl"
   },
   "496c7b7955623c7d7f130112b56118cb": {
     "url": "https://www.nytimes.com/2026/07/22/world/asia/iran-pakistan-karachi-trade-oil.html",
@@ -2427,76 +2497,6 @@
   "4afcf901c092160b50206258fce8c5d6": {
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVExlaTA3d0tQOTlrdTNudjNYUlluQXVPNFFFRl9zMkFhYVJNbFgyT2NtY2p5S3RtNEJuQ3dTMmlHMzBtRXJQdUMyLV9SUm1XTlNQaDg4QmUxdVBKUnpGVWs4YTNiTDh0UFltMnV2ejRuMFJPcHhmQUZSRG5xMGJTVkhpcm84V05ya3g4YnRtNmhnQlhYX1FwbzZvUG9mZ2thVkdmVHV6UGZzdk5oaXlKYzdDakZ6ODk5dWFv?oc=5",
     "timestamp": "2026-07-17T15:01:37+00:00",
-    "source": "reuters"
-  },
-  "3759ecad606528223271762db3809671": {
-    "url": "https://www.france24.com/en/europe/20260717-germany-join-french-military-nuclear-exercise-bid-boost-defence-cooperation",
-    "timestamp": "2026-07-17T14:51:58+00:00",
-    "source": "afp"
-  },
-  "3e5354bec573ec857d2ff473012ab698": {
-    "url": "https://www.france24.com/en/trump-targets-china-and-russia-with-baseless-claims-of-election-interference",
-    "timestamp": "2026-07-17T14:38:07+00:00",
-    "source": "afp"
-  },
-  "83f85484999ebc0610b72218804ba14c": {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOEM5V3Uwbng5aWRoRTNmeGVyUUpVbloyUktDSU9pOVhMSmgzaEI0UWQwZnhTYXpfOEtqUUhwQlNzVWJhUHRBY1RMVHNrSmxaRlJGdFdUd2FaOWY0XzFhb256blF3eVZ6NlJrWDhIZmhCbTdpNllIWDJRbFBGZXBwa29weUZJMW52UHNXRTJXWlE3eVVzSU9PSjFjN3J2cWtQbmtFMUF4TkFSYS1YS0MxTmpB?oc=5",
-    "timestamp": "2026-07-17T14:25:00+00:00",
-    "source": "ap"
-  },
-  "49d3b701b8078ecbdbc2b45c344b43b0": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5b0VjUlcwOXdJaThhaFk0czlsUUkxWF9RbFo4WW9abjNLTEdpMnFqSnJ1R19Id21jNnJKQXhNNUtiaExaM0pXXzVHVFhJWjNWeHc?oc=5",
-    "timestamp": "2026-07-17T14:19:08+00:00",
-    "source": "iranintl"
-  },
-  "03c4996b53ed0f0b4b56db9777919ef7": {
-    "url": "https://www.france24.com/en/tv-shows/the-51/20260717-new-approach-for-survivors-of-sexual-violence",
-    "timestamp": "2026-07-17T14:18:27+00:00",
-    "source": "afp"
-  },
-  "3514ca297776a6296337af0b663e3bd5": {
-    "url": "https://www.nytimes.com/live/2026/07/17/world/uk-burnham-starmer-labour",
-    "timestamp": "2026-07-17T13:53:09+00:00",
-    "source": "nyt"
-  },
-  "3feca45ebe8aa9e9b64fd5ed335db923": {
-    "url": "https://www.france24.com/en/tv-shows/spotlight/20260717-europe-bought-gas-oil-from-russia-venice-mayor-sees-contradiction-in-biennale-funding-freeze",
-    "timestamp": "2026-07-17T13:49:02+00:00",
-    "source": "afp"
-  },
-  "07873e3cd57ced40d6b8c135db5d87a3": {
-    "url": "https://www.france24.com/en/what-challenges-await-the-uk-s-incoming-prime-minister-andy-burnham",
-    "timestamp": "2026-07-17T13:34:19+00:00",
-    "source": "afp"
-  },
-  "94b5bb1aba813a73452fb05a89fce498": {
-    "url": "https://www.france24.com/en/tv-shows/arts24/20260717-bts-storms-paris-k-pop-phenomenon-plays-stade-de-france",
-    "timestamp": "2026-07-17T13:33:51+00:00",
-    "source": "afp"
-  },
-  "ea9a1bba12920b7c164a72a3add2dffd": {
-    "url": "https://www.france24.com/en/tv-shows/spotlight/20260717-ukrainians-disillusioned-outraged-zelensky-reshuffled-entire-govt-to-dismiss-defence-minister",
-    "timestamp": "2026-07-17T13:25:54+00:00",
-    "source": "afp"
-  },
-  "51c01b20eee316568ba12cd654c7493b": {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcTdva3VJQmgwbDRiYTMwV1BqZkZkWUxIcTZFXzQybDF4X1VpWnRxTXBGTEVuN1E0MERkVHotNk1vNWtxY0lYZURnVEZTcHNMZXI3V0gwdVZkYU1sRjJKakl5NTZ6bExhd2NtbGdZenZrRDQyZS1kemhnRHc5SGhlSlF1ZEF5LWhYZ3c0Y1BEUmNOWm1FOFVxNERJMEhiT2k5dkpQMDRhOGE?oc=5",
-    "timestamp": "2026-07-17T13:13:43+00:00",
-    "source": "reuters"
-  },
-  "c1899f6203bdb3c5fad424b174b45b07": {
-    "url": "https://www.france24.com/en/whether-you-re-labour-or-not-andy-burnham-embodies-the-uk-s-hope-for-political-stability",
-    "timestamp": "2026-07-17T12:56:27+00:00",
-    "source": "afp"
-  },
-  "60c6ec843ce5466fc48b425cf0826943": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wWWJjM2U0SUhPd2VINUNxd1ZwRVJUNmFxQndHaFVfY2NSWF9uX3lyWklnbXZyVm04dkZXMDYtSWhXYXhodG1fRHJPY3EzS2ZUSnc?oc=5",
-    "timestamp": "2026-07-17T12:22:26+00:00",
-    "source": "iranintl"
-  },
-  "64cb0fb180d041fa9833c961da1525c9": {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT3BrSTBMQ3g2aVFzcXNuQmF4bm5BeUtzUC1IZDV4LVZhby1oY19QajdQMWdtQVVlNVc5TVJ5eHdWZzM1WUN3N1RLNzBvd3k2TUdTdFRGR3FNbERWd3V5ZEZFendRSXh2cVpCbG5qclV2ZGZRRHBNYWlLTjVqc193SmVrcXBUc2Eyck9na0lzMEN6TElqbVJhUk4yTDE1cWxtM3RqU0x1TDJWUENmZnA4U1B3TTBrUVNKcDAxTXA0QQ?oc=5",
-    "timestamp": "2026-07-17T12:14:08+00:00",
     "source": "reuters"
   }
 }
