@@ -1,8 +1,33 @@
 {
+  "c311badd4b8ec5b4636ad70f3dc3829a": {
+    "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
+    "timestamp": "2026-07-22T20:28:23+00:00",
+    "source": "nyt"
+  },
+  "4aa563d59391f622c37a733e78127cd6": {
+    "url": "https://www.france24.com/en/video/20260722-mykhailo-fedorov-was-fired-for-his-successes-in-fighting-corruption-in-the-defense-sector-1",
+    "timestamp": "2026-07-22T19:45:02+00:00",
+    "source": "afp"
+  },
+  "0c6f1411d1dbb8a43288dd7609693d43": {
+    "url": "https://www.nytimes.com/2026/07/22/world/dubai-cuts-deal-for-new-port-to-bypass-strait-of-hormuz.html",
+    "timestamp": "2026-07-22T19:38:16+00:00",
+    "source": "nyt"
+  },
   "450d8e9fb9baea03e35601f093ba1cf3": {
     "url": "https://www.france24.com/en/middle-east/20260722-exclusive-syria-kurdish-majority-city-kobane-postwar-integration-efforts-get-under-way",
     "timestamp": "2026-07-22T19:07:23+00:00",
     "source": "afp"
+  },
+  "ef075e27bdc19f110fdf8b471a3a121c": {
+    "url": "https://www.nytimes.com/2026/07/22/world/middleeast/israeli-banks-palestinian-economy.html",
+    "timestamp": "2026-07-22T19:05:30+00:00",
+    "source": "nyt"
+  },
+  "927143e46e0a7c8691d14e26e86c6057": {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTZpR1FMN3VoQXVtYTd6MEJJV2QxVVp0Z3JsTXQ5Sm91NU5sZHhpdE1PdEU2eDRmUDdNbHpCQy1zLXg0R0V5THM3QjgzU2ZWd0dUM0pTVjlyRjMwUWdvc2ZTSm5leHlDUXFpM2c4cUNNOHN4QnIxV2xLUnJ4SG05a3pvRlRtS1ptZzBGM2RvYTByTERmRGo5RmFlZTM5QXU5dHptbkx1LURrMjVjck1jVEl2dkFSOTg?oc=5",
+    "timestamp": "2026-07-22T19:02:44+00:00",
+    "source": "reuters"
   },
   "24311f5f7586b012ea065d84b25a0be5": {
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGxVY1ZXb3k0ZmxlWngxbUYxVlAxc240XzR5RlUtWFlmYTAtc0xSWG5WaTNmOEVxTVRwS0N5MVhDRzV3RnJXNmlUS19tbGxUWEZrLXRJTzJPVHYxaW04bG84bGR0R2NzYVA2N0tjalRiWFduVXk0M2puWE9CX1ZSaU51OWR0b0lUb2Y2dnVXZHdreWJDVk0zc0VFdXhNbnBPdUlDMmxuckJWM1R5QTFZOEh5aWtfbDN5c2c0bmlBbk9mSEpL?oc=5",
@@ -139,6 +164,11 @@
     "timestamp": "2026-07-22T13:07:20+00:00",
     "source": "afp"
   },
+  "7c775af2d270e0a568569ee03f718244": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oaEN1Wk5naEViVU44X3JTV2pGOGJreWd6dVZwRUxOdGhGRVBvTHFPWWdKMm0tMUxjNVg4ZXQyN1pPWnRBMkFLUlltN3pZeS1IZ3c?oc=5",
+    "timestamp": "2026-07-22T13:01:25+00:00",
+    "source": "iranintl"
+  },
   "f11793823944f9df7a0ca8c23046e2ee": {
     "url": "https://www.france24.com/en/europe/20260722-germany-greenlights-controversial-joint-french-russian-nuclear-project",
     "timestamp": "2026-07-22T12:54:49+00:00",
@@ -158,6 +188,11 @@
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa0xuVWVvNnhxc3RjTlNIMV9oenlKWGtrLXFic0Z6UVBZMHhXZk1fdkNXZHBubExVYUJPUDV2Y2FYcUR1SFZIbFM2YWRlS25LZHdRVS1Mc1RzWGhXQ0g3OF82b0lvckctLXBYX2ctQko0elFEQ1gteTdxRTUwNXk3RExVM2VsSHJnSFBsYThDUi1saGxZYlpzUzhUMkRCajNwWXNvc3pMekVFb0dSMldDaGkyX1lidEJBTzctdTNqakxQdVNy?oc=5",
     "timestamp": "2026-07-22T12:26:01+00:00",
     "source": "reuters"
+  },
+  "585aacceefcdc991c507c1e63ac16aa8": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUQXV0Yi1ORHAzZ3ZXTGJZdW1nZXR3S19FVmFoQXJNcEFkc2I0R3RROEI3NmlpNjhSVzlHb1dJY0k1dTdCdklsUDhLZzZGSU9iNVE?oc=5",
+    "timestamp": "2026-07-22T12:19:06+00:00",
+    "source": "iranintl"
   },
   "77d3454a4934402a654a0778128b6dac": {
     "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
@@ -2463,40 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQWR6eU4yX0ZaaUxFYkRlZmE5R25nMG9yWEJzWk9TNGswUkZwLUhJQmVqMXg4b1dBLTdUMXZURVdIWHFtN0NjQVNaX0FtQVJsX3FMMTU5cDZ6WTVBX1hVdVZMaDlYWFRPUzZMSGlYX3V1dnRYZzMzaXJZd05nb21STTBfTkpoZGs1a1FzYUszd2k5SjNpclhZRWhHSmFKZlZoVW9vTTVQWlh4MkloQjlfdXVHcVZJMHFiQV9BUHR3?oc=5",
     "timestamp": "2026-07-17T18:47:43+00:00",
     "source": "reuters"
-  },
-  "70a4a47557c3e769c18a5d44a2008cdd": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52UWdGVWZVbFRyaVFxbGpqbTNnRXlaXzRIRVhORS0xc053Z1doNGNlRFU1Qm5FUnRpRGp6WnlOakhvemNyUE5hWHgySC1BcDFudUE?oc=5",
-    "timestamp": "2026-07-17T18:33:10+00:00",
-    "source": "iranintl"
-  },
-  "281bf7a7a394b8612061365e17b1a76f": {
-    "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260717-ukraine-trouble-at-the-top-adieu-keir-alright-andy",
-    "timestamp": "2026-07-17T18:31:02+00:00",
-    "source": "afp"
-  },
-  "5f8e69a8b8b4a9b9917eded63f03e496": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmUW5UUlFRS1NtblFXbmJTbHBOeTkxMTlYZnp4SVo5U3FDU29hcFEwZUpxcEsxX0I4REFZejZhQ19hd2N1akVuN0FMY1UxNlBVSlE?oc=5",
-    "timestamp": "2026-07-17T18:24:00+00:00",
-    "source": "iranintl"
-  },
-  "4188b4f13b1eb7aa21e6b8a6220f7b57": {
-    "url": "https://www.nytimes.com/2026/07/17/world/americas/earthquake-tsunami-warning-mexico-guatemala.html",
-    "timestamp": "2026-07-17T17:53:44+00:00",
-    "source": "nyt"
-  },
-  "0ae90f6c13f79c292f9dcbfeebcd4304": {
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWxrSEMwLS01RTJuYy04NmVnVm5jS3Z4a09UWXNZZ21RT0tEVU9YSGNrQW9KM0FQZDZlQ2xyOHR5aGNLM3ppUWNkTG9yaGNodnhlVzJjUXRyNEQ1TUw1VWtTLTZhbXRzSHVuNUNmSjJSMTBUYWR6anNLYmNpaXhXRXpMZ2ZoT0dNY09fSUhtYVJwaU82ZGdOOVVWNWwteGJhR2x0bDZaMzY5VzA?oc=5",
-    "timestamp": "2026-07-17T17:17:00+00:00",
-    "source": "ap"
-  },
-  "53597eed66529885b987533593de2573": {
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2NqN2VtZFNDLWpDUGxnTXlpZmdWRmI3QlJyeTZSS2cwOEdyVEVGY0NGd3F4UGdqYkVoTjVaUWR0bzJVcW8yY0N1dG1zUnl0UUVDa2dKYVhKU2F5OWJPTWFfSGdZWlRfMjZZdEVxUTRiVDE1LXhMSjR0a0FOMFItVHA3V3FTYlVjU0Mzcy12VG9JbVlORGF2bXBFa1BIUjBNaHR6ZnBn?oc=5",
-    "timestamp": "2026-07-17T16:43:20+00:00",
-    "source": "reuters"
-  },
-  "63bcf41778645f55ab56936f593dc3b9": {
-    "url": "https://www.france24.com/en/americas/20260717-magnitude-7-3-quake-hits-mexican-coast-near-guatemala-triggering-tsunami-alert",
-    "timestamp": "2026-07-17T16:42:17+00:00",
-    "source": "afp"
   }
 }
