@@ -1,4 +1,29 @@
 {
+  "77d3454a4934402a654a0778128b6dac": {
+    "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
+    "timestamp": "2026-07-22T12:03:21+00:00",
+    "source": "nyt"
+  },
+  "4d6557c0d4ded85104fad0a52686ce1a": {
+    "url": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html",
+    "timestamp": "2026-07-22T11:58:08+00:00",
+    "source": "nyt"
+  },
+  "1779bfbb810bbd687fc55d171240472f": {
+    "url": "https://www.france24.com/en/video/20260722-ukraine-s-controversial-top-general-replaced-amid-mass-protests",
+    "timestamp": "2026-07-22T11:28:24+00:00",
+    "source": "afp"
+  },
+  "ee1e8ab4da7e1006394842b2f9f3a6e5": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xYkFHOW9ic2VCUVlLYWZQNmFtdFZQMXZibG10QjBLdDUwa1pGdjJMalk4MlZHYjNpUFdqOUZxdUhWa1lWOTU3bGNPZWkxVEpTeEE?oc=5",
+    "timestamp": "2026-07-22T11:12:07+00:00",
+    "source": "iranintl"
+  },
+  "b78b240b4239e994a1fa430aae6d3240": {
+    "url": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html",
+    "timestamp": "2026-07-22T10:46:16+00:00",
+    "source": "nyt"
+  },
   "6092a7f8494742015f762a2b1a29ba72": {
     "url": "https://www.france24.com/en/louvre-art-historian-didier-rykner-warns-emmanuel-macron-s-vision-is-useless-bad-for-the-museum",
     "timestamp": "2026-07-22T09:59:10+00:00",
@@ -28,6 +53,11 @@
     "url": "https://www.nytimes.com/2026/07/22/world/europe/germany-rearmament-innovation-reinvention-arms.html",
     "timestamp": "2026-07-22T09:00:11+00:00",
     "source": "nyt"
+  },
+  "d5fbd919fb153b0057d065d00e779633": {
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc2JZNDRORVF5VElFZFk5eWVWTHJuY1Zaal81akdWTU00VDltWFFORmVqUHAtU2RDbFBkMGdFSzBxaWhkWmw0MTNYVmxlN2FSLVhLMFhpWk0yVnhoaXZxQ1A5TlZSZ1lEOUNVVE5adk84c1hObF9DcDNCMU1aWTEzbEFpWFVycTktbWNSbmhmNTVQeWxSR01uMW5kM1lZUVpXUlhkMEF1MmMtc0RBSXZNcFdUMHg1T215ZU9KZU1ORDQya25NNnBVbExDS1c1Zjh4T0Jid2lOZmJrc1V1aGpQR2U4VE04Zw?oc=5",
+    "timestamp": "2026-07-22T08:59:19+00:00",
+    "source": "fars"
   },
   "27fe448cd265221c78688e07bcb828c9": {
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON3F1eFczTndIaG5qWm5JNmlNdEM5T3o4WXBWaUVGdm84VzBTdTN6TlE2X0JjOWVYWDl5OGJRRU52R1BPd29ROERSclBZNmoxZ0MyZURmNHkyMWdxa1k4RzVfOTZtVDI4ZjNDQWM5bnhUYUdubXRtQjI0eVRMeHllbl9hZlJmUTNkUU04WnpYX0JESFBIX29rcg?oc=5",
@@ -284,6 +314,11 @@
     "timestamp": "2026-07-21T17:20:00+00:00",
     "source": "iranintl"
   },
+  "c28a1367bba994b34471f987bccf5e44": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FWUUtMUZSdFdIN3B3OUhnalREREZfdXNFRlE0T2szeWdPVmpNWWtjc0gtOE1IWTJaWXpQOUE0aXZGVXEwOXJkVHF4TldodU11cmhwRVg1RGN4OWY3Zmc?oc=5",
+    "timestamp": "2026-07-21T16:42:49+00:00",
+    "source": "fars"
+  },
   "1acacb0c6ec9b114272571a7d8da1a74": {
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX2FXSFJ5VkVzRDNwYWpDNkpPMG83X3AzWTE5WTJGV1hiNHNsVDZRUUk3dGRaMWMxT1VOUTdDMWJNUkNEMG9SeFMyRVdwU2tVQkxLaVRYa0pnSktYRnlhemV2dktaNXR1TWhwSjNZbWRKZzloci1lZW45SEZkT3BEYlpmcV9xX2NMa2dYRUd1eUYzalNiQklLT0dLdXR3Sy1TVXdBUWdaSktPMTg?oc=5",
     "timestamp": "2026-07-21T15:56:56+00:00",
@@ -423,6 +458,11 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkJNeTdhQVJJN2o4b0U2cHB5S1JIQlg0ZUF2eXBjNGpta3NPSG9SRXdzYVVKUzJZX3ZZdF9CQUMyM1J3MWhDUlZzYnNQZVBaeWo0X2VEY0dtLUJSVkx4aER1M2w1Z0FoTGFDa2xXRzl6cnBtOGVZN3Y1TS1MdHpmNW9HX0Rnek5yZEtaamNSVHhOWkhUcl9fR1NDSlY5aWVTek9HYTVrRmVMWFBsRElJdUJ4aDRMUQ?oc=5",
     "timestamp": "2026-07-21T12:33:44+00:00",
     "source": "reuters"
+  },
+  "521f345c90b429960467cbceeb6ed5bd": {
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1POENkTE1qVDl2RHNzclRFdFI2TG5lOTVWNHlJNzF1RzRrU0dOdUJMaUZNalpsRDFWN1MtbTlXRllOckRoT0VBb2JHVFhMaFJIcVFRb0trOA?oc=5",
+    "timestamp": "2026-07-21T12:17:35+00:00",
+    "source": "iranintl"
   },
   "7058867591fadb1327170ec2da696a9c": {
     "url": "https://www.france24.com/en/africa/20260721-un-says-144-migrants-and-refugees-reported-dead-or-missing-off-the-coast-of-mauritania",
@@ -1209,11 +1249,6 @@
     "timestamp": "2026-07-19T22:02:30+00:00",
     "source": "afp"
   },
-  "521f345c90b429960467cbceeb6ed5bd": {
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91TFF4SDZWbkJlS1o2cmRQRWV2X1ZjM1pfOGpIY3Rlc3VGRTZiWjRfTGdzeTFpa2E5N05vaXBPYUdDWVNnYzVqeGR1ejlhOWRMdVhaX2E1TQ?oc=5",
-    "timestamp": "2026-07-19T21:42:26+00:00",
-    "source": "iranintl"
-  },
   "703d5ae9a1742856833cec314e09ce06": {
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR0hpOHR6RFNuWW1CU2M2ZXdqMVgta1lXUld6b2VBSTMzTXdicTQweDJZZ2RaQnhoenBYdExDN0ZtRjlsb3NxRTB4SGtCQUw2aW9jbWZHaWJsc3dhUjVXeDVPRm5NcVQxSVdITmxRbFdMTXlmVTBiWFFDUTNJbnJscWVYc2k?oc=5",
     "timestamp": "2026-07-19T21:32:00+00:00",
@@ -1989,11 +2024,6 @@
     "timestamp": "2026-07-18T07:36:30+00:00",
     "source": "nyt"
   },
-  "d5fbd919fb153b0057d065d00e779633": {
-    "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQRDdtR21sOTRvTl9DNnh1bzVVdFBqcGk0Tm1vSUoxMFpSVE9SZTFvRWJTaEY5ZnlrRjlVbWprN1J2b0E3ZE90UGJudTl4aV95azZsYnlrQkZwcHY0T2Z5OUNYRWRuVUdhSXJtQmM0aWx3d0FMaW94VFNtS2xjMjNPREllc3ZaMnBXRldoVmhLaGdmV09lZG1ERmN5R1ZJbkhtZXM4cHBQdWRhS182ZnA5bXhoS013dmlEWG9UUXRQMURRYU5KZjlBR1FjR09xbXYzTFYtOVVuUm9lUmxoTE5lQnlOWXNwOHV3N0ZzVUF2QUVkaTQ4ZlhlZkRpUGhiUkh1dGlidzBZdks5UnpJTVVMNGM4TFJGRENQNG9ZbXpaYy1hTURTanBhcU1YNzg5bG8?oc=5",
-    "timestamp": "2026-07-18T07:28:09+00:00",
-    "source": "fars"
-  },
   "35122edc1acdadcb7b6f5c6e879792c8": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wRC1zRzNNYmI4d0VjcUVVX1cyWWxDWkJqYmFhaVBGUDlXZXpRS2xEaUxBTGhBT1dQTHU2SEtGVy12aU1FLXcxb0FvYXl3MlY4dXc?oc=5",
     "timestamp": "2026-07-18T07:25:51+00:00",
@@ -2468,35 +2498,5 @@
     "url": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html",
     "timestamp": "2026-07-17T09:56:14+00:00",
     "source": "nyt"
-  },
-  "a87f267916202edb7a94315aed52c4eb": {
-    "url": "https://www.france24.com/en/us-media-split-on-airing-trump-s-speech-heavy-with-unproven-claims",
-    "timestamp": "2026-07-17T09:52:28+00:00",
-    "source": "afp"
-  },
-  "cf3ce0c3bb1a843c2936c9bee42b8209": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZnpjdDFJdVp2blVjdkZ4N2FrVUhxaHRVQV9xU2M0bDZJUTFCcFpTeHZfdUtvaDYwRnNzQmV4d0ZsNHZHSkdlUzJqWk50Rlg2Q3NsS0FfTDF1YkRyMV9WODQxLU5FS0tISHNKTHZaQjdzRnpKTTczT3A2ZEZaNFZ3b0NuTWtKRTUxX0M2ZXQ2VDY4U01jRXc0UmhnRzJxQlRiQ1JRVnF5a050aTNpbEFwMnQ3UDJfU0JtRXJOZA?oc=5",
-    "timestamp": "2026-07-17T09:45:40+00:00",
-    "source": "reuters"
-  },
-  "e557d198ef9334e5ae30452c690135fa": {
-    "url": "https://www.france24.com/en/us-tightens-grip-on-iran-while-insisting-diplomacy-still-possible",
-    "timestamp": "2026-07-17T09:30:51+00:00",
-    "source": "afp"
-  },
-  "2a529d96b18b2742da64b98785efa6dd": {
-    "url": "https://www.france24.com/en/middle-east/20260716-middle-east-live-us-strikes-in-iran-hit-airport-bridges-and-railway-station",
-    "timestamp": "2026-07-17T09:29:54+00:00",
-    "source": "afp"
-  },
-  "5ff9b566e219fa1064ea99e0b61627c5": {
-    "url": "https://www.france24.com/en/ukraine-s-defence-minister-is-splitting-country-says-ousted-defence-minister",
-    "timestamp": "2026-07-17T09:27:23+00:00",
-    "source": "afp"
-  },
-  "981bb7e4a428ff7bb529440603373b84": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZmFWUnd1OE9XanVTTXVmVldpM09tMVk5WWRVSGVGRUtma3lvT1NrMlNxUDBjT0xjVEVoejFHVVowOGQxdW0tY0hvMFA1ajZhbWZSbW4wRVlkb1pKaFpXekVmb2JJcllLSDA3LVdWQnlNc1gwdHhsMGNLMm45WUxIeHJPTkpJX2hIMVQ2dG1ieGxBQnVVdHExYTdlZlduUmw2bDJqbXZERlZIRVE4OFRHVXd3Rkt1VWpOa3hSRw?oc=5",
-    "timestamp": "2026-07-17T09:14:37+00:00",
-    "source": "reuters"
   }
 }
