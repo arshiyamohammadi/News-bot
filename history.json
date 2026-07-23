@@ -1,4 +1,69 @@
 {
+  "9947908b067da76ee15f80438e1a638d": {
+    "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
+    "timestamp": "2026-07-23T14:39:05+00:00",
+    "source": "nyt"
+  },
+  "f11c80aa287dd92feef061e08d91e457": {
+    "url": "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html",
+    "timestamp": "2026-07-23T14:24:39+00:00",
+    "source": "nyt"
+  },
+  "4280583ba09a77f091fb5a18242806a8": {
+    "url": "https://www.france24.com/en/africa/20260723-ghana-president-asks-au-debate-on-south-africa-escalating-xenophobic-attacks",
+    "timestamp": "2026-07-23T13:58:51+00:00",
+    "source": "afp"
+  },
+  "bb6cad3854c2d3ad0f3354f1bdb600eb": {
+    "url": "https://www.france24.com/en/indian-youth-not-scared-anymore-modi-and-bjp-party-s-architecture-of-fear-has-met-its-match",
+    "timestamp": "2026-07-23T13:48:13+00:00",
+    "source": "afp"
+  },
+  "432b3f679ac25e5831bcb26fd9adb116": {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLXl1c3hYRXRDZDgzZEUwUkl5dzN4eFBsWVhBVE81R3FCbllLTDh4RXpFQ3hrVzBHTXdPeEpMNTQ0b1o5VzlnUk5SNnFYUmd3b0tkdEVMY1hUQmo4dHdqcG5UZ2Z0OFZDUk00X1M0VENwc1JGTmstM0gzWmNweWNObk1LaTVlOEtGd2VCTVloNUhHUHJrTWJMQlhRWUxiTTBkblJuZm4tRzhSOC15WFdsdDllbXlwMmRRaEdBOGxqT0NnbkJiVTVLV3phbTI0QTAyQ213?oc=5",
+    "timestamp": "2026-07-23T13:22:44+00:00",
+    "source": "fars"
+  },
+  "0f8c5fe845600260c2fd5a8aba27fb2d": {
+    "url": "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html",
+    "timestamp": "2026-07-23T13:03:50+00:00",
+    "source": "nyt"
+  },
+  "d28ee4a1de5c35ae137a28328b7bbcdc": {
+    "url": "https://www.france24.com/en/dr-congo-s-ebola-outbreak-becomes-fastest-ever-recorded",
+    "timestamp": "2026-07-23T12:50:44+00:00",
+    "source": "afp"
+  },
+  "bc6d0d627abbfaac9e567b4e24879198": {
+    "url": "https://www.nytimes.com/2026/07/23/world/europe/zelensky-ukraine-military-reversal.html",
+    "timestamp": "2026-07-23T12:32:56+00:00",
+    "source": "nyt"
+  },
+  "49575e5a015a68eb5fa593f99376a6f5": {
+    "url": "https://www.france24.com/en/us-rhetoric-all-about-amping-up-but-strategy-for-a-deal-with-iran-unclear",
+    "timestamp": "2026-07-23T12:29:23+00:00",
+    "source": "afp"
+  },
+  "030ab22319d06fe17e368bfc418b3222": {
+    "url": "https://www.france24.com/en/how-houthi-strikes-on-oil-tankers-will-impact-the-middle-east-war",
+    "timestamp": "2026-07-23T12:27:25+00:00",
+    "source": "afp"
+  },
+  "de550c35711ef6593ece7179ba952d6f": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vdC1nVGYxTmVfY0Qtb05YSDRmcVhHX2t6Si04S1ZZWjJjaXp5M3lkOVprM3JmbFpNUnpvMWlqUVh2cW9hSDh6M2tGUHBTM2o5aEE?oc=5",
+    "timestamp": "2026-07-23T12:20:28+00:00",
+    "source": "iranintl"
+  },
+  "7459793730e3548dd678bf4f6bcfa6d9": {
+    "url": "https://www.france24.com/en/video/20260723-india-s-cockroach-movement-spreads-to-mumbai-after-violence-in-new-delhi",
+    "timestamp": "2026-07-23T12:08:12+00:00",
+    "source": "afp"
+  },
+  "907981f6c5fba196274a50ff56a128bb": {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOazV2VERrUEhzVnlwWkVxMklmT1A4bEpvcDJubXNrQjBjTTVJZlFkNmlrb3lJQXBDenB2eUZkUnNXTXR2MEZKWkRraEhLMUF0MTJnSnh1OXV4SDRyX0ZlSVdGT1ZKOERlYnE1cXgxSFhTMXo4ck0zLW9jaHgyWm8tdjdVYVdIVW5sOHVlZEV2TVc5NFpyLVJMLXlvcjUxT3FRRHZ0RFhGaVFZd2JzdTdwTlpmZlBiSFl1WkM5TkVMNA?oc=5",
+    "timestamp": "2026-07-23T11:52:07+00:00",
+    "source": "reuters"
+  },
   "26ba42bf7d39f94ea82d975e9a5c0463": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hVkZySWw4MDRTbTM1bHBEa01TMmVVOS1CR1hMengzd0U1Um5neGdrWlhDa2lPdzVYVzJIcWllLWFqR2FWQTA0dERCbVVHT1BZanc?oc=5",
     "timestamp": "2026-07-23T11:43:58+00:00",
@@ -54,10 +119,20 @@
     "timestamp": "2026-07-23T09:29:19+00:00",
     "source": "afp"
   },
+  "847a1328f6700e566b48c1ed7c35789f": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aanQwTUI4dk8yOWpIRHlqX0k4d25HNENkRkdzeXR3UVVPaFpscl9yZ19fbGFxUTA2aDJyX2NhSm55d0lCekFLSzdkOFRQZFRfWWc?oc=5",
+    "timestamp": "2026-07-23T09:26:39+00:00",
+    "source": "iranintl"
+  },
   "73988ab97d0f8c9a812c27dd2295036b": {
     "url": "https://www.france24.com/en/modi-vows-punishment-for-exam-fraud-as-cockroach-protests-spread",
     "timestamp": "2026-07-23T09:21:52+00:00",
     "source": "afp"
+  },
+  "7d9078cb2b86430363024374d5e9bd53": {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMHFhN1hBYlR3aXUtZnllSFk2b3lkODd0TlBmM0hza0JRQjk3ZmNvQ2FsS2gzZHBTZmp3ZmFSdjNYczlZZHB4WU1PQktNaUJBQ3ZjVXpvWGl2a3VKY0puY1Nxbjg5T0QtMkVwNG5RZ0FFNTlCQnhvSmwxenpYOXFQcUs3cXpZVEE3eGFRT2xoTGRETVM0TjVDTDY4Y3BJcVFXRmppRXNGNUxUVEZoNTRpdmE3RDNzdTRDeTR3UnFqTW5xVFdudWcxMQ?oc=5",
+    "timestamp": "2026-07-23T09:18:48+00:00",
+    "source": "fars"
   },
   "f5d32c68d74c89d3b3492efb0ae739c8": {
     "url": "https://www.nytimes.com/2026/07/23/world/asia/russian-spy-flees-japan.html",
@@ -134,6 +209,11 @@
     "timestamp": "2026-07-23T07:22:10+00:00",
     "source": "fars"
   },
+  "e5046ffcf3fec88bd80c8158e3f62824": {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcU9GZGY1bEZtRTYzdHRJNEJZUmJveDM4cFVSa3lkX29oQ2lQdEYxZWZURW84dEJuaWQyMmxhWEV2bjdPQ3hzbFVOTXlocXJoNGhGT0t4V2JHYlQ3X2FidGlJdzlEeUVnc0p1TWZRZDRyMzF0NUhOa1RPUTdlcTJrSy0zMWxDT1ZYS29DekYtZ2lvd0R1TUJUOF90MkhISnMyaTRaazd1TEJvdWhVR1NGUXRIcUU1elAwTFVhTA?oc=5",
+    "timestamp": "2026-07-23T07:22:10+00:00",
+    "source": "fars"
+  },
   "147bc34193091f0316d6fe94d0697938": {
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTk54Z0F2YlpXOS0tWUs2V1hwZ0cyRTN3MHo1VGQ4b2FIb0Q1bng3bXRpY2M4X1M3OVgxWHpsanpRRVk0QTdhYU9qWkJKd3ZJejU0TnpWREJZcFBVWC04YTYxWll4TXVXdTdRdlBoQTI2ZDU2SzYyWHY1NURjckpYQXdmZFpvWmtsVURZZ1pPaWt4MzlWUDBIUHNpenMzMkRhVGI3eUJEM1h1dU0wRThBY3E4NzJpUmF6elI3dk1Xekl2TG8?oc=5",
     "timestamp": "2026-07-23T07:05:46+00:00",
@@ -152,6 +232,11 @@
   "a5291fe1f9926f754be2caff761a1cd5": {
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVG1JTXpRVzcxazV4Y3RmVV9pNnFrZGtrS1FkWmJzTngySXJ2YmwwZXNDNzZwOWNsbXFtWTFxRWEtT3pVZmh3YUtlV2gyRUs4b2NxcW93RkQ2TE5QMy1ZVklod1RtOE1iRmttY0gyRGQ0NFA3bEptTXNVbUs4bno3OXBtXzFqOTczTlgwMTFkdWIwQ19pYkRfaTdIMDUtRHRXUDBOdVViNHhMYlZjZ1ZVX3VIWEpVTGN0ZHBFZDItVlhINDY1SGxKYk5KVWp2LUhWSVB3Z2x3?oc=5",
     "timestamp": "2026-07-23T06:07:05+00:00",
+    "source": "fars"
+  },
+  "f7fa68c18b66ad82a4ab7a80f106e168": {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVG1JTXpRVzcxazV4Y3RmVV9pNnFrZGtrS1FkWmJzTngySXJ2YmwwZXNDNzZwOWNsbXFtWTFxRWEtT3pVZmh3YUtlV2gyRUs4b2NxcW93RkQ2TE5QMy1ZVklod1RtOE1iRmttY0gyRGQ0NFA3bEptTXNVbUs4bno3OXBtXzFqOTczTlgwMTFkdWIwQ19pYkRfaTdIMDUtRHRXUDBOdVViNHhMYlZjZ1ZVX3VIWEpVTGN0ZHBFZDItVlhINDY1SGxKYk5KVWp2LUhWSVB3Z2x3?oc=5",
+    "timestamp": "2026-07-23T06:06:50+00:00",
     "source": "fars"
   },
   "719320cff079c93bf0ac547398701db4": {
@@ -219,6 +304,11 @@
     "timestamp": "2026-07-23T02:16:27+00:00",
     "source": "fars"
   },
+  "9725ba2e600a4a60e0e9a3cd6ce7bb23": {
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX25MSTZRU2IwVjRrLXUydzJoSGx0c0hWWm1BWlQzM0dHRmRPYUpJOGtwZ3VQeU1pbHZUVXdGdnJ3SFdGWHNzVEZSNFoweHc3S3pjXzlEU2F6RTBWallpbHFjUWpwZ3ZPS3VBc3pacEw5SkE3aHJTNjdBcXpXQ3pMNUNya0NmRy1LOE5lLW42Z3FCb1JBLXpTVV9uUXBTejhJbklHOE5fRnlsb01fUVlaS25yNmNtQkV3VDJmZ3Y0MDVldGZ3NWx2WmdnRHBWclpNRElYRQ?oc=5",
+    "timestamp": "2026-07-23T02:16:27+00:00",
+    "source": "fars"
+  },
   "23f33901e9a3595060eea085132030f7": {
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEZlQTh2dnVnblEzaVc4eE81SE92UFhTN2VJSXQ4RGdOQVFLU2FuUTB6d19yWWotOFZzQTRaRmlPanZpYkdPZ18waTVpd0lsaWJPRU9aZkd5VU9lZ3RvYi00RGh3TUFsV3JYTGpNc21BOE54N01TbmtCOWh2UWtUTFhZQVlfVHBNS2F1ZDhJS01RT001UDRBQ3MwYTFqM25uaUcxX1E4R3JTX1k?oc=5",
     "timestamp": "2026-07-23T00:40:00+00:00",
@@ -233,6 +323,11 @@
     "url": "https://www.france24.com/en/europe/20260723-wildfires-ravage-spain-france-and-italy-killing-three-firefighters",
     "timestamp": "2026-07-23T00:23:42+00:00",
     "source": "afp"
+  },
+  "66289d0ac3021353b7f19666bcf524e7": {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONnRuRnIzMjZ6OG5EcnQ0R3ZjV1pQbHBLZTlmVDdxZjI3Z2wwbnJiOHd2S3B0SzY4Q2w2bnFmaEZxcWpYOXBleklJeWFHd25vM3J6Z0lKNDVxTnhyRDZjS3hlaGlnWHZ0YmVGSjBySW9rU3JfazdYek5odTNXOUo0MzFWbnRzalk2NTdFTTVodEdWX3pX?oc=5",
+    "timestamp": "2026-07-23T00:11:57+00:00",
+    "source": "fars"
   },
   "53b443e2d9a89e3be2ab5f89fa31c0e2": {
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMXBXbnhoMmZUMHl0Q1lqS3EyZ0o0MVNNX1htTmNaTUJkeUlSOFppNVRQSkhkUzBpQ193RWQzOEFuUzlDQzVBOHNUWWtEUW9VVG9hN05zTHREaXRqc01lVjlLeFNLUHpCNUVPZHRXRlo3SFQ1Z3phTWRJN3Zqa282OERqdDVsSXJvaUhFRUZDMjI4QTQ5TVF1cDJhV1Q?oc=5",
@@ -255,6 +350,11 @@
     "source": "reuters"
   },
   "95195254a5378300f8fbef8ba3985722": {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjZPS0ljQWJqdERDbmF3YUNWTXpaU2p2M2VZTVZDZ1RVMUN5WkV4VFhBbGhlWlo4SjY4Vkt4MmxMYWxneUljdmphMnZkT3E1SG5hdnJzOHlYbmtYdGRZVGFpcWNRSTJGNXJTMmpJaXc0YVdYZk14RjlQNGFESjZBdDBJQnJrMGpCYWVKOHpqWWZ2ODhLbWYtdUNIUTFTWWRsb2tSM05HVmdaYWdGaFlHYU4yOEphZXRvbW42ajAzaw?oc=5",
+    "timestamp": "2026-07-22T22:02:41+00:00",
+    "source": "fars"
+  },
+  "e9b53d8b88b95be95213c6ccee9b6313": {
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjZPS0ljQWJqdERDbmF3YUNWTXpaU2p2M2VZTVZDZ1RVMUN5WkV4VFhBbGhlWlo4SjY4Vkt4MmxMYWxneUljdmphMnZkT3E1SG5hdnJzOHlYbmtYdGRZVGFpcWNRSTJGNXJTMmpJaXc0YVdYZk14RjlQNGFESjZBdDBJQnJrMGpCYWVKOHpqWWZ2ODhLbWYtdUNIUTFTWWRsb2tSM05HVmdaYWdGaFlHYU4yOEphZXRvbW42ajAzaw?oc=5",
     "timestamp": "2026-07-22T22:02:41+00:00",
     "source": "fars"
@@ -368,6 +468,11 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZEFZb0J6bFNEdUxxQTRHdkw0VXBIUGhsbW9VTVF3aEtBTTdLU1ZTYzZ1emRhZ0FUS3YwbFlmcHh2Wm80VWw4VTlMclNBZEUtVTlMMFJNb0RSZGtLLTFwYmVuUUpCdEhZb2ZaSk52RGc5M3lxZzRZOXNTV3ljSHBqTFJjWUx0UnFraGQxalNSdlhOZzhiNlQtX00xTkZkeTF6Qk8yamtuaw?oc=5",
     "timestamp": "2026-07-22T17:45:40+00:00",
     "source": "fars"
+  },
+  "40b17f91f6785467630c35aae58a5bef": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkZnRMMXB0MWROWDhHQ2Y0elc3SjRaSllkbi1qZnByeFdtczV3TmZ5aG15Z19QSEJsUHVCcjNCdTY3Uk9nS0xlbm5GTThIWWJhMVE?oc=5",
+    "timestamp": "2026-07-22T17:33:54+00:00",
+    "source": "iranintl"
   },
   "bffcbbbbf9ce02424dccb50007d08959": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAza1M4R0sxN1RDbkx6M04yZGdEX0JaSFRTUEtoV0IxZ21MMWdNMmJHbDBvR01RWXkybTRfbDFOVDhrcVh6cm54Z3FfdmpIa053VlE?oc=5",
@@ -2019,11 +2124,6 @@
     "timestamp": "2026-07-19T13:04:40+00:00",
     "source": "fars"
   },
-  "66289d0ac3021353b7f19666bcf524e7": {
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjNCRThyU2RGdkliS0EwQ1JZRWJGbDdhWnJUc3JMV0dHRmdlS3I2SUozcExPdlZYQVJ6bUJxdC1FdE1PY2JPX0hxRURPSkFZcGVDX0NkTm03bWNFS1JNc0E1Q2t1LWQzSUkzNlBBT2dLa1hEcGFLR2x5MUs3RkgwWFJrQk45RHpWYm1Jci1Idi1fc0g4?oc=5",
-    "timestamp": "2026-07-19T13:04:40+00:00",
-    "source": "fars"
-  },
   "2472a7f4e252a1eaee1078c5d51d9ca7": {
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11cFhvYXVDSjI2bTd0MURoSVhwNDR5Ql9iVWdiQlh2dXp1U2ZST0JfQk5yaEhCRDNBTUtNZ0xWRDZ2d3dGM0xRX01vQnN1SG5pQVpXaGowemxIZHBPUlZIQjctNA?oc=5",
     "timestamp": "2026-07-19T13:04:40+00:00",
@@ -2397,106 +2497,6 @@
   "32aa81ced9cf9e6b7e2acf788ee286a3": {
     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBwNm5oNUZOb2hLc1RtTnQxb1hzT2NQZ0NzN25BTlRJMDdveGxiTmcyNVJSRHg1MzdUcW43TzB3ZGRsdw?oc=5",
     "timestamp": "2026-07-18T19:10:21+00:00",
-    "source": "iranintl"
-  },
-  "7fdf98440f0af0e816a35dca56e0163f": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTnp0LW9PQlFrQ2FwUk9jcmQtbTFjc2dqTkc2MlVYaGhNbjc0ZlBsY2d4dlI2bzRLcjVHNUVTNlBCTERaS05icF95dWZkUkV0RFJPU1BnN3FadHlKTnc?oc=5",
-    "timestamp": "2026-07-18T19:08:23+00:00",
-    "source": "iranintl"
-  },
-  "132fd1fe8ac6fe9088004eb46c7ef883": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtaGpfRTNnd0tMR3BTckxyaTJ0cWt1b1hvcFNzeFByVHZCbzlFZUlWb3VjalluNFlab3hWOTlKLV8yUlNucl9tTDR0YV90aTE4MXc?oc=5",
-    "timestamp": "2026-07-18T18:55:20+00:00",
-    "source": "iranintl"
-  },
-  "8b4caa89da8cd95508c7449654cab33c": {
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRjhsV0pGUU1wc3ZYY09ocnNhWDFWMGtwSXhoN3ZaRDEyNG5Eb3JpeWlmeWR4RHUyNmFfNzhSTmEyclZLaW91UFdsN2hUWHF3STczc0xMQnBTeG5QUEs1LTlLTDBMN3UtMHM5ZDdEVGRNR3cxcVdJM3luUEQ2Ry00V2hCdnVyQm1XR1lHdENWVTFEMWF6eFNQUHBR?oc=5",
-    "timestamp": "2026-07-18T18:39:00+00:00",
-    "source": "ap"
-  },
-  "546f5e48db5a463a6a84781c4d08bb06": {
-    "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
-    "timestamp": "2026-07-18T18:19:56+00:00",
-    "source": "nyt"
-  },
-  "aa37c50470938e0b52e658ec521f892d": {
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORC1tbUY3UU5OWWVubE9NZzhlTjZDNGNxMERBSUwxZ0d2clRBaldEZWtTUXhjZmVzb182N1M4T0VCY1JnQWhqNW5oM3ZIUV8wbno1TkdYbFM2RGNsYklHVFJ4VTZpVDdHOHcyY1BZUWNLaGxBMFBTQUJVanMxellKenFwazlMQWVYeERKa2dDVFZ3a2JBaElnRHVJcGdVc0RtVGZhM3hsRjF3REZvRzZCeFlFUQ?oc=5",
-    "timestamp": "2026-07-18T17:27:35+00:00",
-    "source": "reuters"
-  },
-  "800e8b8a826f7defeeb631a03ed68b31": {
-    "url": "https://www.france24.com/en/tv-shows/spotlight/20260718-what-s-at-stake-for-the-eu-s-carbon-market-blueprint",
-    "timestamp": "2026-07-18T17:23:10+00:00",
-    "source": "afp"
-  },
-  "140fa0e95cdd433a5615d332d6738757": {
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1janU2RnR4QnpGYUhFdm1jRFdlUUJ6bEwwX1RLUXc5bTFnd1NEV0lMRVJwWG1wSFBsRjFfZzI3VHJnUmRrU1RXWDI0VXVHYTB3RDBNMGgydGZsbzBQWTlGUW0wSQ?oc=5",
-    "timestamp": "2026-07-18T17:12:56+00:00",
-    "source": "fars"
-  },
-  "1d89f5825e4edb6318d47b9d63e5ae83": {
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzdnRWcydkxHbFRjbEdiRnZnMUFwclQ1N3ZwZTVHbWRKMTFNb21ldHhfNDRBaFF1VmRoRHpUTFJlREVhc0MwZUExOUlxcWlvejU0X256Q2J4MzE0QTVaWG42WGpMS0NVcWNzOXJqX1RQRjh1czFncm1DM2ZfWm9xT0pkSWxLeDZ2ZU1mOE9KQy1JMGFyMlRCamNBSjVWNExTUkRTNXVvX0w1YWREaXJCMmNVUXVZR2oxVlBLd0lWdnB1WFUt?oc=5",
-    "timestamp": "2026-07-18T16:59:43+00:00",
-    "source": "reuters"
-  },
-  "40fefcfe25a885b23479d0fe6aaa27f3": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTnp0LW9PQlFrQ2FwUk9jcmQtbTFjc2dqTkc2MlVYaGhNbjc0ZlBsY2d4dlI2bzRLcjVHNUVTNlBCTERaS05icF95dWZkUkV0RFJPU1BnN3FadHlKTnc?oc=5",
-    "timestamp": "2026-07-18T16:41:50+00:00",
-    "source": "iranintl"
-  },
-  "73a5b822d00d76e2b683a877d08cd275": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XRlRfcVYwUm8tbk1Neng3VnYzUzVtMEtoeGxGdk5WbFJQOVRfWlJnWnoxelZ3ZWdacHRZdXJpalN1YjBvQnlnRW9EZDByeW1HMHc?oc=5",
-    "timestamp": "2026-07-18T16:41:50+00:00",
-    "source": "iranintl"
-  },
-  "9474f5626b59e558c6fa9af51e5842b4": {
-    "url": "https://www.france24.com/en/gulf-council-blasts-war-crimes-by-iran",
-    "timestamp": "2026-07-18T16:23:09+00:00",
-    "source": "afp"
-  },
-  "6005fb57ef198c3b13d11d35d537dcf8": {
-    "url": "https://www.france24.com/en/power-desalination-plants-hit-in-kuwait",
-    "timestamp": "2026-07-18T16:21:51+00:00",
-    "source": "afp"
-  },
-  "6dd9be61f1275ddf516c35bad0324e55": {
-    "url": "https://www.france24.com/en/sport/20260718-pogacar-wins-tour-de-france-14th-stage-to-extend-overall-lead",
-    "timestamp": "2026-07-18T15:53:09+00:00",
-    "source": "afp"
-  },
-  "804fa9d06fd410542631250ce7a2983c": {
-    "url": "https://www.france24.com/en/africa/20260718-malian-army-convoy-ambushed-by-rebels-north-of-gao",
-    "timestamp": "2026-07-18T15:10:44+00:00",
-    "source": "afp"
-  },
-  "c779b889f1b86a1e540622edae42bb4b": {
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0k2MmJxZno4bERYYTNVUFJwWnNBWkxrOHE1UDZlVGRYUUJTaHFjR19oSnNJVEUzUHdmb2ViMWVkeFVSc1NmTDJNa19rZlIzbTJBTEl5UEdGQi01eS1mWDdaNnpGSlJJN3h5VGNXdkY3VDFMYlBmczZxTkhncWQxd3p2enpFVDhmWDNpaDc3aHZqcjVfcEhOSFdBQWQ?oc=5",
-    "timestamp": "2026-07-18T14:29:00+00:00",
-    "source": "ap"
-  },
-  "1945e39363532ab16ea589258c80a2b2": {
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMXJxRmNmNHc0RUxrRF94dVNOdEdEbkM2Q3U4R3dJZnZBTEJ3a0g0cDF4NHB1U1hLRHVYR2cyeER5SDYwTEpQazFBMEVWNXFtdXpjWnBvX1FPT2NUQjF1bkV4T2tmWTVCYnZEZ2ZPMFU0Z1BadVppMUpzQzIwSGhVaXVsOTFwSmJwZ0luMkhXckhpSGJHeG42MUhiQlhENlltRHc?oc=5",
-    "timestamp": "2026-07-18T14:08:49+00:00",
-    "source": "fars"
-  },
-  "96543461512a3fcde059d9955e01a56a": {
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMXJxRmNmNHc0RUxrRF94dVNOdEdEbkM2Q3U4R3dJZnZBTEJ3a0g0cDF4NHB1U1hLRHVYR2cyeER5SDYwTEpQazFBMEVWNXFtdXpjWnBvX1FPT2NUQjF1bkV4T2tmWTVCYnZEZ2ZPMFU0Z1BadVppMUpzQzIwSGhVaXVsOTFwSmJwZ0luMkhXckhpSGJHeG42MUhiQlhENlltRHc?oc=5",
-    "timestamp": "2026-07-18T14:08:49+00:00",
-    "source": "fars"
-  },
-  "150773b887b4aa9825b70bb7251df9c0": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTnp0LW9PQlFrQ2FwUk9jcmQtbTFjc2dqTkc2MlVYaGhNbjc0ZlBsY2d4dlI2bzRLcjVHNUVTNlBCTERaS05icF95dWZkUkV0RFJPU1BnN3FadHlKTnc?oc=5",
-    "timestamp": "2026-07-18T13:56:09+00:00",
-    "source": "iranintl"
-  },
-  "d42c441a578e7a1866aeaab7c2dcbf0a": {
-    "url": "https://www.france24.com/en/middle-east/20260718-middle-east-live-tehran-threatens-full-scale-offensive-as-us-launches-seventh-night-of-attacks",
-    "timestamp": "2026-07-18T13:43:05+00:00",
-    "source": "afp"
-  },
-  "bc8d3d62f0871e7d0c9714e4e2331513": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TUkIwRlFHY0ZuUHBmS3p4bEJzOGRrN0pyTHh0R3hmcy1BVVZ3T1NXbDhpbTJhcHdZOXhEZzdHd3VvNVVEZzJlekE2WGQ4SFljNFE?oc=5",
-    "timestamp": "2026-07-18T13:24:38+00:00",
     "source": "iranintl"
   }
 }
