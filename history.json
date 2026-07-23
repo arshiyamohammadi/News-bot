@@ -1,8 +1,38 @@
 {
+  "64c897e98204d3d007ddda8d532e0ae8": {
+    "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
+    "timestamp": "2026-07-23T19:05:58+00:00",
+    "source": "nyt"
+  },
+  "8f15de13d017e6a9d111da3ff677771e": {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFEtb2pVRzJFQThOZGROZ0hBV0pQUHNWSE1kZkFIdG9nV3d4eHBHUXlaTW1jQlpKVmNmV2twYmQ4VjJ1WDNPeW4tOXYtamtJeXk4STFCWk5CS09yUDBoRENzakZmR1FXbXdTcy0zbGdneURkUWphR1p0bTZxOUszS3Z5TXkxQnBwYjlBYVpXSEJCR3cyR3dZZTYwQktlTDJ1ejNpYklIQmlESXJCempEYUR4UWJXX2QyR1lwVGdiUmtMYU5NdzE2UDBn?oc=5",
+    "timestamp": "2026-07-23T18:52:47+00:00",
+    "source": "reuters"
+  },
+  "742925baa15e3886627325b880c16f4d": {
+    "url": "https://www.france24.com/en/trump-stuns-saudis-by-pinning-nuclear-deal-to-israel-ties",
+    "timestamp": "2026-07-23T18:24:08+00:00",
+    "source": "afp"
+  },
+  "894b58ebbb4dd16889529181ee6c8262": {
+    "url": "https://www.france24.com/en/reinstating-fedorov-only-right-decision-zelensky-can-make-mp-says",
+    "timestamp": "2026-07-23T18:20:31+00:00",
+    "source": "afp"
+  },
+  "eff1bb561acd2429084392667383250f": {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSUtaMHdwUWNQbXpNb0IzUXMxZm5sUFRDVlJGclZmak52YVFySlE1LUV1aTBiRDhqT055V2pIMWFQNmFILW1GSnRCRTBLYi1oSVY0Vm0tRjJPX19CazNmeUQtQkdDUXZmbVU2TFlhcnFKZVNMbVFZS05ZR1VlenRFSXRUa3d2dzhlSTNBeDQyOFA2Z3k1RXBYSWQ1Rm5Bd1FKT3ItT0UzT19nYkEwcmpPQlc0TDZSdlBCT3owXzJGMHFCRmp3dklCU0NJWmNFeTZTVy0yVy1n?oc=5",
+    "timestamp": "2026-07-23T17:48:05+00:00",
+    "source": "reuters"
+  },
   "ea116176942b90196e24c1a234f4ca12": {
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzJSMEdwQVV6RGMtWDMxcGFBci0xMURsa2hYWnpiTk81azZpVk9IS1gyWDlLM2xoM2xBcUVpUDFiN01tekpWUUNKcWNDZWtmbDk4RDBCbW5ZNjlQdEJLNjlTYnRERDZfVmxYNWtfamNGWjZJMkxwaDV0U0wtSnBtTDJnblFjYmxqRWoxYmFGd2JOUng0Q3JBUUpMcGxWa3M?oc=5",
     "timestamp": "2026-07-23T17:00:00+00:00",
     "source": "ap"
+  },
+  "d8c8eb8cdb0178d0c23d94a110785dfe": {
+    "url": "https://www.france24.com/en/middle-east/20260723-why-iran-targeting-kuwaits-desalination-plants",
+    "timestamp": "2026-07-23T16:53:18+00:00",
+    "source": "afp"
   },
   "dba67cd603f4dd8b2325c75c5d08f7c2": {
     "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
@@ -13,6 +43,11 @@
     "url": "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html",
     "timestamp": "2026-07-23T15:57:43+00:00",
     "source": "nyt"
+  },
+  "b53b8d35a94d4674eb6e323a40e33cf7": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FdlJVdUN3RVIzT2hHd0M2ZkkxS1Q5d1EwRkNfa2xDT2plQXZZbGRxZzhfc3Y5cW5OcnhfMmxTTVpfdVNSWV9qTEhxUDdEWW9ZeHc?oc=5",
+    "timestamp": "2026-07-23T15:19:00+00:00",
+    "source": "iranintl"
   },
   "1acca07579771141bc274ad6717e5c70": {
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZUpXN3hsMGcyQU16bVZOVDBoaDBOZnoxQmtaei1FUkdrQ1p2VnJfaldQV3RxRUxZbFJSbU9IZzRvTHdYZVB1b2I4RV80aVAxNGJjRmFoZ2RmTTgxOXluWUdqclhVVUxYMlNrclV3NTNrV3hwQkd2YmNWN0hUS1U3c0V4aTZXcG1keVNKS2JVcU9zNTBVZmhsSVJsUlpzM1FKZGc4QzVWaFduYVpCcF9QMA?oc=5",
@@ -503,6 +538,11 @@
     "url": "https://www.nytimes.com/2026/07/22/world/dubai-cuts-deal-for-new-port-to-bypass-strait-of-hormuz.html",
     "timestamp": "2026-07-22T19:38:16+00:00",
     "source": "nyt"
+  },
+  "e278122cbae82adf6492941efb8fce20": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTZjB0MUFDOGZtNUlIdXgxcmdkZElqeWFXb1lhcl90Z0d3dWJheXVlM2RvelpValpBSTNlRHFWYnVkTzJCaG9vWjVPSGI5a2NYQVE?oc=5",
+    "timestamp": "2026-07-22T19:37:53+00:00",
+    "source": "iranintl"
   },
   "47f4378512ca0be32ed1dc48a051ffb6": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91LTZMWmpraXVad25HQllEUnpVRkRaWDVzUGdTazJuZUQ0SkFKSEtwZ2piZmpuZGpYaDdTWXN1VmpCOGdhTUd1Ykg5S2RxU1Y3LXc?oc=5",
@@ -2458,45 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmZSOG9seXNyMUFGTW1NMF9XWUVNYUZLczBFRWFTTDZZYnRjX081R3pnUzl6NTFVM053aG50T09hb2pMSlFxTGV6T2V0ZEZaRUFtNjVTSk01MWFrb05KcHdVdHZHMktERXlFVEdKTGFrTlo0cl9SY0hjb0dpb01rMDh6Z2l5MFoyWGI2VjA3cGx1UTN1T1RqU0RCeHVLdVlWUEJIU0dHaFl2SEpKN1AySUlMeUJPQVBtWUtPY1BHUUw5bGZxTEpCRQ?oc=5",
     "timestamp": "2026-07-18T23:21:00+00:00",
     "source": "reuters"
-  },
-  "bd431692073fe670b57a8f39e3c58c01": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwZmROQlJZQjVMakY4VWFmVlllZzljV2NtSmQzMVVrRDE2b1dBQkVVSnA1T2Noa3FFOTFKdG9YZ1FndWtGaXRmOHZrYy1EaUlqQkJmVFBJeC1NVENpcUV2bQ?oc=5",
-    "timestamp": "2026-07-18T23:20:53+00:00",
-    "source": "fars"
-  },
-  "aac3f29d0dfc3650dc482f146d4b5fed": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwZmROQlJZQjVMakY4VWFmVlllZzljV2NtSmQzMVVrRDE2b1dBQkVVSnA1T2Noa3FFOTFKdG9YZ1FndWtGaXRmOHZrYy1EaUlqQkJmVFBJeC1NVENpcUV2bQ?oc=5",
-    "timestamp": "2026-07-18T23:20:53+00:00",
-    "source": "fars"
-  },
-  "98c39f8dd8ab078eed3506de3108ff4d": {
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GTjFJWjUzcFhGMk9WU0l1LTQ3RlBXcXIwUDJ3YWg3ZGJzMGRESnFveTZoZ0RVS3lQcS1mRTZtTGkyNGJHbktrTFBBd2lOcnNrdk9Fd2VEQ1hwY1JranZvMWRNS1R0TVcyem1UczFQdkFEV09YV25rejZSOFI?oc=5",
-    "timestamp": "2026-07-18T23:16:46+00:00",
-    "source": "fars"
-  },
-  "f2e2ff19894a3b81b9cf638d5f5a6e89": {
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GTjFJWjUzcFhGMk9WU0l1LTQ3RlBXcXIwUDJ3YWg3ZGJzMGRESnFveTZoZ0RVS3lQcS1mRTZtTGkyNGJHbktrTFBBd2lOcnNrdk9Fd2VEQ1hwY1JranZvMWRNS1R0TVcyem1UczFQdkFEV09YV25rejZSOFI?oc=5",
-    "timestamp": "2026-07-18T23:16:46+00:00",
-    "source": "fars"
-  },
-  "a90cad150582ef703450ed4107497d6a": {
-    "url": "https://www.france24.com/en/sport/20260718-world-cup-2026-england-s-late-surge-ends-france-s-comeback-hopes-in-third-place-thriller",
-    "timestamp": "2026-07-18T23:08:31+00:00",
-    "source": "afp"
-  },
-  "8b10baef0bb754aa1dd62219762c0cf3": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbS1jN0tZcUtrbk9GU3RKeUxqTHM1Qk5DUDF1VDBVOUVqaVp4QV8xWGhEMmtFV3JRRDc1SXlxalZwcElvUlBXQk13R1NPdW91eUFNRF9UT3JRM3ZHTC03a2ZaZmg0Z2tJdXdCRjVMUml0eWtTSWFLU2U5WGxIMHBNSG1hb2dTS3VLak0zVXdZdHhKY1duRml2MW9Ea0xxVlU?oc=5",
-    "timestamp": "2026-07-18T22:51:00+00:00",
-    "source": "ap"
-  },
-  "2031b644562efdbc2a04242522b40047": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTnp0LW9PQlFrQ2FwUk9jcmQtbTFjc2dqTkc2MlVYaGhNbjc0ZlBsY2d4dlI2bzRLcjVHNUVTNlBCTERaS05icF95dWZkUkV0RFJPU1BnN3FadHlKTnc?oc=5",
-    "timestamp": "2026-07-18T22:50:19+00:00",
-    "source": "iranintl"
-  },
-  "a4f2e9943f558a92f218a105340e5d0d": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tV0tFZjR6dTdZVE1ZQklLNHJfNXdEVFNEYmZLdkZ6anFuSjhYc1IyR2REdTdLUDFZYXdXeWJzdEx3WEd4dGdSbkZxejJKZVFaN2c?oc=5",
-    "timestamp": "2026-07-18T22:46:07+00:00",
-    "source": "iranintl"
   }
 }
