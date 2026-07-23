@@ -1,4 +1,44 @@
 {
+  "c80641493e0d5342c274037ecfe5da89": {
+    "url": "https://www.nytimes.com/2026/07/23/world/middleeast/jordan-iran-us-forces.html",
+    "timestamp": "2026-07-23T07:24:29+00:00",
+    "source": "nyt"
+  },
+  "4252d82eef323bab485024a9230c2aea": {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOck9rMklSSHp1Z0E2UmlqZUJHSWNxRXNSZGtZd1JTOFdSbUE2amI3RHFmaUNuSS1nU1NzaThJdVIwVzZFcXVIaXNjU3lrSVYtaDF5THNwWkpqUHVwTEFsWklsbnp4ZllTMndIYWhRM0RZa09qaTNiVXVCNmh5a2p6MnBidG1kWkJSUVJnb1RuOXdUcU5MRDVxbzJmcDE2UWZsaVZYRDdCdHlYcG1kUTdKT093ZXI4b3VkWjZNRzdDUDIwWEFWMHRia2FIY3dIdw?oc=5",
+    "timestamp": "2026-07-23T06:11:43+00:00",
+    "source": "reuters"
+  },
+  "ba8b14ded6d157c02db72ddce5b59010": {
+    "url": "https://www.france24.com/en/access-asia/20260723-modi-vows-stringent-punishment-for-exam-fraud-fuelling-india-youth-led-cockroach-protests",
+    "timestamp": "2026-07-23T05:59:07+00:00",
+    "source": "afp"
+  },
+  "7443d788288fa1bbfbc20cb1e09ddeba": {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeU5aLXdWekFjU1haYnkxWEY0LWlFLXQ2cllDaTJFZW5GOUFoNDE1Ny13bEpZUmdLYnpzSDM3NkMxLWRSWEdwUEc0dUlKdlp5c3lRSVVsZzdDNVY5Y25peEpWMW8xM2I4cVVycVNNWXY0LU1pcEF5S1czVmd2ZjdKOFVORFVyVDFSME1rSW5qcjJDY0VJSS1TdkZZNHlmUFBENGdzTzRyRnd1UmRZ?oc=5",
+    "timestamp": "2026-07-23T05:52:00+00:00",
+    "source": "reuters"
+  },
+  "4b18f2c1810f6438eb52a00e1e4c0bff": {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGRUc0hTU3FOS29iTTdTa3BxR0xGY0x2NWY5b1J5dFF0Nnl3WmFFaHpQMldxT3g0MEhJTUFTb1liR25LQm40RGwtWUFYT2lwT3Nyc2JGbHZ6ZUNZQWxqV04wZDlXQlU2dVQtWDN4STIzZ1dXcUg3SzdxYWM2QUF2WV9ZX2RweVR1YnZQc19WZ3gxUnJjQWU2Q0tURFAzazJJMGRGdTZxSkxqS01tWUFhb2lFb1pzRHhJSF9uNVBGTnlwekpw?oc=5",
+    "timestamp": "2026-07-23T05:42:00+00:00",
+    "source": "reuters"
+  },
+  "8cdf4c4b8ee9b9ce4cb345b916131963": {
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40M18xU2Fnb09WYnNkc0V3QzhxZlJORUpZMnVHYk96bVh2NjMzVGx3blJUbjJNcDdaMWJsakJNSVNoWUdWX2tfRkRWZUtVd2s?oc=5",
+    "timestamp": "2026-07-23T05:34:45+00:00",
+    "source": "fars"
+  },
+  "7f5b53a52203dca9bc94803167b2f1e4": {
+    "url": "https://www.nytimes.com/2026/07/23/world/asia/japan-sanae-takaichi-shinzo-abe.html",
+    "timestamp": "2026-07-23T04:01:09+00:00",
+    "source": "nyt"
+  },
+  "6b4af171c3ae71b8885465bef8813b98": {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSTE4NEl0QlphNDg2Z3VzWFlvd3cxQjBmVzYtOC1HS18tRTNNUWJodlRhUzI4M05DN1lhLWZJWkJCU2wzaXVfVEdqWTBJSmtjeTI1M1BmRkdOclRtOGtCQ3B4bWpxbFVSeXMxRWtwdUtpdFRCOFNLVGFHaFFYRGUtOHZZbFdpRlNScTI5TVZBbi1uMVRvWDlHSWx2RlYxWkFrVGItb1RsdkRpQThH?oc=5",
+    "timestamp": "2026-07-23T03:45:48+00:00",
+    "source": "reuters"
+  },
   "4a5ce376216a0790763ee3884e7a887c": {
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTUIxX2ZqcHFIWTA3T2dfWk1fZFJLdU5nMk5FcldiVmt5eUJrcWhrdmd3bnhzTDVKN0c3TlpsTmdhYTdDUEJ0MUljdy1xMmkxOHFvRG9WSGFjUmdEQ1VvTjZYQWhJQjV6QnF4a3p0aVB1dWdVOUQ5bnVIcnZVckJDaEZTaURSSV9FbG9jVEtnRndmTEU2R19iQjc4QkRaMUJtaE5YTmFMS1ZWcGk3RU5GeGhNU3djVFBsQWxDMERleWlVUG1ERnNkdHNxUQ?oc=5",
     "timestamp": "2026-07-23T03:24:00+00:00",
@@ -8,6 +48,11 @@
     "url": "https://www.france24.com/en/environment/20260723-climate-change-has-intensified-europe-risk-of-drought-scientists-say",
     "timestamp": "2026-07-23T03:09:57+00:00",
     "source": "afp"
+  },
+  "9995d4f8fb503ff3e46f376866fd3057": {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzBfZ2dVYUNDa2lMZlVQYXFfSWU3bWlaZjRVTV9DM0V3NjRDN2pvWnRhMVE4T2RwYXhGdTd1ZEMybWE4ekJGcC1Oa3lsWnFwQ1ZISE5XcUZOazlVaEZQaU9jLTQ2UmstZkZ3UWw5amhGQU1TTVY4VGRXX2R6d0xOMENmTmlYTHBKOGJnRTNDdzVZQ1p3NXA0alZSOVJxV0dwS3AxQkliUkpES0hneVdYMmtjNFpERW1TRkNUVDN5Z2E?oc=5",
+    "timestamp": "2026-07-23T02:29:00+00:00",
+    "source": "reuters"
   },
   "682f87daa191deafbdd8d734087b8851": {
     "url": "https://www.france24.com/en/middle-east/20260723-middle-east-live-houthi-rebels-claim-attacks-on-saudi-tankers-in-the-red-sea",
@@ -143,6 +188,11 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZEFZb0J6bFNEdUxxQTRHdkw0VXBIUGhsbW9VTVF3aEtBTTdLU1ZTYzZ1emRhZ0FUS3YwbFlmcHh2Wm80VWw4VTlMclNBZEUtVTlMMFJNb0RSZGtLLTFwYmVuUUpCdEhZb2ZaSk52RGc5M3lxZzRZOXNTV3ljSHBqTFJjWUx0UnFraGQxalNSdlhOZzhiNlQtX00xTkZkeTF6Qk8yamtuaw?oc=5",
     "timestamp": "2026-07-22T17:45:40+00:00",
     "source": "fars"
+  },
+  "bffcbbbbf9ce02424dccb50007d08959": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAza1M4R0sxN1RDbkx6M04yZGdEX0JaSFRTUEtoV0IxZ21MMWdNMmJHbDBvR01RWXkybTRfbDFOVDhrcVh6cm54Z3FfdmpIa053VlE?oc=5",
+    "timestamp": "2026-07-22T17:33:22+00:00",
+    "source": "iranintl"
   },
   "9cf51e51e784e6bd4df0d9038a1bd46c": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CZG9zVU54NnNsNnpRcEpTUGgzQ3ZlV2VyRm81X2NXbFJtajh2QjdwVnpjLUl0SnZWVkVYQmpHUE9yMnluZHo5YjFmaVUwVWJwNmc?oc=5",
@@ -426,6 +476,11 @@
   },
   "f688f06f6b8adfaba53fc1b8e72a3706": {
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRl9wOFpFSzdpdTN6SzBucUhOY2thanV5QlJwenhLS09fRFVJQXhWenVvS2o4UTNQaVJydTFYWkkwZFJfMGp5ejk0WTFPSWdTYXNlT04zaUdEdVJaSjlGaHJjSFFLeHZjZFZELWFMXzc4S2VRZzhzZTN2eV82SnB6YnJpSHppVmI1VmdsMi1zSUtKWmpTdFZycHRiQWtSV0NNcTBvTTVNbDRYaU9IbnRFUlI2RHFlRTEzV2JYRU11cTlpNGpsMUFwSzM5SXZCSXBQSVE?oc=5",
+    "timestamp": "2026-07-22T08:20:01+00:00",
+    "source": "fars"
+  },
+  "ac4a3e33234afcdb491616fc2abbe8d3": {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON3F1eFczTndIaG5qWm5JNmlNdEM5T3o4WXBWaUVGdm84VzBTdTN6TlE2X0JjOWVYWDl5OGJRRU52R1BPd29ROERSclBZNmoxZ0MyZURmNHkyMWdxa1k4RzVfOTZtVDI4ZjNDQWM5bnhUYUdubXRtQjI0eVRMeHllbl9hZlJmUTNkUU04WnpYX0JESFBIX29rcg?oc=5",
     "timestamp": "2026-07-22T08:20:01+00:00",
     "source": "fars"
   },
@@ -2443,60 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeS15OGt5NnpoN1Fjb1FKQzU2aWJQc282YnI2RnRlT2Z5aWd4WW5CVmpwMWpCWkRLS3ZVcEw2WVNSRW04NzBrT2Jod0VpOHFuUmVqT3VrUm14YjZac2RmVThTZFRDVHlENUVjTEZWbFNZSnlTMDlMczViVjh2OGdCNGpwVGRmck1MVV9PZlhsdkg0dWsyQnpmTlYtUXhlUWRTcjBv?oc=5",
     "timestamp": "2026-07-18T06:25:18+00:00",
     "source": "fars"
-  },
-  "0dc42cf4bdf3223f02fb221890f43829": {
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeS15OGt5NnpoN1Fjb1FKQzU2aWJQc282YnI2RnRlT2Z5aWd4WW5CVmpwMWpCWkRLS3ZVcEw2WVNSRW04NzBrT2Jod0VpOHFuUmVqT3VrUm14YjZac2RmVThTZFRDVHlENUVjTEZWbFNZSnlTMDlMczViVjh2OGdCNGpwVGRmck1MVV9PZlhsdkg0dWsyQnpmTlYtUXhlUWRTcjBv?oc=5",
-    "timestamp": "2026-07-18T06:25:18+00:00",
-    "source": "fars"
-  },
-  "09ab9c4387865053eca9f5bfc97e9cf7": {
-    "url": "https://www.france24.com/en/europe/20260718-russia-says-ukrainian-drone-attack-killed-several-in-moscow-logistics-centre",
-    "timestamp": "2026-07-18T05:32:46+00:00",
-    "source": "afp"
-  },
-  "2c351625dc515d604e8db613ba1a8eb6": {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONjZ5TDU5a2pfT01oNlB2YWxIYTgzRFVRc2kzSjhNcjFHem1Qc2lYV0hSOEJLVDFHU0dObnNGM3lwR24td2JqQ2h1UjRpMVBXMkQ1Unk1Ti0xWHNha0dCZmh6Yk1zSkJoSXJDUVhrYXJ6WjRmcWxFUnp6aC1vbndWbVlYaEEwUnF1d08zQjEtWnlFNXJSWVpJUE5oVUw3UG5obDBQVDJUZGdXMXpN?oc=5",
-    "timestamp": "2026-07-18T05:30:00+00:00",
-    "source": "reuters"
-  },
-  "8e7fb513118d9b3147cd10b0ab93251c": {
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQTBCbG1NUHJfOEZtSWI3WGx3M2RuWDJHMjNsZDdwZ0YybW1yeWQ5QmFHTWtFcXhzWktqS2ZURGg1eDIzOXZXMWFGRTB5WVljWk1zc0ZQLTBsSHZnME81ZjhQelVzVV9ZLWllX1Y3RzVJWUNXR0dVNVVvNHpmcUYxM1ZmblR4Y1BPUnpSOG83OEd4OFEyZW1Qal9rdF9SSkt3Y0s1a0QyMlVWRWxueVNmV0d4SkFkWHM?oc=5",
-    "timestamp": "2026-07-18T05:20:00+00:00",
-    "source": "ap"
-  },
-  "c209f5fe2a58dec1b333cc4f207b2e2a": {
-    "url": "https://www.france24.com/en/middle-east/20260718-middle-east-live-tehran-threatens-full-scale-offensive-as-us-launches-seventh-night-of-attacks",
-    "timestamp": "2026-07-18T05:02:22+00:00",
-    "source": "afp"
-  },
-  "31ae773bd9dfbd6b35c8cbc5ff209a4e": {
-    "url": "https://www.france24.com/en/middle-east/20260718-middle-east-live-tehran-threatens-full-scale-offensive-as-us-launches-seventh-night-of-attacks",
-    "timestamp": "2026-07-18T05:02:22+00:00",
-    "source": "afp"
-  },
-  "54026963c695058f90fa467163e0b744": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDdzTHpvMkVtSEIzSklZWnpnSk8wZVE4QVUzOHFBLXl2Smc0eUxaTkNQdi1KLTBtb3piRU5aeDlXcVB3eXRRazRlcXVWaHl4QTFMOUR6S0VwMjlpWGlCd1hwSGgyV3NEd3QycE1CWEZ5VEVpbFdKVEdUSE14MThPUmdoTFFJXzRQTDdBMVZaeDYxam41TWY2VnBhZjU4ME0?oc=5",
-    "timestamp": "2026-07-18T04:51:00+00:00",
-    "source": "ap"
-  },
-  "097bdec927466714be545367f2a36418": {
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZEtYLVh2dFVxM0pHSVRBQ3ZzWVFTVnJRMmNBaGF6bWNQUi1WZU1ab1ZZVE1aSHV6YmJraUpQTlllblp6YjROVDVTR1AwRzdVYjFpbjdFYzk4ZDJyM3lYWGJJN3p4RDkwWE1lVkxMQWNzNmpRYjdabnoxUmtXcWtUSVFLZ21PcGdBYUY3TG1xdmNUTFlsZkhFZThZOEVSSV9SeG0tUkw2X0U1RTgtaTZKbnM3eFBCaDNkYkJPU04zQ0loVF9xRnc?oc=5",
-    "timestamp": "2026-07-18T04:19:53+00:00",
-    "source": "fars"
-  },
-  "844ed49901125076eb377c0c49fee28e": {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWJLcmJqTEZma0M3ekZiSFFqNWx0Y3RCYjZrb0tRblQ1N3NYT2txdW1kaFMxanZVV09yRG1OYktWZG56azFJZER6WW9weDhBaG12UTFmeEdlX3hacEVBZ2hvTUotM0tNRUdBbVlJdk5Wa18xY1pGeUZpSDAxenBJaE1OZExMX2xFY1VuUVNHY1phU3NJYWMxZldIb1JsSkFUVHkwSw?oc=5",
-    "timestamp": "2026-07-18T04:00:00+00:00",
-    "source": "ap"
-  },
-  "2ca38616df49e8e8a4771ec9b23cfaed": {
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
-    "timestamp": "2026-07-18T03:55:00+00:00",
-    "source": "reuters"
-  },
-  "b16c9b8015eb58a936920d0de6ed9118": {
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
-    "timestamp": "2026-07-18T03:55:00+00:00",
-    "source": "reuters"
   }
 }
