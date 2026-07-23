@@ -1,13 +1,58 @@
 {
+  "dba67cd603f4dd8b2325c75c5d08f7c2": {
+    "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
+    "timestamp": "2026-07-23T16:14:02+00:00",
+    "source": "nyt"
+  },
+  "d7e9b2634cd4bf7bee812f3b422542a6": {
+    "url": "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html",
+    "timestamp": "2026-07-23T15:57:43+00:00",
+    "source": "nyt"
+  },
+  "1acca07579771141bc274ad6717e5c70": {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZUpXN3hsMGcyQU16bVZOVDBoaDBOZnoxQmtaei1FUkdrQ1p2VnJfaldQV3RxRUxZbFJSbU9IZzRvTHdYZVB1b2I4RV80aVAxNGJjRmFoZ2RmTTgxOXluWUdqclhVVUxYMlNrclV3NTNrV3hwQkd2YmNWN0hUS1U3c0V4aTZXcG1keVNKS2JVcU9zNTBVZmhsSVJsUlpzM1FKZGc4QzVWaFduYVpCcF9QMA?oc=5",
+    "timestamp": "2026-07-23T15:12:44+00:00",
+    "source": "reuters"
+  },
+  "a365d88acf2027047d950a4ed42ae5a6": {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0VBOVcxX1BiZmZ6M1VfVkNSVmg1bGREUzRDNWdjYWFQeXR3TXUyVm1aQURfb3ZpNlpuVVd2LXk0YTFhV3AtTW1HZzBoYjFFMGhpY0J5X1JUM3MtTmJaYmI5cExla1VOSTAzdi1CZVdGb0RXckdQU2hDSlVCMXd4eVZPalltOGQzQnE2M0w0SVYzdUNmYy0xRzFUNWRUSXZHeF9rWkY1UzI1LVpsN0NBUjdDZlJRT3oyWnpB?oc=5",
+    "timestamp": "2026-07-23T15:11:40+00:00",
+    "source": "reuters"
+  },
+  "8b5fdda927d924553bdc66ddee46ca1f": {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHFrc1BFd1MyNGJEdWFibkJiY1dGVjRNY2tOWUNTbEZTaEw5Z3liZFUxOWExS3ZhdExIZGpjRUFsSW9WWVcyZC1aRmdaRWtVSUFyVHBxeU5wOWZfYTBYbFpZZ25uYUVxUE8tRzQ0d2VOYVk2bTZlUW8yY0RZdnFmQnVqQjRkc2RoQ2Nya19n?oc=5",
+    "timestamp": "2026-07-23T15:10:00+00:00",
+    "source": "ap"
+  },
+  "eeae4cf6a6bf557819aa3bcfd615d202": {
+    "url": "https://www.france24.com/en/after-meeting-with-moscow-washington-reiterates-wish-to-mediate-ukraine-war",
+    "timestamp": "2026-07-23T14:58:00+00:00",
+    "source": "afp"
+  },
+  "0b30357d1f9e9f2953f093b4c616f707": {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFEtb2pVRzJFQThOZGROZ0hBV0pQUHNWSE1kZkFIdG9nV3d4eHBHUXlaTW1jQlpKVmNmV2twYmQ4VjJ1WDNPeW4tOXYtamtJeXk4STFCWk5CS09yUDBoRENzakZmR1FXbXdTcy0zbGdneURkUWphR1p0bTZxOUszS3Z5TXkxQnBwYjlBYVpXSEJCR3cyR3dZZTYwQktlTDJ1ejNpYklIQmlESXJCempEYUR4UWJXX2QyR1lwVGdiUmtMYU5NdzE2UDBn?oc=5",
+    "timestamp": "2026-07-23T14:49:16+00:00",
+    "source": "reuters"
+  },
   "9947908b067da76ee15f80438e1a638d": {
     "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
     "timestamp": "2026-07-23T14:39:05+00:00",
     "source": "nyt"
   },
+  "19bdca8178353c509e1928580820578b": {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZlRHcUR2VXh4anpDQXJzTGNBWm9WejRCbGI5bFQ5clg4R3BjQlF0a3FET3lDdGpMblZUajFaMmtWVjNLWDMwTWdYQ2xBbU1RaDdYeTB2QnZOZjRuc25ZZ2NuLXdUZ2hLZnp5SXZzSkRUNzB1MnpMNGZhWUFnOTk3Z1NDaF8zVXVsM0M1UDl6Wk0ySTJCUmxlNFl2eWdpRXd6d0dnaXQxTWhXc2xRdURr?oc=5",
+    "timestamp": "2026-07-23T14:25:04+00:00",
+    "source": "reuters"
+  },
   "f11c80aa287dd92feef061e08d91e457": {
     "url": "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html",
     "timestamp": "2026-07-23T14:24:39+00:00",
     "source": "nyt"
+  },
+  "b4bf8084bcf0b3838a4d32a86df4cf13": {
+    "url": "https://www.france24.com/en/middle-east-war-s-economic-impact-could-get-worse-if-houthis-join-in",
+    "timestamp": "2026-07-23T14:23:50+00:00",
+    "source": "afp"
   },
   "4280583ba09a77f091fb5a18242806a8": {
     "url": "https://www.france24.com/en/africa/20260723-ghana-president-asks-au-debate-on-south-africa-escalating-xenophobic-attacks",
@@ -18,6 +63,11 @@
     "url": "https://www.france24.com/en/indian-youth-not-scared-anymore-modi-and-bjp-party-s-architecture-of-fear-has-met-its-match",
     "timestamp": "2026-07-23T13:48:13+00:00",
     "source": "afp"
+  },
+  "10c912360f8dc245345e18c8b5ae47d1": {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzJSMEdwQVV6RGMtWDMxcGFBci0xMURsa2hYWnpiTk81azZpVk9IS1gyWDlLM2xoM2xBcUVpUDFiN01tekpWUUNKcWNDZWtmbDk4RDBCbW5ZNjlQdEJLNjlTYnRERDZfVmxYNWtfamNGWjZJMkxwaDV0U0wtSnBtTDJnblFjYmxqRWoxYmFGd2JOUng0Q3JBUUpMcGxWa3M?oc=5",
+    "timestamp": "2026-07-23T13:42:00+00:00",
+    "source": "ap"
   },
   "432b3f679ac25e5831bcb26fd9adb116": {
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLXl1c3hYRXRDZDgzZEUwUkl5dzN4eFBsWVhBVE81R3FCbllLTDh4RXpFQ3hrVzBHTXdPeEpMNTQ0b1o5VzlnUk5SNnFYUmd3b0tkdEVMY1hUQmo4dHdqcG5UZ2Z0OFZDUk00X1M0VENwc1JGTmstM0gzWmNweWNObk1LaTVlOEtGd2VCTVloNUhHUHJrTWJMQlhRWUxiTTBkblJuZm4tRzhSOC15WFdsdDllbXlwMmRRaEdBOGxqT0NnbkJiVTVLV3phbTI0QTAyQ213?oc=5",
@@ -218,6 +268,11 @@
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTk54Z0F2YlpXOS0tWUs2V1hwZ0cyRTN3MHo1VGQ4b2FIb0Q1bng3bXRpY2M4X1M3OVgxWHpsanpRRVk0QTdhYU9qWkJKd3ZJejU0TnpWREJZcFBVWC04YTYxWll4TXVXdTdRdlBoQTI2ZDU2SzYyWHY1NURjckpYQXdmZFpvWmtsVURZZ1pPaWt4MzlWUDBIUHNpenMzMkRhVGI3eUJEM1h1dU0wRThBY3E4NzJpUmF6elI3dk1Xekl2TG8?oc=5",
     "timestamp": "2026-07-23T07:05:46+00:00",
     "source": "reuters"
+  },
+  "fdcaf2dec1e9b2a53c0bbebcc1223a5d": {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb2V4R0l3VlJ4b2hyNG9VRVUxcEZrTjAtYTkxbnI4dTVHUkJIRTU0NlBlUmlxMlVfbV94ODg5bnhDRnFEQjZ0RzRicVF0Vm5odnBGWkJWS1ZUQjhQVC1LSUhTZThTX3JaV2pXSFkzWXphb215Zl92bXNQQTh3Z05xVjhVZ0JPeXVQc0FLYm9hZHZoU3pjLWxQOEY5bUVaVW1TVEhRR0dHZHBsZw?oc=5",
+    "timestamp": "2026-07-23T06:21:03+00:00",
+    "source": "fars"
   },
   "c0128a49b9daf85e6d4678de48b27fe7": {
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWFkYnFRZ1lKYlVmbi1lS2QyT1BteDg5MHdtQ2NsUnBPY0c1ZXF3TXluc3JLc2FlTENucHNwalh0cHU4emJnSnZkaFJqTDlaQTB3aHB1cm0wM0tKQWlFaTh0RkhleG1qME9SSnhNVlotaWFnU0NYczZaQ2pQSmJkZGtMZF9vclBhOXRmY2lYYTdpS0c4WWRQTg?oc=5",
@@ -2442,61 +2497,6 @@
   "d2b7a2df2e05d638dcd2ccffe74b01c9": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjMzd5Nnh0UjEteFVhakVpLXVpeUdIZzZLNzVCQ1IwRE5OcktLYWs4M2hyVG5wOTU0VHhYRDR0UHpaeXp2cnIxaXFQSFpNZjdBMFE?oc=5",
     "timestamp": "2026-07-18T20:24:21+00:00",
-    "source": "iranintl"
-  },
-  "386eee625540d9fea8092d2f96d3ea3c": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sTVB2MnNtRXR3Ry1ianM1U3oxUGxLNDUzZTZGVkx4elRORUJBZXFReWtreHFfUnZXX1J6dGl5R2M4b19ueFdwMzVuZTZzMjNhNlE?oc=5",
-    "timestamp": "2026-07-18T20:19:46+00:00",
-    "source": "iranintl"
-  },
-  "7855c456701b375840bf2e753874b7ad": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtWTRyOTBObmlRT2p1a19qQTlrY1pTaWh6ZkRpYkZieWlEaHluaF9VZi1ZM2oyVE9hRDlteHJhSUs3ZHdTN2F5Y3NfbWxLdWhTb3c?oc=5",
-    "timestamp": "2026-07-18T20:10:24+00:00",
-    "source": "iranintl"
-  },
-  "246d5656c05ee5cb9c54cdde186eb62b": {
-    "url": "https://www.france24.com/en/middle-east/20260718-khamenei-threatens-unforgettable-lessons-two-us-troops-killed-in-iranian-attack",
-    "timestamp": "2026-07-18T20:10:02+00:00",
-    "source": "afp"
-  },
-  "f54496923097e545dc8a293373eb3824": {
-    "url": "https://www.france24.com/en/sport/20260718-france-england-live-deschamps-final-bow-in-third-place-playoff",
-    "timestamp": "2026-07-18T19:54:25+00:00",
-    "source": "afp"
-  },
-  "f997bbbfa7da586948c769b84f9e37fa": {
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaVRkZS1sR2hLcm50Ym42SkVHSF81dEc2YVU5cmYzVzBvSHE1Tkt0azZQTVF5QkFWSmM5VkNPZHJKd1BrOEZTc3pPNlFRdGRrd05MaU5PdWNLUVhiZWZ3Y3ZDMzFRa25SM05TbEhfUVVDa0VldkpUbnlFU1VNYlhrMjBJbmRla1p0d1hRTTRVdTBWOWNsaU9GVXZuMHZaMTR0VlpYcDdiNFQxNGsxLUhuLTkwT3NpUmdablNobk1RcTdnOVJzbGszLXE1czRJX0U3QzQ5SXNBWk14Ujhic2c?oc=5",
-    "timestamp": "2026-07-18T19:42:33+00:00",
-    "source": "fars"
-  },
-  "4463fbaae80cf2182a923b09e40a04c4": {
-    "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
-    "timestamp": "2026-07-18T19:39:02+00:00",
-    "source": "nyt"
-  },
-  "4a331d7d8dca276d4f5fc45c75815a99": {
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13UWpmV191UlJpQmNYclF1Uk5IVDZKSTUyaE10S05aSk9GTG04QVF6azNFMnBFVmRHVDBJN0stNXZ2ME5SUXRqZDVIdFRRYmYxTkd3UTdiX1RtTTl5MTFlbTNHNA?oc=5",
-    "timestamp": "2026-07-18T19:29:49+00:00",
-    "source": "fars"
-  },
-  "a76ca0af18b171b5a599c918d85dfc32": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjeGkzZFdWeFRyVjRTMzBZblFqZWtDTURrZm44aUpPeFM5ckpEb010UXJSeXNWZWR6NVg0OE9GQzdrb0hLd0J6enM2WmlPSFUzdUdJNTRxY3lYRGVWQXc?oc=5",
-    "timestamp": "2026-07-18T19:19:28+00:00",
-    "source": "fars"
-  },
-  "5932e3dad7e8d7592deff517481eaf09": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjeGkzZFdWeFRyVjRTMzBZblFqZWtDTURrZm44aUpPeFM5ckpEb010UXJSeXNWZWR6NVg0OE9GQzdrb0hLd0J6enM2WmlPSFUzdUdJNTRxY3lYRGVWQXc?oc=5",
-    "timestamp": "2026-07-18T19:19:28+00:00",
-    "source": "fars"
-  },
-  "25a26d379c628321c2fe35d658b4b027": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbS1jN0tZcUtrbk9GU3RKeUxqTHM1Qk5DUDF1VDBVOUVqaVp4QV8xWGhEMmtFV3JRRDc1SXlxalZwcElvUlBXQk13R1NPdW91eUFNRF9UT3JRM3ZHTC03a2ZaZmg0Z2tJdXdCRjVMUml0eWtTSWFLU2U5WGxIMHBNSG1hb2dTS3VLak0zVXdZdHhKY1duRml2MW9Ea0xxVlU?oc=5",
-    "timestamp": "2026-07-18T19:16:00+00:00",
-    "source": "ap"
-  },
-  "32aa81ced9cf9e6b7e2acf788ee286a3": {
-    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBwNm5oNUZOb2hLc1RtTnQxb1hzT2NQZ0NzN25BTlRJMDdveGxiTmcyNVJSRHg1MzdUcW43TzB3ZGRsdw?oc=5",
-    "timestamp": "2026-07-18T19:10:21+00:00",
     "source": "iranintl"
   }
 }
