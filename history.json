@@ -1,4 +1,29 @@
 {
+  "eeec31f61b524317572f38315806d716": {
+    "url": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil",
+    "timestamp": "2026-07-24T15:15:18+00:00",
+    "source": "nyt"
+  },
+  "cd01dfa9639f29660c2703863142947b": {
+    "url": "https://www.france24.com/en/video/20260724-ukraine-targets-russian-ecommerce-giant-s-warehouses-in-fourth-attack",
+    "timestamp": "2026-07-24T14:52:05+00:00",
+    "source": "afp"
+  },
+  "bc7559b17b6542afe95a75caa0e9a9f9": {
+    "url": "https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html",
+    "timestamp": "2026-07-24T13:41:46+00:00",
+    "source": "nyt"
+  },
+  "a26855a709085f992b76d4590e7cdfc3": {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVlRzM1ZTeGFBcmo5amNyMEdTTTFfckplNkpWeVVqZmF4Z0txWmpXaS1PN1c2SG5iN05JWThRem9BTW12TXloVjl2QXdDUjMtNXFGOUdSc0NCSzAtWHQzZ1QxV2UyTmduejNZRzBoZE1LeWFpTlNibW9pVHJISEdaVmFva2ZaajJ5MHlMZmdfSVlLMUJPN2RKcVJXbGdaWk1ReEE0NzJXeVVKTm5wV2ow?oc=5",
+    "timestamp": "2026-07-24T12:57:44+00:00",
+    "source": "reuters"
+  },
+  "4edd6b3a53e127f169d3f00068f84065": {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZXJkN3FGeW5KYVA4RUdvaV9Lc3lPc20zRl9oRnRzMmFCQlZOLVlsd1pYY05oUTdhbGpqbXFBb1N4aVVZZVhac1JYTDZFYXdQcXZRbUxlZ01TczhPajc0N1hBdW5EZnBGZG5jWElpbVJhYzA1UFZnaDJrY3dRQ0RQZlBKUFU5ZWFxdF9SZU16cWQtYm56N09qWVVsbHBPV1NaTWttR0VSSGhBakVYOHVDMzZNclo2SkNLLTkxRUlTT2Vib1B4TGI5eA?oc=5",
+    "timestamp": "2026-07-24T12:55:58+00:00",
+    "source": "reuters"
+  },
   "fdd78e22cb30ae6589154174560023a2": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ITXpwOFFlSzhORVBRNG1JNWU2YXQwRkR6RzFSbmFodVE5bzJYRFhYcEMxTElRYl9zSkh5dXIxWTlzMk1YSHBIeHJTemQxUmc3cWFJYktyMWliZnN4WXc?oc=5",
     "timestamp": "2026-07-24T12:43:47+00:00",
@@ -43,6 +68,11 @@
     "url": "https://www.france24.com/en/tv-shows/fact-or-fake/20260724-meloni-the-face-of-europe-s-far-right",
     "timestamp": "2026-07-24T10:42:31+00:00",
     "source": "afp"
+  },
+  "1085e2f55eda7c16f64a036bb670eec5": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjM2hVclZoYkZXclJncnNONVp0YXF0SEx4X0FjU1hDWVoyNnU2d2tWdmVRRFdjcGpWMjkzYkpSTm1LTXJzS0l2Y0dGdzZPSWFTVUE?oc=5",
+    "timestamp": "2026-07-24T10:40:59+00:00",
+    "source": "iranintl"
   },
   "bc6f5d8936695346579a867cbc2fcc80": {
     "url": "https://www.nytimes.com/2026/07/24/world/asia/india-cockroach-party-cjp-protest-memes.html",
@@ -113,6 +143,11 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWGV3WEFzTUlYVHd1OGNRbDBDZEtVWmRKb0p6NEVjOUFPQTZacThBczNFemNrVWxfclViZHdOOGw3cU4tLVdxSkRBM3RVLUZ3Z212Qm96a1JBUHNkLWN3V1dHNnd2eDJNUms1d3R1ZTN5dGItcmtWWjc1cGtTcTRvaVlfWGpoODJuQ3Y3MFc1ZGhpa2FyVlE?oc=5",
     "timestamp": "2026-07-24T08:05:02+00:00",
     "source": "reuters"
+  },
+  "bab0c24d9d55338e133bdf437803b724": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qc1luVGx1NGpLLTlmSzdoOS1TVDhGZl9nbUhTYUpfam1pcGwxTi1nQmtqdm5qc0FORU5vSVptNW1FSjNzX3FNZG8xMlF4VDlZOFE?oc=5",
+    "timestamp": "2026-07-24T07:42:07+00:00",
+    "source": "iranintl"
   },
   "ec85bb282de84412ccca6daa9e09a693": {
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaE1wYlpuSThBV1hnZUNHVy1GTDZLaUliaVozZi1qcXBMNXJFQ3drMW43dmNQdXBlSlVMTVZHMU1Ec1ZLUUw4MzFDMkFoWElhVU9HN253WW9KLVVRS1g1bGNqSDF2WkdOdzRLNG96NFQteG5MbjNqeTlWZ2VGdHlWNzNjbWVKaXItdGszUmR5bXpCTVpQYW5UZ2dhYmdTN2ZEQldBMFFURDd1WmJVVFBWYU5yRFZxbzJ5?oc=5",
@@ -373,6 +408,11 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBydjJrWFJhb3hOajk5Q1Qwd0puTW9pMm1VN2dORHdGaDVJNEVaVUJGbGlBSmd3MTRtcjVfZV9vaUdPa2NQZGhFX0RPN3oxVVBpMFE?oc=5",
     "timestamp": "2026-07-23T17:43:49+00:00",
     "source": "iranintl"
+  },
+  "6274452b7c766172ca0f7c57d0b61d61": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HejVYaGpKWmVnRkJva0U1bEFpTDdsTEdvY25wN3lnMHJyRWNMbm4wYTYxc2FvVkstdHpENVYxZWxqMXI2RzVfcDI2a0RIUktkSlRacWVLbHNSWGJSbHc?oc=5",
+    "timestamp": "2026-07-23T17:42:30+00:00",
+    "source": "fars"
   },
   "a8fbba36aa9d40f74e708e633287e9da": {
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxRDRFMmRmR3pMZWVzWmxYVjVSQ2JLQTdGYnQxcXVPblFmLXBxRnRfbUFQTERVUnZRZVY3akdZem1XTkFFLUdYbk50c1M0TUhVdW5vZE45Vm8zQQ?oc=5",
@@ -2458,45 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wREMtTFF4S1Z2NEtyZER3aGJ2ZXMtT1o3bmFTd2VuMXdxeEtpVUlROExudHNEN2VTM3kxTklPSE9pd2p2Mm00M082RFNwX0F4Z2c?oc=5",
     "timestamp": "2026-07-20T03:40:00+00:00",
     "source": "iranintl"
-  },
-  "4cc1f6027615b3401e8151a4f577b85d": {
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16dy16c2NKd01KTHhfXzlrOWZyN2xnOE5YYXNKZEQ5S04xdEVCd3ZNN2VxSmJ3elE5MWtGVGMyZjFvd0lpNG1HTkF6Y1duUjlBTWNrcHNBQ1BldkZQTHVJ?oc=5",
-    "timestamp": "2026-07-20T03:13:36+00:00",
-    "source": "fars"
-  },
-  "87e87414d03ef0fe0e0070b1b976fefa": {
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16dy16c2NKd01KTHhfXzlrOWZyN2xnOE5YYXNKZEQ5S04xdEVCd3ZNN2VxSmJ3elE5MWtGVGMyZjFvd0lpNG1HTkF6Y1duUjlBTWNrcHNBQ1BldkZQTHVJ?oc=5",
-    "timestamp": "2026-07-20T03:13:36+00:00",
-    "source": "fars"
-  },
-  "4d3966c437beec7dc1a2333a17b2c1a3": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KaTVQWDNuZ210bVVYNlgyM3FLOWxsZEpSQWN4akZfVktXaWFHN0JmTFA5WE1VQWRhSWY5STZWRVJrT3l4R3JPVXpwMjVuN1BSa2c?oc=5",
-    "timestamp": "2026-07-20T03:02:50+00:00",
-    "source": "iranintl"
-  },
-  "1aeec312c5a6485744efff9cddca0a5e": {
-    "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
-    "timestamp": "2026-07-20T02:31:26+00:00",
-    "source": "nyt"
-  },
-  "bb1f77ac6b3e8cd31fd7930d3f7ec92a": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jNkQwSXdwUXAyM3NIYnl0Q3ZYQlVmbWwwWVY0RDViRzd4TWt4MUhVbnpHOFVLR0ZWdUpCdzNHb3hPalV3OXUxZXl5RU1mZTA2ZVE?oc=5",
-    "timestamp": "2026-07-20T01:47:05+00:00",
-    "source": "iranintl"
-  },
-  "e340021218366d036444764dffdac07b": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GdE1VaUhCZTRja1hiZFp6ZWtDWWJHM21Wc2tQU2xlYW4wNGFnWURoZmt1Z29NcmQ5a3ktTGtaclR3YkJwdm9BQV84TG9ncUlsdmc?oc=5",
-    "timestamp": "2026-07-20T01:34:00+00:00",
-    "source": "iranintl"
-  },
-  "4243d4135daa9a0d97d96aaab0d5b230": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVVPQXpIUjAzU1c2TG1GcXJUU19aU2FodDRTVWV4RVdVN2stQ1NueUtIRC03M2hXNFZLRkQzUUdqMWNQOVBMbzFmc1NGejY3bXFNSnJYMXNNRTIyMlNMYjFPbXVOcXJCSkFPVHNsMkRvblBzcjc5aXJhbHlndGlrek9RbmVBTlN4SHI3N1VHLUpGVlNmTE4tSlAwSktTd1k?oc=5",
-    "timestamp": "2026-07-20T00:31:00+00:00",
-    "source": "ap"
-  },
-  "de2251aa5b9fa7dac05eaac55d51780d": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VN2RjS2ljVGhTVjFWZ3ZnbEk4UTBqVUhCN09xT0JjU2w1RUxpOXJRRnBKMEF5aUdIcUV0ZFJYRHRqT1JjakxsTUJmUk9PZ2c3S29tc3RtNEl3X0FHN21BWg?oc=5",
-    "timestamp": "2026-07-20T00:26:44+00:00",
-    "source": "fars"
   }
 }
