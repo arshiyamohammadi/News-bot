@@ -1,4 +1,24 @@
 {
+  "038519c0b7c5aadc0bc8912f19b379a8": {
+    "url": "https://www.france24.com/en/india-s-education-minister-resigns-in-major-victory-for-youth-protesters",
+    "timestamp": "2026-07-25T12:47:33+00:00",
+    "source": "afp"
+  },
+  "b356bb19864b1817d5beaa0bcf973234": {
+    "url": "https://www.france24.com/en/venezuela-honors-thousands-of-victims-one-month-since-earthquakes",
+    "timestamp": "2026-07-25T12:39:53+00:00",
+    "source": "afp"
+  },
+  "0c6fd5ba2052120742224688d09e8b1b": {
+    "url": "https://www.france24.com/en/ukraine-kyiv-protests-continue-after-zelensky-fires-defense-minister",
+    "timestamp": "2026-07-25T12:31:32+00:00",
+    "source": "afp"
+  },
+  "3a901b86a0d089a3e25ca61735bce695": {
+    "url": "https://www.france24.com/en/ukrainians-back-ousted-defence-minister-as-political-crisis-brews",
+    "timestamp": "2026-07-25T12:28:17+00:00",
+    "source": "afp"
+  },
   "4132b86573755a264d933534b590843d": {
     "url": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations/france-spain-wildfires-evacuations",
     "timestamp": "2026-07-25T11:40:12+00:00",
@@ -23,6 +43,11 @@
     "url": "https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html",
     "timestamp": "2026-07-25T10:19:57+00:00",
     "source": "nyt"
+  },
+  "1201a85dc9a09665ef5d80faa094a5ca": {
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LOHlCdGtqVlFiUWZONDlLakxndU01RHMtcFlNenNUZTlUNFlIN25jNkFWN0FnNjNWQXp1dHdyeElUcE1pLTdtdF9uUVpHYWwybkhKNEZXcFUtQQ?oc=5",
+    "timestamp": "2026-07-25T10:01:01+00:00",
+    "source": "fars"
   },
   "a038b07cc05c670f8fe00d88ff3f5b87": {
     "url": "https://www.france24.com/en/asia-pacific/20260725-indian-education-minister-resigns-after-mass-protests-over-exam-paper-leaks",
@@ -139,6 +164,11 @@
     "timestamp": "2026-07-25T06:14:00+00:00",
     "source": "reuters"
   },
+  "674d6277a2af5f3869089c210bf515ae": {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajR0a3JtLUFZTGVwMWJFUDdCR2M1UlpfRGpUU3FEUmlsM3lsNnlsNGMzNkx4VFRlVmNyWUdvTHgwbFBuaVF2czduWDdDNXg2X3Z2M0pOTEFSZklJaVBVbXlYLTZ0czY5V0lUWjNob0d0SnF5NWE4dDlUamNvUTVDT2ZrV1l4dmNVdEZjbVl3YjJYajJ1RDJwbzNZWjdWZGdoNm11NUhvb1hiVEhmbU1rRDZEeVBmdDBlS3c?oc=5",
+    "timestamp": "2026-07-25T06:14:00+00:00",
+    "source": "reuters"
+  },
   "bdc8db27e9c341b1e79df42fa62e54db": {
     "url": "https://www.france24.com/en/middle-east/20260725-guterres-arrives-in-syria-for-first-un-secretary-general-visit-since-before-civil-war",
     "timestamp": "2026-07-25T06:08:03+00:00",
@@ -203,6 +233,11 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBndG01THNtY1RjUktUTFBUWlB4bG45QjdNQUtfcVhTQjRYUUNXYVFfdjRSbHB1TmpaREFzb0tEXzJHZGJzR1lrRHZ2NjFiQ0ZBNVE?oc=5",
     "timestamp": "2026-07-24T21:17:55+00:00",
     "source": "iranintl"
+  },
+  "f0514eae54d3e64a4c72b0fc73134117": {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSmlYckVuYk1wbnBDMUZSaV9xY3Jha2ktXzUyYzV2VjA4UWJ3ZEdpSHFoNXU0QVdmMUFZR0xSaGc5ZjZJc1JQVzBkNU03SkJ0YXJhTFl4YTZZcVd5N1luLVZRNTlUXzkyLVQ1SzhmcGdvQWd3MzBNY014bS1JdHBVWTJlX25PendGZ3pPY0IyYTJQeVA1WTNqdUlkOA?oc=5",
+    "timestamp": "2026-07-24T21:16:00+00:00",
+    "source": "ap"
   },
   "bccbb876f3083846e16f7fe2ad0bab60": {
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2FRaUxDRUdfTGJFekZEWjI5UFN2QnlvRjkwNjc4UF9NdXV6c3JvV3hFOEF3a1V1dmRtWTlrWDd0TkNLZGV3c2RPaFNyaThGLTFITkdLSllYRXZtWWRIT280cjVRU0ZCVXEwcmpOQXhOZ1Q1aUR5UnFOQnZrQThyQ0tVM0w4bjN0SC1WTlRFWXgwYnN1eFFId3EyVHEyYlBmaGdiUw?oc=5",
@@ -2463,40 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUtZaU1rRXotenV4eWFXNm9PdnF3bHgxaWFyZ1hGeF9laVlyak1TWWdVSDNkY0FlUkw2YVhhWG1lVDhrc192Z0JlNllKc2ZrOFFCZEMwREtYelhTUlVWS1h0b2NvZXlHeENJYll6eDVMLTd0b04zTGR5SjlsNW5MZDZNeGFxalNLMlBNb0ZSY3l2dnQ1R3VJSw?oc=5",
     "timestamp": "2026-07-21T03:52:00+00:00",
     "source": "ap"
-  },
-  "38f9a9cd93e74a4a7df2bda2dbd0dc87": {
-    "url": "https://www.france24.com/en/europe/20260721-uk-prime-minister-andy-burnham-unveils-new-government-replacing-starmer-era",
-    "timestamp": "2026-07-21T03:21:53+00:00",
-    "source": "afp"
-  },
-  "8c41f96d70234c1c38b69cd2259dd999": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SSWNwZUlGaFFCdXdRTmMtY0NfZWpWZWZjVThnQ2RsTUNWaXpaRmR3dTVaYW9EcW1tVU8ySUtLMktObTBlNjAzSlcxYnFCNGg5R0E?oc=5",
-    "timestamp": "2026-07-21T03:00:44+00:00",
-    "source": "iranintl"
-  },
-  "16d5c2289081b808d2142d8237510a2e": {
-    "url": "https://www.france24.com/en/middle-east/20260721-live-lebanon-s-aoun-to-meet-trump-as-pressure-builds-to-disarm-hezbollah",
-    "timestamp": "2026-07-21T02:50:32+00:00",
-    "source": "afp"
-  },
-  "b99813f39e0e532a366036451af7c28f": {
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjlJZGJYNm5OYjczNWZJZkMxZGFGRFRJSHVGZjFaMS1KTkNfUTgzV2Y3Qk5VU0RDR0ZXOXBBUldobElBb0hRV2Y5MmlkR0pVNkNlN3RESGlzUlY2bnFBUFNJN3JaVmpyR3RzVkt0QTRVcklEQm05cmNIaUIyQkVJeWtzbi1sSk9XeFZpaURvUU1rM2hJLTMxcGJZa0RzdDFUcV8zdkNuQndVay0yYUc1Q3piMThnS2M2Wm1GMGNVREcxejFLNWxEcw?oc=5",
-    "timestamp": "2026-07-21T02:26:00+00:00",
-    "source": "reuters"
-  },
-  "91072a0ddb450afbaac6be4c895dbaf6": {
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPelNiSUdhbjhraUJ2RmhZbDN4eDJydVAzdnZJODRIYnhpS3dVUjBFYW9IU01TWHlUdzZERFBMOHl5a1E1XzRYRlpmdGpkaGlDYzFMODNmU053X3JGeE9HVjB4bUdXcXJ6ZzdzdHd6d0oySkJIbEdOdGp5QkVNaGFSMGpFNDM5TEZWdjM0NmJKcFRPYmFfRDdROC0yS2tqcl9aVXc?oc=5",
-    "timestamp": "2026-07-21T02:17:00+00:00",
-    "source": "ap"
-  },
-  "e2350dca2b6d3fcb851b43a748144d16": {
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNlZ6UW5NX1ZjZ3BJZXota1l4Qnc0SjdPWnZGTmsybzNSTXM4cWl1YzlhQ3BnbGREVWVvdjdGNU1nY2c4aFIyMFBkR1J2VkFreGt4d2RQLUgySFd4VjlGLWhKT1hSNzRoa3dmdks2RHJYOGRxamQzTTk0U3g2NWtzZGhobXA?oc=5",
-    "timestamp": "2026-07-21T02:02:00+00:00",
-    "source": "reuters"
-  },
-  "08ff955610407f3d5fdd420a592c75fb": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kR2V6OUt2V2IyVXJMVnZ1S3diSU12QVNheGNid2EyYkpTX1RQd1FjVFp4ZndXRHNvaEdBUE1odVNKRnF1VzBqcEhFSVJKUm1Mamc?oc=5",
-    "timestamp": "2026-07-21T01:31:19+00:00",
-    "source": "iranintl"
   }
 }
