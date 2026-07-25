@@ -1,8 +1,83 @@
 {
+  "a038b07cc05c670f8fe00d88ff3f5b87": {
+    "url": "https://www.france24.com/en/asia-pacific/20260725-indian-education-minister-resigns-after-mass-protests-over-exam-paper-leaks",
+    "timestamp": "2026-07-25T09:38:35+00:00",
+    "source": "afp"
+  },
+  "b7a4cbff840f6345c6a917b8b24dbfe5": {
+    "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
+    "timestamp": "2026-07-25T09:37:30+00:00",
+    "source": "nyt"
+  },
+  "8488f9d29325ee19bfcf505bcd2f74b0": {
+    "url": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns.html",
+    "timestamp": "2026-07-25T09:27:28+00:00",
+    "source": "nyt"
+  },
+  "4223d6dd507829782b53bffb7736d6fd": {
+    "url": "https://www.france24.com/en/middle-east/20260725-video-iran-downing-us-b-52-bomber-debunked",
+    "timestamp": "2026-07-25T09:27:16+00:00",
+    "source": "afp"
+  },
+  "8a3f5cf5a7c16784c943a1e5df518f0e": {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVmozZTBOTU42dE9YZHB4bTV5TVUyU01UUjZydFN6aGo3ejJXeFpSUVhJZ3pkYWE5SHNsWjRobGROVV9YS0g3aU9tRElrWmFqbkZtN2I3TDVXaEVlSkdXUl9NSkJIWUViM09QWkxSTm1KMmdSeW9PMk96d3ZXVUNDNnJMTFhNYUotZ3V5aDNwNTZrYVkydTFXYkNDZXZYUmJ3Z1NSYw?oc=5",
+    "timestamp": "2026-07-25T09:06:47+00:00",
+    "source": "reuters"
+  },
+  "bc7a891c9626f0c39b25bdd1d8cb7e6b": {
+    "url": "https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html",
+    "timestamp": "2026-07-25T09:01:55+00:00",
+    "source": "nyt"
+  },
+  "0d671a7d4ab203e03dff71b3aed131b2": {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmdIWGFFSWVSaFFTQ1laVWtMOUE1RkVWWTNjY1lCVUcxSWEzSTN5Qkg1S0FlYmJiUGRHNWsyejJrRGRQdk1ldThBU05zZE5iYVVFSEhoZXphTGlIZXdtSE1mQ2NSRU9lcmpNT2lWcU5aWHpMb3lvS3I3YVY4S2QxeGQxclBiR2ZldVdjQ2NpX2lrMzhLSThhV1RTaGh5ODFJd3JlYXdPcG42SmN1SllZZ214QTFhcWNIYXh3WndkRQ?oc=5",
+    "timestamp": "2026-07-25T08:53:56+00:00",
+    "source": "fars"
+  },
+  "79078692014609245d99d9c275e0da72": {
+    "url": "https://www.france24.com/en/middle-east/20260725-palestinians-bury-four-people-killed-in-occupied-west-bank-clash-with-israeli-settlers",
+    "timestamp": "2026-07-25T08:42:58+00:00",
+    "source": "afp"
+  },
+  "122c25cd3c2ea63d196f968253a7eebf": {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BR0psTzZnNENVZTRjMEtTUkF1eEctaDRVbHVLVThLRlJfQTRreFlDZnloQ25DdEttTjZ6QmdiUWlHaXRjcTRQQnJqdnVuMEU5M2txNV9kZGlkc0ZqN1FRZFpvTQ?oc=5",
+    "timestamp": "2026-07-25T08:39:32+00:00",
+    "source": "fars"
+  },
+  "c9ad180088a3fb5896b97a9afd1a28f0": {
+    "url": "https://www.france24.com/en/middle-east-red-sea-tensions-grow-as-saudi-houthi-clashes-open-new-front",
+    "timestamp": "2026-07-25T08:30:30+00:00",
+    "source": "afp"
+  },
+  "3bdb6f112584a5b5c1ce23a2c0eebe18": {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHg5WHpGQUVLek9Iam5VVXpYX081bXowQUp0OWhxbGItQjVZNmc1aW9DdW5icUo1QUlKR096RmxLOHc3eURGMzdkdmRENnhKV2FIT1lUdUg0WVY3MndLNVZCREJwTVpmVEJ5dkZKNXNOdlFINTBXSERwVTdzc3FZOUhrZmNFMnVXVWp0ZEhROUY2bjVFbUNiN2F5U1JWeDhOM2JmNQ?oc=5",
+    "timestamp": "2026-07-25T08:29:25+00:00",
+    "source": "fars"
+  },
   "57e39d5ee708852a91823348ea8b7efa": {
     "url": "https://www.france24.com/en/climatologist-warms-of-heatwaves-wildfires-and-rising-risks-in-europe",
     "timestamp": "2026-07-25T08:17:07+00:00",
     "source": "afp"
+  },
+  "5bde9bf9ed671bc54bfaf48babea1ea2": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11elBSNWtkTF9jWEtZOXg3UnFrZE9meUdJdGFRTGZPSEtVeS1fQTYzQ0I1OVlfTkV0MUZ0ZmE0SDhHUlU1eGxCbkx0ZzJEZFZqZVE?oc=5",
+    "timestamp": "2026-07-25T08:15:26+00:00",
+    "source": "iranintl"
+  },
+  "d1952a1f959faf3e244015ad1cc9760d": {
+    "url": "https://www.nytimes.com/2026/07/25/world/europe/nato-canada-china-arrest-spying.html",
+    "timestamp": "2026-07-25T07:59:14+00:00",
+    "source": "nyt"
+  },
+  "3faaea9d3b0867e9c236545ba97b22eb": {
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3g2TnRFRlEzbjhJTy13dGx3cGszWE0ydEZ2bGlEUlIyR3diOTVmYlJZdDQyY1dhc0dNWjZISm1VOW54akNlQ1FkQTFTZnFLR01adUh6cGlLSV95OVJ2Ym1ydGFtVW5uNnBZaWE2Vzhld0UtdFdRSy05clpSblJHZzdXQXhFcUNseV9zYXFyRUNIRWxLeE92amowZGlMZTg5dGpwTEo1VVF5SzB6b3B6bGt3M3VDREE0M3VHcVFtME40S0JDNHJj?oc=5",
+    "timestamp": "2026-07-25T07:28:20+00:00",
+    "source": "reuters"
+  },
+  "f5d461ca63fa1da83545704cdd718aa9": {
+    "url": "https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html",
+    "timestamp": "2026-07-25T07:26:22+00:00",
+    "source": "nyt"
   },
   "d1f7f24fb9b0418ec8ec25ae3d3ee0b3": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ITXpwOFFlSzhORVBRNG1JNWU2YXQwRkR6RzFSbmFodVE5bzJYRFhYcEMxTElRYl9zSkh5dXIxWTlzMk1YSHBIeHJTemQxUmc3cWFJYktyMWliZnN4WXc?oc=5",
@@ -11,6 +86,11 @@
   },
   "37c140ac01b0261ec46476bb946ad028": {
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ0JQQTg4MlNFY2RMbUw2Y1F6ZDdiLVBZNDUwbDBVYU0yZDVfVEVPSjM1NWVSdFM0SkRRdURmY2RvMXRJbXlJSDJwZXA3TGw1UllzRGFyU0lJLWZFOW9mbG5RcmdzNlAzeEJJT18xcUdRdWV3dUtzTi1Xc0sxX2ROZzhCcXpkdGxnek5QZXNzeVJ1azhQbFRVZloyQzFZZmVoQ2ZiRGdiRnJtaEZmZVVIaGhpZ283UXFnX3Y3MkpLOUx3RjFLSENSSXozUXE?oc=5",
+    "timestamp": "2026-07-25T06:14:00+00:00",
+    "source": "reuters"
+  },
+  "5283e816a2911ad8a6812f46cc649cc6": {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajR0a3JtLUFZTGVwMWJFUDdCR2M1UlpfRGpUU3FEUmlsM3lsNnlsNGMzNkx4VFRlVmNyWUdvTHgwbFBuaVF2czduWDdDNXg2X3Z2M0pOTEFSZklJaVBVbXlYLTZ0czY5V0lUWjNob0d0SnF5NWE4dDlUamNvUTVDT2ZrV1l4dmNVdEZjbVl3YjJYajJ1RDJwbzNZWjdWZGdoNm11NUhvb1hiVEhmbU1rRDZEeVBmdDBlS3c?oc=5",
     "timestamp": "2026-07-25T06:14:00+00:00",
     "source": "reuters"
   },
@@ -2418,85 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYXVTWnNEMkhKVndzUVlpc2VaU2tIa05vYnZwVXc0bEY2TlJsY0NSanJNdmZSaTFuUkVmVnhaeUNvOHFkdG55aDVaNk1OOW5oWS1EX2xKT0hRdlVXYmFvbmxWZ0FNQ1BIQmZrbHNVR1VJak5WNGZSb3Y3ejhpLXUwLVNVaUFnRF9jRnhPOUQwS2dWSExBbjI3R2l5V1U1QnppVVA5a1lB?oc=5",
     "timestamp": "2026-07-20T22:15:51+00:00",
     "source": "reuters"
-  },
-  "6591d72529515d439860807b4e1c8873": {
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGUzZlZLdmllOXJDX0wxbkEtZVhxY2o2bFV6ZEZLa2QzWGtpQXpXMndxWndGUzM1VzU1elFNVHdDLXpaam5adG5KNldNVC00MlIwUHFzRmRfdElEbzFPNl9QMV9nTndZLUN4dDYtRDdTb1RSd0NFVjNkSjQ5NE8xV1A4MEpub1RNeXhuTExsbEFDZjdlU3g0?oc=5",
-    "timestamp": "2026-07-20T20:40:00+00:00",
-    "source": "ap"
-  },
-  "4e668d15949cb797e4e60d2ac539b2de": {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdnQwZTRwYkFHa216RUhGUDBkaUVQQW8xeWk2S180OFo0ZUExYXJPcnZGUW5DQ21QSEpJRlQ1M05tcDNYZ2Z1MXRsNGRSbFFXREw1RWFUZGVhNnEtMnFBRlVsOGNvMk9Pd0NFM0hKRlkwWVhXNDRYY0U5bXd2QkZheTRfOUtLYi1kWXlvb3BsellRQQ?oc=5",
-    "timestamp": "2026-07-20T20:29:00+00:00",
-    "source": "ap"
-  },
-  "a395c4ac801be7af14e7f7e95dded9bd": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJYzNHdTJZVTRRUHZWdHg4bFV5aXB5am1kZ05RNEE4akR0c3JXM19FRHM2WS00aTJwXy1JNEplSThfSDU5cG9GQTlDa3hhdl9Pb3c?oc=5",
-    "timestamp": "2026-07-20T19:52:50+00:00",
-    "source": "iranintl"
-  },
-  "53ff53697a97ffdd1813aba47a31ad28": {
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSnhXZVhURmd3ZGlYWXZfYUNSV3lOWkVuUUZPYlA0TVhUQmE5aDRUMVM5SncyVnBGdEdnN3dGMFlCUndzWG1jazFiUjhCU0hwaTJfVXloemlVLTRlcnNOUGdrREZ6SkVtVlliZ0dCVEV5Xzg1dFFObGN4ZGhNMF9iVGRFRDFHclJwMkNNc3RGRFQzdXJGaVI4LWlObVFEN0tlbHBQb3NWWVVyUmVGd3JmS2hpRU5fNm8?oc=5",
-    "timestamp": "2026-07-20T19:06:21+00:00",
-    "source": "reuters"
-  },
-  "35ae3bf396304d6f46363dd56387f9b7": {
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1FaMy1UbHJsTGt0b2hvMjdMSTJseExFVXljU0Q2QXphMzVRZ0h2SFAzRHdXdjBNNGF2enFHZUc5eGRHUzhDS3hKTlc4WWtqYzA2b1U3eGV2RlNpYXZsME1xUEViRnZISklTS3NRXzVRQlJEMWE5aHlGTnFCMFhXeXJ2UlgwWURISGRkdFE5bzgtMDRfUnlnUXRicDhTYUVjSGhwTEpLNWluZw?oc=5",
-    "timestamp": "2026-07-20T18:29:18+00:00",
-    "source": "reuters"
-  },
-  "fc978ec51c3354fe16f6454d1687c458": {
-    "url": "https://www.nytimes.com/2026/07/20/world/middleeast/inside-the-deadly-us-airstrike-on-a-shadow-fleet-tanker.html",
-    "timestamp": "2026-07-20T18:13:58+00:00",
-    "source": "nyt"
-  },
-  "42869f6b4a7eb9bcbbf4e9b54e8bcb89": {
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOHNPQ212bEViTElkdWZFVXEycUFZSHpPSkZmM05UV0NxMWRYWUxjUmxrTEx0TmdYU2FOdVVsczYtT3BRZVpsV2lRTGxxZGluQXNHam5FdnlZZktoTWRMRl9CNzFOR0M2TFducEZCZXhUZW40OFVoU2JtQ0VnR01wSm9obW5rU1B0XzVZdG8wa3pqMjkxcEhvbi1vZFo0cDA4YzBQS1A0WjRuQ1VMSEFScVdhdkhNakFGVDltUHlVakJLbW54RTI0Z0NWSjk2WFgw?oc=5",
-    "timestamp": "2026-07-20T17:59:43+00:00",
-    "source": "fars"
-  },
-  "3a5d90c98bd115b76b3a0fbbd410d41a": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsTmRtRWN5LWo5dnhwX21NYWNVWm9Kb1picjhDM3ZNM2t5Z09kVXJtWU9GTmRONVZzMkhhU1hzeTRCUjE2Q3FyLXIyV21MWm9OZHc?oc=5",
-    "timestamp": "2026-07-20T17:50:54+00:00",
-    "source": "iranintl"
-  },
-  "12c208a40b8f283d8d2810a33b3802ac": {
-    "url": "https://www.france24.com/en/mary-honeyball-praises-forward-looking-pm-prepared-to-inject-some-optimism-into-united-kingdom",
-    "timestamp": "2026-07-20T17:26:28+00:00",
-    "source": "afp"
-  },
-  "80f36531bca99d8281df9006c9a10250": {
-    "url": "https://www.nytimes.com/2026/07/20/world/middleeast/gaza-talks-khalil-al-hayya-leader.html",
-    "timestamp": "2026-07-20T17:22:44+00:00",
-    "source": "nyt"
-  },
-  "a58b1ba28ed9eb3bd8d937d25cb289e7": {
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcDVzdmxJOV9IMFQ1QmVxa2JjM1FVWnVmU0ZaU1hLOERCamplcEplYkhsZHNUTk5NY2RpMjhIV0RCUjZ2LV9VSUNYZ1pkbDVYZVMzc1NHcUJFZDZkWUowcGpiV18wYlR2Y1o5a1FGZEk3eVZSanVfR0FLc3dxSldmQUZHSmg2N2ljb2VSQXctUVFkaFFEaU9DT3JtcXlndkRj?oc=5",
-    "timestamp": "2026-07-20T17:08:45+00:00",
-    "source": "reuters"
-  },
-  "5db9874de52e19a8f745751db5b13e1a": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44a29XdU9rRkRLRFZ6RjhabDQySFhhdVN3QnJNOTJtMGVlUW95S2xDNVVRWnhGMUJmczdteDliTnJqZ0JndUNCa3NCNXNPRHdLNzFKbmw3VHdqMndLWFhRTA?oc=5",
-    "timestamp": "2026-07-20T17:05:39+00:00",
-    "source": "fars"
-  },
-  "9cde47cae1e9283c66abbb6276741b40": {
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeUxVTTdGN3I2VHpkcGVLZFAzeXZlSjh3TmVGaXpPVjlsdG5iMEtmR1hscHVmbnlNQjBVYUVoTFI1c2Q2VS15SDVfSTVPb3FjM1FFMVREY0NKdk1hQ2Y2SGhkN3hvN2p2NHk1MTd0RU1HbDJvM3ZDTGhvQmpBNzBLQ1hpNk1mNjhpQmNxUmMtMnJ1Vk45N25lN3NBUQ?oc=5",
-    "timestamp": "2026-07-20T16:45:00+00:00",
-    "source": "ap"
-  },
-  "d14f809b5ad9ad016a49b6b00da40dcd": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SRXJNVkthVzRvbkY4bXZDcnRodl95aDNWX2E5U0c1UnF3OWJSaUQxajZTeUcwUEM3UjA3UXJuX0ZtZEFmY3AyWHpEWEJjSXJvVkE?oc=5",
-    "timestamp": "2026-07-20T16:29:27+00:00",
-    "source": "iranintl"
-  },
-  "22390449ad57e03eba1ec7f7ffe7e920": {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYXJ3V1RkU0g0cGlJZVQ3d2szc184eVBWc21KR29wb05CNDZmX0dIaGpQNU9UU1BWV3JHcW4wZmNOa0p5d1FrOFJaRGxvcDNQcUI0ejRGRUxsbVNPd1dORGdyYmRLd2JMQl9oa09FZEEyLUFMTm5IMldneDNDOEM1cmJEYjVTSVBaLWVIR2l2ZkRYV2RJNGpETkFINk8xZVhHWnFsQQ?oc=5",
-    "timestamp": "2026-07-20T16:17:44+00:00",
-    "source": "reuters"
-  },
-  "0e266a6ac614f3a700d1c511c94aac2f": {
-    "url": "https://www.france24.com/en/france/20260720-two-french-diplomats-subjected-extremely-serious-intimidation-iran-fm-says",
-    "timestamp": "2026-07-20T16:14:22+00:00",
-    "source": "afp"
   }
 }
