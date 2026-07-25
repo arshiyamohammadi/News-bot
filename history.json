@@ -1,4 +1,29 @@
 {
+  "8228fc1430916cda2494f22a45e01917": {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdWtpdWZ4NW1EX0RFb3dCV1hZYVU3ZmFESlp6Qnhhd2VLX1VXc293dFp6LUF0Mlo4YWdReXhWNGNkVWNqQS1hZmJjekx4aE1QbVJiaWp1Wl82RVVDdldZVFRhaEs2VEJPRWRRbkpQX0tDbEZ4U3FFdmVUWERaTDBHVmh1Y25RS2lpaWhhSmVzcHlUcmZzeUx4RDRobEl4aDZOYVA0T01lYWVOVDZV?oc=5",
+    "timestamp": "2026-07-25T19:06:12+00:00",
+    "source": "reuters"
+  },
+  "48e1a3b2779ba8e8b548ebe1a5b61ed9": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ITXpwOFFlSzhORVBRNG1JNWU2YXQwRkR6RzFSbmFodVE5bzJYRFhYcEMxTElRYl9zSkh5dXIxWTlzMk1YSHBIeHJTemQxUmc3cWFJYktyMWliZnN4WXc?oc=5",
+    "timestamp": "2026-07-25T18:59:07+00:00",
+    "source": "iranintl"
+  },
+  "01f41ff27da285184d3e049d0e8a115c": {
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYVE3WVotb1k5eTA4eHhrSEtCWkVJM2xUU3lob3R5OGpPUFZnV0NRUTByU1cwTHJCUi0wYTdVSmVHU1V6TzMydk1EVjBZSVp4aldTLWdaVURyYUM1YmN1U0YtcU9RcDZ5Tm1Jc1hPdGNfZ3dUX19vNXhoV2JWekZaS01WRjBMbUotWHFwLTBTVXVyQXhSbjdBaTAwamJiMkFtZ3E1SV9tc0RZckNIZ3JjS2taS1JfclhQSG5WWUtwS3R1bEFLdE5LY3g4WWdjZjlk?oc=5",
+    "timestamp": "2026-07-25T18:43:48+00:00",
+    "source": "reuters"
+  },
+  "47594f22cc49dcaa5bf484ab3e743c0b": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtdjRENFpzendLRElRMzZ2LUxXakdTZ0kyLUhrclR6dHhNejE4Uk5zT1FDMlZLYVJacmpQUDI1ZG1hSTJrWXBicTk3clp3VV9JZUFNSWJNQzVVUkdISXQ1aQ?oc=5",
+    "timestamp": "2026-07-25T17:37:02+00:00",
+    "source": "fars"
+  },
+  "656c3c23cc0ca736089320a3a3993f20": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FbzJ1QUllLS16anlwaW11cXBlMG5jNklfNzB6bUZ3QVh6UV9OUjQxdzJjZE50dnNjU0ppTEdvU2xLQ2N3STRsSUJZRVJBbkNVTWVPbkVUc2Z1RlExbzN3TA?oc=5",
+    "timestamp": "2026-07-25T17:36:55+00:00",
+    "source": "fars"
+  },
   "5032ca181cb0e1a94aa9e3ba6634cf93": {
     "url": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html",
     "timestamp": "2026-07-25T17:07:41+00:00",
@@ -33,6 +58,11 @@
     "url": "https://www.nytimes.com/2026/07/25/world/middleeast/us-iran-cease-fire-deal-violations.html",
     "timestamp": "2026-07-25T14:46:10+00:00",
     "source": "nyt"
+  },
+  "e083c165f828a3e64a1158ae53a706ac": {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeXJ5QTJWbFFBczNEWDVtSVNpcFV4ZFlRbkZZb1lpVkx4UkViZGdRSW0tTlN1SkRvS2dRY1kzSnV1VmhuQ0VKUy05WmtBaWlIZ0tTYnpWanZ6ZVFXb0VKOUd2Ukl1bENYYXJJWUY3V080eUJzVElZUWhsZU83ZVdJQ09XYW5pbGpxVFFiT2FITW9NblFjOHVKTjhHQ0xMLWRrblAwVi1EbXhSWmpFZkxzMFNEM2dKMDVSU1JnNEtPRWhsZw?oc=5",
+    "timestamp": "2026-07-25T14:33:53+00:00",
+    "source": "reuters"
   },
   "1c194c18b6faa6a25ff77b7135ab4dc6": {
     "url": "https://www.france24.com/en/middle-east/20260725-unesco-adds-west-bank-site-lebanese-castles-to-world-heritage-list-despite-israeli-opposition",
@@ -138,6 +168,11 @@
     "url": "https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html",
     "timestamp": "2026-07-25T09:01:55+00:00",
     "source": "nyt"
+  },
+  "f304071e14d425b1c8b95a804a60a598": {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQTdabVQteHlkX3lfc2pPNGttbkY3VUduQ1ltZ3NodDIybFZYSHR1TGxidm04cDJSR05QR0o4REhMYlBneFRZMl8zM183bThCQmFkcTBfNnR5Y01GeHRySzVWV2pCZjAxN1VjejFvZTN3TENvaVh0amNvZF9mTzl6eGhzcnVDUmROaVFiakpzbXl5MTd2Nkp6SEJkVE5PUVc5RjhBWEhzNEloUlB0c0NhRGp2WmlnVTJsTUpV?oc=5",
+    "timestamp": "2026-07-25T08:57:43+00:00",
+    "source": "fars"
   },
   "2d566a2ab0717300e3ce53db7e8e2fbf": {
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGtJemNLQ3pRWk5iQW40SjFGRnJhaVF2SG40V085bTRWMWNmUHJaWTI3U3Mzc1A2RXhweXlaMU10OFpMeWdmbGJaeVBqM0d1R3lGZE1wd0Mwa3VBWmhjaXJxT3FxSXpnRGRRSmdUemE5ZXl2eENrMVZHNTBJaURTLVBpVjY2Y282dGVQdEFmemh6SG9SV0VxbDdGZDVSanlrQmJ3aU5vMEhvY0NMNTMyNXp4RkNmZW1SeVEycXAxS3dHb2Zh?oc=5",
@@ -278,6 +313,11 @@
     "url": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil",
     "timestamp": "2026-07-25T01:58:53+00:00",
     "source": "nyt"
+  },
+  "d10d4aec48cb887ba34e6912ad373a04": {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2RzRDNJNGE4bkhwenhRYkRLV2tqQjh5akI2MkFmQThkZjdhbjVSUU9kLV9XNEUxbnJ3dmExOHpEb3VDOFVyam5sOTNsUGxXTzVkUDZjS0tFa1NPeDQ0MnRTQ1YzbzVWY0RZaWdMMk9JU08xSk5HWXcxV0FrRE83NXlJTERzRF90dVlLbndEYld6MEYwOXNCdW12NWQxTVk?oc=5",
+    "timestamp": "2026-07-25T00:48:00+00:00",
+    "source": "ap"
   },
   "835178006b7a680194ba0852f0891cb1": {
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3N3WHd1azI0WWVReUxaSUF6eXFDVmp3LTFZeWtxcW1nR1lMVWU0cncySkpPZE1hTm1OSzg3T1dqWGp4eXBTMy1HaEJNZ01va2VTTW11NDE4YWFQMDhSR3dPWWlRbjJnWVcxQjlzdmQxenoxZnRmR0ZGbGpIdUo1NFoyWExEQkluWUhHN2ppallZTnVqeTFDQUZBZENSNVU?oc=5",
@@ -2457,46 +2497,6 @@
   "954ff95f4c89d18c62af0fa45c4e8196": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpc01veEg4alBadURqZnNCUGMwTy10NnNoVDJzT0tXUUtJVGJSRVJqbGFEOG83MnJTNndnSk5qRWhnRG1qZWlXZnhuOVdidVMzWVE?oc=5",
     "timestamp": "2026-07-21T10:23:34+00:00",
-    "source": "iranintl"
-  },
-  "16dbc79916bce4201871814aeb8ceaa7": {
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0Jlc0k2UzBpUjR0R3ZWd2NKVzZVM2F6azd0VWk0WlYySWhpTU8zc2V2NTVWc3hWRzBYSUk2LXNTSzhoUnF1VUotZ1FhdTlMVE53TmtEUllYSThLU3hSU3hIRGRxZHFoaFZXM2VReGdxNGVVcGVOYXh4NTcwdHBpWkZqLWtCTHhOdjFIbWhJcExkcUo3amxFa0x3N3VadTVqbXh2LUxQYXV1Y05IM0N4QlVlUjNmWHM?oc=5",
-    "timestamp": "2026-07-21T10:16:25+00:00",
-    "source": "reuters"
-  },
-  "270a3f971e4688b07acc7ddb3add0256": {
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa1FKT2g2c1pBc0RmQVYzVXVzX0NsZUoxR3NlY0F5R1BiMTduQmVtTkNyYjk3cWdTTFNHcjZZMVdrRkZaNldQcHI4UkdzdkU5QmtiWi1tWWV4RWtXRlpydGFfRGpRT0JPTG1XZWJWN0xCNDFzaDlsTk9sN0tORzNMN0RsVkFiWnlXWGVVNFF3aEdNdk0tSWd1TmdnUWNHUFFwdlpvd1k2b0lpekNyOW5xSGtQSWpOWU5sd3pmUW1rLXMxeDI1em5GUEdXODBQVHpDbHBWOXYxSUc1WW5rT3c?oc=5",
-    "timestamp": "2026-07-21T10:04:31+00:00",
-    "source": "fars"
-  },
-  "3e55b27a2c25f911c938083fb36857a0": {
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUDZOb0lyeDNtSHo4bVQ4MlJ3RnhPUUR2WmxYT2xqaWRVNFFVNkNUdHBNUUIxWm5kZGpVaVc0SFZicnBmN1F0RWI3RXpqNUpCbjQ3RHhPZEJkTmlaeGI3YXp3MUlSSXN2RGdBZ3dfekVaQzQxbFJzeHhuNU9veGtKMzdidFZ1N2QwbFE3Z3B1VmxoY1VuTUFtU3Rfa09XMlRMWl9B?oc=5",
-    "timestamp": "2026-07-21T09:58:56+00:00",
-    "source": "reuters"
-  },
-  "c24c6c9c77de615ebede8c4f2b4e9299": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBERGRtakRNTExac3hUN29KdjdfR05QSmNlSTdNRWttLUNWb1NfZ0RsYWFzWmpkZGtKNnpYWC1MZGc2V3pDaElsanZ0ZFdrVnJrakE?oc=5",
-    "timestamp": "2026-07-21T09:58:05+00:00",
-    "source": "iranintl"
-  },
-  "4b78c1e6d9f64b396824cd0efd01ee4c": {
-    "url": "https://www.france24.com/en/europe/20260721-russia-ukraine-war-first-half-of-2026-sees-sharp-rise-in-civilian-casualties",
-    "timestamp": "2026-07-21T09:57:20+00:00",
-    "source": "afp"
-  },
-  "b41e6248430781d3e4f4cf80ba2637e3": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EdzZ3eF9lZzBTRFN5VE1TTTZFQUZZZU9jRzZKOXBaR3JJMTNod3FDX2l2V2pmWjM1SEdGZ2lyZkhpQmJUS0xnVE9ZbW5iZGhsYVE?oc=5",
-    "timestamp": "2026-07-21T09:49:42+00:00",
-    "source": "iranintl"
-  },
-  "a4e0cd72fe3c268d305a8a85dace4765": {
-    "url": "https://www.nytimes.com/2026/07/21/world/asia/afghanistan-floods-deaths-nuristan.html",
-    "timestamp": "2026-07-21T09:38:14+00:00",
-    "source": "nyt"
-  },
-  "229e8ec1502070032fb264517210f394": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Eanh0aGtoeU9OaUN0ZnlHaEtDWnN5aEJoNnQ5bmdSLXNOdW14bGhYRmJuM0VpLTRmY0ZHQ2pLSTVaelhGd2JxVHdGLWJMVzZHQWc?oc=5",
-    "timestamp": "2026-07-21T09:37:37+00:00",
     "source": "iranintl"
   }
 }
