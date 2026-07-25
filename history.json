@@ -124,6 +124,11 @@
     "timestamp": "2026-07-25T12:47:33+00:00",
     "source": "afp"
   },
+  "a829606be73a5d65921d2e8af4a4a3e6": {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXFJdGduZGxPd1kyNS03UGZzRjR2eW9oRjVMUGtwV3dsZTcxZlVlRnJtblUzVVdXRmNHZkxpWnZjWktlNFNHaDJrSXp0VTdmSWJiWk0tLUxOMzBERU9Zc0h3a2owckFaa1JGRlcyQm9LeUFsSXZDcUE0TFVLVmNadDVvaFNuLXhCNlQxLVZUM3oycHU0SkQzM3RR?oc=5",
+    "timestamp": "2026-07-25T12:47:00+00:00",
+    "source": "ap"
+  },
   "b356bb19864b1817d5beaa0bcf973234": {
     "url": "https://www.france24.com/en/venezuela-honors-thousands-of-victims-one-month-since-earthquakes",
     "timestamp": "2026-07-25T12:39:53+00:00",
@@ -2493,10 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJMWVpTWZNd3J5OFllZFdxVHZ2R2I4OWZlTURzQzBBaHd1THBfbHJSUkVBZFZ2M1BuRW5uRmZaNnZzN0xMamZUOUNIWVpVQ1AxRmxxb1dLTTAxODE1S05WbEp6Vl9RcGJ0amZkd1d0MmxQYnVKTVB2NDBDSzc?oc=5",
     "timestamp": "2026-07-21T11:59:37+00:00",
     "source": "fars"
-  },
-  "9bad1da2be8d87fb9d24f99d9ab0527d": {
-    "url": "https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html",
-    "timestamp": "2026-07-21T11:46:00+00:00",
-    "source": "nyt"
   }
 }
