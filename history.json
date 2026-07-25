@@ -24,6 +24,11 @@
     "timestamp": "2026-07-25T16:19:44+00:00",
     "source": "reuters"
   },
+  "521f345c90b429960467cbceeb6ed5bd": {
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xNTY4MGVpOVZOdXJTTXB2SmdGQkRqQzNqOThmM0NqSGNSTjQ0eTVOamc3VGhfSnJBN0V0RHNaYTNDcnRmcUFEaGJXU2dmTC1aRlh2RGhYbw?oc=5",
+    "timestamp": "2026-07-25T15:29:46+00:00",
+    "source": "iranintl"
+  },
   "41236877057e5f38056f808b3a20608c": {
     "url": "https://www.nytimes.com/2026/07/25/world/middleeast/us-iran-cease-fire-deal-violations.html",
     "timestamp": "2026-07-25T14:46:10+00:00",
@@ -144,6 +149,11 @@
     "timestamp": "2026-07-25T08:53:56+00:00",
     "source": "fars"
   },
+  "c3094485a7881b6e0be9b07e47b9c3ab": {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UeGl0WjlyRFg4SC1kVzkwMWF4dzJQTlU1SkM2WGhaTmNmYzdrX3JtbUJKREVHOGRtRExqQnRZel9oS0cxb2ZENnJjU2lwTXBLTHFZbXY3RmFTbDl4VE5NeHZ6NF9BRzdO?oc=5",
+    "timestamp": "2026-07-25T08:49:59+00:00",
+    "source": "fars"
+  },
   "79078692014609245d99d9c275e0da72": {
     "url": "https://www.france24.com/en/middle-east/20260725-palestinians-bury-four-people-killed-in-occupied-west-bank-clash-with-israeli-settlers",
     "timestamp": "2026-07-25T08:42:58+00:00",
@@ -152,6 +162,11 @@
   "122c25cd3c2ea63d196f968253a7eebf": {
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BR0psTzZnNENVZTRjMEtTUkF1eEctaDRVbHVLVThLRlJfQTRreFlDZnloQ25DdEttTjZ6QmdiUWlHaXRjcTRQQnJqdnVuMEU5M2txNV9kZGlkc0ZqN1FRZFpvTQ?oc=5",
     "timestamp": "2026-07-25T08:39:32+00:00",
+    "source": "fars"
+  },
+  "9065bd59dc1bdb1c2337a6c2847aa7c4": {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yeVl1NTBWUjMyVGZQYS10VkhaSEYycWF1blNjdjFaOEVpVE52c0gwQW1MY0hHc2tfYnpqMnFXdnFsZF9tX1hMZk9wMHk5TC12Yk1oXzhqLXFVM0hVcldzV2pKdw?oc=5",
+    "timestamp": "2026-07-25T08:37:10+00:00",
     "source": "fars"
   },
   "b78c1848a71e64bc857f4a5fc8d60826": {
@@ -793,11 +808,6 @@
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yM3BiWGJhY1RtWFk0U2tXSlp5b21ueFR0cjFRSlUyU3dvclFFdUJ1YThDdmJ5aVpqdlM4bUNHMVJ3NV94YjBhS3ZlUnJpVEVvRlpiVjV5Vk94VXJ5MUcybk91VzZVSFRFakxDN083X0IxajNjSmlMTDNXMG5uREU?oc=5",
     "timestamp": "2026-07-24T04:38:00+00:00",
     "source": "reuters"
-  },
-  "521f345c90b429960467cbceeb6ed5bd": {
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtSTYtZ3A1aElCR3JRdGZRcVpWbTBqTEp6dHF1X09YbHJ5ZG9YUWtnNFBOT1JWYmVkQmxpVWFsV2VXT2dsUFZJcGlmejdYcUFmLWJpSEY3cw?oc=5",
-    "timestamp": "2026-07-24T04:33:48+00:00",
-    "source": "iranintl"
   },
   "1aee973b0d215d236f4680a50e27195d": {
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfVURwN0NjdEFLSVVvM2JSdTFrMHdzVVZyVzBFdWYyM2Z6ZVRzVk45Uk5pM0V6bjcwUEpHVnNLbERvYmRlUjNzMjFZQ1pWVGNKSWxlcWZVNlVsaEJCWmRnOFo5cw?oc=5",
@@ -2487,16 +2497,6 @@
   "229e8ec1502070032fb264517210f394": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Eanh0aGtoeU9OaUN0ZnlHaEtDWnN5aEJoNnQ5bmdSLXNOdW14bGhYRmJuM0VpLTRmY0ZHQ2pLSTVaelhGd2JxVHdGLWJMVzZHQWc?oc=5",
     "timestamp": "2026-07-21T09:37:37+00:00",
-    "source": "iranintl"
-  },
-  "052d977f46dda3393684efabec0a2721": {
-    "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-zelensky-protests.html",
-    "timestamp": "2026-07-21T09:28:09+00:00",
-    "source": "nyt"
-  },
-  "2d93a279727ab89c99e1765f228572bc": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5UFMtSmFtbUxjYjBjTXRhU3hpR3dJd0xVYjRMeWRtNnZMc0o0MTlLdFl2ZmtYOG5zZWx0eGFrclNmV1owUGVJNVV0cl8tZlhfc1E?oc=5",
-    "timestamp": "2026-07-21T09:10:00+00:00",
     "source": "iranintl"
   }
 }
