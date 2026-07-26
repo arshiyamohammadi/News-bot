@@ -1,13 +1,63 @@
 {
+  "d644ef781051dfe9bc56158a47cddc29": {
+    "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
+    "timestamp": "2026-07-26T13:46:26+00:00",
+    "source": "nyt"
+  },
+  "ffb09a971aa135e94f4c9e8960b069aa": {
+    "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+    "timestamp": "2026-07-26T13:41:50+00:00",
+    "source": "nyt"
+  },
+  "80e830b7c73a071eb820132e36021fde": {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU2U4eHlocC1hdjdHckxzUzdSOGVscTRRS3QxcTBCT21FZURPaC1ibVpLM0xRbXVJaTJLUjZpVHlFeE1BZWlJVndVN25vYjFhdlFORW5Vb0d5SHh3TVBydlFyTmlKT0NqU3Jfb3dEU2ZfSmZXVVF3dWhnRWlLNFFOdzM1WXRMWHlQMjd3SDB1OUVDVms2Ym4wOHNGMGp4Vk1JRWVtU3F0Ty1uMU1GRXlEbm5tNnM2bURO?oc=5",
+    "timestamp": "2026-07-26T13:27:46+00:00",
+    "source": "fars"
+  },
+  "e0bf3200632669eeef892198337df920": {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRjZFTlNSX2NTY2s4NlBlU2ZRVWc0aXN2dTFKZDRPSnE1ZE10QnpfVl9Ici1kZkdpTy1vd0Q1U014bVBmdFY3dFRmNi1xMWZZdi1kVlhwOFY2RkdINzBhQmFOMm56QS1uazYyS0tVWWFfNHNvRG1QajAzMzd2V3d0Mi03VHl5SzN2SWNoNHk1WmJvQ0F0cGxvR0lmVUZJeG1SUEZ4WUxGdmVCU3M?oc=5",
+    "timestamp": "2026-07-26T13:27:14+00:00",
+    "source": "reuters"
+  },
+  "db542b4c11bc2e3e62cf71bc54113a6b": {
+    "url": "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html",
+    "timestamp": "2026-07-26T12:49:15+00:00",
+    "source": "nyt"
+  },
+  "144dcb7bf2f16d9e1c30979c69f6f95b": {
+    "url": "https://www.france24.com/en/french-firefighters-battle-blazes-with-military-cargo-planes",
+    "timestamp": "2026-07-26T12:35:01+00:00",
+    "source": "afp"
+  },
+  "c501c41cc1f47a4b74dee3be77facd0f": {
+    "url": "https://www.france24.com/en/europe/20260726-deadly-berlin-pride-ramming-was-islamist-terror-attack-says-german-interior-minister",
+    "timestamp": "2026-07-26T11:41:10+00:00",
+    "source": "afp"
+  },
   "4cb10f645a1c4444d2dced9b3ff1cc9f": {
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbW5WZE85WTBVaTBFT3k5dzBtdWZpM3h6RzdwbkMxa3dMV2RFSEJJcmtTSW9zSzF6NUhHaGEwN1oxQWhxTlRJSEJldmNSQ2drRmExTlIxM19zZnBrLVB6LUk2dHJTRlZ3bXVISVU0d2VuTlN2VnlINENRM3ptT2FTSy1wSndkR2dReENRVjNLZGJnQ1UwODdVTGc0TExhOHlORmg3YmxjMHc2MmxiV1pydTZPU2RsTi1hMXFBTmx3SQ?oc=5",
     "timestamp": "2026-07-26T11:10:47+00:00",
+    "source": "fars"
+  },
+  "51e719a62b2d46a7aa572f0e42aa1b48": {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbW5WZE85WTBVaTBFT3k5dzBtdWZpM3h6RzdwbkMxa3dMV2RFSEJJcmtTSW9zSzF6NUhHaGEwN1oxQWhxTlRJSEJldmNSQ2drRmExTlIxM19zZnBrLVB6LUk2dHJTRlZ3bXVISVU0d2VuTlN2VnlINENRM3ptT2FTSy1wSndkR2dReENRVjNLZGJnQ1UwODdVTGc0TExhOHlORmg3YmxjMHc2MmxiV1pydTZPU2RsTi1hMXFBTmx3SQ?oc=5",
+    "timestamp": "2026-07-26T11:09:03+00:00",
+    "source": "fars"
+  },
+  "77d2d3c5912ace056d8afe3d1b7c0890": {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdTFkTllSLXlFZVRTaERpTy10Rjl6Y1VVWkxJSkdKNXBsdTIyWS1tY3NOWVFPaW55c0F2bDVxSlAyVmVWcXVJdkU4a3duSjRCZ1l6d0tPRksyaVZfaFlSbjJEVG1jb21sN3l0ZXhwZFJQYU1SUzFHb1lXR1kzS3RXYmctWFBVNy0wbFcwaDRfck9VSWNQYnFsSGNyQmpXenZTbzVQeHhYQTBWMmlnOTRRRno1RWlBNEJwUkZGaFN5WUdtUlNfV2lWTA?oc=5",
+    "timestamp": "2026-07-26T11:09:03+00:00",
     "source": "fars"
   },
   "36be53603c7d82bfee1af9c7001aabd6": {
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xN3dQekdmdHl1MG80X3d4R0NXazU3YzA5UjRxU2dTbnMyd25DVHdDV3ROeGNmWVFuSmpDVzJnVkRnVHhpc3F2bE9YTEc0R3lCX2dFRkg5QVdGNk1ZdUs2bG1XSzVDZjJxbTVB?oc=5",
     "timestamp": "2026-07-26T11:02:41+00:00",
     "source": "fars"
+  },
+  "0763d30dc2e3369ab54e56cf39b8c6ec": {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEdQaF9sd1FDOHRhWUhBMTFvU0lDT1RkMUVpQ1pkMWNPUmJKX3pxYlkyQXFDWkNuTE01VFZuZXNWQWxUdmY1OGlZYTdadUZ6bTczODJXQVZ1aEFxa2xVdUpRdHhWZG9CWEJxLWJRZ0N3MkVaVGdmWnBHZGJWOTlIdTdEV3hMc3czS0pMSHFOaEV2NUxrVmVfdTEwelp4SE9VTXg1cVM3V0hHT2dnendVNmJ6Ul9PM2xmNFotOWw4dGlkMWc?oc=5",
+    "timestamp": "2026-07-26T10:56:32+00:00",
+    "source": "reuters"
   },
   "73ffc172e707a861a2831002bd3e8605": {
     "url": "https://www.france24.com/en/europe/20260726-bullied-beaten-killed-armenia-drag-queens-risk-all-for-the-stage",
@@ -143,6 +193,11 @@
     "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
     "timestamp": "2026-07-26T05:09:59+00:00",
     "source": "nyt"
+  },
+  "27673be1cc8428030b414300ab927cff": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ITXpwOFFlSzhORVBRNG1JNWU2YXQwRkR6RzFSbmFodVE5bzJYRFhYcEMxTElRYl9zSkh5dXIxWTlzMk1YSHBIeHJTemQxUmc3cWFJYktyMWliZnN4WXc?oc=5",
+    "timestamp": "2026-07-26T04:08:30+00:00",
+    "source": "iranintl"
   },
   "b6c92f8910ffbc0e0f45846be6ea6a19": {
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvQ3p3ck9uS1BVZ2phR01Tb19WTFk5NDV4YkdPUVBaQ1BfclZHVUMyZHgyX0R4TGtlX1QtN0w4ZHN3WHlUWXJ3d0ZDTmpqV2U3YzZwYkxmaVg1TFBQeHdzRG1rTQ?oc=5",
@@ -2443,60 +2498,5 @@
     "url": "https://www.france24.com/en/trump-says-will-be-hitting-iran-s-pickaxe-mountain-nuclear-complex-pretty-soon",
     "timestamp": "2026-07-21T21:47:06+00:00",
     "source": "afp"
-  },
-  "e72dff05dd417688ec4e56dd9f7ddf56": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14NFQ4SnR1c0dZNExpNXNKeWNQbUJFYWx2Rnp1UHdLT1VsUnBDSGFsbmRyMGJMekNORGx0ZEItRGNmTS1VbjJsOWZWYllndVdiRmc?oc=5",
-    "timestamp": "2026-07-21T21:30:00+00:00",
-    "source": "iranintl"
-  },
-  "9dba4906f96601fe9430eb90628dffee": {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS1lhdGlVLWR2R3BlMWk5dWxmYlJGM2Z4N3ByZ1BVblcxdGhobnpESzVMcWxKYktWd1RQUmZrQV9kUDVJbUFJOTJwRXZuakozVjlMSk9qR25iejlTVktTTEhxWDFNU1VMYkd1ZjF3SXZwMkxSS0FNdXhDcEFSeEFGTGdHb0ROOGx6cURjOVBiUEhVZ3F0STM0TEwxSWw5dHg1UllLTVdwNTk?oc=5",
-    "timestamp": "2026-07-21T21:20:24+00:00",
-    "source": "reuters"
-  },
-  "e680da4ac6175127457f54879b77546e": {
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcGhIUDY1XzFtb1pDNmE1ME9sMjVXRXJPMXBxelpQZlJlcDd5eEIySWxObnlCY1BiR1lNRnVLWEt0M005NTRCcUtWRU5oZmROVmZJMW91aE9nVWNGUmF0V2J0dHZSci1mM2c4NFE4c01pblBucXJfSW5lVWJUeE95VGNjbl9OOFBVQnZsTFBmeDRvMGxIeEpfVWlUbE96SWxXSGNHM1o5aTNzV2c?oc=5",
-    "timestamp": "2026-07-21T21:11:48+00:00",
-    "source": "reuters"
-  },
-  "9ea0affe3eec19d7e9d8a5ca18993182": {
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcGhIUDY1XzFtb1pDNmE1ME9sMjVXRXJPMXBxelpQZlJlcDd5eEIySWxObnlCY1BiR1lNRnVLWEt0M005NTRCcUtWRU5oZmROVmZJMW91aE9nVWNGUmF0V2J0dHZSci1mM2c4NFE4c01pblBucXJfSW5lVWJUeE95VGNjbl9OOFBVQnZsTFBmeDRvMGxIeEpfVWlUbE96SWxXSGNHM1o5aTNzV2c?oc=5",
-    "timestamp": "2026-07-21T20:55:00+00:00",
-    "source": "reuters"
-  },
-  "b693ee07e73b27272862691a449f017a": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qa3daMDI1WE5qUzRnRnFEMS05c1dEaGFtRE5MSkVwNFNpT1RPQnNJaHVyRmpiSFFHakVUVXFKd3VFcnFUdmd2LUlHRWRRNFJvYWc?oc=5",
-    "timestamp": "2026-07-21T20:55:00+00:00",
-    "source": "iranintl"
-  },
-  "c053d319b0f5aec6067bd7f697bc850a": {
-    "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html",
-    "timestamp": "2026-07-21T20:50:31+00:00",
-    "source": "nyt"
-  },
-  "eb03950451d73848bbc9a16071f7e91f": {
-    "url": "https://www.france24.com/en/zelensky-fires-army-chief-oleksandr-syrsky-a-victory-for-protestors",
-    "timestamp": "2026-07-21T20:22:25+00:00",
-    "source": "afp"
-  },
-  "72d18131457043f84b8655dd2185743d": {
-    "url": "https://www.france24.com/en/senegal-u-turns-to-back-ex-president-sall-to-lead-un",
-    "timestamp": "2026-07-21T20:16:19+00:00",
-    "source": "afp"
-  },
-  "72fb8f8e81783df00631f9c94c0e457b": {
-    "url": "https://www.france24.com/en/ukraine-s-zelensky-fires-military-chief-after-protests-and-names-a-replacement",
-    "timestamp": "2026-07-21T20:12:45+00:00",
-    "source": "afp"
-  },
-  "20db4670e3082e9a91dcdde0b563c09a": {
-    "url": "https://www.france24.com/en/europe/20260721-zelensky-fires-ukraine-army-chief-oleksandr-syrsky",
-    "timestamp": "2026-07-21T19:59:36+00:00",
-    "source": "afp"
-  },
-  "38b99d2e849952c8ba5b9ad166059f50": {
-    "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html",
-    "timestamp": "2026-07-21T19:43:53+00:00",
-    "source": "nyt"
   }
 }
