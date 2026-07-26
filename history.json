@@ -1,18 +1,48 @@
 {
+  "1fc70f2b9671a7b06313dc675e03ed52": {
+    "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
+    "timestamp": "2026-07-26T05:09:59+00:00",
+    "source": "nyt"
+  },
+  "b6c92f8910ffbc0e0f45846be6ea6a19": {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvQ3p3ck9uS1BVZ2phR01Tb19WTFk5NDV4YkdPUVBaQ1BfclZHVUMyZHgyX0R4TGtlX1QtN0w4ZHN3WHlUWXJ3d0ZDTmpqV2U3YzZwYkxmaVg1TFBQeHdzRG1rTQ?oc=5",
+    "timestamp": "2026-07-26T03:40:33+00:00",
+    "source": "fars"
+  },
   "a1a51be8c172e089fc876722c87636e9": {
     "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
     "timestamp": "2026-07-26T02:15:01+00:00",
     "source": "nyt"
+  },
+  "57f91cc345c0d2c7299c804dc60734cf": {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbl84OXZ4cnhCLXFrY2xmTGV2REtMMDlXdjVzS3czN3FNNG5YWDBFeFhJWTBuRmRQWTR0b2pJaE9IT2lGZlNkdUVUT0FyZmpGcndUek9rNFNFNWJtelo2cVhMdXdHR09oLWo5WXdpYUFCQnp4X1JoVGNpQXJnUk44Q2NDR0I1T3VPR1hzMnhaLUo5MU1Ra2ZQWlJBOHdlUWdtcFJjSQ?oc=5",
+    "timestamp": "2026-07-26T01:02:27+00:00",
+    "source": "fars"
+  },
+  "3d75d0aced4aca1758309797db69ba75": {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnV3Mm1rUEtJU2NZVURHalNWRVFISmJVZjQzNlFPdC1XVTY3NFcyZzVJd1phMk01RmlJdnIyTkF4RmNwWHk1dDlaNG1scmhlamo0RjZFbzZCU0hNRXE3T2FVNW94aTVMXzJVMWo4clpQY3Fnb2NMRXNsMUViOEZNX1JJdXFwOFZ0RTIwbTA4Z3dnNl9POVZqYk1lbnZITG8?oc=5",
+    "timestamp": "2026-07-26T00:00:00+00:00",
+    "source": "ap"
   },
   "fbb15c941feac52e302af53948e1f41c": {
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcFVGYU1LZGlpcDFxdUZsdEhGVVhaX2w4eXlnbmZvN2FJdXUwM2wySWxaMWhvVEZzRUFWWkdkc0JxajBsbkFId3hBRTVsX2VJRkRJX2JKRXFUajNja05FSUFjUWFuaXlLcmZtbXgtUkt0MDFiREdySVotemhGWm1BNmxEU2ZZOWc2S09fYUEyMzlZbXVleVZBaHZOdlZ3RDBIdGJhY0ttYTllUkZzVlYtMTFmeUN2MDA?oc=5",
     "timestamp": "2026-07-25T23:34:21+00:00",
     "source": "reuters"
   },
+  "f20665b54dc19174a2e8ba085d06aed3": {
+    "url": "https://www.france24.com/en/europe/20260725-van-rams-berlin-pride-crowd-killing-one-and-injuring-15",
+    "timestamp": "2026-07-25T23:19:48+00:00",
+    "source": "afp"
+  },
   "5035f8167fd832d8dd06a0f7d0ed755d": {
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYnVSWlhuMFM5LW94bUxZY2tSeDlTX3p1RC1yNk10aVJobG02aVpFeGc3bFowLVZIT01sQk5yekpRWHNUYmhiS3gxSmJTbF9YU2hROXlmQ3hSMVFvaVpDZlhuUXp6N0d4c2lERjlra2NFeXp6Y1Uwd3M2U3prWUp2LTNvMG5Zd05laVktTmJXaXFTNnp4V3U2RkUwV0FNM04yc0dsQWZKc1BtOFk2aDFKQlUwc21pdW9k?oc=5",
     "timestamp": "2026-07-25T23:18:00+00:00",
     "source": "reuters"
+  },
+  "8c64907435aa6c3e0af42ba2457d2f93": {
+    "url": "https://www.france24.com/en/europe/20260725-france-evacuates-55-000-more-as-bordeaux-fires-worsen",
+    "timestamp": "2026-07-25T22:57:56+00:00",
+    "source": "afp"
   },
   "c41c7236210854263b52b5d515bb7e10": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGM3c4ZGFKdkhRLVBYak0yaGhlVUVuajI3Z2EwcnhRTW8ydjVhYlJjdU1nUUNiVzhEcGhvWkdtUDlVQTlQU0liTWtrdnZkLVNzaFE?oc=5",
@@ -23,6 +53,11 @@
     "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
     "timestamp": "2026-07-25T22:19:08+00:00",
     "source": "nyt"
+  },
+  "1dfc335cd784bd3f8a40c1a86c2066ee": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SdXd3VlV6a1QyOFpVYWJxR3hLNDl0Ni1sRGRoZ0Z2RXZ0QW4yd1VsMDdsUmFEUmNzRzB3OXFMaEtoSVU4eEloeXBRY1FzdFlaUXc?oc=5",
+    "timestamp": "2026-07-25T21:27:30+00:00",
+    "source": "iranintl"
   },
   "4a05b691b4fe414c4d692ef03af45d6a": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SZXRBYWoyd1ZtMDdGWWppbDNsbjJuSFE0cTNRdWRmWEVFdXVvNE1ReTZtTHM1Z1g4UjNvQURTQkpBUlhzejRVRl8yQmJtc3NGUGc?oc=5",
@@ -341,6 +376,11 @@
   },
   "d1f7f24fb9b0418ec8ec25ae3d3ee0b3": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ITXpwOFFlSzhORVBRNG1JNWU2YXQwRkR6RzFSbmFodVE5bzJYRFhYcEMxTElRYl9zSkh5dXIxWTlzMk1YSHBIeHJTemQxUmc3cWFJYktyMWliZnN4WXc?oc=5",
+    "timestamp": "2026-07-25T06:36:06+00:00",
+    "source": "iranintl"
+  },
+  "eeb3f43574369f23a7ec760ec502b6c2": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fNDlOOUN3cGs0QUVmOVdMNHU4MVo0bzVmQTB3bmFVZGxQRFVWamVxTERNcDZUdjZBcGpGaFR5U3F5SXgyU1Q2bEFhZi0xUHJPcVE?oc=5",
     "timestamp": "2026-07-25T06:36:06+00:00",
     "source": "iranintl"
   },
@@ -2457,46 +2497,6 @@
   "b7239da9f9d1413afd9709a703dec5fd": {
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qQXFzZTJGZDM1cTBQM1RjSmNCa0ZkYjNpNDFkTkdZd09ueUFINjBoMXN6U2xDY0Nfd3ZDSHdHaW00TGZSZy1Ta21OSWxvaGg0SElVaWtkSzdMMmJ1ay1jbjItYlgxNm1MYUlpRTBKcw?oc=5",
     "timestamp": "2026-07-21T14:04:21+00:00",
-    "source": "fars"
-  },
-  "16aaaada277f0b12e2a87a7deee69a7b": {
-    "url": "https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html",
-    "timestamp": "2026-07-21T13:50:50+00:00",
-    "source": "nyt"
-  },
-  "63d09327b503fda1af1fd17e283f26f3": {
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVHRNLW41Si1lMVFhLS1XRGQwZkxrcGZ2enh1cURzeXByS2xpSmtPT3dtRXNGYi11RGpyd3h5cDdqeXNlS0ZPSE05T0NSc0JCc1p4ak5HWkZ4dXJQLWxHUExqdVFkdHhUNWZPTjFBdnhyT2VaU0pGTFhyWjh3VDBZUXZIMDdObGdtSEc5LWQwVlFsLVFrUTFuR3B3?oc=5",
-    "timestamp": "2026-07-21T13:44:39+00:00",
-    "source": "fars"
-  },
-  "d82be2d3cb8fa8ba9f7c97c1ac8c73aa": {
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVHRNLW41Si1lMVFhLS1XRGQwZkxrcGZ2enh1cURzeXByS2xpSmtPT3dtRXNGYi11RGpyd3h5cDdqeXNlS0ZPSE05T0NSc0JCc1p4ak5HWkZ4dXJQLWxHUExqdVFkdHhUNWZPTjFBdnhyT2VaU0pGTFhyWjh3VDBZUXZIMDdObGdtSEc5LWQwVlFsLVFrUTFuR3B3?oc=5",
-    "timestamp": "2026-07-21T13:44:39+00:00",
-    "source": "fars"
-  },
-  "2ca620576430f6569479f0db6098d7c1": {
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnBDb0xYSU15Zy1BZ2JBRnU4ZG5qTXFMRGtPWjZnVVZRc3hQbkozTEF2c2pydm53a3ZMV0RsQ0d3Nml0eWhSSEs2RmJoRlJMNkd5RGZ1V1lKdURJLUNoT3pCVEdHQ1RHb1BJVE1UY1ZWWWNaSzAyY0lmY0JzckZ4bTNyZ09RX1FKN3VtQzNPRmZGRjYwdVZhNmJRbVVkQ2pESzBSTHNrSTA4dWpDTEM4cXA4T1JvX2t3bXIyb3FFRVk?oc=5",
-    "timestamp": "2026-07-21T13:41:27+00:00",
-    "source": "fars"
-  },
-  "311434b94019413bb38ed82a3d184f92": {
-    "url": "https://www.france24.com/en/what-the-uk-s-new-government-says-about-the-country-s-political-turn",
-    "timestamp": "2026-07-21T13:41:10+00:00",
-    "source": "afp"
-  },
-  "81603fb92316a95d95b6309255e1f048": {
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmdHTWJMUUNZTWRSakluQzVLdlpKd2dSQWpoYXhaRVl0OTQyYy1oeldnaWRmMXpkSy1OVjFSXzZHbWdzQmtCLVljcnZST3laUk50aThFel81QnZNS3I1TU10MzItWG1CdW1lMENtaWtMS3QwenREbEN2a1l0Ukh5TDNDazl6R0ppQVNQeUljSFJnUncwU1hnS09yZ21ydVR4WDNEZE1ObEUwcmVuazdOYWs3T2NNekdPVTVWcF9qdkkzUGR2SEo0?oc=5",
-    "timestamp": "2026-07-21T13:39:05+00:00",
-    "source": "reuters"
-  },
-  "e4ee40dc660e28372c65275bd0dc60e4": {
-    "url": "https://www.france24.com/en/israel-and-lebanon-trial-safe-zones-in-southern-lebanon-as-part-of-deal",
-    "timestamp": "2026-07-21T13:38:47+00:00",
-    "source": "afp"
-  },
-  "2c1cb1488f8704099ebc0b9270a522cc": {
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UbjYyUEN3a0FsU2NRVnJVcDItYUItd3c3NGJhVWN3Q2d0cUM4UnpOa1F6OHk3Ri1oLTlzRmUyME9QTXJpRm9sUl8zNWR5dEdwRWtydHdpNFMzX3dFYUZ0cGZlMDhTYVpCdXRF?oc=5",
-    "timestamp": "2026-07-21T13:36:56+00:00",
     "source": "fars"
   }
 }
