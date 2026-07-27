@@ -1,13 +1,48 @@
 {
+  "8019fcc7cad7496d78e740d78d6a5457": {
+    "url": "https://www.nytimes.com/2026/07/27/world/asia/india-protests-cjp-education-modi.html",
+    "timestamp": "2026-07-27T16:59:44+00:00",
+    "source": "nyt"
+  },
+  "b05d26cffb948deb1a3be59ff16e5cef": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2d2g4aXhpU1RBT2JuZVFaeWtfNl84LVBXUFpjNVRFM2VXOFR4c29oS1dITWIyZlhFbmdPeC16VDZ3WTlMTVljZ1Y1XzZ0T3dnSXc?oc=5",
+    "timestamp": "2026-07-27T16:23:00+00:00",
+    "source": "iranintl"
+  },
+  "18786f8174e01686f18bf1380b7cae4e": {
+    "url": "https://www.nytimes.com/2026/07/27/world/middleeast/saudi-arabia-drone-attacks-iraq-iran.html",
+    "timestamp": "2026-07-27T16:07:45+00:00",
+    "source": "nyt"
+  },
+  "b00c13921476b59b30213fdab1822baf": {
+    "url": "https://www.france24.com/en/video/20260727-israel-lebanon-conflict-amid-displacement-lebanese-cling-to-hope-of-returning-home-to-rebuild",
+    "timestamp": "2026-07-27T15:50:30+00:00",
+    "source": "afp"
+  },
   "7aa2788f31f83e26faec8e7b3b45afeb": {
     "url": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions",
     "timestamp": "2026-07-27T15:16:33+00:00",
     "source": "nyt"
   },
+  "80b12b93f3a76929a9c3cbc2c42bf60f": {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUm9zTzRwdVFyUlB5c0l4U1ZVZGJkOEhSVkJjQ2xUWklza0dNZGpySUlONFpRM2EtT0hIUWpmXzk5Und2YWlRZWl2NWRQd1A0UUQ2ZHdqMFc3YXc5Q0ZWQ25tcXpWZERhVUlZR1l5VklrSzFNUWJUWldqRDhaSXh0bTAwNjZCa0YwOVlEam1vU0JPRzJXWkJTX2FsWFU1WHhuZTlLVDdLakNVRnZhdDZOdzVISmh6VHFRN3ZuYUZtRVlkbE9o?oc=5",
+    "timestamp": "2026-07-27T15:15:45+00:00",
+    "source": "reuters"
+  },
+  "9ba4281a70eab07c4fd5bd2e87212c13": {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeDlpSUM2eWhGMl9rVW15em5HMU15SkNkdDJVQlpWX1F3ekVJWFZYcktYT0Z5ajQ1c3JmZ3pocmNjSkRWWTVKckZwNFRUVzBiTktyNXR4WTRUM21pYm1CV3RKQUpQd1E0dDcteTBXMW9uc0FqTFB1bGdpQnMtb3BxVHpWVzlNRHluZmVMVVFFOE5WRTVKdjZFUjNiajlod29ZU1lGUlBnbjh4VWE3Z1E?oc=5",
+    "timestamp": "2026-07-27T15:08:18+00:00",
+    "source": "reuters"
+  },
   "4f7f72b7d51d55bc4f9665f1776bfa0c": {
     "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
     "timestamp": "2026-07-27T14:56:02+00:00",
     "source": "nyt"
+  },
+  "6498830c1e9b3dab9add91888941218e": {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSW1GUTIydE45Ti0tdVBFWnRjWTRwdjZla2w0UG9QMlZDQmZ5Mkk2S2ZMVlpUTE1tRm5oam02c25QMzd0WjFwckpMYW5GdlZEZ05vdWhLLUhWT1BIRGdlb2h1UDEwM0V5cWtrak4tTXByMFFyZkM3Sl9CWDdrMjFZbmtlSnU0NmVPbVo2UWJ1cWJXQzcxOHNybGZYSXFjS2RDQl9PT1hGTFg?oc=5",
+    "timestamp": "2026-07-27T14:53:00+00:00",
+    "source": "ap"
   },
   "567ec40c7fa3b9cda05bcaba9c6da3c8": {
     "url": "https://www.france24.com/en/middle-east/20260727-saudi-arabia-says-it-intercepted-drones-from-iraq-as-houthis-target-oil-sites",
@@ -54,15 +89,35 @@
     "timestamp": "2026-07-27T13:30:08+00:00",
     "source": "reuters"
   },
+  "c292f70b57ad37701a8ce2a927c47a04": {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOYUo3MFl1a1VkckdER2hqVllYWnFIX2paRVN6UEN3dURuVGxOVGhTU3dBUWlMcDVQaFdfblpsWndtMEI3emhaQWlsbFJFbkRGYXFzR1JHdy1xdFpZaTB0cE4yVjh5a2xxVGJwSmprQTk?oc=5",
+    "timestamp": "2026-07-27T13:14:01+00:00",
+    "source": "fars"
+  },
   "fd15f1b395b3f8770328ce18a0deb8b6": {
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUExZQjk3OWkyNjBYQXhSNTQ2c0NNZ0paeEpQMmljVVNJTlBTU2ZIcVIxVndVc0hiM1VacE80ZUhyQ0FBWGxLYTY1bkZQOFNOYk1MdWJvM2hLcnlrSC1Zc2F6OEJja1kxTkJaYVlTel9fS18tMEhYcFJSTXFraGdvcWxOR0lxdEQ5X0hZM1VvRGtYVkdUYkFBT2F1elFEN2p6UVMzR04tVGs0RVJIM2ZyRW1B?oc=5",
     "timestamp": "2026-07-27T13:10:14+00:00",
+    "source": "reuters"
+  },
+  "7f93d9297a0d5d20da287a5859fb346e": {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc191NDRCWEpsMlVCNmdzRWg5bW4zY29ZRFpYRmJmNUROMEo0bnpIQ2hiOThvYXJVRXc3OEFtaWZjdGlzcERpWTE1akhURTktSFNxWndKQ3d3emVuZ0Q5VU03UkhoNEpURHVOdUhoMkV0aUpYSjdrN3p4ZGJlc0M4N2RMX1hQUllGTjhUNWxVOEZObW1RdUtTVHh2WGlZdTQ5RzJLMk5R?oc=5",
+    "timestamp": "2026-07-27T13:05:40+00:00",
     "source": "reuters"
   },
   "cae252e533f2169f287ab88be2bcae23": {
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGp1Q2puNVVhbk5lVEtVSlpvbU1jaHlya1BHTjZjV2lpOUdXMlZoNVpUSldmcjdSSzBvOWZHZG9vR09CX3lOdFE4SkxuWW1TUDM2Q1BMeGlnMU9GWmEycjFtNHRGZ1M3bTd0WTVYTndKdXhobGlWR3BONWhJSmI1N3h6S0VTZGpHajFBRV9jY3Etc2JaVlE4V19DWmY5Z0twQU1OWnptYWxudw?oc=5",
     "timestamp": "2026-07-27T12:54:13+00:00",
     "source": "reuters"
+  },
+  "bce0f57a409f328c8f563840bd0f5385": {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWRZREdhWVZkczJxVE5YTlJ5QjV5eU1WamJXY0ZaeUJPYXFMRDd1bXNSVzNTa3IyZVpvVF9lUExoXzhLTkh6ZVJTa3hkc2txenhUSE8xcG5nd3NYMU9GTGlHZ0xrazRhWFhoWVdPZl9tX3p3SlEtRFBXWmIyVXM4Y2hLMHNBMWoxVHZVenhoMVVPSzFvM3EtWnM3NmJyUXFydU1UNWxfMFlsTmpYZFhlR3pEN3RfaHQ3VnFPZXVPUzFpQ1ExQ0E?oc=5",
+    "timestamp": "2026-07-27T12:51:42+00:00",
+    "source": "reuters"
+  },
+  "4602f548873092d89d9410ae1410b00e": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90eGVRdUVheVd2T2VmcTloYzl3UUU0dklmSXpLZF9wNVhaZ0FsYmFXanBZb0d2TGR5Y2w0cmxRVkpqR2JqT0Fhd1RfUzhlVzg0aHc?oc=5",
+    "timestamp": "2026-07-27T12:38:39+00:00",
+    "source": "iranintl"
   },
   "e4c4211a7e359e167a62c5b926d221af": {
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOEFRMnRXTk9qd0Njd2t4WFlNMHo4dnpYSnNrRTJWN012eTNJeWF6aXFsbEZBS2ZJdnFCRjFDLXQ0UXBYSkNqUFVpc0dBb1RZRWYzNjkyTjgyX29OakUteHdpYk1yWGZrMzFaMklMSEg2NWpMZUlQR1pPa0pXNFlqcG9iNi1VekE0dncwQXN1SlVCSGZ5Rnc?oc=5",
@@ -78,6 +133,11 @@
     "url": "https://www.france24.com/en/france/20260727-paris-police-arrest-suspect-after-knife-attack-three-women",
     "timestamp": "2026-07-27T11:48:09+00:00",
     "source": "afp"
+  },
+  "0672b56d2aa30c40057fe746a0b15f63": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NWFBOdUZYZUdTTXBXdnhvb3BwTUR2ZFVKTjAzdndxVGVWX0ZSYjFseHBnUXk2SnMzZFcwMElHVHdfc2xTUmw4ZTZqYUFlN01iOHc?oc=5",
+    "timestamp": "2026-07-27T11:34:48+00:00",
+    "source": "iranintl"
   },
   "c2745e51e331c04fd464d0fbfbd966c2": {
     "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
@@ -222,6 +282,11 @@
   "e767ce9d5f9f5b3a95f5f2716a96d8b9": {
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSE1OX0F1VlhxdDF0UFJJdUFzellScFVqZkxDeW5raE1SQjhoWmtabDFCeHhXbkc4MGxTYi1WZnpQTDlwNU5iWEhlbDhPSTNNekVSZUQ1OVdtbGhHeGRnYWwxU3hGNC1oekRydzRJMk5yZHpXT0tjWXJZNmJTeDRkbGkycmpZLV9LVTFqdDczTkRYZzg2RkNRdkZlOHBEZTJyMUdmWnVnWXk5WFFkMmc?oc=5",
     "timestamp": "2026-07-27T04:28:01+00:00",
+    "source": "fars"
+  },
+  "f385b3a21e44621c36039581a1082cb0": {
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYcWluSUdYY1lTYVpkN3J3SmtFRWtlYnRPMXN3UlBVdjZKcFEzRzRCZ1drdkJEaW1vbW9XQlFzb2FaZDd4NXpUMFEwSEFnOGVHTURDTg?oc=5",
+    "timestamp": "2026-07-27T04:07:43+00:00",
     "source": "fars"
   },
   "e5ae58207eb2dbaca78fa0fea11204a9": {
@@ -2432,71 +2497,6 @@
   "d8ecd896835252721aec716ccf52e125": {
     "url": "https://www.france24.com/en/europe/20260723-wildfires-ravage-spain-france-and-italy-killing-three-firefighters",
     "timestamp": "2026-07-23T00:23:42+00:00",
-    "source": "afp"
-  },
-  "66289d0ac3021353b7f19666bcf524e7": {
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONnRuRnIzMjZ6OG5EcnQ0R3ZjV1pQbHBLZTlmVDdxZjI3Z2wwbnJiOHd2S3B0SzY4Q2w2bnFmaEZxcWpYOXBleklJeWFHd25vM3J6Z0lKNDVxTnhyRDZjS3hlaGlnWHZ0YmVGSjBySW9rU3JfazdYek5odTNXOUo0MzFWbnRzalk2NTdFTTVodEdWX3pX?oc=5",
-    "timestamp": "2026-07-23T00:11:57+00:00",
-    "source": "fars"
-  },
-  "53b443e2d9a89e3be2ab5f89fa31c0e2": {
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMXBXbnhoMmZUMHl0Q1lqS3EyZ0o0MVNNX1htTmNaTUJkeUlSOFppNVRQSkhkUzBpQ193RWQzOEFuUzlDQzVBOHNUWWtEUW9VVG9hN05zTHREaXRqc01lVjlLeFNLUHpCNUVPZHRXRlo3SFQ1Z3phTWRJN3Zqa282OERqdDVsSXJvaUhFRUZDMjI4QTQ5TVF1cDJhV1Q?oc=5",
-    "timestamp": "2026-07-22T23:06:10+00:00",
-    "source": "reuters"
-  },
-  "6e69658a58eaa0c4a8b2265a1f5b927a": {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHZGNUJIVDM4b051ZHVfNEJYZmRlSTdLdDY5S0hLUFpCcTJFeU41bW5mMGtSbVNRNGhBdnhta3JpaFVXeGkxc1VwVmZvY19Ibm9DU0VwNWt6cWJDTm02YVJFZzV3UTZmRmpHckNTWkxGV2pCQjBqZHRDdExub2U0OGlraDNlcWFKaS14R3RDdjBRYk5mZDRoYkNfVG1tcmZybXpwZ1I4d0Z1bldT?oc=5",
-    "timestamp": "2026-07-22T22:31:34+00:00",
-    "source": "reuters"
-  },
-  "c5f4aa1e360db5df01f3c386c3db180f": {
-    "url": "https://www.france24.com/en/europe/20260722-ukrainians-welcome-new-army-chief-but-seek-return-of-fired-defence-minister",
-    "timestamp": "2026-07-22T22:27:45+00:00",
-    "source": "afp"
-  },
-  "4e790d2ec19491e2e62b51afbffef04a": {
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmNoNGFQY1hnSmFSaGF2eUNXYTdjYzIwdnNKTDF6cHVLeGg1UXdHYVk0UkhLUFVRYzF2LVVPc0toR2JzS2V2Q1BZR2JCcU1FUGFfTjFHU3ZzVlpZcUV2T09oaTZtdEp6cHdzZmdoQW1jckU3RjRZbnFfY1AxeTRpUXFRQXEyTV85ejNndHRTNFdJbHlNa2xDQkU3VEhkTUR0dXNrdHZmUGZUanl3N1d2aE1Ncw?oc=5",
-    "timestamp": "2026-07-22T22:11:10+00:00",
-    "source": "reuters"
-  },
-  "95195254a5378300f8fbef8ba3985722": {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjZPS0ljQWJqdERDbmF3YUNWTXpaU2p2M2VZTVZDZ1RVMUN5WkV4VFhBbGhlWlo4SjY4Vkt4MmxMYWxneUljdmphMnZkT3E1SG5hdnJzOHlYbmtYdGRZVGFpcWNRSTJGNXJTMmpJaXc0YVdYZk14RjlQNGFESjZBdDBJQnJrMGpCYWVKOHpqWWZ2ODhLbWYtdUNIUTFTWWRsb2tSM05HVmdaYWdGaFlHYU4yOEphZXRvbW42ajAzaw?oc=5",
-    "timestamp": "2026-07-22T22:02:41+00:00",
-    "source": "fars"
-  },
-  "e9b53d8b88b95be95213c6ccee9b6313": {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjZPS0ljQWJqdERDbmF3YUNWTXpaU2p2M2VZTVZDZ1RVMUN5WkV4VFhBbGhlWlo4SjY4Vkt4MmxMYWxneUljdmphMnZkT3E1SG5hdnJzOHlYbmtYdGRZVGFpcWNRSTJGNXJTMmpJaXc0YVdYZk14RjlQNGFESjZBdDBJQnJrMGpCYWVKOHpqWWZ2ODhLbWYtdUNIUTFTWWRsb2tSM05HVmdaYWdGaFlHYU4yOEphZXRvbW42ajAzaw?oc=5",
-    "timestamp": "2026-07-22T22:02:41+00:00",
-    "source": "fars"
-  },
-  "c4cb22e71b81179c4289cf2f3e1f6f78": {
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRXN5SFByNFBWb1hOU2l0QzNvTkU0QzFtZlEzRk1VRE43QzZmNlV1V2FiVk9qQXZ0MzlseE5qMUNVSGFVVk80eVFyWHVYcjVPWEZyanlvZWE0NU5FdmxoSzBraFdIcVNmM24wYkJXTmdITHZ6dE5GdFBMR2h3ZEhGLTlWbldBLWZKZ19xOVpLM3YtaGl1RnhObE5oTnJtQ3NhYTdMTGtjMV9kbWpmWU1LblZtbjRadkJVTkc2QnNHeXpURGY0azZ5eVcyaw?oc=5",
-    "timestamp": "2026-07-22T21:57:12+00:00",
-    "source": "reuters"
-  },
-  "4852cce6505684ca78a3acdae7500477": {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdDRmekNIWVdEU2pkNF83UDRQMVY2V2xlTkNHcTlvcURWRGlVZmhZbUdqbUVwWUYzbHUzMkg4US1FMS1XNUt0R2w2VGN2OXIxNFFxeWdXVDBoNFZHME1XZzI0bUJIakphQ1paM2FMeEFURDdUWmJKQW9JU1dPclU0aXVqTm81VG10WEpySXBTNGhJdVRzc1pvUlZnQnhOcmZTRkJVWA?oc=5",
-    "timestamp": "2026-07-22T21:56:00+00:00",
-    "source": "ap"
-  },
-  "5c491ed7fc73c35d590e1df43a0c20bc": {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHZGNUJIVDM4b051ZHVfNEJYZmRlSTdLdDY5S0hLUFpCcTJFeU41bW5mMGtSbVNRNGhBdnhta3JpaFVXeGkxc1VwVmZvY19Ibm9DU0VwNWt6cWJDTm02YVJFZzV3UTZmRmpHckNTWkxGV2pCQjBqZHRDdExub2U0OGlraDNlcWFKaS14R3RDdjBRYk5mZDRoYkNfVG1tcmZybXpwZ1I4d0Z1bldT?oc=5",
-    "timestamp": "2026-07-22T21:47:00+00:00",
-    "source": "reuters"
-  },
-  "bbfc93ce6564ce1c338e686072222eba": {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMF9BdEpBSF85VVVLUkJJRG1IcE9IMi0yazczV1kyaGxMc3lTeW40elcwNHR6M0dRR1lmWEZuWkVPWG5ITERRRGhZeDRHdDhGSlZmVm8yemZHX2hNOFpOUlpwVkRtSGtLQ085ZjIxcm51SE5tSWFqQWtsdXJSVGJxVEFQZmdiR2swdTJabkNFNlhZN2t4T050ZTNRRThlV1FHdnUtS2E3cVlMZVZoNTlFd3h5ZURhSkNEYUtsVGJzVQ?oc=5",
-    "timestamp": "2026-07-22T21:45:11+00:00",
-    "source": "reuters"
-  },
-  "3ed7cb213af5fe251250ec33546c157a": {
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYnQybEtscG5ZSVJwcFN4UEVjWlpwXzhuZVc2XzJ3em5kU09UTmVZQ3plLUhTd28wWmJpMEdCRUxId21Hd01aZWVjbHN0OXg2a0NGaG82STJFbnp2SU1icXh0Nk5kYVZQN19Vd1ZqZ0tjM3VlNFBIdlhHZVpRbDA2dVNUTTZERG8xUTlfdnZGNFFrYy1rc1E2S2ZHbWlTYkp0SmZsenVPdUFVTl94X2J2QS1PbnNzV0hEOGRIcUJyTWcxR3pRb1NBMGlyem51LVBPdjM0cThPempDLWVlNnNvM01DWG85alFsNXdfTjZoVDNGOTFabGdv?oc=5",
-    "timestamp": "2026-07-22T21:26:22+00:00",
-    "source": "fars"
-  },
-  "e485b1a3c410298c763b039b86cce458": {
-    "url": "https://www.france24.com/en/middle-east/20260722-trump-threatens-iranian-infrastructure-over-strait-of-hormuz-attacks",
-    "timestamp": "2026-07-22T21:23:37+00:00",
     "source": "afp"
   }
 }
