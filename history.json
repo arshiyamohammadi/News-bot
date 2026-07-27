@@ -1,8 +1,18 @@
 {
+  "f8e330420a837e3b3e292de9d9ceb422": {
+    "url": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions",
+    "timestamp": "2026-07-27T18:46:28+00:00",
+    "source": "nyt"
+  },
   "8019fcc7cad7496d78e740d78d6a5457": {
     "url": "https://www.nytimes.com/2026/07/27/world/asia/india-protests-cjp-education-modi.html",
     "timestamp": "2026-07-27T16:59:44+00:00",
     "source": "nyt"
+  },
+  "c29d92e40272e31c3005b12bc19798bf": {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzhaOE5EZkZWdTRDZlhoaTUwempUc3g2QnpqSDAxM0hCeVNCZ190UDZTcmJTU2pWSHBXWTAzaFdtclJqR0VyZUN6NTVLakxmTHdSdk5PRXRhalZwNEhQSDlRSXQ3LUoxa003SWVvVEJpMjFGV2IxSGJjVWg0VHROY0pqVUROT0RxNmJRYTdrN1F4bndKa19vd051VzhwTHM?oc=5",
+    "timestamp": "2026-07-27T16:43:43+00:00",
+    "source": "reuters"
   },
   "b05d26cffb948deb1a3be59ff16e5cef": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2d2g4aXhpU1RBT2JuZVFaeWtfNl84LVBXUFpjNVRFM2VXOFR4c29oS1dITWIyZlhFbmdPeC16VDZ3WTlMTVljZ1Y1XzZ0T3dnSXc?oc=5",
@@ -14,10 +24,20 @@
     "timestamp": "2026-07-27T16:07:45+00:00",
     "source": "nyt"
   },
+  "47b5aab1d4050155987984ca9d038638": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yTVEzNlJmMFVycDZZV1FiZzJUT1hCLU5kNC10X3NBbmR2RUltcWhNTzdjdThjRWdRcTFCQW8ya0ZYeDhlVFhQVTAyYkV1RWJlY1E?oc=5",
+    "timestamp": "2026-07-27T16:01:44+00:00",
+    "source": "iranintl"
+  },
   "b00c13921476b59b30213fdab1822baf": {
     "url": "https://www.france24.com/en/video/20260727-israel-lebanon-conflict-amid-displacement-lebanese-cling-to-hope-of-returning-home-to-rebuild",
     "timestamp": "2026-07-27T15:50:30+00:00",
     "source": "afp"
+  },
+  "cc18d997fbb39c2c83d5f58799caa261": {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNHNmNWt0aXlJdzB3MVVnbUhaOXkwZUhkWlp1RVF5YnpxU2t6R1c3b2VDM3h4LXh6cXJoMHU1RXg0SjU1MVhQMDc1a0tlbFRyYmY4VWFFWFRSRF9KZU91SjViZ0xJX2tCYVBtQ3E0N3hvRHVFOUdqOURqU0puUFdGWTV2c2FnTGZvR3N4NGwyZm44TG5JM3h6NU1BX3VpZW5remg0U3dJam9WQTJqdUdtaXZ0cGt3bjVETkxsOUc5d1N4VEU?oc=5",
+    "timestamp": "2026-07-27T15:24:09+00:00",
+    "source": "reuters"
   },
   "7aa2788f31f83e26faec8e7b3b45afeb": {
     "url": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions",
@@ -28,6 +48,11 @@
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUm9zTzRwdVFyUlB5c0l4U1ZVZGJkOEhSVkJjQ2xUWklza0dNZGpySUlONFpRM2EtT0hIUWpmXzk5Und2YWlRZWl2NWRQd1A0UUQ2ZHdqMFc3YXc5Q0ZWQ25tcXpWZERhVUlZR1l5VklrSzFNUWJUWldqRDhaSXh0bTAwNjZCa0YwOVlEam1vU0JPRzJXWkJTX2FsWFU1WHhuZTlLVDdLakNVRnZhdDZOdzVISmh6VHFRN3ZuYUZtRVlkbE9o?oc=5",
     "timestamp": "2026-07-27T15:15:45+00:00",
     "source": "reuters"
+  },
+  "7803826a5b122b535fd016d6c98692cd": {
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Bb3JNYVJoSERsWEJtUUxJS3BULWh1QXZkVFJOYU1reWhkeUNJd2k2d09fWHIwSkJMb3N3TDhfaHBnSndNSmY3bW9IS2ZSYWVSQ3NWa09xT3ZKNGFh?oc=5",
+    "timestamp": "2026-07-27T15:13:42+00:00",
+    "source": "radiofarda"
   },
   "9ba4281a70eab07c4fd5bd2e87212c13": {
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeDlpSUM2eWhGMl9rVW15em5HMU15SkNkdDJVQlpWX1F3ekVJWFZYcktYT0Z5ajQ1c3JmZ3pocmNjSkRWWTVKckZwNFRUVzBiTktyNXR4WTRUM21pYm1CV3RKQUpQd1E0dDcteTBXMW9uc0FqTFB1bGdpQnMtb3BxVHpWVzlNRHluZmVMVVFFOE5WRTVKdjZFUjNiajlod29ZU1lGUlBnbjh4VWE3Z1E?oc=5",
@@ -125,6 +150,11 @@
     "source": "reuters"
   },
   "c971961abc5ebb27f6b2c5e950bbc02f": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FMkNMc0dldnhwRnNpOXduOHlwbzNnQXpVNDFIazJPTmZiUWV6bjFYUEtNWkQ4TjBiQTJuOWFLdUhraXVUenNRanJaMTJYMkhmVHc?oc=5",
+    "timestamp": "2026-07-27T11:50:26+00:00",
+    "source": "iranintl"
+  },
+  "7d0e6746972a258389be369aad466cb9": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FMkNMc0dldnhwRnNpOXduOHlwbzNnQXpVNDFIazJPTmZiUWV6bjFYUEtNWkQ4TjBiQTJuOWFLdUhraXVUenNRanJaMTJYMkhmVHc?oc=5",
     "timestamp": "2026-07-27T11:50:26+00:00",
     "source": "iranintl"
@@ -353,6 +383,11 @@
     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tSEFvSXVZTllwU0V5M2xDWFVnRG93T292LU1BMDlsaGJPMUxBYVVnNjVYSVRqYjc3TWpaWHBCeXVGbXAwS1V3Qzc2M1M?oc=5",
     "timestamp": "2026-07-27T00:38:15+00:00",
     "source": "fars"
+  },
+  "dbdb436559ad796d2229040b8e57d3da": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxaXpqb05vYmtIQ3UtYi1xNmdBMXppOFlESkNlbXgyNER5YS02eDR0WXVJTzZuazZKdG1sZm5iY3dyajhrZkQyTzlLOVkzYklDOEE?oc=5",
+    "timestamp": "2026-07-27T00:11:00+00:00",
+    "source": "iranintl"
   },
   "231832d870fb7e2c80fe2c5d068668e1": {
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWxxNDU1SHBqVXozbmd1VHRWYVpQWGVqVUVTUHVlakJjS2lKMHBCbDJCS1hucGROTV90dUhuNS1mUEdKVEtBZjR2b1FwSFZJejdVLWR3WFMxWGV6NVk5YWFOa2o3ZHdnX1R2enpyRm53YnBmRmZyS2trSjFiQ2VSbjZQZ2JhbTdRbnh0RVlleDhYTmtUUjJWN0JpTV9lNXU1X3cwazNYcHhzZkNic1hQdTdxMXZEaEM5MDhQZA?oc=5",
@@ -648,11 +683,6 @@
     "url": "https://www.france24.com/en/zelensky-says-russia-seeks-30-000-extra-n-korea-troops-for-ukraine-war",
     "timestamp": "2026-07-26T10:32:59+00:00",
     "source": "afp"
-  },
-  "7803826a5b122b535fd016d6c98692cd": {
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SU1lsTlpsOWw0emxFdzRrM3VWTXYyTUktYWpCUEpYWHBVR096b2ZVSDRPeHlfcTJOVXRXNGNpM240b1hlU1VsY3dvSWZUaEU5SDFTcDZjMA?oc=5",
-    "timestamp": "2026-07-26T10:25:27+00:00",
-    "source": "radiofarda"
   },
   "ac3f4a216e7359d2708a6c22394845a2": {
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRjZFTlNSX2NTY2s4NlBlU2ZRVWc0aXN2dTFKZDRPSnE1ZE10QnpfVl9Ici1kZkdpTy1vd0Q1U014bVBmdFY3dFRmNi1xMWZZdi1kVlhwOFY2RkdINzBhQmFOMm56QS1uazYyS0tVWWFfNHNvRG1QajAzMzd2V3d0Mi03VHl5SzN2SWNoNHk1WmJvQ0F0cGxvR0lmVUZJeG1SUEZ4WUxGdmVCU3M?oc=5",
@@ -2467,36 +2497,6 @@
   "682f87daa191deafbdd8d734087b8851": {
     "url": "https://www.france24.com/en/middle-east/20260723-middle-east-live-houthi-rebels-claim-attacks-on-saudi-tankers-in-the-red-sea",
     "timestamp": "2026-07-23T02:22:41+00:00",
-    "source": "afp"
-  },
-  "d11d4db3628d6dfdddb76bee20580f86": {
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX25MSTZRU2IwVjRrLXUydzJoSGx0c0hWWm1BWlQzM0dHRmRPYUpJOGtwZ3VQeU1pbHZUVXdGdnJ3SFdGWHNzVEZSNFoweHc3S3pjXzlEU2F6RTBWallpbHFjUWpwZ3ZPS3VBc3pacEw5SkE3aHJTNjdBcXpXQ3pMNUNya0NmRy1LOE5lLW42Z3FCb1JBLXpTVV9uUXBTejhJbklHOE5fRnlsb01fUVlaS25yNmNtQkV3VDJmZ3Y0MDVldGZ3NWx2WmdnRHBWclpNRElYRQ?oc=5",
-    "timestamp": "2026-07-23T02:16:27+00:00",
-    "source": "fars"
-  },
-  "9725ba2e600a4a60e0e9a3cd6ce7bb23": {
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX25MSTZRU2IwVjRrLXUydzJoSGx0c0hWWm1BWlQzM0dHRmRPYUpJOGtwZ3VQeU1pbHZUVXdGdnJ3SFdGWHNzVEZSNFoweHc3S3pjXzlEU2F6RTBWallpbHFjUWpwZ3ZPS3VBc3pacEw5SkE3aHJTNjdBcXpXQ3pMNUNya0NmRy1LOE5lLW42Z3FCb1JBLXpTVV9uUXBTejhJbklHOE5fRnlsb01fUVlaS25yNmNtQkV3VDJmZ3Y0MDVldGZ3NWx2WmdnRHBWclpNRElYRQ?oc=5",
-    "timestamp": "2026-07-23T02:16:27+00:00",
-    "source": "fars"
-  },
-  "937e58b0e789c3037f01fb8cac867c76": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBReHpyQnhiZlNOdW1qbEpveEI0VmZpc1BMTjUzN3ZjVnZsanp5aF9JZzJCNzJZaEFOdFVZMzJmeUtSYkFVeUk2aEp6aGFIYkpBUWc?oc=5",
-    "timestamp": "2026-07-23T00:58:24+00:00",
-    "source": "iranintl"
-  },
-  "23f33901e9a3595060eea085132030f7": {
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEZlQTh2dnVnblEzaVc4eE81SE92UFhTN2VJSXQ4RGdOQVFLU2FuUTB6d19yWWotOFZzQTRaRmlPanZpYkdPZ18waTVpd0lsaWJPRU9aZkd5VU9lZ3RvYi00RGh3TUFsV3JYTGpNc21BOE54N01TbmtCOWh2UWtUTFhZQVlfVHBNS2F1ZDhJS01RT001UDRBQ3MwYTFqM25uaUcxX1E4R3JTX1k?oc=5",
-    "timestamp": "2026-07-23T00:40:00+00:00",
-    "source": "reuters"
-  },
-  "09d20f61a2f5323abdb70ae898ffe5f6": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkxVRHNEai1jeXMzeVdPZVZqZmJvUjBqdTY5ZVZyWEp5bC0yWFJTWldhSlhlbFhoRmEwcFBnNkk0UWdDdHZMWFRXMk5acElxZEFSQ0otZzFQRElSMXdER1NlT0ptZUxVbTRPT3dFM25rOGtsb08yLUdXRll4SkhUZk9QejZ2RWZrb1hLcmhBYktXeEhrTTZIR3FTSTN6RUk?oc=5",
-    "timestamp": "2026-07-23T00:39:00+00:00",
-    "source": "ap"
-  },
-  "d8ecd896835252721aec716ccf52e125": {
-    "url": "https://www.france24.com/en/europe/20260723-wildfires-ravage-spain-france-and-italy-killing-three-firefighters",
-    "timestamp": "2026-07-23T00:23:42+00:00",
     "source": "afp"
   }
 }
