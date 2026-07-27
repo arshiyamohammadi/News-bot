@@ -1,12 +1,52 @@
 {
+  "b6309b611200d3c6f3ffa5265e546763": {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWh0b0x6YkZxeXE4b0poNEhtVHFfZlJuM3hpbXF0dTFiTlEzSXVDUzhZMlB2YVNXamlQTU16NzZMY3VtTXoyOERPYVNMLW1BVmNoVnFzeFpXRkM0X0pFNG5vU0tOUUZOS0hNV1RYSEIxdTNSOEZfM1pmSzBPNm14a1RNSTNnSko4ckx3UW9FMGZPUW1COGFxU0VIQzYtRkx4bGZKdmttYS1vRVFnblFOMThKOA?oc=5",
+    "timestamp": "2026-07-27T04:28:01+00:00",
+    "source": "fars"
+  },
+  "8038a556346e96fc356a332e60f66ada": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56VUhENFB1eURMenkxOUdVRXBqSk9ydUhxQjgwd3g4alRaUHJWUFJzay0yS1A2bHVJM01neVgxNXZTVU10cDZ1YTdPRzFpSkhVcGc?oc=5",
+    "timestamp": "2026-07-27T03:16:43+00:00",
+    "source": "iranintl"
+  },
+  "e4b1f56f1fde4742f47659db5910a571": {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN1oyMnBOV1hBWHpsSmw3cmNUcGJiaV9EMFNUcjV5R1hpN0tvY2pGRzZkUHdLMElpQUVsbHdtcno2Q0xUWmw0WERVSk9NeXp5TkZzeURBaU1oOC1xd1NJaDBscTBHaThlVWdiSW54Ml9HS2kxazE0Y18xMGt5UG1SSEw0YlQyZWRhYlpkSXJ0aktCbWoyRUNlanBNbklsNGU2cnlNeF80Z1JuT3l0akcxdnBXQQ?oc=5",
+    "timestamp": "2026-07-27T03:16:03+00:00",
+    "source": "fars"
+  },
+  "2d11c3d8f7553ab2726677fd6dcc7517": {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVHhXdm1LMW9wUmp6UHctWldmTGpCQWlBOWVTdk5GeEtuMzNYQU42TGlWWXQtSDAxeE1aa3JvNFRDRUx6WVB5eGliS21TMEluRkJEUndXeHE1MUYzUVZlZG9CQ1V4VXFITFIyMEhJNUNlczhueTJpX2FjbFBoSmVkSnZJX0pQOS05RExueWpHMGpRMElqUTBVV0lqajBCRG9Kc1E?oc=5",
+    "timestamp": "2026-07-27T01:44:00+00:00",
+    "source": "reuters"
+  },
+  "ae59b2d0747341ab89b11c4e1084ab23": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaLVdmYmlQbF9GQU1pWW9wRGItdkF0c3ZTVVVzRE5FWkQ4LXVDSm9ENURUclhCdzBIVGpPVjg3YWhpakM1Q2MxY1ZvOXVzMVV3Wnc?oc=5",
+    "timestamp": "2026-07-27T01:12:00+00:00",
+    "source": "iranintl"
+  },
   "e0199b13554dbf30b9931cf58f99987e": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85MzJLUl9UanlfZWdidFNjWlBES2t1VEFQNXd1elVLa2hCZzktWlJSTDdDTTN6dTZZWHRyaVhTM3VUVmxkY3l3LVNJZnpIWGZxeGc?oc=5",
     "timestamp": "2026-07-27T00:53:41+00:00",
     "source": "iranintl"
   },
+  "f6eaf51bbedadddd3220efe9e6a1946f": {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZmRYdXF5Ti13MVMxdDBDLU41eUtfcGs5cTRLbzVYVkFjdGRBSGxIWEVOZS1EaDNMRV9VVEM1QW5TMEZXdEFPYkJkeWRGZ2xhZXFnSm92amF0cjdnSVVNc0dzX1o4MS1Uc2Y1QU9MbU1fQWo5R3BzVjZpT3hVdVJXUG14Y2lfRllHR1NJcHkxa3RzUDFod09YbjhWdUc3OGJqc2RHRXE2Y1BWSi1rTlM0ZzUwcEEzM3NlVlBv?oc=5",
+    "timestamp": "2026-07-27T00:53:00+00:00",
+    "source": "reuters"
+  },
+  "231832d870fb7e2c80fe2c5d068668e1": {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWxxNDU1SHBqVXozbmd1VHRWYVpQWGVqVUVTUHVlakJjS2lKMHBCbDJCS1hucGROTV90dUhuNS1mUEdKVEtBZjR2b1FwSFZJejdVLWR3WFMxWGV6NVk5YWFOa2o3ZHdnX1R2enpyRm53YnBmRmZyS2trSjFiQ2VSbjZQZ2JhbTdRbnh0RVlleDhYTmtUUjJWN0JpTV9lNXU1X3cwazNYcHhzZkNic1hQdTdxMXZEaEM5MDhQZA?oc=5",
+    "timestamp": "2026-07-27T00:08:00+00:00",
+    "source": "reuters"
+  },
   "ce90cccc36c5429e1160a5f0636bb48e": {
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXVDd2dEeUdKdzZkTFduSnE1cGp0S2YtaGwyNTRxekczRW5TdGdtM3JGTFFtYlNiSzNsTVFmTzlYZ0ttZmtJdGtjU3g4U0FPUnFPenFkaWp3ZENtbzFGVFdtUk11TzRSbzg3dmZvWVFqRHZDR3FBZEpxR2dSZEUwU0w3d0pRUkVHd3dWZXg3Yk95SjdMbUZxdDEyTDlaRHdFN3JXLQ?oc=5",
     "timestamp": "2026-07-26T22:17:55+00:00",
+    "source": "reuters"
+  },
+  "7f73392caeca6155a6f3ac840eb8818c": {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXVDd2dEeUdKdzZkTFduSnE1cGp0S2YtaGwyNTRxekczRW5TdGdtM3JGTFFtYlNiSzNsTVFmTzlYZ0ttZmtJdGtjU3g4U0FPUnFPenFkaWp3ZENtbzFGVFdtUk11TzRSbzg3dmZvWVFqRHZDR3FBZEpxR2dSZEUwU0w3d0pRUkVHd3dWZXg3Yk95SjdMbUZxdDEyTDlaRHdFN3JXLQ?oc=5",
+    "timestamp": "2026-07-26T22:11:00+00:00",
     "source": "reuters"
   },
   "4e0397444f2ad57ffedd2fd4fa611e30": {
@@ -75,6 +115,11 @@
     "source": "nyt"
   },
   "55111b4a9e2d05afba5e4f8bd2cd6205": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xWld3bS1CUzlaNnhSbWpUaGFHQkJHTW5aLUg0b1JVUnZubWVJWTZCd1FaOVhxVTFDUkxhX3dxRkJXb1d0dlJRSzF4R1BzeGlCTVE?oc=5",
+    "timestamp": "2026-07-26T17:19:24+00:00",
+    "source": "iranintl"
+  },
+  "7a66ae10dcf0f8d93e407cff1fcf5cd4": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xWld3bS1CUzlaNnhSbWpUaGFHQkJHTW5aLUg0b1JVUnZubWVJWTZCd1FaOVhxVTFDUkxhX3dxRkJXb1d0dlJRSzF4R1BzeGlCTVE?oc=5",
     "timestamp": "2026-07-26T17:19:24+00:00",
     "source": "iranintl"
@@ -234,6 +279,11 @@
     "timestamp": "2026-07-26T10:56:32+00:00",
     "source": "reuters"
   },
+  "67c2163ddb91916cc6618e099e2ef23d": {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTXFRcVhGYTlSbEllaDQ1WVFLNm94aVVxRTRHakZfS0tEZXc0b09vdm1PV0pMQ3lMbzlDZzJtc2FraGMwVXg1ZHFNZkxWVkpQZ0ZSVkRjUmd1dGlEc1F4SEttcEhYa2tXUHBCMFJrMzBrLThlenk1VW5JZDZrVjFRbS1STFZXeDZBVlhuNWNpRnZzVXB4VmgtS1FzdnBDdkJYeWFPS29lLTRxVEpKSHpnWWxDMzlGR0czWkRHMQ?oc=5",
+    "timestamp": "2026-07-26T10:49:07+00:00",
+    "source": "fars"
+  },
   "d9cb8688810506680c9f6e872e4568ec": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PbnBvdFloNXJNazJ3WDdhMW9jYzJvUWJ1YThxQzZ6OXRvQmhUcHhyUVcwaGowRklmeTJfWkJ5QWJZYi1aaWRoX0Z4aWlwanozcGc?oc=5",
     "timestamp": "2026-07-26T10:45:42+00:00",
@@ -337,6 +387,11 @@
   "079008f9836e6c31cf4d04966ce9ddf1": {
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRFgzZVh2NFBNUWZ0QVlSdnA1b2g1VjFVTHNBZFJVejY2S1B5WEpsdjc3VVhiRWdCeGstY1h0c3RfOGJFdnhKRG5ESzk3QVFjYzJNMXpoOURENjU3Tm5lZnV6ZmpxWTB2U0FhYy1ZRmxvcU9fOWdiT3hHLXVLdWVtT1VHdUlaSDlvSUY4d0FVM3R6QklRTEJWQWhYM09CZGJocjVpSl9tandqMk1wbV8tSTgwR1M?oc=5",
     "timestamp": "2026-07-26T07:15:54+00:00",
+    "source": "fars"
+  },
+  "06f8edf45fdfd8d6ad54ffaa7a77096b": {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanVuXzlycmE0VHlUTXN3RmtZaXFtM0VZbVlLNjRCZ0Zib1NLOWRjaVQ2WjlpNGZVTDVGNE1qandDOWQzQzYzR3JNSkpzT2xmNmhiUWhMVVJieVU3Sk1IN0NPcTd5eTBKS3FkRHRTR1JqMm4ta2plbDkxdW4xdFYwcGRkMTR1c1hyRzdNRkM5N0RXMmRjQ1V1U1ZiS1FsbWN1RWFNOFpyVjlPMzVENG5hYUZJSjNPR1pNRktkUU9fMDEyMVg4RTZFbmlvRmQ?oc=5",
+    "timestamp": "2026-07-26T06:54:23+00:00",
     "source": "fars"
   },
   "e83dda76fc21fad7bdde0aa053ed0328": {
@@ -2442,61 +2497,6 @@
   "1779bfbb810bbd687fc55d171240472f": {
     "url": "https://www.france24.com/en/video/20260722-ukraine-s-controversial-top-general-replaced-amid-mass-protests",
     "timestamp": "2026-07-22T11:28:24+00:00",
-    "source": "afp"
-  },
-  "ee1e8ab4da7e1006394842b2f9f3a6e5": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xYkFHOW9ic2VCUVlLYWZQNmFtdFZQMXZibG10QjBLdDUwa1pGdjJMalk4MlZHYjNpUFdqOUZxdUhWa1lWOTU3bGNPZWkxVEpTeEE?oc=5",
-    "timestamp": "2026-07-22T11:12:07+00:00",
-    "source": "iranintl"
-  },
-  "f79481243415f66d2fc9c6af64f3bad4": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xYkFHOW9ic2VCUVlLYWZQNmFtdFZQMXZibG10QjBLdDUwa1pGdjJMalk4MlZHYjNpUFdqOUZxdUhWa1lWOTU3bGNPZWkxVEpTeEE?oc=5",
-    "timestamp": "2026-07-22T11:12:07+00:00",
-    "source": "iranintl"
-  },
-  "a88366bf7e266cdda13076bf52b9cfab": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SUHp1dXZybTJnUXJRM1dmdDk0LTFXaGFoV25PZXltUTVycDgtRnB4enA4bjNjUTYyQy1Ub1U0Zlh2VmFnLVJManNvTG93bjRLakE?oc=5",
-    "timestamp": "2026-07-22T11:00:23+00:00",
-    "source": "iranintl"
-  },
-  "b78b240b4239e994a1fa430aae6d3240": {
-    "url": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html",
-    "timestamp": "2026-07-22T10:46:16+00:00",
-    "source": "nyt"
-  },
-  "6092a7f8494742015f762a2b1a29ba72": {
-    "url": "https://www.france24.com/en/louvre-art-historian-didier-rykner-warns-emmanuel-macron-s-vision-is-useless-bad-for-the-museum",
-    "timestamp": "2026-07-22T09:59:10+00:00",
-    "source": "afp"
-  },
-  "46caebeeb1e3e2e87552cd33d783eccb": {
-    "url": "https://www.france24.com/en/pete-hegseth-asks-us-senate-for-urgent-iran-war-funding-increase",
-    "timestamp": "2026-07-22T09:57:39+00:00",
-    "source": "afp"
-  },
-  "e8b11e264279cec47b1bcba1e0b08a36": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ESEhzZVJHVHpMNDBkNUhhZzNtSmpFaEthNEtVOUVHN0U5eWo1RFcxQ2tDUlhnTFk3cnpPUE9EM2EzVjVvZDlZOWJ1cGtWSDBGT0E?oc=5",
-    "timestamp": "2026-07-22T09:53:13+00:00",
-    "source": "iranintl"
-  },
-  "c237b848e325c4c707d410ebc1282f38": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RMjFrS0RFRmZoNzhmQUoxOHh5Y0tzajk5MTFTRDhOTjBwME5QRkgxbXNVU1Fkd1lLdzFaSXk2bDAtdDZHcHZ6TlhZTW5kVzdPV2c?oc=5",
-    "timestamp": "2026-07-22T09:35:24+00:00",
-    "source": "iranintl"
-  },
-  "d3cfa22ca4338c43c8e61e3628256442": {
-    "url": "https://www.france24.com/en/zelensky-dimisses-military-chief-accused-of-wasting-lives-by-demonstrators",
-    "timestamp": "2026-07-22T09:21:19+00:00",
-    "source": "afp"
-  },
-  "d9aa9891541b26adfd05bd7c3fdabc39": {
-    "url": "https://www.france24.com/en/us-eyes-strikes-on-iran-s-pickaxe-mountain-believed-to-be-an-enrichment-site",
-    "timestamp": "2026-07-22T09:15:25+00:00",
-    "source": "afp"
-  },
-  "0b4dc7daf5f1e3311e1e1fd22c7f014d": {
-    "url": "https://www.france24.com/en/zelensky-sacks-army-chief-oleksandr-syrsky-after-protests",
-    "timestamp": "2026-07-22T09:13:44+00:00",
     "source": "afp"
   }
 }
