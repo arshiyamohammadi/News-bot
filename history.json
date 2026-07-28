@@ -1,8 +1,23 @@
 {
+  "013a454eeb348b8daa0180272cf892e2": {
+    "url": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions",
+    "timestamp": "2026-07-28T00:24:09+00:00",
+    "source": "nyt"
+  },
+  "3a1b69c3966bf39cb363c17c59786544": {
+    "url": "https://www.france24.com/en/middle-east/20260727-yemen-says-ready-for-houthi-escalation-after-rebels-target-saudi-arabia",
+    "timestamp": "2026-07-27T22:19:10+00:00",
+    "source": "afp"
+  },
   "445322b8d8945ea0687c75c6e43e20dc": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DbkRBS3MyTm5rdjNpOFhfQmlwMlFEOVpmYVVnbmV3bjUxN0dSR0RqdWlQMEtETzJkdVVOMXREQjlJYk95Rk9DZldMZU1pUzBySVE?oc=5",
     "timestamp": "2026-07-27T21:42:16+00:00",
     "source": "iranintl"
+  },
+  "ffd857cdf67775b14743039c67adeaac": {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUEg2cXl0clpBY0E0bkE0SXBXNldadE9EMldpV2gyNnl0X1lidTJMemtyam9SWGlSNzI3dUx6S1Nhczg0NE8yWVVxeWk0LTlfbmlNUGFiVnFvWDZOMENjclprMkxwV2phdmJwMm9VaXFLMV9LeHhhZ1R4SkRrSXdQNUY0QTllV2pkV3I2MFdWcXhHSmdzb0MzeVJZY3lhVUlKVkdEeQ?oc=5",
+    "timestamp": "2026-07-27T21:23:44+00:00",
+    "source": "reuters"
   },
   "baf7c48db1e682cfa787fbc0d0d0034a": {
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMVVPNkRGZVdiRV92eGp3cnQ5bHlrVTRRRDlGcWNXQVQyNEg2T3cxOEdJdlRWaXhiTmk4bUgzOGZEODBSeDhaNnZQUDN5dlVKN1RfeVMtb2hfbVYzSmxsRkdOOWRLSUQ3RjZXa2E5ZXUxbXZVT3BHTDZURXh1ZjZxck1vYmMzd1VxSFY3SmoxZ2o2c2Z4QVBfV2JmR25Yc0FoUjBsSFpHTGFEOThJQVFWTEJPVmd2Vm1xVGlSVF85cmZCTERQLWl4Z3FRTGxIdw?oc=5",
@@ -413,6 +428,11 @@
     "url": "https://www.france24.com/en/middle-east/20260727-oil-prices-fall-amid-pause-in-iran-war-to-give-space-for-diplomacy",
     "timestamp": "2026-07-27T03:13:12+00:00",
     "source": "afp"
+  },
+  "073e50d758cbcc4557cca36b5b013262": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PdVFsYkFZN0h5c1UtVkNWX3QtSWRCQmQ1SFVpNDlMS2d4S25tdHo5bk1lR19XZU52Q19mSzZhNlZ6M3hERjdVWnpUckFrVUxoVXc?oc=5",
+    "timestamp": "2026-07-27T01:50:02+00:00",
+    "source": "iranintl"
   },
   "2d11c3d8f7553ab2726677fd6dcc7517": {
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVHhXdm1LMW9wUmp6UHctWldmTGpCQWlBOWVTdk5GeEtuMzNYQU42TGlWWXQtSDAxeE1aa3JvNFRDRUx6WVB5eGliS21TMEluRkJEUndXeHE1MUYzUVZlZG9CQ1V4VXFITFIyMEhJNUNlczhueTJpX2FjbFBoSmVkSnZJX0pQOS05RExueWpHMGpRMElqUTBVV0lqajBCRG9Kc1E?oc=5",
@@ -2478,25 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOck9rMklSSHp1Z0E2UmlqZUJHSWNxRXNSZGtZd1JTOFdSbUE2amI3RHFmaUNuSS1nU1NzaThJdVIwVzZFcXVIaXNjU3lrSVYtaDF5THNwWkpqUHVwTEFsWklsbnp4ZllTMndIYWhRM0RZa09qaTNiVXVCNmh5a2p6MnBidG1kWkJSUVJnb1RuOXdUcU5MRDVxbzJmcDE2UWZsaVZYRDdCdHlYcG1kUTdKT093ZXI4b3VkWjZNRzdDUDIwWEFWMHRia2FIY3dIdw?oc=5",
     "timestamp": "2026-07-23T06:11:43+00:00",
     "source": "reuters"
-  },
-  "a5291fe1f9926f754be2caff761a1cd5": {
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVG1JTXpRVzcxazV4Y3RmVV9pNnFrZGtrS1FkWmJzTngySXJ2YmwwZXNDNzZwOWNsbXFtWTFxRWEtT3pVZmh3YUtlV2gyRUs4b2NxcW93RkQ2TE5QMy1ZVklod1RtOE1iRmttY0gyRGQ0NFA3bEptTXNVbUs4bno3OXBtXzFqOTczTlgwMTFkdWIwQ19pYkRfaTdIMDUtRHRXUDBOdVViNHhMYlZjZ1ZVX3VIWEpVTGN0ZHBFZDItVlhINDY1SGxKYk5KVWp2LUhWSVB3Z2x3?oc=5",
-    "timestamp": "2026-07-23T06:07:05+00:00",
-    "source": "fars"
-  },
-  "f7fa68c18b66ad82a4ab7a80f106e168": {
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVG1JTXpRVzcxazV4Y3RmVV9pNnFrZGtrS1FkWmJzTngySXJ2YmwwZXNDNzZwOWNsbXFtWTFxRWEtT3pVZmh3YUtlV2gyRUs4b2NxcW93RkQ2TE5QMy1ZVklod1RtOE1iRmttY0gyRGQ0NFA3bEptTXNVbUs4bno3OXBtXzFqOTczTlgwMTFkdWIwQ19pYkRfaTdIMDUtRHRXUDBOdVViNHhMYlZjZ1ZVX3VIWEpVTGN0ZHBFZDItVlhINDY1SGxKYk5KVWp2LUhWSVB3Z2x3?oc=5",
-    "timestamp": "2026-07-23T06:06:50+00:00",
-    "source": "fars"
-  },
-  "7ec3d0ccdce5ee2412684338902e274c": {
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVG1JTXpRVzcxazV4Y3RmVV9pNnFrZGtrS1FkWmJzTngySXJ2YmwwZXNDNzZwOWNsbXFtWTFxRWEtT3pVZmh3YUtlV2gyRUs4b2NxcW93RkQ2TE5QMy1ZVklod1RtOE1iRmttY0gyRGQ0NFA3bEptTXNVbUs4bno3OXBtXzFqOTczTlgwMTFkdWIwQ19pYkRfaTdIMDUtRHRXUDBOdVViNHhMYlZjZ1ZVX3VIWEpVTGN0ZHBFZDItVlhINDY1SGxKYk5KVWp2LUhWSVB3Z2x3?oc=5",
-    "timestamp": "2026-07-23T06:06:50+00:00",
-    "source": "fars"
-  },
-  "719320cff079c93bf0ac547398701db4": {
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iVFd5OWFWaUQtZTRkLTZSTlVwWFVKX3k0ZS1MTW04NFJwX1dHeGNtSlpabmpXVVM3WUo1MUdUOEtmeUU4TS1uYUEybUkyOENvLXh2eHhEYkg?oc=5",
-    "timestamp": "2026-07-23T06:04:34+00:00",
-    "source": "fars"
   }
 }
