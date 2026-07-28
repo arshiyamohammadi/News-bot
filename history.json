@@ -1,7 +1,42 @@
 {
+  "20ed6041c9ef0ed236f7afe825d3e54a": {
+    "url": "https://www.france24.com/en/europe/20260728-british-mp-accuses-french-patrol-boat-of-firing-warning-shots-near-him-in-channel",
+    "timestamp": "2026-07-28T15:58:00+00:00",
+    "source": "afp"
+  },
+  "e657cadc33f34597cc1644e2aeb47ff7": {
+    "url": "https://www.france24.com/en/video/20260728-powerful-quake-hits-southern-japan",
+    "timestamp": "2026-07-28T15:35:29+00:00",
+    "source": "afp"
+  },
+  "98b8c8d9f9c8b03308dc2cb0ebcb748a": {
+    "url": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
+    "timestamp": "2026-07-28T15:21:07+00:00",
+    "source": "nyt"
+  },
+  "8904b257aa71c16ccc76e3bc4149f793": {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvN0xEcERRVVZ5bE1TWnViWnYzOXUtbXdXWWVkdjZ4NlJjMEtfT0lERkJ3aC1FUDVqV19TQUdBQ2NUOFBsTXhrQU1ibjdJM1ZVTGlPT2hVTWJfZ2p2YVAzZWtJMk1rQzBoX0c0Y3BYdGJEQQ?oc=5",
+    "timestamp": "2026-07-28T14:38:33+00:00",
+    "source": "fars"
+  },
   "525fb9e5721bad51c792db3c66fc51fe": {
     "url": "https://www.france24.com/en/zelensky-visit-white-house-in-test-to-maga-s-significant-shift-towards-kyiv",
     "timestamp": "2026-07-28T14:33:15+00:00",
+    "source": "afp"
+  },
+  "3f171a3917f8c31b7a8c241c55839af2": {
+    "url": "https://www.france24.com/en/heatwave-threatens-firefighting-mission-in-france-s-southwest",
+    "timestamp": "2026-07-28T14:29:02+00:00",
+    "source": "afp"
+  },
+  "437cd6554eeb5297fa42562d8b31decc": {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlNlakFJWnh6SjRnX1lScTE1UkxPRWc2aFlwM1RrUU5GcGpwREZ0NUxPLVAyYmFGamg5Vk9ENnN2YUZWcGhDZGVKOGdhaV9id3FKN3JCcHBzbnQ4T3ZfV091WEt5UmNTWU5UNlRTSlRoT0JxX1I5d0ZHeXkxZmhtaXpMLU5KMHcwN0lSbUx3Nnp6ZGxpR0lqazR3LWI3NnpManBQdFhjOFBhY2tJa0tRZnRvVjR6dkdMUEdHckNTNWcxWW5zaGxrcWdqdHhjUQ?oc=5",
+    "timestamp": "2026-07-28T14:20:04+00:00",
+    "source": "reuters"
+  },
+  "ca887e50e84b4207d1d273bb1308a96e": {
+    "url": "https://www.france24.com/en/france/20260728-french-police-discover-remains-of-five-babies-in-a-home-in-southeastern-france",
+    "timestamp": "2026-07-28T13:48:30+00:00",
     "source": "afp"
   },
   "0393b1d2860a6d4485a12ea5bd8338a5": {
@@ -12,6 +47,16 @@
   "7e99db87a36fddba712871f5bd086c4b": {
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOakY1cWNvRDRGX1d1S3lyMXMtUVRhWk5NVTdUNzZveGlOODc3UktYUWhXVlhZaF9aczZuUXUwNUsxYW1xOWNaMFc4QWxncXRnU1E3NGFKbUN5QjR3cldXMG1sREF2VnJONmwyMnNrVld0Tm0zWFNuY1JLamNsNF85Wk9uOXJjTVVsR2R5WV9Kei1CcDB1NGY0czI2amVSTEk1OXZ2S0YxMnJLR0tBamc?oc=5",
     "timestamp": "2026-07-28T13:34:56+00:00",
+    "source": "reuters"
+  },
+  "740041600acc22d8779fd964b40c34c4": {
+    "url": "https://www.france24.com/en/japan-hit-by-7-1-magnitude-earthquake",
+    "timestamp": "2026-07-28T13:18:13+00:00",
+    "source": "afp"
+  },
+  "97a4a0cf14ad03be4248555904f419c5": {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUXp0cjdxRkJmbERLLTB3SU00RS1fZHRDQ0lCd056Wkc2UFhEVUVOTWJFM01OZUNtUW9WdW0tcXVxc3IyX2lsa0c1OXhOZW9KMXM4SmZrTXdiVDcxN0tCZXNFY016MUo3OXdWQzZNUW9qVk56LWR5Q3NUdXNtR0VIcDFxeVJBaTZGYnFla3ZqWElkS0ZxN3V6QmRmN0tQU1lP?oc=5",
+    "timestamp": "2026-07-28T13:09:11+00:00",
     "source": "reuters"
   },
   "9d0d99f1780bee91be9b22483e9cd83f": {
@@ -95,6 +140,11 @@
     "source": "nyt"
   },
   "3b69cc7ad0b309bb3939d15836404fe6": {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaE15STNBWl92aHpTYVl5YzMzTFRhanhIZzZtVEdtRktzMF9XVXo5emx2bHZfeHFSeVRXb2N6YlRJcnptbl9jdlNpelVVeDZrb01tWUs1NWJFWnlsUUVpWmFWQXc5aEtOMm5IR094YnNpQ0hidTRLSkxBbFQ0eVB1N1IwOWl5QkhkUFp1azRrSmRGTUp0YnNLbFBXVEZpc3ZlbTBJTHhrZHFvYnZVeGQtT1k0MHAxaDhPV21DT2UwTXhxaDVNUmp2eUd3?oc=5",
+    "timestamp": "2026-07-28T09:41:03+00:00",
+    "source": "fars"
+  },
+  "2a24ea3af3957f8d77876d1b48239ed2": {
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaE15STNBWl92aHpTYVl5YzMzTFRhanhIZzZtVEdtRktzMF9XVXo5emx2bHZfeHFSeVRXb2N6YlRJcnptbl9jdlNpelVVeDZrb01tWUs1NWJFWnlsUUVpWmFWQXc5aEtOMm5IR094YnNpQ0hidTRLSkxBbFQ0eVB1N1IwOWl5QkhkUFp1azRrSmRGTUp0YnNLbFBXVEZpc3ZlbTBJTHhrZHFvYnZVeGQtT1k0MHAxaDhPV21DT2UwTXhxaDVNUmp2eUd3?oc=5",
     "timestamp": "2026-07-28T09:41:03+00:00",
     "source": "fars"
@@ -2448,55 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxRDRFMmRmR3pMZWVzWmxYVjVSQ2JLQTdGYnQxcXVPblFmLXBxRnRfbUFQTERVUnZRZVY3akdZem1XTkFFLUdYbk50c1M0TUhVdW5vZE45Vm8zQQ?oc=5",
     "timestamp": "2026-07-23T17:18:09+00:00",
     "source": "fars"
-  },
-  "f3e21192ee7077a1820700ede87da405": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMUJFSWFvTG9vQXNqVmZLWmxuQVN6aU9sa1F3MTZkeE8yZlBvU1lzQVJXZE5samhlQ3JKS2Zoa1pUMlVXNW5MQ3lsOXlOejNGbTFKaUJ6UVgwdU0ydHowaFhBOGszdnNSeU1ic0VEZkR6VmZHZzQ3aU5HbUZscEsxaTBwSXNIVFNOVTN0a09lbUItb2xFT0lTajZsb3FzUTg?oc=5",
-    "timestamp": "2026-07-23T17:01:00+00:00",
-    "source": "ap"
-  },
-  "ea116176942b90196e24c1a234f4ca12": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzJSMEdwQVV6RGMtWDMxcGFBci0xMURsa2hYWnpiTk81azZpVk9IS1gyWDlLM2xoM2xBcUVpUDFiN01tekpWUUNKcWNDZWtmbDk4RDBCbW5ZNjlQdEJLNjlTYnRERDZfVmxYNWtfamNGWjZJMkxwaDV0U0wtSnBtTDJnblFjYmxqRWoxYmFGd2JOUng0Q3JBUUpMcGxWa3M?oc=5",
-    "timestamp": "2026-07-23T17:00:00+00:00",
-    "source": "ap"
-  },
-  "d8c8eb8cdb0178d0c23d94a110785dfe": {
-    "url": "https://www.france24.com/en/middle-east/20260723-why-iran-targeting-kuwaits-desalination-plants",
-    "timestamp": "2026-07-23T16:53:18+00:00",
-    "source": "afp"
-  },
-  "e50c964cbb4c6ccbb16f6e86c9aab87c": {
-    "url": "https://www.france24.com/en/middle-east/20260723-trump-stuns-saudis-by-pinning-nuclear-deal-to-israel-ties",
-    "timestamp": "2026-07-23T16:31:14+00:00",
-    "source": "afp"
-  },
-  "dba67cd603f4dd8b2325c75c5d08f7c2": {
-    "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
-    "timestamp": "2026-07-23T16:14:02+00:00",
-    "source": "nyt"
-  },
-  "d7e9b2634cd4bf7bee812f3b422542a6": {
-    "url": "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html",
-    "timestamp": "2026-07-23T15:57:43+00:00",
-    "source": "nyt"
-  },
-  "b53b8d35a94d4674eb6e323a40e33cf7": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FdlJVdUN3RVIzT2hHd0M2ZkkxS1Q5d1EwRkNfa2xDT2plQXZZbGRxZzhfc3Y5cW5OcnhfMmxTTVpfdVNSWV9qTEhxUDdEWW9ZeHc?oc=5",
-    "timestamp": "2026-07-23T15:19:00+00:00",
-    "source": "iranintl"
-  },
-  "1acca07579771141bc274ad6717e5c70": {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZUpXN3hsMGcyQU16bVZOVDBoaDBOZnoxQmtaei1FUkdrQ1p2VnJfaldQV3RxRUxZbFJSbU9IZzRvTHdYZVB1b2I4RV80aVAxNGJjRmFoZ2RmTTgxOXluWUdqclhVVUxYMlNrclV3NTNrV3hwQkd2YmNWN0hUS1U3c0V4aTZXcG1keVNKS2JVcU9zNTBVZmhsSVJsUlpzM1FKZGc4QzVWaFduYVpCcF9QMA?oc=5",
-    "timestamp": "2026-07-23T15:12:44+00:00",
-    "source": "reuters"
-  },
-  "a365d88acf2027047d950a4ed42ae5a6": {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0VBOVcxX1BiZmZ6M1VfVkNSVmg1bGREUzRDNWdjYWFQeXR3TXUyVm1aQURfb3ZpNlpuVVd2LXk0YTFhV3AtTW1HZzBoYjFFMGhpY0J5X1JUM3MtTmJaYmI5cExla1VOSTAzdi1CZVdGb0RXckdQU2hDSlVCMXd4eVZPalltOGQzQnE2M0w0SVYzdUNmYy0xRzFUNWRUSXZHeF9rWkY1UzI1LVpsN0NBUjdDZlJRT3oyWnpB?oc=5",
-    "timestamp": "2026-07-23T15:11:40+00:00",
-    "source": "reuters"
-  },
-  "8b5fdda927d924553bdc66ddee46ca1f": {
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHFrc1BFd1MyNGJEdWFibkJiY1dGVjRNY2tOWUNTbEZTaEw5Z3liZFUxOWExS3ZhdExIZGpjRUFsSW9WWVcyZC1aRmdaRWtVSUFyVHBxeU5wOWZfYTBYbFpZZ25uYUVxUE8tRzQ0d2VOYVk2bTZlUW8yY0RZdnFmQnVqQjRkc2RoQ2Nya19n?oc=5",
-    "timestamp": "2026-07-23T15:10:00+00:00",
-    "source": "ap"
   }
 }
