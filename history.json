@@ -1,13 +1,43 @@
 {
+  "0372b4a068941dfc4f488f196087ae43": {
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82dzlnYTAwbHU0NFZoalA5emR0ZFVzSVQybV9uc3NjNVNVY1FXNmc2dmp4Ym5YZGVCS1JFWFZOMzR4M2ZLOUJmcGFrVmhjYVA5WnVWWkFzZ0RaWGFGXy0tcUpVWGwxS01QRkRIWmpjT0M?oc=5",
+    "timestamp": "2026-07-28T01:45:35+00:00",
+    "source": "fars"
+  },
+  "b0b6883039211c74a90310034f5a636c": {
+    "url": "https://www.france24.com/en/france/20260728-france-and-spain-continue-to-battle-fires-as-new-heatwave-looms",
+    "timestamp": "2026-07-28T01:25:47+00:00",
+    "source": "afp"
+  },
+  "7a0ce2c8b5aedf746297b2dfec508134": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfMWhpYmJlcE9odW9kT25PSHBvS2ZjOVpfVDNPaTNHQ0ZLaGY1dFFpWElxdy13LVBfd3VrWlFxbmEtR0s5Q0tNNGpzZkl5UldMNFE?oc=5",
+    "timestamp": "2026-07-28T01:09:01+00:00",
+    "source": "iranintl"
+  },
+  "444c82b988218ef83919cf5b237f3976": {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSklqTGZRSVh1M0h3RXpnQWVxSFhReTZHdGZtakI4Skh5NGVuZnplUUVYRzRldjVmX2Mzald4bnJFNklGNnZ0QkRTeWhqb29OR2xzb0JVWkFTUEc4QTZBMDV4bU5TOWlMb2RQNE5EeVRuaXJvZE94azM3cnZEd25tTjNTNU9uZ2dVcnZOQnh3eVE4bmIxR0RTZk1Zb3pSNnlrYXdlQWJXOWxJLWs?oc=5",
+    "timestamp": "2026-07-28T01:02:00+00:00",
+    "source": "reuters"
+  },
   "013a454eeb348b8daa0180272cf892e2": {
     "url": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions",
     "timestamp": "2026-07-28T00:24:09+00:00",
     "source": "nyt"
   },
+  "1959bc57134fb50d58bf2de2b0d3eada": {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNWh0SU9NM0lYNVVxRHR5Xy1QWjZKa3IyZFoyaHdzVW9pYnM1Z3Z5alYweU1FN3BLeDZKNHM4Q2xCRVNnMGY3Nk9tVndkeW9jR1NvMV9KLVhWczFTeEZ2X2Z5c3pHTVpzdy1EVVBqbGU2TVRwUmozVGRvTnIyN0VEQ0JiZUY4Y1lWemE3WlBSMFI0TlB1OGwtQ0lCcXdUbS1XZTVSb29fcFFLbXpvNWlVelRSeGdUMGNJX1k5Wk10aEhWSV9fV3hRaThaaGJJUQ?oc=5",
+    "timestamp": "2026-07-27T22:47:00+00:00",
+    "source": "reuters"
+  },
   "3a1b69c3966bf39cb363c17c59786544": {
     "url": "https://www.france24.com/en/middle-east/20260727-yemen-says-ready-for-houthi-escalation-after-rebels-target-saudi-arabia",
     "timestamp": "2026-07-27T22:19:10+00:00",
     "source": "afp"
+  },
+  "60e51eebbbf37f9a7aee8eba4a084c9b": {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUENSU3cxZnhXQWVEQ0VlbUlCX2U4V05HS1RqcTNqSjN3dHhVc3duLW9lNzdMSWhsWHFXSWEybzhOOU1GVUxqeHBISVUzVUFVbE9DNmNqYS01SlV0bmtYTmQ3dXBIVXFKMWZJdkpua0xZUmxWd3NqcFBHSGtDM0tILVN6b2lDZzFnTk1tY1IwWFRpTElycEwwLVpGQ2I5WVhDdHhFN1NaMV9RMXdPbmxIYmFsbzRGSzlFNWZJ?oc=5",
+    "timestamp": "2026-07-27T22:13:40+00:00",
+    "source": "reuters"
   },
   "445322b8d8945ea0687c75c6e43e20dc": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DbkRBS3MyTm5rdjNpOFhfQmlwMlFEOVpmYVVnbmV3bjUxN0dSR0RqdWlQMEtETzJkdVVOMXREQjlJYk95Rk9DZldMZU1pUzBySVE?oc=5",
@@ -44,6 +74,11 @@
     "timestamp": "2026-07-27T20:00:36+00:00",
     "source": "fars"
   },
+  "1d89e6fd5401238969f9dc60d7d40b3d": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KU3VucC1hNGxfd1pWU2FReHhlZFJCaGZrRVRHNUhQbGdEOWI0VTU3VDM2bzRZM2NtQ2tOUlRQZmJjM09aTlJNTGFhc1NxY2k0c1dBWHlCUlF3d1NWOXc?oc=5",
+    "timestamp": "2026-07-27T19:59:12+00:00",
+    "source": "fars"
+  },
   "e7972f2d096f78c0b6e36772d470e16e": {
     "url": "https://www.france24.com/en/americas/20260727-haiti-sets-december-presidential-election-despite-security-concerns",
     "timestamp": "2026-07-27T19:36:34+00:00",
@@ -67,6 +102,11 @@
   "f7e264cbc8f12171c7cfc998e7d9aade": {
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPanh5OGN0ai1UOFNFYU9jUUhuSW1Zc3pjMzgzSE9LMnprMHk0SVplbHRGUDd3N3E5N3pGOWFQUGlNTkVNNFVUWkxldlFzTUhRYnhoU2JvTWxLajRJem1UNWt0Uk14c09kN3JYTG1HbUlZRTNGYUozalRXRkpMa1lISlVuUnUybW9UX0dEbEtiS0c2dw?oc=5",
     "timestamp": "2026-07-27T18:13:00+00:00",
+    "source": "ap"
+  },
+  "4d40bcf776fa24fc1554b8e37cd3c9cc": {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcmVmd3oweVB6T2JmQ0FObm1ZNWVOckF2eGR2VVNxdXdpNU9DeUNTU3RxclBTbktIUjZaZ1JoZTNMREFSdzdLYUNrRlM0enJHZUtXWVhmUmFNaW4xTjZRTGgxNU5XdXFqRlVhZkhpZWlPSEJXcUJnVGRrbDdDUDNkYWtER2pycVV5RmFmWGswa1JjdE1fTlhaLXpoOHktTnZVWmRUSXpOZWF0X3lNdmJF?oc=5",
+    "timestamp": "2026-07-27T18:11:00+00:00",
     "source": "ap"
   },
   "1c84bc5e27a20f8f251b1f296c3ea4ce": {
@@ -872,11 +912,6 @@
   "5437c6cbc4bf4adb7994025a6ec06e94": {
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LeWRXdk1PcE9IYTFqWkN6Z1VHc0V0YkZNS2tuOUxDel9EejNwbnNpYUktdUZWb05YeXNYeTBpVlRxLWU3OEE5aUtDTkdPTldkd2ZrUTZWMkkyRDFrQkVFU1RXR3p5ZW9HeVlKdmRwVQ?oc=5",
     "timestamp": "2026-07-26T06:01:28+00:00",
-    "source": "fars"
-  },
-  "0372b4a068941dfc4f488f196087ae43": {
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBajFsd1JHNzlWckwycTZTZ3BBTVNhYXlsLTRVX3NnVk11REt0Ulc3ZmxVQTBSUnBIcWRDRXA5aTdrcU1vV2d2T0hTeHBOM19QLXd4Skt6RE9RUWJRZTV2LTBlNmtHRVQzOC1TSGhxMWo3djYyV19xXw?oc=5",
-    "timestamp": "2026-07-26T05:58:22+00:00",
     "source": "fars"
   },
   "431484ceda911a00784e93eab15f64b7": {
@@ -2463,40 +2498,5 @@
     "url": "https://www.nytimes.com/2026/07/23/world/middleeast/jordan-iran-us-forces.html",
     "timestamp": "2026-07-23T07:24:29+00:00",
     "source": "nyt"
-  },
-  "30a0b6c260998a1d491b9c992c376ab0": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcU9GZGY1bEZtRTYzdHRJNEJZUmJveDM4cFVSa3lkX29oQ2lQdEYxZWZURW84dEJuaWQyMmxhWEV2bjdPQ3hzbFVOTXlocXJoNGhGT0t4V2JHYlQ3X2FidGlJdzlEeUVnc0p1TWZRZDRyMzF0NUhOa1RPUTdlcTJrSy0zMWxDT1ZYS29DekYtZ2lvd0R1TUJUOF90MkhISnMyaTRaazd1TEJvdWhVR1NGUXRIcUU1elAwTFVhTA?oc=5",
-    "timestamp": "2026-07-23T07:22:10+00:00",
-    "source": "fars"
-  },
-  "e5046ffcf3fec88bd80c8158e3f62824": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcU9GZGY1bEZtRTYzdHRJNEJZUmJveDM4cFVSa3lkX29oQ2lQdEYxZWZURW84dEJuaWQyMmxhWEV2bjdPQ3hzbFVOTXlocXJoNGhGT0t4V2JHYlQ3X2FidGlJdzlEeUVnc0p1TWZRZDRyMzF0NUhOa1RPUTdlcTJrSy0zMWxDT1ZYS29DekYtZ2lvd0R1TUJUOF90MkhISnMyaTRaazd1TEJvdWhVR1NGUXRIcUU1elAwTFVhTA?oc=5",
-    "timestamp": "2026-07-23T07:22:10+00:00",
-    "source": "fars"
-  },
-  "147bc34193091f0316d6fe94d0697938": {
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTk54Z0F2YlpXOS0tWUs2V1hwZ0cyRTN3MHo1VGQ4b2FIb0Q1bng3bXRpY2M4X1M3OVgxWHpsanpRRVk0QTdhYU9qWkJKd3ZJejU0TnpWREJZcFBVWC04YTYxWll4TXVXdTdRdlBoQTI2ZDU2SzYyWHY1NURjckpYQXdmZFpvWmtsVURZZ1pPaWt4MzlWUDBIUHNpenMzMkRhVGI3eUJEM1h1dU0wRThBY3E4NzJpUmF6elI3dk1Xekl2TG8?oc=5",
-    "timestamp": "2026-07-23T07:05:46+00:00",
-    "source": "reuters"
-  },
-  "a5b383a5bfeb2c1cd2d2b65701bc2cad": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZdTY3UHMzXzl4LWVtRTFObjlGYWJ1eW1SY3haVHZwc09nV1c2X3Y5NmU4NndlMHZ0YXR4YXpRNlBwY0JHYkhxeHpNUnk2elRtMlVDVmVMcmR1NG5GdFE?oc=5",
-    "timestamp": "2026-07-23T07:01:17+00:00",
-    "source": "fars"
-  },
-  "fdcaf2dec1e9b2a53c0bbebcc1223a5d": {
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb2V4R0l3VlJ4b2hyNG9VRVUxcEZrTjAtYTkxbnI4dTVHUkJIRTU0NlBlUmlxMlVfbV94ODg5bnhDRnFEQjZ0RzRicVF0Vm5odnBGWkJWS1ZUQjhQVC1LSUhTZThTX3JaV2pXSFkzWXphb215Zl92bXNQQTh3Z05xVjhVZ0JPeXVQc0FLYm9hZHZoU3pjLWxQOEY5bUVaVW1TVEhRR0dHZHBsZw?oc=5",
-    "timestamp": "2026-07-23T06:21:03+00:00",
-    "source": "fars"
-  },
-  "c0128a49b9daf85e6d4678de48b27fe7": {
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWFkYnFRZ1lKYlVmbi1lS2QyT1BteDg5MHdtQ2NsUnBPY0c1ZXF3TXluc3JLc2FlTENucHNwalh0cHU4emJnSnZkaFJqTDlaQTB3aHB1cm0wM0tKQWlFaTh0RkhleG1qME9SSnhNVlotaWFnU0NYczZaQ2pQSmJkZGtMZF9vclBhOXRmY2lYYTdpS0c4WWRQTg?oc=5",
-    "timestamp": "2026-07-23T06:18:00+00:00",
-    "source": "ap"
-  },
-  "4252d82eef323bab485024a9230c2aea": {
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOck9rMklSSHp1Z0E2UmlqZUJHSWNxRXNSZGtZd1JTOFdSbUE2amI3RHFmaUNuSS1nU1NzaThJdVIwVzZFcXVIaXNjU3lrSVYtaDF5THNwWkpqUHVwTEFsWklsbnp4ZllTMndIYWhRM0RZa09qaTNiVXVCNmh5a2p6MnBidG1kWkJSUVJnb1RuOXdUcU5MRDVxbzJmcDE2UWZsaVZYRDdCdHlYcG1kUTdKT093ZXI4b3VkWjZNRzdDUDIwWEFWMHRia2FIY3dIdw?oc=5",
-    "timestamp": "2026-07-23T06:11:43+00:00",
-    "source": "reuters"
   }
 }
