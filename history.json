@@ -1,4 +1,19 @@
 {
+  "b9d3c3486a47f247d5a57ffb849670cc": {
+    "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-hanging-protesters.html",
+    "timestamp": "2026-07-28T19:59:06+00:00",
+    "source": "nyt"
+  },
+  "2908398c356d8d6e6687c762bccbb986": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IS1RKZnljWkdRVGc1Y2pwNFI5LXBWVXFGMEZLOXhTeTdBRTQ1REtvZDBXSVYxVF9xU2pOYmVyMDJYbXBPRlF4bzEzdFJHelh4RlE?oc=5",
+    "timestamp": "2026-07-28T19:50:00+00:00",
+    "source": "iranintl"
+  },
+  "d6cb038873e027fb92193a03f982a4cc": {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWGk2X1JJZzZpZWtUVWl4ZGlwQVRxMHVRV3BIYWRPdUxDZmlJYl9tSU01RVdiVWcwZ21YT3dXeklnU0x5NEJZQjh5M2xYRnRLcVY5T3pndF9CQW5PQTMzcVd6ZFZvRWh0eEFfbzhDV2x0Z1A0dkZlWkFmSlBzc05qaGJfTmpRR2pka3dPeFJ0OGg2azFQc05WR3VtVURRME0zVDdndk1VanBMRm9ISzNfQm5oTnZmQkVuNHZCYzI0dmFobWtI?oc=5",
+    "timestamp": "2026-07-28T19:46:17+00:00",
+    "source": "reuters"
+  },
   "950d7eef3f31854bd8f35115645cb9fb": {
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWGk2X1JJZzZpZWtUVWl4ZGlwQVRxMHVRV3BIYWRPdUxDZmlJYl9tSU01RVdiVWcwZ21YT3dXeklnU0x5NEJZQjh5M2xYRnRLcVY5T3pndF9CQW5PQTMzcVd6ZFZvRWh0eEFfbzhDV2x0Z1A0dkZlWkFmSlBzc05qaGJfTmpRR2pka3dPeFJ0OGg2azFQc05WR3VtVURRME0zVDdndk1VanBMRm9ISzNfQm5oTnZmQkVuNHZCYzI0dmFobWtI?oc=5",
     "timestamp": "2026-07-28T17:00:33+00:00",
@@ -13,6 +28,11 @@
     "url": "https://www.france24.com/en/video/20260728-powerful-quake-hits-southern-japan",
     "timestamp": "2026-07-28T15:35:29+00:00",
     "source": "afp"
+  },
+  "764f624c05c3d2efdd26906404c9a143": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5saUh3aTRPa1BGTnRLRE5VWldLVW5rZVlfV244cnVjdHRVUnhtcnFtUjhjMDNWSWdhLXFkaXdGaTYxQXc2SE1sZnlpSzBCVWgtQWc?oc=5",
+    "timestamp": "2026-07-28T15:29:23+00:00",
+    "source": "iranintl"
   },
   "98b8c8d9f9c8b03308dc2cb0ebcb748a": {
     "url": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
@@ -2477,26 +2497,6 @@
   "eee59fd232be898070bc30e1f73c9ca2": {
     "url": "https://www.france24.com/en/tv-shows/spotlight/20260723-virginia-governor-abigail-spanberger-in-paris-there-s-no-single-blueprint-for-democratic-party",
     "timestamp": "2026-07-23T19:07:05+00:00",
-    "source": "afp"
-  },
-  "64c897e98204d3d007ddda8d532e0ae8": {
-    "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
-    "timestamp": "2026-07-23T19:05:58+00:00",
-    "source": "nyt"
-  },
-  "8f15de13d017e6a9d111da3ff677771e": {
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFEtb2pVRzJFQThOZGROZ0hBV0pQUHNWSE1kZkFIdG9nV3d4eHBHUXlaTW1jQlpKVmNmV2twYmQ4VjJ1WDNPeW4tOXYtamtJeXk4STFCWk5CS09yUDBoRENzakZmR1FXbXdTcy0zbGdneURkUWphR1p0bTZxOUszS3Z5TXkxQnBwYjlBYVpXSEJCR3cyR3dZZTYwQktlTDJ1ejNpYklIQmlESXJCempEYUR4UWJXX2QyR1lwVGdiUmtMYU5NdzE2UDBn?oc=5",
-    "timestamp": "2026-07-23T18:52:47+00:00",
-    "source": "reuters"
-  },
-  "742925baa15e3886627325b880c16f4d": {
-    "url": "https://www.france24.com/en/trump-stuns-saudis-by-pinning-nuclear-deal-to-israel-ties",
-    "timestamp": "2026-07-23T18:24:08+00:00",
-    "source": "afp"
-  },
-  "894b58ebbb4dd16889529181ee6c8262": {
-    "url": "https://www.france24.com/en/reinstating-fedorov-only-right-decision-zelensky-can-make-mp-says",
-    "timestamp": "2026-07-23T18:20:31+00:00",
     "source": "afp"
   }
 }
