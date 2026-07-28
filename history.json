@@ -1,4 +1,44 @@
 {
+  "15166cbcc7291a25d61c2b1461824039": {
+    "url": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
+    "timestamp": "2026-07-28T10:01:09+00:00",
+    "source": "nyt"
+  },
+  "08790b36c61e25651acb4e26226be3e1": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNSllKMDNMU3ZxUUlsTWFVQmlkVTJUc3RySGRaRHhoYVJjdWJjMFBJTEY0VTdwRnRUbC01MW9NcUpvNy1sVTFzS0FRaGxzOHFOMUE?oc=5",
+    "timestamp": "2026-07-28T09:47:32+00:00",
+    "source": "iranintl"
+  },
+  "3b69cc7ad0b309bb3939d15836404fe6": {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaE15STNBWl92aHpTYVl5YzMzTFRhanhIZzZtVEdtRktzMF9XVXo5emx2bHZfeHFSeVRXb2N6YlRJcnptbl9jdlNpelVVeDZrb01tWUs1NWJFWnlsUUVpWmFWQXc5aEtOMm5IR094YnNpQ0hidTRLSkxBbFQ0eVB1N1IwOWl5QkhkUFp1azRrSmRGTUp0YnNLbFBXVEZpc3ZlbTBJTHhrZHFvYnZVeGQtT1k0MHAxaDhPV21DT2UwTXhxaDVNUmp2eUd3?oc=5",
+    "timestamp": "2026-07-28T09:41:03+00:00",
+    "source": "fars"
+  },
+  "f0e8cc09a3d9f5c47492ffdb618f41b4": {
+    "url": "https://www.nytimes.com/2026/07/28/world/asia/indonesia-crude-oil-wells-drilling.html",
+    "timestamp": "2026-07-28T09:34:15+00:00",
+    "source": "nyt"
+  },
+  "2fe99c8c8662ba6a6a1bf02920fc4013": {
+    "url": "https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html",
+    "timestamp": "2026-07-28T09:09:20+00:00",
+    "source": "nyt"
+  },
+  "dc3ecb196abbc8db5c584b0998aedcc7": {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQREx4N194TTNIVm1ocmk3TEpxZ3hPSVpKQ2dwdEpuOTZNVXNsWVNjX1pjSGhkTHh6M01iWFZQeENTQ09KTHNQSzl0TzdwWGJqN2lrMmV2Vng4Z19ISUZWM1l3NXU1U2ptMENYZVRqSzd5Y0pLelAtOHJHZ19jbm5IdXhmYjhuekNDLW9aV1BvQUtUTTlLOWZhemRNSF81MS1LSXYybms2UGliMzhHaW14SW52V2ZOZw?oc=5",
+    "timestamp": "2026-07-28T08:58:09+00:00",
+    "source": "reuters"
+  },
+  "a4de71334f0aca5c8599ce4a6efb96b8": {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNGNMcVltN1VLd0h1QzlxMDFSREZvNWlPZGdaUm9reEpZM0w4MmRNRDhhblEwbWRPbmZlY0NlYWpJMC1iZTRmb20tbk9LLXRfaVJmNkVIbVI0MTI2LTdDMW5qdFJ1S2lIdFR0Sm1ZWGtyYmxzRWpVUVlkQTdjVUV4ZjJCQkxMV1VSb3U1MnZQc1N0THR3MnlYamNNREk0Nl9ROHM2Sm1EcnRiNlczQ2NMWnFWRzZDYnpVc1JYUFVlZElmbXlwVFE?oc=5",
+    "timestamp": "2026-07-28T07:49:02+00:00",
+    "source": "fars"
+  },
+  "26ee5554ad5b44aa6dff0fad8c8075ec": {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOVRYeklCVkdfd0l2ZjNMQWgwUFQ3RjVqQVVoUWV0ZlNWQTNhYWx2NnJWcE1lMncwLU0wcDhjakQ4MmtLb055cXJyVDZyeWVIVEJ4OEg3Z0tTbXVfTUtjT3NxNHpyWFZicm5DV1plVXVDWHBDZGtlMkdENVNlSkZzTVN1V29sQWE2Vm1YS3JHYTFlVmhsRzYyTHJFMWhQa2NRa1lNUmhJcnBvNzVvUm9BTnJyYWQ3Z2M?oc=5",
+    "timestamp": "2026-07-28T07:31:43+00:00",
+    "source": "reuters"
+  },
   "4b8a43d05ee488df8cc6aa2912bfa97d": {
     "url": "https://www.france24.com/en/netanyahu-to-meet-trump-at-white-house-for-first-time-since-iran-war-strained-ties",
     "timestamp": "2026-07-28T06:45:16+00:00",
@@ -33,6 +73,11 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZGt6R2kzWmpYbXFFcVotbmM1RlgtazltVzBhUk9mSV9UckJqZDJlWUNpLTYtR251LVJ2Y1JkM2Zmc3pUOGpIenk1TTVGTllMTmVLdEp1UU4wRHdLQkxiVEdGaXNjWWlfWlluZkRqVV9VbDViUnkyWGJjWDEwSURJWkdrRnBYSlRhSlY3NE9yOTFULU1DTW9fQ0dMdWlNaklxSHFSWTJR?oc=5",
     "timestamp": "2026-07-28T03:56:00+00:00",
     "source": "reuters"
+  },
+  "1c9314e2d031ec9dcdbb44cb37291111": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93bkRZUmVXaExwTDdFOGNKUnJ5VXFCWDlQMEQ5REh3a3VIcm5sbUpBQUJLOXhPbW45ckFSbTFSX3owLU1HV0xvRkd2S1ExaUNRY1E?oc=5",
+    "timestamp": "2026-07-28T03:31:06+00:00",
+    "source": "iranintl"
   },
   "fee1b128b48e32b37311e2b6c69d9090": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVdXliMF9YaURrR3B2RTg0RThMU1RpLUFDcGliRXp4YUV6QUNwRkhHaGtPay13NFB4YUdlT1d4cmg3aFVRN1JIVVZCVWMtMk9qUFE?oc=5",
@@ -73,6 +118,11 @@
     "url": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions",
     "timestamp": "2026-07-28T00:24:09+00:00",
     "source": "nyt"
+  },
+  "637b1f2ed213237a84efb8cc02dd7afb": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJbWJpMHp6MGFWaTM2YV9EUjd4Yl9ON1dfeE5EM2xWYi1od2RCVE1SREs4bXI1dVlVY0lPZW11Z1kwZk5ZZkt2U1M3Q2JmVV9zLXc?oc=5",
+    "timestamp": "2026-07-28T00:23:50+00:00",
+    "source": "iranintl"
   },
   "1959bc57134fb50d58bf2de2b0d3eada": {
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNWh0SU9NM0lYNVVxRHR5Xy1QWjZKa3IyZFoyaHdzVW9pYnM1Z3Z5alYweU1FN3BLeDZKNHM4Q2xCRVNnMGY3Nk9tVndkeW9jR1NvMV9KLVhWczFTeEZ2X2Z5c3pHTVpzdy1EVVBqbGU2TVRwUmozVGRvTnIyN0VEQ0JiZUY4Y1lWemE3WlBSMFI0TlB1OGwtQ0lCcXdUbS1XZTVSb29fcFFLbXpvNWlVelRSeGdUMGNJX1k5Wk10aEhWSV9fV3hRaThaaGJJUQ?oc=5",
@@ -117,6 +167,11 @@
   "869ddb2b6f69bc967ba91aac8ad66052": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rSTZieVZDNzBCY0llNTd0Y2otcmhMMUJ5ZXRVckNkTXJoWlByMEI3LXRFdDltMDFNdElsekltdXlMNEZ4Um1NR1ZsMGJlZkFTWkE?oc=5",
     "timestamp": "2026-07-27T20:39:03+00:00",
+    "source": "iranintl"
+  },
+  "908eec520c24bfd877624a91c0e48937": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wWlBwTzVkRnY0X3V2eFBmMW5PVXN6eE1VOW5Lalh2aDFOaVVYYW9EcFUyLWpZaWZCYVFYWFlfcGFsQ3BaWExCWEszVjJWUXhSMlE?oc=5",
+    "timestamp": "2026-07-27T20:35:26+00:00",
     "source": "iranintl"
   },
   "2cf43b7218f7c3e8cf3683f4611f13f7": {
@@ -333,6 +388,11 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NWFBOdUZYZUdTTXBXdnhvb3BwTUR2ZFVKTjAzdndxVGVWX0ZSYjFseHBnUXk2SnMzZFcwMElHVHdfc2xTUmw4ZTZqYUFlN01iOHc?oc=5",
     "timestamp": "2026-07-27T11:34:48+00:00",
     "source": "iranintl"
+  },
+  "1d91db44c24e4ee4170d00e705e7c00f": {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtS1hxRW83bkVTekgzeGRtVjBqeGpYSHBnQjBwbTdockNiOG1KUTFpbm9FdnFnRWJia3lnZlpPLWdOOXc0OW5ISEhOY0RBcWh2Y3V2XzVxWmhCeVlrbjhQMEV4dw?oc=5",
+    "timestamp": "2026-07-27T11:21:49+00:00",
+    "source": "fars"
   },
   "c2745e51e331c04fd464d0fbfbd966c2": {
     "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
@@ -2437,66 +2497,6 @@
   "0c889bf2d4444fb79c595516fe027caa": {
     "url": "https://www.france24.com/en/crucial-salt-trade-revives-as-pink-lake-slowly-recovers-from-floods",
     "timestamp": "2026-07-23T10:08:12+00:00",
-    "source": "afp"
-  },
-  "3bc6d18ea64a4163baf7c4c07d12069d": {
-    "url": "https://www.france24.com/en/systemic-use-of-goons-in-kenya-amplifies-political-repression",
-    "timestamp": "2026-07-23T10:02:37+00:00",
-    "source": "afp"
-  },
-  "b1cb33871f95c0f4459207d052037630": {
-    "url": "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html",
-    "timestamp": "2026-07-23T09:59:34+00:00",
-    "source": "nyt"
-  },
-  "4df042967bc96e1cb554fa84574c94a7": {
-    "url": "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html",
-    "timestamp": "2026-07-23T09:44:04+00:00",
-    "source": "nyt"
-  },
-  "530b27dd6216702aa42c3bad66163e64": {
-    "url": "https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html",
-    "timestamp": "2026-07-23T09:40:15+00:00",
-    "source": "nyt"
-  },
-  "0ad84b2107ccd96ee3f9e7c6d61afd4a": {
-    "url": "https://www.france24.com/en/us-not-willing-to-put-pressure-on-russia-despite-wanting-progress-in-ukraine",
-    "timestamp": "2026-07-23T09:29:19+00:00",
-    "source": "afp"
-  },
-  "847a1328f6700e566b48c1ed7c35789f": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aanQwTUI4dk8yOWpIRHlqX0k4d25HNENkRkdzeXR3UVVPaFpscl9yZ19fbGFxUTA2aDJyX2NhSm55d0lCekFLSzdkOFRQZFRfWWc?oc=5",
-    "timestamp": "2026-07-23T09:26:39+00:00",
-    "source": "iranintl"
-  },
-  "73988ab97d0f8c9a812c27dd2295036b": {
-    "url": "https://www.france24.com/en/modi-vows-punishment-for-exam-fraud-as-cockroach-protests-spread",
-    "timestamp": "2026-07-23T09:21:52+00:00",
-    "source": "afp"
-  },
-  "7d9078cb2b86430363024374d5e9bd53": {
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMHFhN1hBYlR3aXUtZnllSFk2b3lkODd0TlBmM0hza0JRQjk3ZmNvQ2FsS2gzZHBTZmp3ZmFSdjNYczlZZHB4WU1PQktNaUJBQ3ZjVXpvWGl2a3VKY0puY1Nxbjg5T0QtMkVwNG5RZ0FFNTlCQnhvSmwxenpYOXFQcUs3cXpZVEE3eGFRT2xoTGRETVM0TjVDTDY4Y3BJcVFXRmppRXNGNUxUVEZoNTRpdmE3RDNzdTRDeTR3UnFqTW5xVFdudWcxMQ?oc=5",
-    "timestamp": "2026-07-23T09:18:48+00:00",
-    "source": "fars"
-  },
-  "f5d32c68d74c89d3b3492efb0ae739c8": {
-    "url": "https://www.nytimes.com/2026/07/23/world/asia/russian-spy-flees-japan.html",
-    "timestamp": "2026-07-23T09:15:41+00:00",
-    "source": "nyt"
-  },
-  "d5f31682ccc573152298b12cc4fab83c": {
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbDk5Tmt4am9MUUVyY0V1RGRnbm5hbE5TcDJqTDJuRXlmaVpOdVJuN2VRYXIwaUwyRU9UdDN0b3N1eGMxS0NlelNjWmhqemJfN252N2QyVTBNSU9QSHcxbmwySkRnQk5XSDZLdXEwNEVTbEhmMDJNdFpuM2RvcjItMGJwVF9JMElIekt4TEtjSlF0dXBJMG5XUkw3ZHg1aVdRX2paMnRBdkFWcHlCbW5zU1NWWDRpazZtQjJfTWlQMnZ5cDN1dE5J?oc=5",
-    "timestamp": "2026-07-23T09:06:01+00:00",
-    "source": "reuters"
-  },
-  "a05185147ddf84ec072ba8a909907fe9": {
-    "url": "https://www.france24.com/en/us-and-saudi-arabia-reach-a-multi-billion-dollar-civilian-nuclear-deal",
-    "timestamp": "2026-07-23T09:04:14+00:00",
-    "source": "afp"
-  },
-  "fe037ae40adcdbc787e275f3518a6f1e": {
-    "url": "https://www.france24.com/en/replay-marco-rubio-addresses-middle-east-and-ukraine-conflicts",
-    "timestamp": "2026-07-23T08:59:45+00:00",
     "source": "afp"
   }
 }
