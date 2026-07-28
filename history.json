@@ -1,8 +1,43 @@
 {
+  "525fb9e5721bad51c792db3c66fc51fe": {
+    "url": "https://www.france24.com/en/zelensky-visit-white-house-in-test-to-maga-s-significant-shift-towards-kyiv",
+    "timestamp": "2026-07-28T14:33:15+00:00",
+    "source": "afp"
+  },
+  "0393b1d2860a6d4485a12ea5bd8338a5": {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbWpPdDFvN1EyNGJKMHJXcjlRZHdPZDRkb0x2UGtiMDRlLU82WjZueU1hUkhaOFZYTTBscWtqMUtIclc2aERsZ2V3UGhnRlNtQk1KV1ZGNU5NdTZiOVVDeXU3OERRUUVhaU16aFNYa3dqU3V3VXJjTmk1ZklzS1Y1VUtxTGQ2dlk5Z2tjbjg4bm1rYVBickpzQjk2VTI3V0syaVdQVGFiV0pBcHBybmhRcDVySkRScm5UQUJYSDJ5WDlHUQ?oc=5",
+    "timestamp": "2026-07-28T13:42:58+00:00",
+    "source": "fars"
+  },
+  "7e99db87a36fddba712871f5bd086c4b": {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOakY1cWNvRDRGX1d1S3lyMXMtUVRhWk5NVTdUNzZveGlOODc3UktYUWhXVlhZaF9aczZuUXUwNUsxYW1xOWNaMFc4QWxncXRnU1E3NGFKbUN5QjR3cldXMG1sREF2VnJONmwyMnNrVld0Tm0zWFNuY1JLamNsNF85Wk9uOXJjTVVsR2R5WV9Kei1CcDB1NGY0czI2amVSTEk1OXZ2S0YxMnJLR0tBamc?oc=5",
+    "timestamp": "2026-07-28T13:34:56+00:00",
+    "source": "reuters"
+  },
+  "9d0d99f1780bee91be9b22483e9cd83f": {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZUFdvRXhBOThHSVpZNC1nTzVLTlh3ZjdGN0UzN2owM3YwNndSWlpLUjBEelJkSTdCLV9lX0JtQ3RzM3JNYkpTcEUtaU5ZcmVEMDFNUUVVTHRIeEZFb3g4?oc=5",
+    "timestamp": "2026-07-28T12:49:34+00:00",
+    "source": "fars"
+  },
   "9bd5dedaf834a0d9aa076bb02a4422e1": {
     "url": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
     "timestamp": "2026-07-28T12:16:21+00:00",
     "source": "nyt"
+  },
+  "1611fcbc3d5fd117e00753f95a493381": {
+    "url": "https://www.nytimes.com/2026/07/28/world/europe/berlin-pride-attack-afd-politics.html",
+    "timestamp": "2026-07-28T12:06:46+00:00",
+    "source": "nyt"
+  },
+  "db676648e64fea795c3584cabc06a68f": {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWdMSVB3OUxtSmtXNWtjQW9EWHRKb0hKaUFkeXd4ek45MHpkUUhFWnNBNHpIUnJpM2RXYkU5MHJOaHN2c1BJeDdXZ0ZpZDdkVUNfbHczcmt2MExCQ082MUZWbnFxYXd4U0ZidUI4bUhWb3NMMjdNVjFyLXh1c3E2ZEVDY1dHSEpoSGFFVE0xWHRheGhRdXkybnBuTnVZSC0yaTl5U3QtdEJQenhEMThhSGVtQkZVcmRMakdN?oc=5",
+    "timestamp": "2026-07-28T12:06:08+00:00",
+    "source": "reuters"
+  },
+  "09ed7fba77717f9ad09f12ccf21831d0": {
+    "url": "https://www.france24.com/en/asia-pacific/20260728-multiple-deaths-in-japan-mall-collapse-after-7-1-magnitude-earthquake",
+    "timestamp": "2026-07-28T11:45:31+00:00",
+    "source": "afp"
   },
   "5aec657e75d925d81df8fa4a07552b5d": {
     "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html",
@@ -14,6 +49,11 @@
     "timestamp": "2026-07-28T11:12:13+00:00",
     "source": "reuters"
   },
+  "15fab8e1a9429ba9513d4332a9a5f0bc": {
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwbDNhcWFhTFNXdnYzVDJlTklzXzVmekFxR0dhd3psQ1FtaXJCUWdQVHJaeU55NzdlZ1FwQ1J5U1ZaOW1pSG1sRnNPWnE4aUREc1hGcXBUMGZYNjI3MzdFVW1xX1I5VVAtYUk1SmFGclpxclE?oc=5",
+    "timestamp": "2026-07-28T10:43:48+00:00",
+    "source": "fars"
+  },
   "dedc9aef221285a993c3cc64ad9d11e4": {
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnVBTFdsSkpXUXYxYmFNSTF0dFRUWnBacGpRQnhBbnRiZ0dZR1ZfcHZ5QnlIY3NRMF95dUkzNTUzMDhBam9kak5LY3pFbHpMcXNUenhtOEtuQkRXT01xWU05TlZGNFc3d2ZXblZpSTcwNlNzUGQzYXN0UEJxbTRITURHQ1JROVhhRHM5TV9IV3U3QjRJdW5hMkY3ZkVMZUhuZTNsZDVPYTltcjFCd2s4VHJjMVo?oc=5",
     "timestamp": "2026-07-28T10:37:44+00:00",
@@ -24,10 +64,20 @@
     "timestamp": "2026-07-28T10:23:18+00:00",
     "source": "fars"
   },
+  "bc00d0a2f9f254cf78a67bf2cdbb4e5e": {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOVZRa01uZTZuc1haZFlGam1aMHhqZld4SEN0YUdYZHRQRHQxSHhHRGNfOTNYTkxrbmZpNy00dTNyWXdnamdOeTMxdGVFR09VZ3F5S1R2dkhoVTZ4SmZDandEVmlrQzduNmI4YXpFTkhibFVuUXV0RVFIc2ZnSGkzU19qd00ydXFrOUZINmM2Q1hteWM3N1p4WkFTZFpMaUxEcm9qWW1TMlBOak1kbnRheFl6MW9BTkdXc3VfV091ZF9iZw?oc=5",
+    "timestamp": "2026-07-28T10:23:18+00:00",
+    "source": "fars"
+  },
   "15166cbcc7291a25d61c2b1461824039": {
     "url": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
     "timestamp": "2026-07-28T10:01:09+00:00",
     "source": "nyt"
+  },
+  "1d6ce78184b9d5d7ab590b2ac31be788": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45RHdaTnQ0RUthYWQ1SmJ4RktiaXJtVDUtcVZPSWFQNVlqUTZ5R0FxdFhnNFVtZE8wR08tb2x4d0c2ZzBqQlhuTXBnX2VqMUtIN1E?oc=5",
+    "timestamp": "2026-07-28T09:58:04+00:00",
+    "source": "iranintl"
   },
   "08790b36c61e25651acb4e26226be3e1": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNSllKMDNMU3ZxUUlsTWFVQmlkVTJUc3RySGRaRHhoYVJjdWJjMFBJTEY0VTdwRnRUbC01MW9NcUpvNy1sVTFzS0FRaGxzOHFOMUE?oc=5",
@@ -49,6 +99,11 @@
     "timestamp": "2026-07-28T09:41:03+00:00",
     "source": "fars"
   },
+  "4d5821b8fbdc63def5a3bef2d2b90d90": {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPckdUWFZic1FnR09iUTM5eWRqbW1FU1FNbVhENGFOODZPN28zZmJlcUtNeXdrZWJ4YXozYUpRVUE3ZzYtZVB0OElTR0RvUkxmRFhROWFwT1B6UGRHaUhUWWw0QThqOTM3OHlsaFdkTXZKN25RMVJyMXNGT0xVcXhoUWZBNnZEWkdrd09BTmVWTUsxbUNNbUdJTU5RWlpSLWM0bGMwNE1tUQ?oc=5",
+    "timestamp": "2026-07-28T09:40:57+00:00",
+    "source": "fars"
+  },
   "f0e8cc09a3d9f5c47492ffdb618f41b4": {
     "url": "https://www.nytimes.com/2026/07/28/world/asia/indonesia-crude-oil-wells-drilling.html",
     "timestamp": "2026-07-28T09:34:15+00:00",
@@ -65,6 +120,11 @@
     "source": "reuters"
   },
   "7d338992479060e748640b8410beb638": {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02MnpxMjV4cy15bWVXZ3RiYXlYZkVIdGlka2p0OUxYOHpnRkdaU0REZXByNno4cEtDeTR1a1k2bklzUk9xTVFBNVNScW55Z0RQMFEtei1Rb3pjUnFHeWo5T2FBN1pTYldNbHhtQ3J6cw?oc=5",
+    "timestamp": "2026-07-28T08:26:37+00:00",
+    "source": "fars"
+  },
+  "223d73b9b3fa9e95c172d123ee6a7cef": {
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02MnpxMjV4cy15bWVXZ3RiYXlYZkVIdGlka2p0OUxYOHpnRkdaU0REZXByNno4cEtDeTR1a1k2bklzUk9xTVFBNVNScW55Z0RQMFEtei1Rb3pjUnFHeWo5T2FBN1pTYldNbHhtQ3J6cw?oc=5",
     "timestamp": "2026-07-28T08:26:37+00:00",
     "source": "fars"
@@ -158,6 +218,11 @@
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82dzlnYTAwbHU0NFZoalA5emR0ZFVzSVQybV9uc3NjNVNVY1FXNmc2dmp4Ym5YZGVCS1JFWFZOMzR4M2ZLOUJmcGFrVmhjYVA5WnVWWkFzZ0RaWGFGXy0tcUpVWGwxS01QRkRIWmpjT0M?oc=5",
     "timestamp": "2026-07-28T01:45:35+00:00",
     "source": "fars"
+  },
+  "5f6a729cee3d20be537b97ab1067d8bd": {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa2M1am9JRVdmbUE2TTF1ZG5ya1dXNjVjdWUtVngzX09jamxQNk1idEJoNDBCY2Y2dlpURUpYb1Q3WTY0Qk84ZEd5V0FYaHVHakFGbmtKbEhOTy0xYmdLUnZIN3JlcS1yWXZTbnVTYlBlcVg5NUx2eGZFT0VmM0FhQkZYS2pZZHJJMlp4SmtVZkpKTmZwOTZOM2g1S3FtMGhYdWc?oc=5",
+    "timestamp": "2026-07-28T01:41:00+00:00",
+    "source": "ap"
   },
   "b0b6883039211c74a90310034f5a636c": {
     "url": "https://www.france24.com/en/france/20260728-france-and-spain-continue-to-battle-fires-as-new-heatwave-looms",
@@ -2432,71 +2497,6 @@
   "8b5fdda927d924553bdc66ddee46ca1f": {
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHFrc1BFd1MyNGJEdWFibkJiY1dGVjRNY2tOWUNTbEZTaEw5Z3liZFUxOWExS3ZhdExIZGpjRUFsSW9WWVcyZC1aRmdaRWtVSUFyVHBxeU5wOWZfYTBYbFpZZ25uYUVxUE8tRzQ0d2VOYVk2bTZlUW8yY0RZdnFmQnVqQjRkc2RoQ2Nya19n?oc=5",
     "timestamp": "2026-07-23T15:10:00+00:00",
-    "source": "ap"
-  },
-  "eeae4cf6a6bf557819aa3bcfd615d202": {
-    "url": "https://www.france24.com/en/after-meeting-with-moscow-washington-reiterates-wish-to-mediate-ukraine-war",
-    "timestamp": "2026-07-23T14:58:00+00:00",
-    "source": "afp"
-  },
-  "0b30357d1f9e9f2953f093b4c616f707": {
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFEtb2pVRzJFQThOZGROZ0hBV0pQUHNWSE1kZkFIdG9nV3d4eHBHUXlaTW1jQlpKVmNmV2twYmQ4VjJ1WDNPeW4tOXYtamtJeXk4STFCWk5CS09yUDBoRENzakZmR1FXbXdTcy0zbGdneURkUWphR1p0bTZxOUszS3Z5TXkxQnBwYjlBYVpXSEJCR3cyR3dZZTYwQktlTDJ1ejNpYklIQmlESXJCempEYUR4UWJXX2QyR1lwVGdiUmtMYU5NdzE2UDBn?oc=5",
-    "timestamp": "2026-07-23T14:49:16+00:00",
-    "source": "reuters"
-  },
-  "901a08fdea89a3f80364fd9734b7318f": {
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0ktU0NYejNqLUtnV3ZhdVFRUUJObFc4dXFSMXlLUnRkVGJxRDZqbm1ZNVVQVFJ6UVJfSk9vV1kybV9EUlFVbnVMWWVQWER2SUlVMzIwemVhRVpacDE1cFNCUEhDWDRoQXZGRlRfVFZwOXRsTm5Cc0x5M3NfWjBFeTRna0ZDS2tEY2xnQklSay1XVFNIcWFJZm1B?oc=5",
-    "timestamp": "2026-07-23T14:43:45+00:00",
-    "source": "reuters"
-  },
-  "9947908b067da76ee15f80438e1a638d": {
-    "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
-    "timestamp": "2026-07-23T14:39:05+00:00",
-    "source": "nyt"
-  },
-  "19bdca8178353c509e1928580820578b": {
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZlRHcUR2VXh4anpDQXJzTGNBWm9WejRCbGI5bFQ5clg4R3BjQlF0a3FET3lDdGpMblZUajFaMmtWVjNLWDMwTWdYQ2xBbU1RaDdYeTB2QnZOZjRuc25ZZ2NuLXdUZ2hLZnp5SXZzSkRUNzB1MnpMNGZhWUFnOTk3Z1NDaF8zVXVsM0M1UDl6Wk0ySTJCUmxlNFl2eWdpRXd6d0dnaXQxTWhXc2xRdURr?oc=5",
-    "timestamp": "2026-07-23T14:25:04+00:00",
-    "source": "reuters"
-  },
-  "f11c80aa287dd92feef061e08d91e457": {
-    "url": "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html",
-    "timestamp": "2026-07-23T14:24:39+00:00",
-    "source": "nyt"
-  },
-  "b4bf8084bcf0b3838a4d32a86df4cf13": {
-    "url": "https://www.france24.com/en/middle-east-war-s-economic-impact-could-get-worse-if-houthis-join-in",
-    "timestamp": "2026-07-23T14:23:50+00:00",
-    "source": "afp"
-  },
-  "ccaba56f13bd81182e3080eaaa7f46f5": {
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1SEhBek5qQnJHNDZrTmktVmxZWmhHVnF0ODQ1YUh3bnVXbUVhVlAwdElFNVo5MnlvNTdJZml3Z3BHUm1QRlBCVm0tc2pka2pfM3RIUWhKd2p4THhqVWl1cDVTT2drQnM?oc=5",
-    "timestamp": "2026-07-23T14:06:37+00:00",
-    "source": "fars"
-  },
-  "4280583ba09a77f091fb5a18242806a8": {
-    "url": "https://www.france24.com/en/africa/20260723-ghana-president-asks-au-debate-on-south-africa-escalating-xenophobic-attacks",
-    "timestamp": "2026-07-23T13:58:51+00:00",
-    "source": "afp"
-  },
-  "787cebcf0af36007f6e35ad7ab4febe2": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qUXQxLTc5NDkwbjk2NmNiVmNEWW01RDNJZThjNFlZRDhqVjNJUi1DTjVBTFdxLWtfbmNHZ25xaFV2ZG5nTVRqNjRvbnM1UWtoUUE?oc=5",
-    "timestamp": "2026-07-23T13:53:47+00:00",
-    "source": "iranintl"
-  },
-  "bb6cad3854c2d3ad0f3354f1bdb600eb": {
-    "url": "https://www.france24.com/en/indian-youth-not-scared-anymore-modi-and-bjp-party-s-architecture-of-fear-has-met-its-match",
-    "timestamp": "2026-07-23T13:48:13+00:00",
-    "source": "afp"
-  },
-  "10c912360f8dc245345e18c8b5ae47d1": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzJSMEdwQVV6RGMtWDMxcGFBci0xMURsa2hYWnpiTk81azZpVk9IS1gyWDlLM2xoM2xBcUVpUDFiN01tekpWUUNKcWNDZWtmbDk4RDBCbW5ZNjlQdEJLNjlTYnRERDZfVmxYNWtfamNGWjZJMkxwaDV0U0wtSnBtTDJnblFjYmxqRWoxYmFGd2JOUng0Q3JBUUpMcGxWa3M?oc=5",
-    "timestamp": "2026-07-23T13:42:00+00:00",
-    "source": "ap"
-  },
-  "09d401c89f4559a04f2b200ab7b96b76": {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRHdWME9HakhhVm92c1VQSTJpeFdYUXR0NXRuZEtVUkw4MFAwaE1vWGJqS000TkhPTy00V0VJNFZlbHYzZXI0dUlOSDBReVROUWJvTFZKaFJWX1R1bmU2cHBGUVpWSVFxRjBibjJIWXdwcU9ZbmNtaTA0Mjl5UTE4WjFBLUJ4T0hiczJzNjJ0MTcxNUsyRE9OLWVwYS15cWFNSHJNNFNTcC1UNEFs?oc=5",
-    "timestamp": "2026-07-23T13:33:00+00:00",
     "source": "ap"
   }
 }
