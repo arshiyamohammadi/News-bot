@@ -1,8 +1,38 @@
 {
+  "0bcb1f80f4cf5635f2219f3510ef4ca9": {
+    "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
+    "timestamp": "2026-07-29T21:23:34+00:00",
+    "source": "nyt"
+  },
+  "5595d825afa3c6f2cd0c017f46785587": {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhqMlRBNU0taHdVcUdHUUE3eDFsZEFQbTZ6dElnTEtMOGVSb1ktYlhpbmJHMm9NY2xRc1lQRWRXcGZ2N0NUNm9FSWV1ZkQ2MjAtaE5WWkwxeHFDMmxxX3I4MHNDNmduRnZ4ODNzNUtSZ2hyZEh3NVBtMmthTHA5UDRzcTBXOWJYNS0yVHlUM0loVXE5VThkeg?oc=5",
+    "timestamp": "2026-07-29T20:47:00+00:00",
+    "source": "ap"
+  },
+  "f6f9333c2b0b4cd77fb20471b7cdd08c": {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFZvamthZTNrZ0JiSDZZMVJBNW02Y1JiQUlvUlAwN1RRODcyUWNydUtZbGxpVVdhZElfTERINDh6ZURJZll3M25weWk4UVFPczliQWZ0MkRUc09VTTQ0X1BMVDBDa0hMdzE0TjBlYmI3UkJpYl9KZDFYMTFsZ05jNnd0Zm9wUHEwTlJObUEycG1BNTVqVTVQWjl5NnJqdEE?oc=5",
+    "timestamp": "2026-07-29T20:47:00+00:00",
+    "source": "ap"
+  },
+  "3e3a2b6cabdc3ed1b8852da5cac16483": {
+    "url": "https://www.france24.com/en/survey-reveals-rising-optimism-among-african-youth",
+    "timestamp": "2026-07-29T20:17:13+00:00",
+    "source": "afp"
+  },
   "1ba1ee2fc5e55a66c1660a07ae1522c5": {
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhqMlRBNU0taHdVcUdHUUE3eDFsZEFQbTZ6dElnTEtMOGVSb1ktYlhpbmJHMm9NY2xRc1lQRWRXcGZ2N0NUNm9FSWV1ZkQ2MjAtaE5WWkwxeHFDMmxxX3I4MHNDNmduRnZ4ODNzNUtSZ2hyZEh3NVBtMmthTHA5UDRzcTBXOWJYNS0yVHlUM0loVXE5VThkeg?oc=5",
     "timestamp": "2026-07-29T20:03:00+00:00",
     "source": "ap"
+  },
+  "ce778376596ec5c424289574c2c06610": {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGRMX1g5X0U3ckZtQjhIMHFGMHVjWmZoNlU5bDBydGRabk5LR1dGUUNSaXFHWUQyWnJqd2VJS09KSmU3ZXVtVjBqemVDdTJJNE9JVDkxTm5udWZ1bVRYYmxUdmExbHFsdENjc2N3Yi15R0tEVUxuRXJiQUk4akd2dy1ZU3g5S21wNjhTX29NODVtaUNRU2JoSi04T29pUzNFMGtKR3cyZUN1RF8zZEVTZTFxSkhXZU9ESHphSWhhR1R4ZUlMSnNsVlNQTUxwRTg?oc=5",
+    "timestamp": "2026-07-29T19:14:50+00:00",
+    "source": "reuters"
+  },
+  "c5b4618321b90a47265974d4267b055c": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aVG5Wb1F6dlZ3dThqc0Q1U0ktUnYyVFUxQUFrZ3hiMDR4MTNtd1ZWY2ZlTTYyZ1VBYW0zWWZNZmVnd1ZfYlVNa3RlMVpXY09TeFE?oc=5",
+    "timestamp": "2026-07-29T19:10:00+00:00",
+    "source": "iranintl"
   },
   "6b6b3bbb921fd6e5e9781da261e322a9": {
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1RmNWVtSTJGb2ZCMkFSbEU2MHVQaTV0NkJSSWNxVW9KNFJVN3NlRnRoX2NRUDNZTUtvSlJNVEdiWHF0ajd0Mkd2VktnOUtyWnF4d2NPMzAtZVdvNV9tbmRpY3ViVDFLNHVVWWVUeDVjRnZlMUNjclNOS3RHbi1PVlIyYkJBMjJYRmw4OURwdEtIQnQ5Ykk1WHIwR0ZGSS1QYzJhalNOS2RlQ3paNC1pcERHandpZw?oc=5",
@@ -13,6 +43,11 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhqMlRBNU0taHdVcUdHUUE3eDFsZEFQbTZ6dElnTEtMOGVSb1ktYlhpbmJHMm9NY2xRc1lQRWRXcGZ2N0NUNm9FSWV1ZkQ2MjAtaE5WWkwxeHFDMmxxX3I4MHNDNmduRnZ4ODNzNUtSZ2hyZEh3NVBtMmthTHA5UDRzcTBXOWJYNS0yVHlUM0loVXE5VThkeg?oc=5",
     "timestamp": "2026-07-29T18:12:00+00:00",
     "source": "ap"
+  },
+  "0b1ac4cb029a518f22a6354c6995925c": {
+    "url": "https://www.france24.com/en/education-minister-resigns-exhilarating-moment-for-india-s-youth-as-they-demand-accountability",
+    "timestamp": "2026-07-29T17:59:28+00:00",
+    "source": "afp"
   },
   "dd7c57e18daa8fbbc3dadccd6b15f9ca": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZQVE4NTRWTHBqUHB0bk9SclE2MHJzcDNkczNUdG41NDl3eFA3SXo4LTBzQ2xieGJlM0t4TFZ4MU9TZ29EVTcwSGVpdkdBeFNLcEE?oc=5",
@@ -429,6 +464,11 @@
     "timestamp": "2026-07-29T02:15:00+00:00",
     "source": "ap"
   },
+  "091bcfd0fee750b0ec9439a7b45c435a": {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWlwZk94dzhfNkVQUDNyVWRCekU3RmZJa09ldGwyOFZ1NzlCWEJhWXN5ZjRqdWRGX25RMWZyMHJJai1LVHZxOVNaZ2NFQ1pyTnI5Q1hONTZZR1Zid25ULUV4T3EyNGtRQTQzSVJPQ3pyS2RKM0I1VUF5cl9ZY2VDd3VwQzMxNzgybnlEXzdXV3RlRUxGX2JZMjZKcHk?oc=5",
+    "timestamp": "2026-07-29T02:15:00+00:00",
+    "source": "ap"
+  },
   "283280561dd5cc5e4412959689ba84ee": {
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSk5HS2lsMDFmVFM5NUIweFRwRkJLMWZKUWd2NG95WUVFdEFXWnpMeWJEZEVDbndzSEdrLWZtaUh5RXJ0U1FiS3RfRHNoMzFiVXc2NVFEYktIQk5RTmFfdjhqTU9UNjVFb1JpcTFTZWc2bzROM2FxSTJkdVpLRUFDVnVvTUxKY2xyLVBsbnFiandSX0haQzNUVzR3ZE1XYjd5aUtYbkhOYXl5ZjB4NHlVd01vVzlBQnc?oc=5",
     "timestamp": "2026-07-29T01:27:00+00:00",
@@ -485,6 +525,11 @@
     "source": "ap"
   },
   "e8131ad43441c66ba1fa875c92350c7f": {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZmtOc1FQd0ZlV1pQbWNHeElfVGNkMldRSlhkWGl4cUV6a1BpRFNNSVozQnhXb0lDVnlKc2M4MkI5U2ozM0hlb3Vta05MbmN2Q05QN3lmQjhscG9OQUM4ZmFoc3luYkRmNDFoTjdZOWdEYXYxdHFGTlJyemw4SmJzYQ?oc=5",
+    "timestamp": "2026-07-28T21:26:00+00:00",
+    "source": "ap"
+  },
+  "47240bb18e42b3a94ca854073a4162a7": {
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZmtOc1FQd0ZlV1pQbWNHeElfVGNkMldRSlhkWGl4cUV6a1BpRFNNSVozQnhXb0lDVnlKc2M4MkI5U2ozM0hlb3Vta05MbmN2Q05QN3lmQjhscG9OQUM4ZmFoc3luYkRmNDFoTjdZOWdEYXYxdHFGTlJyemw4SmJzYQ?oc=5",
     "timestamp": "2026-07-28T21:26:00+00:00",
     "source": "ap"
@@ -2453,50 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajR0a3JtLUFZTGVwMWJFUDdCR2M1UlpfRGpUU3FEUmlsM3lsNnlsNGMzNkx4VFRlVmNyWUdvTHgwbFBuaVF2czduWDdDNXg2X3Z2M0pOTEFSZklJaVBVbXlYLTZ0czY5V0lUWjNob0d0SnF5NWE4dDlUamNvUTVDT2ZrV1l4dmNVdEZjbVl3YjJYajJ1RDJwbzNZWjdWZGdoNm11NUhvb1hiVEhmbU1rRDZEeVBmdDBlS3c?oc=5",
     "timestamp": "2026-07-25T06:14:00+00:00",
     "source": "reuters"
-  },
-  "28a811f435d3f08db77a75a085c619a8": {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajR0a3JtLUFZTGVwMWJFUDdCR2M1UlpfRGpUU3FEUmlsM3lsNnlsNGMzNkx4VFRlVmNyWUdvTHgwbFBuaVF2czduWDdDNXg2X3Z2M0pOTEFSZklJaVBVbXlYLTZ0czY5V0lUWjNob0d0SnF5NWE4dDlUamNvUTVDT2ZrV1l4dmNVdEZjbVl3YjJYajJ1RDJwbzNZWjdWZGdoNm11NUhvb1hiVEhmbU1rRDZEeVBmdDBlS3c?oc=5",
-    "timestamp": "2026-07-25T06:14:00+00:00",
-    "source": "reuters"
-  },
-  "674d6277a2af5f3869089c210bf515ae": {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajR0a3JtLUFZTGVwMWJFUDdCR2M1UlpfRGpUU3FEUmlsM3lsNnlsNGMzNkx4VFRlVmNyWUdvTHgwbFBuaVF2czduWDdDNXg2X3Z2M0pOTEFSZklJaVBVbXlYLTZ0czY5V0lUWjNob0d0SnF5NWE4dDlUamNvUTVDT2ZrV1l4dmNVdEZjbVl3YjJYajJ1RDJwbzNZWjdWZGdoNm11NUhvb1hiVEhmbU1rRDZEeVBmdDBlS3c?oc=5",
-    "timestamp": "2026-07-25T06:14:00+00:00",
-    "source": "reuters"
-  },
-  "bdc8db27e9c341b1e79df42fa62e54db": {
-    "url": "https://www.france24.com/en/middle-east/20260725-guterres-arrives-in-syria-for-first-un-secretary-general-visit-since-before-civil-war",
-    "timestamp": "2026-07-25T06:08:03+00:00",
-    "source": "afp"
-  },
-  "aa743af439fc059adb61008598ef345d": {
-    "url": "https://www.france24.com/en/americas/20260725-trump-lashes-out-at-fake-news-and-jokes-about-2028-presidential-run-in-press-gala-do-over",
-    "timestamp": "2026-07-25T05:45:33+00:00",
-    "source": "afp"
-  },
-  "481e65485a2c0f89ec0a11d58a809711": {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNnQ1ZzI5WjVHajNLZnJhZTRwYndTLUZVZHVldS13NF8xSDdQRzNDcFc2UWQ2TXhvUWtDMEdsUFVOSEZBcE1YX3hfZ1pJNG44UjdlNnNDTkwwM01MQy1qWkRkck1yVjU4Y2pRY3c5VC1hZVVudDZTbEhIOWlOS19SNk44WUNkQ0lTNGxtRWlTXzUtT0UwTmVOTzltUl80V3JsZTBjZHdwYjA3ejBpMnB1YnBKZ1p4WjZyLWc?oc=5",
-    "timestamp": "2026-07-25T05:02:00+00:00",
-    "source": "reuters"
-  },
-  "9f8819f6eff4d46ff9437c6524eae5a7": {
-    "url": "https://www.france24.com/en/europe/20260725-live-france-orders-evacuations-near-bordeaux-as-wildfires-sweep-through-southwest",
-    "timestamp": "2026-07-25T04:55:18+00:00",
-    "source": "afp"
-  },
-  "204a938fa0d977bf4073014b6ab39f9a": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ITXpwOFFlSzhORVBRNG1JNWU2YXQwRkR6RzFSbmFodVE5bzJYRFhYcEMxTElRYl9zSkh5dXIxWTlzMk1YSHBIeHJTemQxUmc3cWFJYktyMWliZnN4WXc?oc=5",
-    "timestamp": "2026-07-25T04:01:29+00:00",
-    "source": "iranintl"
-  },
-  "c3f326161dfd96c6b1019950cfa21f81": {
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5amJ0WldXRGdFSlZvNkQxdlhrM1ZtV3F5dWpLUUVfV0RBNkI3R0w4MHhVYnlSUHI3UWJJV2ZqQ1NTcTh4VVRWeVFTZkpFSk5aSzR1QVFQN0ZDZ3BGS0NPbmJyVQ?oc=5",
-    "timestamp": "2026-07-25T03:51:13+00:00",
-    "source": "fars"
-  },
-  "faa71eaa56c3ebfaa192ab06912739f4": {
-    "url": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil",
-    "timestamp": "2026-07-25T01:58:53+00:00",
-    "source": "nyt"
   }
 }
