@@ -1,8 +1,28 @@
 {
+  "9619f8af813504ac8945bd1b512dabec": {
+    "url": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
+    "timestamp": "2026-07-30T17:50:42+00:00",
+    "source": "nyt"
+  },
+  "a7810563c31234dd28c400a21cf8ca46": {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYWM5NFpLa3p4OE1XZUMybkU4TDdyeWxjbTlEaXpUaUtJR1JUNngzd3AxNmgydElQNUc4aVBFS3V6N0FCcXZOTVV0a0tYQjl1dTVRTnZrNXdRaTh4aGVOR25hM0xvQ3hEWElrWWtjWGI0aWhwb28wbjJLMklKZEFQb1dzWVktU2YteVN3dW84MmpzdnRkUXlzZWxWam9COVVHZ1h5NkhFcXRvZi12SUx1S2hGcm93U1lkdmJNVXRDbUpYSjRIemlpX1NqaDk?oc=5",
+    "timestamp": "2026-07-30T17:42:49+00:00",
+    "source": "reuters"
+  },
+  "d36cd9b91dd0be819d0dd68bd1f4ceb1": {
+    "url": "https://www.nytimes.com/2026/07/30/world/europe/suffolk-wildfire-uk.html",
+    "timestamp": "2026-07-30T16:12:16+00:00",
+    "source": "nyt"
+  },
   "075d8c322bdb77f71537b9b9bd2bd52d": {
     "url": "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html",
     "timestamp": "2026-07-30T15:03:40+00:00",
     "source": "nyt"
+  },
+  "bb79d9c6e541c51bc4ecd9902fa29e52": {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOG5nRVpXaFJmYzZnNk1aMDMwdmc4NDdTalNOTWtaWHhzZGFXWE5JanRRM192OC1qZUs4Q0JHUktVR2VEb1lvdWh4ZjFEd0xQWW1aZkczRFY4VmxQTVV1anlGQ2RsSjFPTjB0aW53NGloTU9Na0hhM1V2ZnpTRFAwOTEtQUpIZ085VHZyS05XN241U3EyZmFqa3hGNzZsU0ZjN1Y2cTRaakE0bWU5VmV6ZTVR?oc=5",
+    "timestamp": "2026-07-30T14:58:16+00:00",
+    "source": "reuters"
   },
   "a8f0133e7362c6f1048174aad12bb771": {
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnhRWEFZaDdpMkNfSDhNVmJ6NmxmQUxmZVlfZHJldjhpdVBLdnlaYzVOX3pYNE0wTkhyYmRjempCeDBMNURTejFDNlB5RThIYlhOOWlfb2xvbElYbEl4X3NhUlpYaWwwTkhxSDZSazdXMVc0ei1CYW4xakkzUENEb0tPRXJ4VktVVExvZGpTWnJ6azU5cjVEUmdPS3V0LUE?oc=5",
@@ -14,6 +34,11 @@
     "timestamp": "2026-07-30T14:18:42+00:00",
     "source": "afp"
   },
+  "4bd429cfe81537841e73e79504eb39f4": {
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50Tkt4aEgyYk1HcWpYWVRzOHp5VnZfT3FvTXgxcndEUjkwTnJ4NnhkdVR1ejUxRms3YXJNQy0ya3k2d2wyZ0pITjgzWmRod3lJWVk5bE4xTQ?oc=5",
+    "timestamp": "2026-07-30T14:03:27+00:00",
+    "source": "iranintl"
+  },
   "e83c2226a1320dd2359544af8c903ca2": {
     "url": "https://www.france24.com/en/europe/20260730-warsaw-blames-moscow-after-a-missile-crashes-in-poland",
     "timestamp": "2026-07-30T14:03:12+00:00",
@@ -23,6 +48,11 @@
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYWM5NFpLa3p4OE1XZUMybkU4TDdyeWxjbTlEaXpUaUtJR1JUNngzd3AxNmgydElQNUc4aVBFS3V6N0FCcXZOTVV0a0tYQjl1dTVRTnZrNXdRaTh4aGVOR25hM0xvQ3hEWElrWWtjWGI0aWhwb28wbjJLMklKZEFQb1dzWVktU2YteVN3dW84MmpzdnRkUXlzZWxWam9COVVHZ1h5NkhFcXRvZi12SUx1S2hGcm93U1lkdmJNVXRDbUpYSjRIemlpX1NqaDk?oc=5",
     "timestamp": "2026-07-30T13:48:42+00:00",
     "source": "reuters"
+  },
+  "8b1dc3bebd1bb9341491508e2df2c899": {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUM3amF1MFUxODRGUWdydTZvZC1MS0Y4eVM5NzF3WWg2TUN5azdjWGJUZW1tc2pqMkhmbFRreXZ1VTNHNHRqdmg1a2ZHVHdDMFloVzRNMmd5SGhXdFMxdXBkV2tuMXY0X21pX0oxMHVwTHdWeU5pWmcwOUxWbEREUFhmOTc2UzFUQzRENkxBMHlodzZfRFV5VVVBVFdmLXROamEtNjBKbUtBM0dGNzNSS3ZJWTE5dw?oc=5",
+    "timestamp": "2026-07-30T12:59:52+00:00",
+    "source": "ap"
   },
   "a906c45466d152030be8907c3404c33b": {
     "url": "https://www.nytimes.com/2026/07/30/world/asia/vietnam-aircraft-carrier.html",
@@ -478,6 +508,11 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2w5NnVOU25BakQ0eDNPM19XZzdhdFRVNWIwb3VwRXpQV2RQck1NUkR2Sl9ENDloU3FXMmJMUVBYUktsbTM0b3Jxb2ZfT3EyY3lSNEhyY0tRTUFxd2ZRMXZidFd6SXRCNTV2TmQ4cGs4SGdkUnJrVW5GQll2OEZFa2RSZTJZc0Z3emJ2Y3ZaUE9ZQzlpYmZUWi1qTEhFYTAwc2c5SkZCY0FtTE56TTFPV0ozTzg?oc=5",
     "timestamp": "2026-07-29T18:58:19+00:00",
     "source": "fars"
+  },
+  "e5656b71ba6f46122644d5138b3eea38": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rQU9hWEdoS0Z4SnoyZW1QbmYzR1Z5ZnV5dkJzQURvbVBvblVfWGdrS01IN2c0a0VsYWlaejk5QnBZX01LTzBFUWFhbU5laTEzaVE?oc=5",
+    "timestamp": "2026-07-29T18:25:33+00:00",
+    "source": "iranintl"
   },
   "83ad4084420d197e4cf86bb2f31befe2": {
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhqMlRBNU0taHdVcUdHUUE3eDFsZEFQbTZ6dElnTEtMOGVSb1ktYlhpbmJHMm9NY2xRc1lQRWRXcGZ2N0NUNm9FSWV1ZkQ2MjAtaE5WWkwxeHFDMmxxX3I4MHNDNmduRnZ4ODNzNUtSZ2hyZEh3NVBtMmthTHA5UDRzcTBXOWJYNS0yVHlUM0loVXE5VThkeg?oc=5",
@@ -2463,40 +2498,5 @@
     "url": "https://www.france24.com/en/zelensky-says-russia-seeks-30-000-extra-n-korea-troops-for-ukraine-war",
     "timestamp": "2026-07-26T10:32:59+00:00",
     "source": "afp"
-  },
-  "ac3f4a216e7359d2708a6c22394845a2": {
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRjZFTlNSX2NTY2s4NlBlU2ZRVWc0aXN2dTFKZDRPSnE1ZE10QnpfVl9Ici1kZkdpTy1vd0Q1U014bVBmdFY3dFRmNi1xMWZZdi1kVlhwOFY2RkdINzBhQmFOMm56QS1uazYyS0tVWWFfNHNvRG1QajAzMzd2V3d0Mi03VHl5SzN2SWNoNHk1WmJvQ0F0cGxvR0lmVUZJeG1SUEZ4WUxGdmVCU3M?oc=5",
-    "timestamp": "2026-07-26T10:24:51+00:00",
-    "source": "reuters"
-  },
-  "814fd4578d8e2e4597a0d65a0414b061": {
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUE1aUmxVOHNfRkY1bW5mZG5DMUxHaFBpSWtPb3FONXF6YjItMFMycmx4M1YzTHhyZ1hlYURXMjM0UmlPQ3VRTTJwZjBGWFhudGxDWGl5NjJtbGtRdVFlcVJnVnNwZEcxSjctdzNEOThDcWctYnl2bG93eHlhYkFOaEItUEl3S2hzYXFKbHNpYjA2MVo3U2tUUk9CQ1dldnNUNWdkbjdqakJ3a3FJYmR5OG5WNGQ?oc=5",
-    "timestamp": "2026-07-26T10:14:27+00:00",
-    "source": "reuters"
-  },
-  "7dd8b7c4048bbbc2a862ba154969ed21": {
-    "url": "https://www.france24.com/en/europe/20260726-romanian-jet-shoots-down-drone-entering-country-airspace-for-third-day-in-a-row",
-    "timestamp": "2026-07-26T10:11:29+00:00",
-    "source": "afp"
-  },
-  "ea9685996fac8525dee3bf14e669f2e1": {
-    "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-    "timestamp": "2026-07-26T09:59:47+00:00",
-    "source": "nyt"
-  },
-  "8efbd6b3cc84332bcb40bae74faf7322": {
-    "url": "https://www.france24.com/en/france-fire-situation-remains-very-unfavourable-says-interior-minister",
-    "timestamp": "2026-07-26T09:57:22+00:00",
-    "source": "afp"
-  },
-  "c485ed3af3c7398c4b1b14626e8f7ea6": {
-    "url": "https://www.france24.com/en/german-police-hunt-suspect-in-berlin-pride-attack-1-dead-and-16-injured",
-    "timestamp": "2026-07-26T09:53:33+00:00",
-    "source": "afp"
-  },
-  "75a7d4e22229b134591633d19a9d00cd": {
-    "url": "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html",
-    "timestamp": "2026-07-26T09:53:05+00:00",
-    "source": "nyt"
   }
 }
