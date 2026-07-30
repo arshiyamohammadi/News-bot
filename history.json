@@ -1,4 +1,24 @@
 {
+  "ca211b645a0766550dc51f1c6ae37c9b": {
+    "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
+    "timestamp": "2026-07-30T05:11:45+00:00",
+    "source": "nyt"
+  },
+  "fbb59ea37bc1244a46afc0272b0e0577": {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFZvamthZTNrZ0JiSDZZMVJBNW02Y1JiQUlvUlAwN1RRODcyUWNydUtZbGxpVVdhZElfTERINDh6ZURJZll3M25weWk4UVFPczliQWZ0MkRUc09VTTQ0X1BMVDBDa0hMdzE0TjBlYmI3UkJpYl9KZDFYMTFsZ05jNnd0Zm9wUHEwTlJObUEycG1BNTVqVTVQWjl5NnJqdEE?oc=5",
+    "timestamp": "2026-07-30T03:47:00+00:00",
+    "source": "ap"
+  },
+  "f39f0b82b533e2733fda07888c5e95c2": {
+    "url": "https://www.france24.com/en/middle-east/20260730-us-carries-out-powerful-strikes-on-iran-after-attacks-on-bases-and-regional-allies",
+    "timestamp": "2026-07-30T02:22:48+00:00",
+    "source": "afp"
+  },
+  "a0d02b130363c98b5b8000278a340352": {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmdhbnhGZW9OcUE5SGUyUmQ2RDdyQkN4N3d0ZVhtT201UTd5MEd1clhZc21YaUxIUVFMRTc2aUU5RzJWZTVQd3RmM19kUVhoVjJ4RElZS2UwbjdfNUhNVnY5NU1kTzNoUGFaX3VrNFZELUJmemg1R084Mm80cjFXd3FEeWhWczZ4MXFvNUo3c2pWLS14WnlqQlh4Y2JYaXlCZnVmeEdQcy1Udw?oc=5",
+    "timestamp": "2026-07-30T02:09:00+00:00",
+    "source": "reuters"
+  },
   "5c40e55f40d01024e3020d4bd8d95dbc": {
     "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
     "timestamp": "2026-07-30T01:55:28+00:00",
@@ -9,10 +29,20 @@
     "timestamp": "2026-07-30T01:53:00+00:00",
     "source": "ap"
   },
+  "f264893ae041f408d25710b73908b968": {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWJteE84X0d0aDA5bVgwcWZrTlJTTXNZVFNlRmduNGc3aWgyMDRjN3BiN1ZaY0NaSGtXa1VlQjdFSE1pRkxOTS1sQXc2WjkwbkY3Qng1N3g3azFoVUltcjVPVGo5aGM0YkZYVG5DLXM0RS1PSFhkeERKaXZVSFk1cGZXX3ZGS3otSU1FRUtPaTFyMUd0TENNeUtaTXNZeEkxTGJrcWdTcDY4UnRUMzg3ZzZ3OGpYdw?oc=5",
+    "timestamp": "2026-07-30T00:35:00+00:00",
+    "source": "reuters"
+  },
   "0f38303950be29b197b49ca0d82ce86b": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFakJzS1BGVXRCUWxVeUpfSEpFdHJGMGQxb010ajdHTlNkU2gwNThuVkc2cmc4MDljYWdiUFNhZUpwY2M3TkNWalBnaVRjVGtpOHc?oc=5",
     "timestamp": "2026-07-30T00:13:23+00:00",
     "source": "iranintl"
+  },
+  "672629ecae7b2e7b8314de0975affbd0": {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeEFMZFc3WHBfOVFBR0JhTjNnd2dWdmpoSm9wSW1YNDc0S2FmemlKMWVZaDdPcjJTanc5a19BVHRnTGtMNlNfWFBvbHk1ZGM3YjlIb3lzVU52RUZQS0xDaHgybDFJVFhhUFhyT3NMa0E3bzY2T0M5ZU9PRHg0VklLS3R3d2o5eHVNcWdGdF9rNk1qS29VandoLTdReDV5T0pBR2phRHZiWks3U0hqdHktR2xsUUZMRlpuNjVrRWJ3?oc=5",
+    "timestamp": "2026-07-30T00:03:00+00:00",
+    "source": "reuters"
   },
   "4becd5d8b5275642020e6b31f9d2455e": {
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb2Yxa3h6SzNCUGZjOFBOTXBHY2tLc0x4WVhQTks1UF9BWkt3ZlcwSHRYVG9IV0NneDJrdVhtcm54ODVkc3cxcFdVMUZCek5EdHpER0J3d3RMWUNyeXc5LUp0Vl9HRlYzSGlhemNXOHZkc3dLNzRaQlM4QVBrUHktSDhHd1RoOE5pVWxwLXFNVzZEbjRJV2xQRnJKS0lpcTBRYkZqYm1MNGszZlU0eDF2NVI0RVRIOHZ5RGs5a0t0QWRsa0stelBVNzBvblpmSXhWbmgzdEl3cjZVZw?oc=5",
@@ -24,9 +54,29 @@
     "timestamp": "2026-07-29T23:14:43+00:00",
     "source": "afp"
   },
+  "6f847f32e5f4251b2d62114a52cdb55b": {
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yVEtJNzMtUXFZX2FoLXFndzlFQ3d5S1hoSHotMldZSEp1N1RNT3MyVGdkNzNueXRuNDg4QXUtUFFaX2J4bVQxSVVvbG14dEJQdnpEeDNVWXFtdUNsWVhIUVFtUQ?oc=5",
+    "timestamp": "2026-07-29T23:06:44+00:00",
+    "source": "fars"
+  },
+  "41412be4c9e5222b00fdf29c2cc28960": {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkViaXFBc0t6VzZ6bXIxY25HbmFFSW9HV0F0dUxBcXlhSWxnbjRxOWhuazhGSWlvUEJHTWhITkJGeFV3em9DOTZoQS1FRE5CbEdNZ0R5SVJJMndWaVhoRUZCM3l2OE1yV3VFd0tWSzE3Nkd6MXNiMGg0NXlXLUVXbTE3a0o1eDA5bzBtN0w4ejBzRWVya2xMN0ZzaVJkMDFwdzRkRTBpU0dsWjBETExHNlRrS08?oc=5",
+    "timestamp": "2026-07-29T22:57:43+00:00",
+    "source": "reuters"
+  },
   "22da689e453fa09258fa955d02a1c192": {
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGtDZ3NvbXo0OXEtd1puSEY1R1RzdU9nWDdsbmhsQnZraGc5X0xYeDI1ME1NMV9URFBUX1Z5cHpXemw1bzBjX20wUFBCZTBnY1VLMFFoR3lPQVBpQ2ltb005akZSR2xaMzVkT2ZrR2VKeDRfLWYtZTFWMXdZZl8tNFNWdTFPZDZCMkhfY0c0MFdOZHBGZk1ZaXFJeDRhdmdSUk9jcm9NSQ?oc=5",
     "timestamp": "2026-07-29T22:49:00+00:00",
+    "source": "reuters"
+  },
+  "32cd283de36173fa382d555a62323a39": {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGtDZ3NvbXo0OXEtd1puSEY1R1RzdU9nWDdsbmhsQnZraGc5X0xYeDI1ME1NMV9URFBUX1Z5cHpXemw1bzBjX20wUFBCZTBnY1VLMFFoR3lPQVBpQ2ltb005akZSR2xaMzVkT2ZrR2VKeDRfLWYtZTFWMXdZZl8tNFNWdTFPZDZCMkhfY0c0MFdOZHBGZk1ZaXFJeDRhdmdSUk9jcm9NSQ?oc=5",
+    "timestamp": "2026-07-29T22:49:00+00:00",
+    "source": "reuters"
+  },
+  "48ee4ba4044c0ed8910bf3dfaaba4c78": {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVk4Y2o5M0tqQ1dwTVByaGcxczFEamRRRzBNZlMyakFkTG1TZnFtUzVJMEJmVEdqa2pPaHFhX3lSUnQ3UjBGeWZ1TDlHV1daS1dfdHFsakQ2d0c4Vml5cFVEWjRMUXBIVEtqQ1NPVmUwRlZNNDhwd3phMm1IV1lLUTVlZDJsdG11RWkyVnlqeGczcGt4UF9udzgxYlRMd042SXdmYw?oc=5",
+    "timestamp": "2026-07-29T22:36:00+00:00",
     "source": "reuters"
   },
   "be40fb2df4be5b4519bcdb2b1651721f": {
@@ -44,12 +94,27 @@
     "timestamp": "2026-07-29T21:49:55+00:00",
     "source": "afp"
   },
+  "8bdb5e5b9e7aa48d1c10d7a8a82f4d6a": {
+    "url": "https://www.france24.com/en/europe/20260729-zelensky-warns-of-possible-major-russian-strike-overnight",
+    "timestamp": "2026-07-29T21:49:55+00:00",
+    "source": "afp"
+  },
   "0bcb1f80f4cf5635f2219f3510ef4ca9": {
     "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
     "timestamp": "2026-07-29T21:23:34+00:00",
     "source": "nyt"
   },
+  "45ffcb6d5a9658682aa78bdb6ceb43d8": {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0dYeFppekRSNVVZZFhyUjJpLXd4aWlvMWpiZDc5M3lVcXZFWW9WbjVLSzl3MEZDcHhBMkdjZkpWTjRoY2ZRVThJeHN1emVWVzZXRmlOTFEwM0ZiR1d6NWV4b2dqdno0d0F2cU55emE2RjBjNmJtLUIwMzhfcFNlMUdEY0FJNnNTT2N4Sm55RDBJblExX2dYbmJCMWU1ZnNzVE5jbTdLQVZ6VF94OFE?oc=5",
+    "timestamp": "2026-07-29T21:18:00+00:00",
+    "source": "ap"
+  },
   "c2df5de52007fd94660725bbed13c872": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tOG5RU3NFLXQ4ZFhTRVdfX0ZRQXFxV24zQ1JEQXk5eFJsWVFlbi1GZTBZS0NZcXVNZkRoT003TGZUUTNNTjZ1Rl9UYTI4WVJxSHc?oc=5",
+    "timestamp": "2026-07-29T21:05:32+00:00",
+    "source": "iranintl"
+  },
+  "78c336c594cd5abec59b5b84c70994d0": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tOG5RU3NFLXQ4ZFhTRVdfX0ZRQXFxV24zQ1JEQXk5eFJsWVFlbi1GZTBZS0NZcXVNZkRoT003TGZUUTNNTjZ1Rl9UYTI4WVJxSHc?oc=5",
     "timestamp": "2026-07-29T21:05:32+00:00",
     "source": "iranintl"
@@ -94,6 +159,11 @@
     "timestamp": "2026-07-29T19:10:00+00:00",
     "source": "iranintl"
   },
+  "c155f1936bf582fb6fd7c1d871f42e29": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aVG5Wb1F6dlZ3dThqc0Q1U0ktUnYyVFUxQUFrZ3hiMDR4MTNtd1ZWY2ZlTTYyZ1VBYW0zWWZNZmVnd1ZfYlVNa3RlMVpXY09TeFE?oc=5",
+    "timestamp": "2026-07-29T19:10:00+00:00",
+    "source": "iranintl"
+  },
   "6b6b3bbb921fd6e5e9781da261e322a9": {
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1RmNWVtSTJGb2ZCMkFSbEU2MHVQaTV0NkJSSWNxVW9KNFJVN3NlRnRoX2NRUDNZTUtvSlJNVEdiWHF0ajd0Mkd2VktnOUtyWnF4d2NPMzAtZVdvNV9tbmRpY3ViVDFLNHVVWWVUeDVjRnZlMUNjclNOS3RHbi1PVlIyYkJBMjJYRmw4OURwdEtIQnQ5Ykk1WHIwR0ZGSS1QYzJhalNOS2RlQ3paNC1pcERHandpZw?oc=5",
     "timestamp": "2026-07-29T19:09:23+00:00",
@@ -114,6 +184,11 @@
     "timestamp": "2026-07-29T17:33:07+00:00",
     "source": "iranintl"
   },
+  "3d8af86c6f3a68570938b138bc27d41b": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZQVE4NTRWTHBqUHB0bk9SclE2MHJzcDNkczNUdG41NDl3eFA3SXo4LTBzQ2xieGJlM0t4TFZ4MU9TZ29EVTcwSGVpdkdBeFNLcEE?oc=5",
+    "timestamp": "2026-07-29T17:33:07+00:00",
+    "source": "iranintl"
+  },
   "1211542db06741b3abd637ac94641c53": {
     "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
     "timestamp": "2026-07-29T17:18:45+00:00",
@@ -125,6 +200,11 @@
     "source": "reuters"
   },
   "39a9864dc46b26d24e3dc9df8f1f016d": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HTGVjQ1FZMGRpVnp4ZlVVVUdQSDg1WF9sSDgwaVhLMjY0N2NKbDFxcnJFejkyQ203Mm42OFhSajFjeG1SQlZMYWJaLUdETExQQ2c?oc=5",
+    "timestamp": "2026-07-29T16:39:08+00:00",
+    "source": "iranintl"
+  },
+  "0a38e8e5b762fa993acb3f9ed8a54fae": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HTGVjQ1FZMGRpVnp4ZlVVVUdQSDg1WF9sSDgwaVhLMjY0N2NKbDFxcnJFejkyQ203Mm42OFhSajFjeG1SQlZMYWJaLUdETExQQ2c?oc=5",
     "timestamp": "2026-07-29T16:39:08+00:00",
     "source": "iranintl"
@@ -289,6 +369,11 @@
     "timestamp": "2026-07-29T11:24:42+00:00",
     "source": "iranintl"
   },
+  "95211e53a561d04e1cbe810571a46e2b": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yb1pMZEczUHpqY1FTUnQ2ZkR4SnBNX1pqTVhSOXBndmtjN3pNQnB2ZTFRMUNRQkRJc3RlYTUwa19KRHZSeEZabmlQcVZGU0xvQVE?oc=5",
+    "timestamp": "2026-07-29T11:24:42+00:00",
+    "source": "iranintl"
+  },
   "3ba887a3ff6b3f1e378ae311d2195188": {
     "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
     "timestamp": "2026-07-29T11:18:29+00:00",
@@ -339,6 +424,11 @@
     "timestamp": "2026-07-29T09:19:13+00:00",
     "source": "iranintl"
   },
+  "832e1a3bfd1397acc259dff7f85046dc": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JdURDT2dYQkU2TmJkaHZDeHJOQ1ZEOS1Mblk1OWlna2xnZW9yVlJmTzVoV3RGVmkzc1dySmdlWkhFcFFaOUp1LWlXTmZ0bXpBMnc?oc=5",
+    "timestamp": "2026-07-29T09:19:13+00:00",
+    "source": "iranintl"
+  },
   "239ed8962ea3df3546bca3ea04deffa4": {
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWdPV244VDdxZnhvMmRiV2ZidVpDaUpEQnR6WFpySzJtUWtTV0U4ZjZ4M0tabm9yRXhNUzd6aUJra2Zid05vUTI0RmJ4Ri1RTmduMUNQV1BvNlBJTU1tMGY5dGlJNXJrMUk5NU12T1pWc2hHLUZfM3owdFNiaUxYWmd1UjZyQldvT1hTX1o4N0hPZW4zN1NyVm5xSjA3QTA?oc=5",
     "timestamp": "2026-07-29T09:05:49+00:00",
@@ -375,6 +465,11 @@
     "source": "afp"
   },
   "e221e695d33e6b18ac5fa89826a4cefd": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tNGtrVUZNQmducEtEcURvSFA0eHh0SjVjaFVXWl9uYkN5VUVBS0NBbThMeUNTelI0YlNOR0gzd21IT243c3c1WVpQRmhsZGFaRmc?oc=5",
+    "timestamp": "2026-07-29T08:25:34+00:00",
+    "source": "iranintl"
+  },
+  "c6f2bf21e3364a2fd8da5324c1d12bd3": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tNGtrVUZNQmducEtEcURvSFA0eHh0SjVjaFVXWl9uYkN5VUVBS0NBbThMeUNTelI0YlNOR0gzd21IT243c3c1WVpQRmhsZGFaRmc?oc=5",
     "timestamp": "2026-07-29T08:25:34+00:00",
     "source": "iranintl"
@@ -465,6 +560,11 @@
     "source": "fars"
   },
   "aa1be1f73b09a680546db61911cbc103": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vcG9Cc25HclM5dGNqeG5pLWx0Y0xDT3BVbzFXbUlZNHNxcjhaN0Ewa3RDVkV6TWhzbVJRWml3VlZ4T2hibFFpNDVyby1MTkRVa0E?oc=5",
+    "timestamp": "2026-07-29T07:32:16+00:00",
+    "source": "iranintl"
+  },
+  "b2bacf407d9977443b356ec02bc6a135": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vcG9Cc25HclM5dGNqeG5pLWx0Y0xDT3BVbzFXbUlZNHNxcjhaN0Ewa3RDVkV6TWhzbVJRWml3VlZ4T2hibFFpNDVyby1MTkRVa0E?oc=5",
     "timestamp": "2026-07-29T07:32:16+00:00",
     "source": "iranintl"
@@ -2398,105 +2498,5 @@
     "url": "https://www.france24.com/en/ukraine-kyiv-protests-continue-after-zelensky-fires-defense-minister",
     "timestamp": "2026-07-25T12:31:32+00:00",
     "source": "afp"
-  },
-  "3a901b86a0d089a3e25ca61735bce695": {
-    "url": "https://www.france24.com/en/ukrainians-back-ousted-defence-minister-as-political-crisis-brews",
-    "timestamp": "2026-07-25T12:28:17+00:00",
-    "source": "afp"
-  },
-  "720eb7f77bc269c6a32e5e1b9397f3cc": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oR0Q0UHJodWxIcWdZQU9QZnVWZkdROGJRR1BtdmkxbWN0Ym03NV9ucmdMTmFQU0xhSnN4dkJva1FjYTVDNTVfZTBBaXFZaW4wZlE?oc=5",
-    "timestamp": "2026-07-25T12:05:54+00:00",
-    "source": "iranintl"
-  },
-  "f252bb46f767e88ee72565c38caa90ed": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xU2U5TTVJUFZvdHBoV1VmZ3F1TmNYZWlXOG40WHJfbkRQTmpNZWw1QXhleWxfTENHekpYWGdrNnptbFZhZ25pMDVlRHYxcVZIYUs3cmQ2OExPXzktVmo1Mw?oc=5",
-    "timestamp": "2026-07-25T12:03:44+00:00",
-    "source": "fars"
-  },
-  "69ba5ef1b447d8bfbaa200f85543b10e": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxUWVyenM4Q0JxZ3ZiSDJkNmRTVGN6NzNrM1lhVkhEdFN4Z1VNdVRodkMwaElYSFlXa0hwbFJsbTJMZkhGWTZqVnd5dTVKY3FieUE?oc=5",
-    "timestamp": "2026-07-25T11:45:16+00:00",
-    "source": "iranintl"
-  },
-  "4132b86573755a264d933534b590843d": {
-    "url": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations/france-spain-wildfires-evacuations",
-    "timestamp": "2026-07-25T11:40:12+00:00",
-    "source": "nyt"
-  },
-  "618c1ea8f709551b25caed2c675466a5": {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMEJLaU1yVVBOWVM4MHVrVnJnNUs3WjJnc2lUNnFMRVdqTkl0cFFsaHREWExHYkxtcGp5TTh1aWFXc0ZybzhsM2NXM1JyaEZTYWkzWG1QX0J1Z3Z2OFN4a0g5U29SaUdxQ2tNRGFoaFpsT1pjOUpIMEhDeFU2SS12cVNrYnZEMmRlLXlRTFlLY2M2ZS1MVzU3YVQzWTdUMzZVb1RmeFAxN0xxcUR2MDJzeExB?oc=5",
-    "timestamp": "2026-07-25T10:55:10+00:00",
-    "source": "fars"
-  },
-  "318ec0818170237e6b6a2f01a0b1a0f2": {
-    "url": "https://www.france24.com/en/europe/20260725-live-france-orders-evacuations-near-bordeaux-as-wildfires-sweep-through-southwest",
-    "timestamp": "2026-07-25T10:45:09+00:00",
-    "source": "afp"
-  },
-  "afc9aa2b355c7c6e72791b36b712c961": {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ0ZCeFZOaU1KWFIyaUQyMk1WdFdEbDRNaUJBSlpvcUFqSVRUVmRUV19ndXdqZElDeGtTSlNRUXZXYV84WXI0RjB5YlhXMXNJampLTGJKQzJLYnlienItemZMdHBDckZ3c1lCbVpMLTU3cGNXSnBlZ0RmNUpyUHozNlVwaF9OcjZqbGw5ZXByXzZNdw?oc=5",
-    "timestamp": "2026-07-25T10:30:00+00:00",
-    "source": "ap"
-  },
-  "7a1bba4b1f7109998f135c9f007ae386": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0dG94anBLV3FyMENrQUtTcXU5UjlzVU9SRHNBYWRUNkd0dV85R21zdmpob25Db0k5VXpac3dYQkdiQnRvX0c2ZUZuUURFX1Vzb3c?oc=5",
-    "timestamp": "2026-07-25T10:21:58+00:00",
-    "source": "iranintl"
-  },
-  "7d43ff47eee4817b45c2e235a494e5b3": {
-    "url": "https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html",
-    "timestamp": "2026-07-25T10:19:57+00:00",
-    "source": "nyt"
-  },
-  "1201a85dc9a09665ef5d80faa094a5ca": {
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LOHlCdGtqVlFiUWZONDlLakxndU01RHMtcFlNenNUZTlUNFlIN25jNkFWN0FnNjNWQXp1dHdyeElUcE1pLTdtdF9uUVpHYWwybkhKNEZXcFUtQQ?oc=5",
-    "timestamp": "2026-07-25T10:01:01+00:00",
-    "source": "fars"
-  },
-  "46a6d94c7881100c046633b53057c7fb": {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0JlWmlacURnU3BGX1NNdGhGcFRPRzM5TnpsY0JQUGkxWnQ2T08zcmFWZTZKOGV3TmlRQU9xVDZ5R1VyRnk3a1g0M0E0MVZFbXQ0eE1DMXdfTGVBZFpVMTdHQVZTdnF3azk5Nk5SOTBzVWFweXRzd2dRbjJlcUVnV1BzVnJHZHI0MW9OUm4zLUkxeF9EeGtvUHhJLUdKZmwxR2s0d0VBZXE3WloxSzFBUg?oc=5",
-    "timestamp": "2026-07-25T09:59:32+00:00",
-    "source": "reuters"
-  },
-  "a038b07cc05c670f8fe00d88ff3f5b87": {
-    "url": "https://www.france24.com/en/asia-pacific/20260725-indian-education-minister-resigns-after-mass-protests-over-exam-paper-leaks",
-    "timestamp": "2026-07-25T09:38:35+00:00",
-    "source": "afp"
-  },
-  "b7a4cbff840f6345c6a917b8b24dbfe5": {
-    "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
-    "timestamp": "2026-07-25T09:37:30+00:00",
-    "source": "nyt"
-  },
-  "8488f9d29325ee19bfcf505bcd2f74b0": {
-    "url": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns.html",
-    "timestamp": "2026-07-25T09:27:28+00:00",
-    "source": "nyt"
-  },
-  "4223d6dd507829782b53bffb7736d6fd": {
-    "url": "https://www.france24.com/en/middle-east/20260725-video-iran-downing-us-b-52-bomber-debunked",
-    "timestamp": "2026-07-25T09:27:16+00:00",
-    "source": "afp"
-  },
-  "8a3f5cf5a7c16784c943a1e5df518f0e": {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVmozZTBOTU42dE9YZHB4bTV5TVUyU01UUjZydFN6aGo3ejJXeFpSUVhJZ3pkYWE5SHNsWjRobGROVV9YS0g3aU9tRElrWmFqbkZtN2I3TDVXaEVlSkdXUl9NSkJIWUViM09QWkxSTm1KMmdSeW9PMk96d3ZXVUNDNnJMTFhNYUotZ3V5aDNwNTZrYVkydTFXYkNDZXZYUmJ3Z1NSYw?oc=5",
-    "timestamp": "2026-07-25T09:06:47+00:00",
-    "source": "reuters"
-  },
-  "bc7a891c9626f0c39b25bdd1d8cb7e6b": {
-    "url": "https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html",
-    "timestamp": "2026-07-25T09:01:55+00:00",
-    "source": "nyt"
-  },
-  "f304071e14d425b1c8b95a804a60a598": {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQTdabVQteHlkX3lfc2pPNGttbkY3VUduQ1ltZ3NodDIybFZYSHR1TGxidm04cDJSR05QR0o4REhMYlBneFRZMl8zM183bThCQmFkcTBfNnR5Y01GeHRySzVWV2pCZjAxN1VjejFvZTN3TENvaVh0amNvZF9mTzl6eGhzcnVDUmROaVFiakpzbXl5MTd2Nkp6SEJkVE5PUVc5RjhBWEhzNEloUlB0c0NhRGp2WmlnVTJsTUpV?oc=5",
-    "timestamp": "2026-07-25T08:57:43+00:00",
-    "source": "fars"
-  },
-  "87f5674e024de92ce2afb57e30dcbe94": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DZnNpaUpJOFFWbHdkZmRfMENWc0dGQUlmaUR3OHJzMUs3Y0lGUzhzdGZ3MkxSNFpsRWxtcERFd3JFOWJwWW9idmszOHJzYjZZTWc?oc=5",
-    "timestamp": "2026-07-25T08:56:12+00:00",
-    "source": "iranintl"
   }
 }
