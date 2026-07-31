@@ -1,8 +1,38 @@
 {
+  "d01c7a1a0b91bcee2381227e2a33951e": {
+    "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
+    "timestamp": "2026-07-31T16:52:25+00:00",
+    "source": "nyt"
+  },
+  "8577d3ac2b3d6173cd33e7f1447761b9": {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPamczZkxsZG1uMnYxeHhrT0Z2a2ZkVjdmdDZPeENzaVhPNndMY0pBOGtBaEoxNzgtTlFIVHUyZkRIX3ZSV2RObTN2eEtmcHgzanZuUjJ5aDR2LTFJajM3NTBubGNLSXVGZWU4WEpTN1FxaE93RUZFNFV0Y2pKUnZreVAzNnFmTUprMEJXc2l4Wm1abXJ4ZFVSN2lITm53QnhEQjZrWERqX2xOQy03SU1rTjY0Z1g?oc=5",
+    "timestamp": "2026-07-31T16:41:43+00:00",
+    "source": "reuters"
+  },
+  "386d45142fefbefb0ae9e65f28979c46": {
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oQkhKYlNMQ3d2dTAwS3MzakdFXzh6ZzB4bV9KRXZyUzE4NW1jQi1wSTNsNWI0UnRNekhJUmFtM3JreGczTEg5UWtnUVc?oc=5",
+    "timestamp": "2026-07-31T16:36:54+00:00",
+    "source": "iranintl"
+  },
+  "23aacb94e6f2bd88228d4732aa84c5fc": {
+    "url": "https://www.france24.com/en/donald-trump-trying-to-change-the-narrative-away-from-the-iran-war-ahead-of-midterms",
+    "timestamp": "2026-07-31T16:20:04+00:00",
+    "source": "afp"
+  },
+  "f867fc86059fa22b5bb86df449605fe5": {
+    "url": "https://www.france24.com/en/hamas-disarmament-would-be-first-concrete-step-to-re-energise-peace-plan-but-questions-remain",
+    "timestamp": "2026-07-31T16:16:13+00:00",
+    "source": "afp"
+  },
   "14cf95afc9bca5c2bab3cf8b2559f79c": {
     "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
     "timestamp": "2026-07-31T16:11:24+00:00",
     "source": "nyt"
+  },
+  "3f41d86ae505dc10b907f96bd032b833": {
+    "url": "https://www.france24.com/en/video/20260731-gaza-strip-will-hamas-really-disarm",
+    "timestamp": "2026-07-31T16:00:52+00:00",
+    "source": "afp"
   },
   "1fde1a3f5454f62f888ad7dc2d22a39b": {
     "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
@@ -107,6 +137,11 @@
   "94758cb83c7c6f5e909840c0c6acecf2": {
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BRHUxZ1g5MlFSRUd1OGUtMzRMOC10SzlnSGtnZTRTS0JRU0t3Y3l5dWdpTEdJZnBRUXd1WktCMUk0V1hUXzRsVVZVZDUxWUNMaG9yR2NEb2xDSTZaNHNhbFRzWUtTeTRl?oc=5",
     "timestamp": "2026-07-31T10:39:23+00:00",
+    "source": "fars"
+  },
+  "dbabee4cbfa0cc051a3d787590539620": {
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LaXVWVVFuNElKSHBDcnJMUGtEU3RMcWMwVzFoVi12bHVnSUlUV3g4S2VFVzdHYUltZHR0aUxJQndLSlZNZkx2cUhySE8wVzl1MXNmS05B?oc=5",
+    "timestamp": "2026-07-31T10:37:09+00:00",
     "source": "fars"
   },
   "9ef6b32cff27b7f57d1b1bda90915b33": {
@@ -2463,40 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTcyMDhXSXVNVFp4QlpqSGdQc3ZqaFN0c1hYSml1ZWhZS1FXbVN1Ql8zYUllVkpETjdMbXNRWUV3eHVqZWFnYnlBY1pvTzQ0WGNESmRyOGhCaFU4dEZwQXptVEV6Q19xb2FBVGxuLWFmUUZ0c0hjRFAzZXJMN2RYd0diYnJQM1M0Ylp6NWp1M0NBMFlFWi1scUNFRGtJblVFUEJzWF9iRTY3QXY4OFZuWmM4Rk01NFF6REllM0NpSEVXVmd3OFc5bnc0ZFM?oc=5",
     "timestamp": "2026-07-27T13:30:08+00:00",
     "source": "reuters"
-  },
-  "c292f70b57ad37701a8ce2a927c47a04": {
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOYUo3MFl1a1VkckdER2hqVllYWnFIX2paRVN6UEN3dURuVGxOVGhTU3dBUWlMcDVQaFdfblpsWndtMEI3emhaQWlsbFJFbkRGYXFzR1JHdy1xdFpZaTB0cE4yVjh5a2xxVGJwSmprQTk?oc=5",
-    "timestamp": "2026-07-27T13:14:01+00:00",
-    "source": "fars"
-  },
-  "12f76d9f645cdcce531f2c6f9c4ffd1c": {
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOYUo3MFl1a1VkckdER2hqVllYWnFIX2paRVN6UEN3dURuVGxOVGhTU3dBUWlMcDVQaFdfblpsWndtMEI3emhaQWlsbFJFbkRGYXFzR1JHdy1xdFpZaTB0cE4yVjh5a2xxVGJwSmprQTk?oc=5",
-    "timestamp": "2026-07-27T13:14:01+00:00",
-    "source": "fars"
-  },
-  "fd15f1b395b3f8770328ce18a0deb8b6": {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUExZQjk3OWkyNjBYQXhSNTQ2c0NNZ0paeEpQMmljVVNJTlBTU2ZIcVIxVndVc0hiM1VacE80ZUhyQ0FBWGxLYTY1bkZQOFNOYk1MdWJvM2hLcnlrSC1Zc2F6OEJja1kxTkJaYVlTel9fS18tMEhYcFJSTXFraGdvcWxOR0lxdEQ5X0hZM1VvRGtYVkdUYkFBT2F1elFEN2p6UVMzR04tVGs0RVJIM2ZyRW1B?oc=5",
-    "timestamp": "2026-07-27T13:10:14+00:00",
-    "source": "reuters"
-  },
-  "7f93d9297a0d5d20da287a5859fb346e": {
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc191NDRCWEpsMlVCNmdzRWg5bW4zY29ZRFpYRmJmNUROMEo0bnpIQ2hiOThvYXJVRXc3OEFtaWZjdGlzcERpWTE1akhURTktSFNxWndKQ3d3emVuZ0Q5VU03UkhoNEpURHVOdUhoMkV0aUpYSjdrN3p4ZGJlc0M4N2RMX1hQUllGTjhUNWxVOEZObW1RdUtTVHh2WGlZdTQ5RzJLMk5R?oc=5",
-    "timestamp": "2026-07-27T13:05:40+00:00",
-    "source": "reuters"
-  },
-  "cae252e533f2169f287ab88be2bcae23": {
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGp1Q2puNVVhbk5lVEtVSlpvbU1jaHlya1BHTjZjV2lpOUdXMlZoNVpUSldmcjdSSzBvOWZHZG9vR09CX3lOdFE4SkxuWW1TUDM2Q1BMeGlnMU9GWmEycjFtNHRGZ1M3bTd0WTVYTndKdXhobGlWR3BONWhJSmI1N3h6S0VTZGpHajFBRV9jY3Etc2JaVlE4V19DWmY5Z0twQU1OWnptYWxudw?oc=5",
-    "timestamp": "2026-07-27T12:54:13+00:00",
-    "source": "reuters"
-  },
-  "bce0f57a409f328c8f563840bd0f5385": {
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWRZREdhWVZkczJxVE5YTlJ5QjV5eU1WamJXY0ZaeUJPYXFMRDd1bXNSVzNTa3IyZVpvVF9lUExoXzhLTkh6ZVJTa3hkc2txenhUSE8xcG5nd3NYMU9GTGlHZ0xrazRhWFhoWVdPZl9tX3p3SlEtRFBXWmIyVXM4Y2hLMHNBMWoxVHZVenhoMVVPSzFvM3EtWnM3NmJyUXFydU1UNWxfMFlsTmpYZFhlR3pEN3RfaHQ3VnFPZXVPUzFpQ1ExQ0E?oc=5",
-    "timestamp": "2026-07-27T12:51:42+00:00",
-    "source": "reuters"
-  },
-  "4602f548873092d89d9410ae1410b00e": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90eGVRdUVheVd2T2VmcTloYzl3UUU0dklmSXpLZF9wNVhaZ0FsYmFXanBZb0d2TGR5Y2w0cmxRVkpqR2JqT0Fhd1RfUzhlVzg0aHc?oc=5",
-    "timestamp": "2026-07-27T12:38:39+00:00",
-    "source": "iranintl"
   }
 }
