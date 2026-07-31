@@ -1,8 +1,28 @@
 {
+  "5df014577cd39b8f27910fe559d05032": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xU29qcFlFS3BDM0RpY0s3LTFRMl9fekdheFdDaVJlb1pLM1lTb0NuYmYwcm9rZXY5dUQzTmxzckF4aDYzT3ZhR0dkQndaNTRVM0E?oc=5",
+    "timestamp": "2026-07-31T20:12:34+00:00",
+    "source": "iranintl"
+  },
+  "6ab74c80cf1d830787c205a4c183d86b": {
+    "url": "https://www.france24.com/en/americas/20260731-trump-says-us-has-not-agreed-to-ukraine-producing-patriot-missiles",
+    "timestamp": "2026-07-31T20:06:17+00:00",
+    "source": "afp"
+  },
   "d16d04002a9bf63d7766b90393a62e5c": {
     "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
     "timestamp": "2026-07-31T19:49:00+00:00",
     "source": "nyt"
+  },
+  "33c1535b135cd4d7dc8850328488a0ea": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGeks0eHdlcGtoNzh3ZWJMbzdURGtYSVM3b25zYTNGUm03MkhEZ3FTUWlTNjYyeTdpWm9GakVucVFCOU5CTEF3bUY4TkRia2ZzZlNtLU8zUzA4OWFTZmJmTw?oc=5",
+    "timestamp": "2026-07-31T19:23:25+00:00",
+    "source": "fars"
+  },
+  "bf0650aa9c68bb23ad53d4ca148b112d": {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1ZmenZzT2tFNHk2dDBiazFkT0tzblBEbC1vdzRRWWx2MFVISHFXSy1qcUZKdGsyeWR0bXBlaktKZjFiRUl2SE5VV3k4bGRodFZhcVZERmoxXzMwTjBfNTJMNEZPR0pRSXl6WDVpWW9CX3FUcFBCdmhXOG02UDhCVHRZRzdBcnBjMkxCWkJKS0Jybjg1aXhyX3hvWXBmZmFDNWF2d3dFal9uakQtZFRvajc0VTlKdVAxWEtEZnowZmg4TVk?oc=5",
+    "timestamp": "2026-07-31T19:22:42+00:00",
+    "source": "reuters"
   },
   "b7031f599adc6a5f2b7683459d86265b": {
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXVQbFd2b2dBZFVoT3ZiRndKdVVic0xJWVFBWF9hN0FYaUk2ZkhlVkctWWtibi1GNVgxdE5Ec0FzNkpwNnlsZXNla1d5cXgzbFVIZ2pnMFdvMW93QlhXOW9CbkRhd2J2Vl9jaVV1THY2RzFzbUtvSGhNanA5NE5OQXJTN1BNVlEzXzVQQ00zQk54U0NIdlpj?oc=5",
@@ -13,6 +33,11 @@
     "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
     "timestamp": "2026-07-31T19:10:16+00:00",
     "source": "nyt"
+  },
+  "e922cd1a3e0602d08dfb1c3337286b21": {
+    "url": "https://www.france24.com/en/middle-east/20260731-hamas-agrees-to-disarm-under-trump-plan",
+    "timestamp": "2026-07-31T18:25:15+00:00",
+    "source": "afp"
   },
   "8bbc837efdfb9b68472ae9da43b498b1": {
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQXNqSU9WRVUwMm1rWkFyY0ZVdXpoQ3RudWlwQmI5aGh1VmJITWJuWkpjc3NJQ2VfQU1PZlFwZkhfYTZvYWNxZ1NvM1FseWMxU1J2SDZkN2N3SW5HYmJUTWozTlpwWTBNYmEzQ1Y0N1lPYUotUllyTW5PZ0xQUmo0b3NSNzdsV1QzNzJGNk1ZWVhIam9FNXpUMUVSOGxVaGVCWGJmR0VnV2x3bUZ1Nzh2OHY2TkRyd0dCdGlpYWRhVWhNcVU?oc=5",
@@ -2473,30 +2498,5 @@
     "url": "https://www.france24.com/en/video/20260727-israel-lebanon-conflict-amid-displacement-lebanese-cling-to-hope-of-returning-home-to-rebuild",
     "timestamp": "2026-07-27T15:50:30+00:00",
     "source": "afp"
-  },
-  "cc18d997fbb39c2c83d5f58799caa261": {
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNHNmNWt0aXlJdzB3MVVnbUhaOXkwZUhkWlp1RVF5YnpxU2t6R1c3b2VDM3h4LXh6cXJoMHU1RXg0SjU1MVhQMDc1a0tlbFRyYmY4VWFFWFRSRF9KZU91SjViZ0xJX2tCYVBtQ3E0N3hvRHVFOUdqOURqU0puUFdGWTV2c2FnTGZvR3N4NGwyZm44TG5JM3h6NU1BX3VpZW5remg0U3dJam9WQTJqdUdtaXZ0cGt3bjVETkxsOUc5d1N4VEU?oc=5",
-    "timestamp": "2026-07-27T15:24:09+00:00",
-    "source": "reuters"
-  },
-  "7aa2788f31f83e26faec8e7b3b45afeb": {
-    "url": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions",
-    "timestamp": "2026-07-27T15:16:33+00:00",
-    "source": "nyt"
-  },
-  "80b12b93f3a76929a9c3cbc2c42bf60f": {
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUm9zTzRwdVFyUlB5c0l4U1ZVZGJkOEhSVkJjQ2xUWklza0dNZGpySUlONFpRM2EtT0hIUWpmXzk5Und2YWlRZWl2NWRQd1A0UUQ2ZHdqMFc3YXc5Q0ZWQ25tcXpWZERhVUlZR1l5VklrSzFNUWJUWldqRDhaSXh0bTAwNjZCa0YwOVlEam1vU0JPRzJXWkJTX2FsWFU1WHhuZTlLVDdLakNVRnZhdDZOdzVISmh6VHFRN3ZuYUZtRVlkbE9o?oc=5",
-    "timestamp": "2026-07-27T15:15:45+00:00",
-    "source": "reuters"
-  },
-  "9ba4281a70eab07c4fd5bd2e87212c13": {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeDlpSUM2eWhGMl9rVW15em5HMU15SkNkdDJVQlpWX1F3ekVJWFZYcktYT0Z5ajQ1c3JmZ3pocmNjSkRWWTVKckZwNFRUVzBiTktyNXR4WTRUM21pYm1CV3RKQUpQd1E0dDcteTBXMW9uc0FqTFB1bGdpQnMtb3BxVHpWVzlNRHluZmVMVVFFOE5WRTVKdjZFUjNiajlod29ZU1lGUlBnbjh4VWE3Z1E?oc=5",
-    "timestamp": "2026-07-27T15:08:18+00:00",
-    "source": "reuters"
-  },
-  "4f7f72b7d51d55bc4f9665f1776bfa0c": {
-    "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
-    "timestamp": "2026-07-27T14:56:02+00:00",
-    "source": "nyt"
   }
 }
