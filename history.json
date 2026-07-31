@@ -1,7 +1,62 @@
 {
+  "6073364c5aaadfe0c1ae1aeb666dc615": {
+    "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
+    "timestamp": "2026-07-31T13:59:18+00:00",
+    "source": "nyt"
+  },
+  "c057573c6ef47658a312b33580218546": {
+    "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
+    "timestamp": "2026-07-31T13:57:13+00:00",
+    "source": "nyt"
+  },
+  "1bc9a025326a2e2631e38c1c2c3874ef": {
+    "url": "https://www.france24.com/en/europe/20260731-eu-races-to-contain-new-migrant-crisis-as-thousands-cross-into-spanish-territory-of-ceuta",
+    "timestamp": "2026-07-31T13:21:06+00:00",
+    "source": "afp"
+  },
+  "123191b4933a5146bde8d7b5686bd48f": {
+    "url": "https://www.france24.com/en/middle-east/20260731-damietta-drone-attack-video-fact-check",
+    "timestamp": "2026-07-31T13:18:29+00:00",
+    "source": "afp"
+  },
+  "d4f5a3dd047e3dbefa3aebf83a4b20e0": {
+    "url": "https://www.france24.com/en/if-it-disarms-hamas-would-take-away-israel-s-rationale-to-occupy-gaza",
+    "timestamp": "2026-07-31T12:39:54+00:00",
+    "source": "afp"
+  },
+  "cd349801a1676f7f1fbfb0992ec4c9ee": {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbkc0bldHSFZlemNBVTg0Y2wwbzR6UHFEU2czWHZOSEV5X2lLOHNEc0pWUkgyd1NNellCY21yVnp3U01Nc21aTmhwSWVURGFnV2hyWTN4MF9meWQ0bGg1cG8zQ2p6aXRLczUyTzlOdlRiU0tLY3dsWmgyM0pkajE4enBULUNSVlFDUFlmeVhpSzBfYTBHOEJ4Q21MU19tWHgwMEphVk5ZM0FQQko2WlBvcFBWNjFuX1ZGc0VR?oc=5",
+    "timestamp": "2026-07-31T12:39:02+00:00",
+    "source": "reuters"
+  },
+  "a976ad74b9502c870d80ca74b43c6bae": {
+    "url": "https://www.france24.com/en/spain-s-pm-blames-trafficking-mafia-for-ongoing-ceuta-migrant-crisis",
+    "timestamp": "2026-07-31T12:34:04+00:00",
+    "source": "afp"
+  },
+  "e890c7af2c135d46e42e2d4171ee3513": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54d0hrY3l6Uk9OSWQ2RHZqVzRsY0xBRHhPQzRkemZPZHo5T0FCUU5Pc0Z5aEZsTi1VTWc2WHkzYktuSDl1Q2hzMHo1ZEN4U2xyTzJWN1JHR2VxX1pGaW9tSg?oc=5",
+    "timestamp": "2026-07-31T12:31:07+00:00",
+    "source": "fars"
+  },
+  "cc6d3a7955b457a592de43feddae2fc4": {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNVpjS3FKRExqdnpZQlV5aWZCR0JBNlVzSEc0UHFSQ01SWEx6Y0JzdXAwWkZvTkdETEVjbkRucW1YcGlXeWNieU9leld3YWxiN180cFJKQWVxLTNreGFDNzZUSExJeWhQVjNvekZmRzJfVjhzRHdUbTVtS2ljZ3QxaWVCTVE4TGZaQVNFVlRqQTBPZ01YSFRUalpsTkdLRGVNaWpGY3A3aFFkcE52U19PUllSbFR0cF95VUM0Q1JGZ0VDOHZheHphQXN4TmE?oc=5",
+    "timestamp": "2026-07-31T11:53:07+00:00",
+    "source": "fars"
+  },
+  "b207c74c006a949be2676fa91663b6b9": {
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pQVJyM0IzTENJQTRQX1VzOEJRWlVybFJGRUR6RVZqcnE5MDdJM3RXbXMxY0wtRDdhazFNUUNMRkFCSmxMMGM0UkVSVHA?oc=5",
+    "timestamp": "2026-07-31T11:49:55+00:00",
+    "source": "iranintl"
+  },
   "dcb7a52eed0eddecfb8495746a3e0439": {
     "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
     "timestamp": "2026-07-31T11:29:00+00:00",
+    "source": "nyt"
+  },
+  "e951501700a88d25a7672125543c51da": {
+    "url": "https://www.nytimes.com/2026/07/31/world/americas/plane-douglas-dc3-wwii-colombia.html",
+    "timestamp": "2026-07-31T11:12:53+00:00",
     "source": "nyt"
   },
   "aa3d002ecfa66792325cbec7d95f22fb": {
@@ -15,6 +70,11 @@
     "source": "reuters"
   },
   "e9470bc1151da9a72194cbfda78a706c": {
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GSHBzTWxRYXloWnVPdlpWUVpzZDNTT1RPZDVQaUVLNkNuRE5lS2s2NzUwSFFQcjBOclFIck81b3RXcHJDY3hmTEtDTms0bUpaU3h2Z2xJdw?oc=5",
+    "timestamp": "2026-07-31T09:53:17+00:00",
+    "source": "fars"
+  },
+  "629b4584d4b9ece1203b268ceb8dcde2": {
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GSHBzTWxRYXloWnVPdlpWUVpzZDNTT1RPZDVQaUVLNkNuRE5lS2s2NzUwSFFQcjBOclFIck81b3RXcHJDY3hmTEtDTms0bUpaU3h2Z2xJdw?oc=5",
     "timestamp": "2026-07-31T09:53:17+00:00",
     "source": "fars"
@@ -34,10 +94,25 @@
     "timestamp": "2026-07-31T09:39:54+00:00",
     "source": "fars"
   },
+  "7aa10469eed52f6d7ee90278d178a79d": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acFdqY20tTDMtU05INXNyOVVHRlNuUHh0aVV0LVd4WTFfNjMwRWFRN3RkQndVNjdLeHdqZ1B0d2RZRWJmZFd6Ym5MRC1oVmNBSVE?oc=5",
+    "timestamp": "2026-07-31T09:38:19+00:00",
+    "source": "iranintl"
+  },
   "46d25849583280118d9e1eb173b57bea": {
     "url": "https://www.france24.com/en/hamas-agrees-to-disarm-under-trump-plan-but-no-word-yet-from-israel",
     "timestamp": "2026-07-31T09:28:21+00:00",
     "source": "afp"
+  },
+  "2ef1483d850f844cda550e5c3598255b": {
+    "url": "https://www.nytimes.com/2026/07/31/world/europe/federov-ukraine-killer-robots.html",
+    "timestamp": "2026-07-31T09:25:40+00:00",
+    "source": "nyt"
+  },
+  "cbaa8d10b3819bf3106a1f5ee13d6c8f": {
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ENDJTQnE5WFp1VEFhWVc1WTRzVTJRekVLVVRHS1FmOF81QU9HY2dFVFh5ZGJ4eDdBQmR4MGRfaktDcmhmNFZ5MDdEaTQ?oc=5",
+    "timestamp": "2026-07-31T09:23:11+00:00",
+    "source": "iranintl"
   },
   "64c5b04ed0ace40472eb3499128459a2": {
     "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez",
@@ -198,6 +273,11 @@
     "url": "https://www.france24.com/en/middle-east/20260730-pakistan-says-us-iran-talks-still-alive-despite-fresh-wave-of-us-strikes",
     "timestamp": "2026-07-30T22:42:57+00:00",
     "source": "afp"
+  },
+  "218ad042bb531dd2f97ee034cb8fdcb6": {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORklpbE9oc2VwaktZcXVwRkdXMWJORTd3Q3ZkNEFDb0IwODV5STBsbXJnbUljOXZSZ25PQzRkbVlwMXNVX01MWTY5NXQzMGpGZGtCakk2c2lDbmdwOVVub0xzVGtMSVBHU19JU3QtZTBRT1V1SzBRd2VPYjZ0dHR5bkVNLXFUcFoxTVBxbUdwNElOZ2NsWGFNV3NNaw?oc=5",
+    "timestamp": "2026-07-30T22:42:00+00:00",
+    "source": "ap"
   },
   "369f64ed5e9df8c5e6bf7e6344ed4554": {
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPazViY2xlNXBVX1BXZThuQUtvYjZ2Y0dHYnlxTG1FeEw3VzZBczVrRUlueGM0X1hHbnd2T3lodTV0UUgtekstcFo3TDJQMnktdmZZOXVERWI0dktTc1hwLVNIRUVtUThsM1lyRGVtUUlwZ1czT3BzOW9INjdqcl90QzNHYWJ6QklWTlRUOWdXYVhaemI5NXc4WXhFUDduMW5IaTNlMFU0TQ?oc=5",
@@ -2418,85 +2498,5 @@
     "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
     "timestamp": "2026-07-27T10:24:23+00:00",
     "source": "nyt"
-  },
-  "97c46e6f45469398bc8d6b6fe386b354": {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbkFGX2kwR3FDOVZ3NEt5Y2VBYjNlTW1lOFlFNWVzWmptZUxxTkZqOUlDVHVaVjVrMklERjdRZEFsU2pLZ1BnWlBUNzhCRi1mMFMtZzBpRzlQZlE4djhfMGYtTFJpdHJ3eXd6TGU1UEZYNjFlY2dIcU5yLVVJZWNFc2hKTV9DYUhZOTBWSWFCUjlROTBETVA2UHVZRzZLd0VaMVd1bjlHbXptNEpUTFZna2RFRXdic0dq?oc=5",
-    "timestamp": "2026-07-27T10:20:24+00:00",
-    "source": "reuters"
-  },
-  "8c63b96638a5f014bb43cc92c72e3438": {
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTcyMDhXSXVNVFp4QlpqSGdQc3ZqaFN0c1hYSml1ZWhZS1FXbVN1Ql8zYUllVkpETjdMbXNRWUV3eHVqZWFnYnlBY1pvTzQ0WGNESmRyOGhCaFU4dEZwQXptVEV6Q19xb2FBVGxuLWFmUUZ0c0hjRFAzZXJMN2RYd0diYnJQM1M0Ylp6NWp1M0NBMFlFWi1scUNFRGtJblVFUEJzWF9iRTY3QXY4OFZuWmM4Rk01NFF6REllM0NpSEVXVmd3OFc5bnc0ZFM?oc=5",
-    "timestamp": "2026-07-27T10:16:17+00:00",
-    "source": "reuters"
-  },
-  "1fb8c6be3a98a6bc929e04a801282747": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2TWR1YmUwVmV3cC1vY2FvN09VRS1YVjJEeEVlclk4U1pkNkdpRl8zdkVxNXBaRjU5RUlhMFBUVEFHVXY2NEtma2F4X1ZvdGhWbWc?oc=5",
-    "timestamp": "2026-07-27T10:04:43+00:00",
-    "source": "iranintl"
-  },
-  "a33e9fdb4876f2c7876809b52438550e": {
-    "url": "https://www.france24.com/en/video/20260727-suspect-in-berlin-pride-attack-shot-dead-by-police",
-    "timestamp": "2026-07-27T09:44:24+00:00",
-    "source": "afp"
-  },
-  "06a5b6932642cafb21bf14846edfe920": {
-    "url": "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html",
-    "timestamp": "2026-07-27T09:33:36+00:00",
-    "source": "nyt"
-  },
-  "11334170cb5caedc25f1fac6101c5d9b": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFQW9URk5pM25GYzItX0YtVXNkUmEzMlRrRlRqX2ZuVHoyTC1IT01fb3RkS3otV0lSWFphR0lPLVhjU09qSGQxbW9OT0UwcmVCc0E?oc=5",
-    "timestamp": "2026-07-27T09:16:53+00:00",
-    "source": "iranintl"
-  },
-  "1b4fcf99336435ef039f8fe99fab0c73": {
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkN3SFp0TXRwUllYYUVnT0FxYmVKZmUtYlFhQUVGTjN0VHM5ZXVOMVljNDdPeU91V1FSRWlNc2s4cHBvUzJ6VkdCa2FHTy1SakZQR25mak1qcXExeE1mdURZcXFEYnhFekZIbGxMUkl0b3VNcy0yLWhkUFE0NVZiZTNRVFJKQ3ZsTEtCZkdMRnBkNEtUclRwVk9TQk9UV2RNRnhJ?oc=5",
-    "timestamp": "2026-07-27T09:05:43+00:00",
-    "source": "reuters"
-  },
-  "5daf5068131cc06c1130356de55f4289": {
-    "url": "https://www.nytimes.com/2026/07/27/world/americas/trump-oil-gas-cuba-havana.html",
-    "timestamp": "2026-07-27T09:04:56+00:00",
-    "source": "nyt"
-  },
-  "10b728c1bf96c34624b7abcb77b5ea8e": {
-    "url": "https://www.nytimes.com/2026/07/27/world/europe/ukraine-drones-crimea-blackouts.html",
-    "timestamp": "2026-07-27T09:04:39+00:00",
-    "source": "nyt"
-  },
-  "6ec26aa8de2596d949450727562c798b": {
-    "url": "https://www.france24.com/en/video/20260727-france-spain-race-to-contain-monster-fires-ahead-of-new-heatwave",
-    "timestamp": "2026-07-27T08:59:36+00:00",
-    "source": "afp"
-  },
-  "686867dd5127c19d3b7f496e196234fa": {
-    "url": "https://www.france24.com/en/video/20260727-macron-calls-crisis-meeting-as-monster-wildfires-drive-250-000-from-their-homes",
-    "timestamp": "2026-07-27T08:57:12+00:00",
-    "source": "afp"
-  },
-  "e5a23bab8b00817329701e9a63cc50df": {
-    "url": "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html",
-    "timestamp": "2026-07-27T08:56:13+00:00",
-    "source": "nyt"
-  },
-  "7865da337a9ff26d55bae8aeacb6f50e": {
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOck9LdDB0V0U4T2lkekRnaDVwUXo2dXhOSTI2YVNpWHp0ZEgxN245Um9sN0p1enBXR05wU0xIOFdUd2Q5eDJoQzJUNFFySHdSX05GNzhPeWg0MDBld3ZKZUt4Q2ZGYVVCbVlMMEZ2bGE4Vk5kQzNZNDBEYXRtQVk0YzV6ZHl2cGEtREhqOTFvR2ZFSkJuaWhkRm9kamoyc0JSTEdDQkNfcw?oc=5",
-    "timestamp": "2026-07-27T08:53:37+00:00",
-    "source": "reuters"
-  },
-  "bca883f05da7ad2128c09f64f46e1650": {
-    "url": "https://www.france24.com/en/iran-summons-french-ambassador-over-interference-internal-affairs",
-    "timestamp": "2026-07-27T08:47:10+00:00",
-    "source": "afp"
-  },
-  "fc351c4bdc1832d05aefeb4073c6bcb5": {
-    "url": "https://www.france24.com/en/americas/20260727-brazil-recalls-argentina-ambassador-after-milei-insults-lula-flavio-bolsonaro-campaign-launch",
-    "timestamp": "2026-07-27T07:49:38+00:00",
-    "source": "afp"
-  },
-  "ef91901c9bb6fd01b1b9a5c3c45e3b9a": {
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90bmZlYllUU0swQmtqaVV1WEJmLUl5Z1pPN3hZOVJGUzkySGl1Y2RCSlhna1U1N2RYV2VvTEw2eERabDRjVUEtbVkxa0kwTENoR01rbA?oc=5",
-    "timestamp": "2026-07-27T07:33:45+00:00",
-    "source": "fars"
   }
 }
