@@ -1,4 +1,29 @@
 {
+  "14cf95afc9bca5c2bab3cf8b2559f79c": {
+    "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
+    "timestamp": "2026-07-31T16:11:24+00:00",
+    "source": "nyt"
+  },
+  "1fde1a3f5454f62f888ad7dc2d22a39b": {
+    "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
+    "timestamp": "2026-07-31T15:53:38+00:00",
+    "source": "nyt"
+  },
+  "c72d3170452658a9e588cad916cf8205": {
+    "url": "https://www.france24.com/en/middle-east/20260731-why-has-riyadh-joined-the-us-in-striking-tehran",
+    "timestamp": "2026-07-31T15:41:12+00:00",
+    "source": "afp"
+  },
+  "482dacd30976bc5b3a7be82e7bb2aa69": {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpYMkFhZXU4TXJPcWw4eEhuSDR3Q2ZzTDIxNGVfeU42elBfMlRCQm55OUpjRWpkSEVjdWYwS2E2cDN6eXUyTlVhRHpRZjdYRDhXWElRZWtvcHB4NDUycGlsdnRLSVRGVzgwTWdFM0lXNmlrY0FoTi1SQXc1aVZ4NzhnVXkydlZqcV8wTzNnSEp4b19VcDBGYXZ5RmVFLS10VWxBaU9iNm9ZRkFwTmNSLTluamh2THlSMjdhMVY1QQ?oc=5",
+    "timestamp": "2026-07-31T14:41:18+00:00",
+    "source": "reuters"
+  },
+  "69d722b7e40f66930b9767c3b66544c0": {
+    "url": "https://www.france24.com/en/video/20260731-heatwave-forces-energy-hungry-tunisia-to-enforce-rolling-blackouts",
+    "timestamp": "2026-07-31T14:30:22+00:00",
+    "source": "afp"
+  },
   "6073364c5aaadfe0c1ae1aeb666dc615": {
     "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
     "timestamp": "2026-07-31T13:59:18+00:00",
@@ -9,6 +34,11 @@
     "timestamp": "2026-07-31T13:57:13+00:00",
     "source": "nyt"
   },
+  "6f19de0b77c5a6cb4df69b7e35db436c": {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ0FzQll1aTFYRm5WUmtXcG9QVUVwNzJ6UF81Y1hCU0x2UHhrZC1zaTI3RkcwTzZjaUoxa3R3eEZMZHdkeEhmSFZXZjNnQTJSdndvck8xN3JtOE5hbGZ0ZE85SEZPa1FrdXg1cXZzd21wQ1ExTTZRamlLNUpzaWNjU0NramZTSVl2cTd1bXlIM0lVUG1fVm9CRWNwT3dLNjhrVFlkZ240SQ?oc=5",
+    "timestamp": "2026-07-31T13:35:00+00:00",
+    "source": "reuters"
+  },
   "1bc9a025326a2e2631e38c1c2c3874ef": {
     "url": "https://www.france24.com/en/europe/20260731-eu-races-to-contain-new-migrant-crisis-as-thousands-cross-into-spanish-territory-of-ceuta",
     "timestamp": "2026-07-31T13:21:06+00:00",
@@ -18,6 +48,11 @@
     "url": "https://www.france24.com/en/middle-east/20260731-damietta-drone-attack-video-fact-check",
     "timestamp": "2026-07-31T13:18:29+00:00",
     "source": "afp"
+  },
+  "c4aba0f679dc2b99a79d750ed7886e0e": {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13UEVielJkNGpaMGpWQVRTNUdVM0o0SG55bDRhSHJNU1FSR1JUWkNXLXgzd3NmNXJwNUZTNFZNLVlTWmNWWkd1Wk1DYVFWN2c4STV5eV9pRy1aS3F3Njhr?oc=5",
+    "timestamp": "2026-07-31T12:54:01+00:00",
+    "source": "radiofarda"
   },
   "d4f5a3dd047e3dbefa3aebf83a4b20e0": {
     "url": "https://www.france24.com/en/if-it-disarms-hamas-would-take-away-israel-s-rationale-to-occupy-gaza",
@@ -38,6 +73,11 @@
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54d0hrY3l6Uk9OSWQ2RHZqVzRsY0xBRHhPQzRkemZPZHo5T0FCUU5Pc0Z5aEZsTi1VTWc2WHkzYktuSDl1Q2hzMHo1ZEN4U2xyTzJWN1JHR2VxX1pGaW9tSg?oc=5",
     "timestamp": "2026-07-31T12:31:07+00:00",
     "source": "fars"
+  },
+  "34965a98443c6005c5a896d5ecf7c56a": {
+    "url": "https://www.nytimes.com/2026/07/31/world/europe/iran-spy-uk-air-base-cyprus-sultanov.html",
+    "timestamp": "2026-07-31T12:16:21+00:00",
+    "source": "nyt"
   },
   "cc6d3a7955b457a592de43feddae2fc4": {
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNVpjS3FKRExqdnpZQlV5aWZCR0JBNlVzSEc0UHFSQ01SWEx6Y0JzdXAwWkZvTkdETEVjbkRucW1YcGlXeWNieU9leld3YWxiN180cFJKQWVxLTNreGFDNzZUSExJeWhQVjNvekZmRzJfVjhzRHdUbTVtS2ljZ3QxaWVCTVE4TGZaQVNFVlRqQTBPZ01YSFRUalpsTkdLRGVNaWpGY3A3aFFkcE52U19PUllSbFR0cF95VUM0Q1JGZ0VDOHZheHphQXN4TmE?oc=5",
@@ -63,6 +103,11 @@
     "url": "https://www.france24.com/en/infantino-s-senior-advisor-resigns-amid-outrage-over-fifa-s-private-investment-plan",
     "timestamp": "2026-07-31T10:42:46+00:00",
     "source": "afp"
+  },
+  "94758cb83c7c6f5e909840c0c6acecf2": {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BRHUxZ1g5MlFSRUd1OGUtMzRMOC10SzlnSGtnZTRTS0JRU0t3Y3l5dWdpTEdJZnBRUXd1WktCMUk0V1hUXzRsVVZVZDUxWUNMaG9yR2NEb2xDSTZaNHNhbFRzWUtTeTRl?oc=5",
+    "timestamp": "2026-07-31T10:39:23+00:00",
+    "source": "fars"
   },
   "9ef6b32cff27b7f57d1b1bda90915b33": {
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZks0akNQUmpqVGdGaE5rakdfRldLS25IaTFzeVF2VzVmVGc5TkF4VTI2NjI1UlVVdXlveTFxRXFMRWlGTEN4STFsYUdySDQzNE9pSGF6SzJ5bk83M3RsWGc3a3N1Q21oQlQtMGZ4QnFjSHd1dlhlbkNsZ3dvVmFhOFpwVVpNaUx0TmxTTEp2bGZzRExacFhmaEdBS3VjQ0l3cGpPWQ?oc=5",
@@ -2453,50 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90eGVRdUVheVd2T2VmcTloYzl3UUU0dklmSXpLZF9wNVhaZ0FsYmFXanBZb0d2TGR5Y2w0cmxRVkpqR2JqT0Fhd1RfUzhlVzg0aHc?oc=5",
     "timestamp": "2026-07-27T12:38:39+00:00",
     "source": "iranintl"
-  },
-  "e4c4211a7e359e167a62c5b926d221af": {
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOEFRMnRXTk9qd0Njd2t4WFlNMHo4dnpYSnNrRTJWN012eTNJeWF6aXFsbEZBS2ZJdnFCRjFDLXQ0UXBYSkNqUFVpc0dBb1RZRWYzNjkyTjgyX29OakUteHdpYk1yWGZrMzFaMklMSEg2NWpMZUlQR1pPa0pXNFlqcG9iNi1VekE0dncwQXN1SlVCSGZ5Rnc?oc=5",
-    "timestamp": "2026-07-27T12:02:13+00:00",
-    "source": "reuters"
-  },
-  "c971961abc5ebb27f6b2c5e950bbc02f": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FMkNMc0dldnhwRnNpOXduOHlwbzNnQXpVNDFIazJPTmZiUWV6bjFYUEtNWkQ4TjBiQTJuOWFLdUhraXVUenNRanJaMTJYMkhmVHc?oc=5",
-    "timestamp": "2026-07-27T11:50:26+00:00",
-    "source": "iranintl"
-  },
-  "7d0e6746972a258389be369aad466cb9": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FMkNMc0dldnhwRnNpOXduOHlwbzNnQXpVNDFIazJPTmZiUWV6bjFYUEtNWkQ4TjBiQTJuOWFLdUhraXVUenNRanJaMTJYMkhmVHc?oc=5",
-    "timestamp": "2026-07-27T11:50:26+00:00",
-    "source": "iranintl"
-  },
-  "208f5fd6ab19e8d2ebc1f275ceeb15ea": {
-    "url": "https://www.france24.com/en/france/20260727-paris-police-arrest-suspect-after-knife-attack-three-women",
-    "timestamp": "2026-07-27T11:48:09+00:00",
-    "source": "afp"
-  },
-  "0672b56d2aa30c40057fe746a0b15f63": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NWFBOdUZYZUdTTXBXdnhvb3BwTUR2ZFVKTjAzdndxVGVWX0ZSYjFseHBnUXk2SnMzZFcwMElHVHdfc2xTUmw4ZTZqYUFlN01iOHc?oc=5",
-    "timestamp": "2026-07-27T11:34:48+00:00",
-    "source": "iranintl"
-  },
-  "1d91db44c24e4ee4170d00e705e7c00f": {
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtS1hxRW83bkVTekgzeGRtVjBqeGpYSHBnQjBwbTdockNiOG1KUTFpbm9FdnFnRWJia3lnZlpPLWdOOXc0OW5ISEhOY0RBcWh2Y3V2XzVxWmhCeVlrbjhQMEV4dw?oc=5",
-    "timestamp": "2026-07-27T11:21:49+00:00",
-    "source": "fars"
-  },
-  "c2745e51e331c04fd464d0fbfbd966c2": {
-    "url": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html",
-    "timestamp": "2026-07-27T11:08:50+00:00",
-    "source": "nyt"
-  },
-  "1a8c3cd7d6f88a156402fa5f0aacf924": {
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeGgtaGpMYTdoS2Vxa1IzZHB2bnNFUy1RSlB0bEJDRUxhNkRReUhoTVlYdWs2WkpqeVlEZkpNQ0lwZjFuZVNGbVV6RUpZTFVJZmFpZHozVEU4aWlISVlLSVBZakhlejRWT2tyNTZ3YkZROUhFeF9IQlJRYVVwS1N5RmhITDZlclRUN3pPaENpc252dldyVWFZeWhQRW5Na1RnLUJMZVhLM0RmWHJ2aUUwZ3lNZGxxa044OWFFYmh2UkljN0NMNkhVOV96dDE?oc=5",
-    "timestamp": "2026-07-27T10:59:01+00:00",
-    "source": "reuters"
-  },
-  "63bd530d15febda844f7ab6e168d9a2d": {
-    "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
-    "timestamp": "2026-07-27T10:24:23+00:00",
-    "source": "nyt"
   }
 }
