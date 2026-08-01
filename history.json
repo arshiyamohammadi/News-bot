@@ -1,8 +1,23 @@
 {
+  "8f6a147437426a31a39463313fd5f7a8": {
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BanhEOVNFc2tmVUEtakJ0UldwbHJzSHZMczJ6QWdhdVNTZUs0OTd2eHNPZFM0S2pkQmlJZGZFalR0ejJDdC1kS3NhRTlnMTQ0TVhz?oc=5",
+    "timestamp": "2026-08-01T16:50:13+00:00",
+    "source": "fars"
+  },
   "62432be38df5780e1537bb2abc0a8810": {
     "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
     "timestamp": "2026-08-01T16:42:34+00:00",
     "source": "nyt"
+  },
+  "cbeece90037b013d24211a37d875bcb6": {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMkZBc2EyUTBGNGVvb05KazlBQVpWNWNrcFktRGdNN0F3SkpfdlRVTzhLLV9EM1hWQkdqaS1Wd2Jsc0wzWWkwbV9jcVppcTZ0WHIzQlBpcmVqZV93QTVhaHlHMUh1NjA0clR6VVBjTlhLdTdBZ0hOWEtTcUV4NHZ5aG9fTjk1eEpwamc?oc=5",
+    "timestamp": "2026-08-01T16:42:00+00:00",
+    "source": "ap"
+  },
+  "a87908704a83458e9555d0b50ea133cf": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJNEw4YWVnZlRxX204UFhRUkh4bUJtT05YckZtOGxfUS1wVlAtTkZyU2l3eElBVEFwdExlTUM4TFRoNFdyalVWQWlTS1BHQ1pXd1loOThzWVBhbG5za0E?oc=5",
+    "timestamp": "2026-08-01T16:27:54+00:00",
+    "source": "iranintl"
   },
   "6d3835bdd84d2761c604b3f6d4546661": {
     "url": "https://www.france24.com/en/europe/20260801-russian-forces-strike-targets-ukraine-odesa-mykolaiv-ports",
@@ -13,6 +28,11 @@
     "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
     "timestamp": "2026-08-01T15:50:12+00:00",
     "source": "nyt"
+  },
+  "c2af3e02ce7d3532dd093d18401acf47": {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXRXNWJWSDNJWk9BVFdoMVlpX0lCVURrSmtnQXRVUVE1TjJqVG1sNXU2QkZZUjZ3cHhVWk1pajNteWtJRmllQjBVSFMybFlyQ00tVjBLQ3ktS2dRVjdLRkRNa3lIU1pZcWNYVjlOb0VhNDRaYkhIa2Ewd09pOTE4ZVUydjNkNzVhd2JETW44Sy1EUjBmbnFUWlRlZVg2eVpONlFzNTg1Nk14NWtJaFJNbm9NM3RrLW5VU19nXzZhazg?oc=5",
+    "timestamp": "2026-08-01T15:45:39+00:00",
+    "source": "reuters"
   },
   "a01971ee36a752ad45e68de04941a141": {
     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NWWdRbkxfUDZ3ZFRzQi1nRkx6RnpFTUdsaDBtWnRWaGxXa0REeVhVckR2aWNuYWNLSmQ2UXc3Yms3MXQ1amJWT0NBRkQ?oc=5",
@@ -2478,25 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWdMSVB3OUxtSmtXNWtjQW9EWHRKb0hKaUFkeXd4ek45MHpkUUhFWnNBNHpIUnJpM2RXYkU5MHJOaHN2c1BJeDdXZ0ZpZDdkVUNfbHczcmt2MExCQ082MUZWbnFxYXd4U0ZidUI4bUhWb3NMMjdNVjFyLXh1c3E2ZEVDY1dHSEpoSGFFVE0xWHRheGhRdXkybnBuTnVZSC0yaTl5U3QtdEJQenhEMThhSGVtQkZVcmRMakdN?oc=5",
     "timestamp": "2026-07-28T12:06:08+00:00",
     "source": "reuters"
-  },
-  "09ed7fba77717f9ad09f12ccf21831d0": {
-    "url": "https://www.france24.com/en/asia-pacific/20260728-multiple-deaths-in-japan-mall-collapse-after-7-1-magnitude-earthquake",
-    "timestamp": "2026-07-28T11:45:31+00:00",
-    "source": "afp"
-  },
-  "79dbb7a376f85a7884ddb29f33eca190": {
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5UmZXQ2FkQ1M1MWZyNXJ5S0RfVldVR2N1TTc0dlJ2MWdlTnRiSVF5QmozZURuRXgtd1Aza2VJWmZ4TnVwNXBqSkxlZVJIUXlwQ1hwcA?oc=5",
-    "timestamp": "2026-07-28T11:41:35+00:00",
-    "source": "fars"
-  },
-  "802cb39a62ae6c142fd8a4ca634b1685": {
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5UmZXQ2FkQ1M1MWZyNXJ5S0RfVldVR2N1TTc0dlJ2MWdlTnRiSVF5QmozZURuRXgtd1Aza2VJWmZ4TnVwNXBqSkxlZVJIUXlwQ1hwcA?oc=5",
-    "timestamp": "2026-07-28T11:41:35+00:00",
-    "source": "fars"
-  },
-  "5aec657e75d925d81df8fa4a07552b5d": {
-    "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html",
-    "timestamp": "2026-07-28T11:13:32+00:00",
-    "source": "nyt"
   }
 }
