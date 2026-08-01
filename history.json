@@ -1,4 +1,24 @@
 {
+  "62432be38df5780e1537bb2abc0a8810": {
+    "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
+    "timestamp": "2026-08-01T16:42:34+00:00",
+    "source": "nyt"
+  },
+  "6d3835bdd84d2761c604b3f6d4546661": {
+    "url": "https://www.france24.com/en/europe/20260801-russian-forces-strike-targets-ukraine-odesa-mykolaiv-ports",
+    "timestamp": "2026-08-01T15:53:05+00:00",
+    "source": "afp"
+  },
+  "0b4588805e344df0669390205c230ac4": {
+    "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
+    "timestamp": "2026-08-01T15:50:12+00:00",
+    "source": "nyt"
+  },
+  "a01971ee36a752ad45e68de04941a141": {
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NWWdRbkxfUDZ3ZFRzQi1nRkx6RnpFTUdsaDBtWnRWaGxXa0REeVhVckR2aWNuYWNLSmQ2UXc3Yms3MXQ1amJWT0NBRkQ?oc=5",
+    "timestamp": "2026-08-01T14:22:28+00:00",
+    "source": "iranintl"
+  },
   "07bfe404bbd935882931a950d9154e8f": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJNEw4YWVnZlRxX204UFhRUkh4bUJtT05YckZtOGxfUS1wVlAtTkZyU2l3eElBVEFwdExlTUM4TFRoNFdyalVWQWlTS1BHQ1pXd1loOThzWVBhbG5za0E?oc=5",
     "timestamp": "2026-08-01T13:04:35+00:00",
@@ -193,6 +213,11 @@
     "url": "https://www.nytimes.com/2026/08/01/world/asia/japan-earthquake-recovery-heat.html",
     "timestamp": "2026-08-01T04:57:29+00:00",
     "source": "nyt"
+  },
+  "4288374ce0e552367e93c0d53468336d": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1d3Q0UnNJQzg0UWxicXVaRnRtamRnYktDcFZsam9mTXZBTGFPODN1akcyNjNLY0J0X1BQUWZtTTdIVmpOZDRYeV9kTDVmNVlHU2c?oc=5",
+    "timestamp": "2026-08-01T04:43:17+00:00",
+    "source": "iranintl"
   },
   "d57f6a941aa989d271155ccfb262e474": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZdGxKZmZBV0tGd3ZENnh5NjhUM0hIbHkya195Nm5Kdm00cmlNYlFoOFQtLWU2MHhlUF9VTi1OTkZ1SFBWcklHUmxlTnQxUWhGQVE?oc=5",
@@ -2473,30 +2498,5 @@
     "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html",
     "timestamp": "2026-07-28T11:13:32+00:00",
     "source": "nyt"
-  },
-  "a49ff4d78fe3bdc682eb1b6a541b3313": {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWdMSVB3OUxtSmtXNWtjQW9EWHRKb0hKaUFkeXd4ek45MHpkUUhFWnNBNHpIUnJpM2RXYkU5MHJOaHN2c1BJeDdXZ0ZpZDdkVUNfbHczcmt2MExCQ082MUZWbnFxYXd4U0ZidUI4bUhWb3NMMjdNVjFyLXh1c3E2ZEVDY1dHSEpoSGFFVE0xWHRheGhRdXkybnBuTnVZSC0yaTl5U3QtdEJQenhEMThhSGVtQkZVcmRMakdN?oc=5",
-    "timestamp": "2026-07-28T11:12:13+00:00",
-    "source": "reuters"
-  },
-  "15fab8e1a9429ba9513d4332a9a5f0bc": {
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwbDNhcWFhTFNXdnYzVDJlTklzXzVmekFxR0dhd3psQ1FtaXJCUWdQVHJaeU55NzdlZ1FwQ1J5U1ZaOW1pSG1sRnNPWnE4aUREc1hGcXBUMGZYNjI3MzdFVW1xX1I5VVAtYUk1SmFGclpxclE?oc=5",
-    "timestamp": "2026-07-28T10:43:48+00:00",
-    "source": "fars"
-  },
-  "dedc9aef221285a993c3cc64ad9d11e4": {
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnVBTFdsSkpXUXYxYmFNSTF0dFRUWnBacGpRQnhBbnRiZ0dZR1ZfcHZ5QnlIY3NRMF95dUkzNTUzMDhBam9kak5LY3pFbHpMcXNUenhtOEtuQkRXT01xWU05TlZGNFc3d2ZXblZpSTcwNlNzUGQzYXN0UEJxbTRITURHQ1JROVhhRHM5TV9IV3U3QjRJdW5hMkY3ZkVMZUhuZTNsZDVPYTltcjFCd2s4VHJjMVo?oc=5",
-    "timestamp": "2026-07-28T10:37:44+00:00",
-    "source": "reuters"
-  },
-  "99cbe0c7ae64ccb435c805404b539e11": {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaFJfZm9GRFczc3J4QmdNcnBjaElNOFdRU243M1NsMlRsSDBzV3FMMk11TVF0N250SXMxN1FfUFNGZFZzYmt5TUc2MnZBbS1XN0xTRDd1cGFfTVZ2T2p6QkptMnoxODU0QXNSSHY2d0QwTU90WUFnRlhSUTlTd3BIbnBHbkJBVHNVYXVROE1Kb0tDV0JSMHc0ckU5Z0NIbFN3Y21UR2VkU00?oc=5",
-    "timestamp": "2026-07-28T10:29:00+00:00",
-    "source": "ap"
-  },
-  "ba8c160ff15ebcd3b3cb23fc287990f6": {
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVnlQZGN4M3lQbWllVUg4bFhpeE1rU1ExcjN2aE5YNHp4d0FKSlFGX1VZeFo0R3hLOG9XUDYtY0xxUlM5US1rNTljRGNrZFJZQWNRUmpkb3BXYnVFMlB2MDZNeXBJRjdpQTgydVNxWjd0TFg5ajNvbU5aVlR2WXR0ZHotR0lqeDNOeWtrbkViT29UTEprS01KcW5CQl9MWmZoS0kwVkotUDN1RF9QSkJJMThqa3E0Q1psRGFGZ0QyZGhrNnF3WTRn?oc=5",
-    "timestamp": "2026-07-28T10:23:18+00:00",
-    "source": "fars"
   }
 }
