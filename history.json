@@ -4,6 +4,21 @@
     "timestamp": "2026-07-31T22:10:40+00:00",
     "source": "nyt"
   },
+  "df132d76576ff068f799c167497c425a": {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wcVBWSlVYRGZUbHRxMnVKZnMtNzVadThPd1NKZGhmcThPWDZXMGQwYXBOOEFVMFY0R0t3RVdqcEFZTGtJX0o2X2luQ2lQWms1X1B4QkY3NDVkZ0h3S2RqUEh1WTI3ZGxZ?oc=5",
+    "timestamp": "2026-07-31T21:39:09+00:00",
+    "source": "fars"
+  },
+  "70de9436e190be8224d63e25bd952914": {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXpvc21vbVJNVjc3NWg0ZnppblFCM3dmQXFVVTNhc1A1YkhoSTA4Q0tFZ0hQbFN0WUdtRlBza0J1dzBFenk3NW85U0ZWLXA0N1llLVFCNUdmRy1JU2NzOTE2bTFTdmlYUXdZNUphTE1uSE84ZXA0WjBYNkUtX2NBbWpUS08taFBRc0xNdGtoV0F6SHpfdU15dFB1WllYNnVwQkxFWThYelpLZnQyRml2Q0MwLVZ2blFDWl9raA?oc=5",
+    "timestamp": "2026-07-31T21:23:27+00:00",
+    "source": "reuters"
+  },
+  "51bbcb569c407e400dbae96b9c71bb7f": {
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TYUdBNG44c3F0aWVOSmFpeUJFcWdTTVg3MFZmckdZRUtMTUdGRnV2NWR1T0hpOEwteUtOS1RHM1NpWVFUellXUEg2MEcxZG9iWnRycXczRENaSkt0a1dEVXBFLTNYX2h2WmRPOFF3?oc=5",
+    "timestamp": "2026-07-31T21:07:44+00:00",
+    "source": "fars"
+  },
   "6af5df07eba4eb2dccbdb3c212558f28": {
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Sb05peXlIZjJSX1J5ZHZ0OFY1bGI1d0ZSS0hrYktuMld3UV94LW1wMnVNQkx5WjBMeENWLWpqY09adG5HSDdJVTJKU3FOUk9acWo4Y2hsVkk1eVpkcFZsMw?oc=5",
     "timestamp": "2026-07-31T20:52:28+00:00",
@@ -148,6 +163,11 @@
     "url": "https://www.france24.com/en/middle-east/20260731-why-has-riyadh-joined-the-us-in-striking-tehran",
     "timestamp": "2026-07-31T15:41:12+00:00",
     "source": "afp"
+  },
+  "4bd429cfe81537841e73e79504eb39f4": {
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tRmhhTHpvY2FkX0JncXdBUlZTWWpMZXQ2SHZzWW03T3otd05KdWhmTFdhbGdRMG5wMkMyMXQtbnhGNEZKeXg4eVdteHBsRVVaM005TjN1SQ?oc=5",
+    "timestamp": "2026-07-31T15:29:35+00:00",
+    "source": "iranintl"
   },
   "bba63c32e7b668d6e96de2bae2bd615f": {
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWtqLVNjSzJRUXMtTHZSQkQ4UXJtd2VkdlpHTHNXaDhhV3h4TkR2MTkwX0FpcldoYUtwVThOQXYxV0VmZERSOHk2bm04MkV2U2YyejJDMWQ1Y2dyQzZEcFRNYTNjQ1phRlU2M2lXMkNPWXY5TXYtdEFDaWNmUldFOVV0Vi0wWHFsZkZrcl9xS1F0VEJnd2NnNEY2UTRKNHZ2SEtrRk9ScUdpS0VGc3h1VA?oc=5",
@@ -638,11 +658,6 @@
     "url": "https://www.france24.com/en/video/20260730-france-wildfires-risk-remains-extremely-high-despite-slight-weather-improvement",
     "timestamp": "2026-07-30T14:18:42+00:00",
     "source": "afp"
-  },
-  "4bd429cfe81537841e73e79504eb39f4": {
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50Tkt4aEgyYk1HcWpYWVRzOHp5VnZfT3FvTXgxcndEUjkwTnJ4NnhkdVR1ejUxRms3YXJNQy0ya3k2d2wyZ0pITjgzWmRod3lJWVk5bE4xTQ?oc=5",
-    "timestamp": "2026-07-30T14:03:27+00:00",
-    "source": "iranintl"
   },
   "e83c2226a1320dd2359544af8c903ca2": {
     "url": "https://www.france24.com/en/europe/20260730-warsaw-blames-moscow-after-a-missile-crashes-in-poland",
@@ -2482,21 +2497,6 @@
   "1c84bc5e27a20f8f251b1f296c3ea4ce": {
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWxIaXJEWXgtcHdzZjI2R3lwcFdYd1E1TW5QeHF6QkFkMTJRd2FKck9td01ta2ppc0Jaa0YzT0VTOUV4OENwd1lhRVRHT0FMdDNfUUlZdk1FZDVkaUZXX2RhRlVKRTF2elJ2RVR1elZxVE1GZDhZS3VEcVJLYW9vUURySF82c0hKYjhsVXJId2VUcmNKVTBzQ0phd3FaWkwyUVhvYUFUekR0djI5M1d0b1BFMTE?oc=5",
     "timestamp": "2026-07-27T17:50:06+00:00",
-    "source": "reuters"
-  },
-  "8019fcc7cad7496d78e740d78d6a5457": {
-    "url": "https://www.nytimes.com/2026/07/27/world/asia/india-protests-cjp-education-modi.html",
-    "timestamp": "2026-07-27T16:59:44+00:00",
-    "source": "nyt"
-  },
-  "005d8fd307274ab7f47651d77a94d1ea": {
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkejU3VWxKb3ZsQXZmN1VCWlE4eFlqakltM3liOXQ2cXZySUEzNGw3QjlRb3N1b0RxU3E5dDZZblNiZFhzOHFsZW5nMUI?oc=5",
-    "timestamp": "2026-07-27T16:51:32+00:00",
-    "source": "iranintl"
-  },
-  "c29d92e40272e31c3005b12bc19798bf": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzhaOE5EZkZWdTRDZlhoaTUwempUc3g2QnpqSDAxM0hCeVNCZ190UDZTcmJTU2pWSHBXWTAzaFdtclJqR0VyZUN6NTVLakxmTHdSdk5PRXRhalZwNEhQSDlRSXQ3LUoxa003SWVvVEJpMjFGV2IxSGJjVWg0VHROY0pqVUROT0RxNmJRYTdrN1F4bndKa19vd051VzhwTHM?oc=5",
-    "timestamp": "2026-07-27T16:43:43+00:00",
     "source": "reuters"
   }
 }
