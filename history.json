@@ -1,10 +1,60 @@
 {
+  "51fca9b98de2e0af351dc8fec5d5080f": {
+    "url": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html",
+    "timestamp": "2026-08-01T09:01:52+00:00",
+    "source": "nyt"
+  },
+  "efbce1e24ac1bb985cf56e01e9b0e2c3": {
+    "url": "https://www.nytimes.com/2026/08/01/world/europe/russia-war-deserter.html",
+    "timestamp": "2026-08-01T09:00:09+00:00",
+    "source": "nyt"
+  },
+  "e2e27752bc207263f5cb3f2213866444": {
+    "url": "https://www.france24.com/en/tv-shows/sports/20260801-fifa-president-gianni-infantino-scraps-controversial-world-cup-investment-plan",
+    "timestamp": "2026-08-01T08:55:30+00:00",
+    "source": "afp"
+  },
+  "a478b2f4e4aa2128f08df87eea9c4689": {
+    "url": "https://www.france24.com/en/middle-east/20260801-middle-east-live-tanker-struck-by-unknown-projectile-oman-iran-war-hormuz",
+    "timestamp": "2026-08-01T08:17:26+00:00",
+    "source": "afp"
+  },
+  "934b58c42996502afce2e1baf0c2a9ae": {
+    "url": "https://www.nytimes.com/2026/08/01/world/asia/new-zealand-foreign-minister-china-protest.html",
+    "timestamp": "2026-08-01T07:28:20+00:00",
+    "source": "nyt"
+  },
+  "d91e467ff8a6ad4a9f402efc89ccc7d5": {
+    "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html",
+    "timestamp": "2026-08-01T07:14:41+00:00",
+    "source": "nyt"
+  },
+  "15ad4dc819b72a492701e5cc359857c6": {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUR4aERLVE00azhSZHJQbWZZUktuVmNhYkFKb1lTWUhEcS1CS3dIbEdJREpybnlaRk01elZwWi1EMlNLV290anVpWTltNDNON1p0em1LLXBraWlSTzhMOVAydVM0NFhSR1dZNE8wRzJvaC16dGlPUkVoM25ZRjZvejNTMzRZZWZNMEE4UnRJN2JWTDc2VTdYblhiNnlYQVhnUmVxQktVSlJ2VWgtZVJfWFBuUQ?oc=5",
+    "timestamp": "2026-08-01T06:03:43+00:00",
+    "source": "reuters"
+  },
+  "1a45c833fc5600cbdcb18d4ba6fc8fc3": {
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pSlI0eUJ2VU04c0RBQjBsSnhIbHdsUW1vQ1VZWmdJd2hDWDUtdWlzeE1LZ1hRRExsV2trYlJJTkdIZGFNTWVRSw?oc=5",
+    "timestamp": "2026-08-01T06:01:18+00:00",
+    "source": "fars"
+  },
   "156581e88f68914715ab3a149f3160a1": {
     "url": "https://www.france24.com/en/europe/20260801-russian-attack-on-ukrainian-capital-kills-at-least-nine-people",
     "timestamp": "2026-08-01T05:14:39+00:00",
     "source": "afp"
   },
+  "076be3bbdd6474fdf2b47359c4940d02": {
+    "url": "https://www.nytimes.com/2026/08/01/world/asia/japan-earthquake-recovery-heat.html",
+    "timestamp": "2026-08-01T04:57:29+00:00",
+    "source": "nyt"
+  },
   "d57f6a941aa989d271155ccfb262e474": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZdGxKZmZBV0tGd3ZENnh5NjhUM0hIbHkya195Nm5Kdm00cmlNYlFoOFQtLWU2MHhlUF9VTi1OTkZ1SFBWcklHUmxlTnQxUWhGQVE?oc=5",
+    "timestamp": "2026-08-01T02:37:46+00:00",
+    "source": "iranintl"
+  },
+  "4ed6a2debb1d4139791e9e9b65f1ba86": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZdGxKZmZBV0tGd3ZENnh5NjhUM0hIbHkya195Nm5Kdm00cmlNYlFoOFQtLWU2MHhlUF9VTi1OTkZ1SFBWcklHUmxlTnQxUWhGQVE?oc=5",
     "timestamp": "2026-08-01T02:37:46+00:00",
     "source": "iranintl"
@@ -18,6 +68,11 @@
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwYThNUFhGSEpvZ2xzc1pmU3Nfd0phNU8xZjNoRVJYaWRwV2Z6dEhRb0N4TnlTNnM2Tzg1dmc2b1FJYVhTcG5CMzVDS0plTFZkbVVSR3YwVWpJVW9YZ1N4NQ?oc=5",
     "timestamp": "2026-08-01T00:50:22+00:00",
     "source": "fars"
+  },
+  "9247b5ad02876433940afc5b0335ae4d": {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR25talQyd3dfUlZoWlU4YmRvZVp0TEJ4a3lWQXluc05RVlpSQ1hhRVlYNWlWaDNZRkQtRmtxeVp5RU9OTHhfSWtWOG93a3pKU05MU09OdHd2RkNXR1RCV2g5MzlFcHRsdk1TVjdMczZqWGZuMGNfeVY0ZDVvUU9LaGdLSElQZG5FeEo4RkhnVHhOc1ZoRVFpb3ZVS1JfN2prZDFZNklEMHpIdHg3Uk1BMg?oc=5",
+    "timestamp": "2026-08-01T00:34:00+00:00",
+    "source": "ap"
   },
   "a74f8d21c67a0dad47675c302e741f26": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpY2puZHNXbm5ZUXhtMDByU3NtLTFDSXNZWW5Sc0RYNjFJdHR6SVpzc2xGOTdMQk5SSENrYXFrdlNLWWVHMG01ZEZMRkQ5UXFVVXc?oc=5",
@@ -2443,60 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZGt6R2kzWmpYbXFFcVotbmM1RlgtazltVzBhUk9mSV9UckJqZDJlWUNpLTYtR251LVJ2Y1JkM2Zmc3pUOGpIenk1TTVGTllMTmVLdEp1UU4wRHdLQkxiVEdGaXNjWWlfWlluZkRqVV9VbDViUnkyWGJjWDEwSURJWkdrRnBYSlRhSlY3NE9yOTFULU1DTW9fQ0dMdWlNaklxSHFSWTJR?oc=5",
     "timestamp": "2026-07-28T03:56:00+00:00",
     "source": "reuters"
-  },
-  "1c9314e2d031ec9dcdbb44cb37291111": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93bkRZUmVXaExwTDdFOGNKUnJ5VXFCWDlQMEQ5REh3a3VIcm5sbUpBQUJLOXhPbW45ckFSbTFSX3owLU1HV0xvRkd2S1ExaUNRY1E?oc=5",
-    "timestamp": "2026-07-28T03:31:06+00:00",
-    "source": "iranintl"
-  },
-  "fee1b128b48e32b37311e2b6c69d9090": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVdXliMF9YaURrR3B2RTg0RThMU1RpLUFDcGliRXp4YUV6QUNwRkhHaGtPay13NFB4YUdlT1d4cmg3aFVRN1JIVVZCVWMtMk9qUFE?oc=5",
-    "timestamp": "2026-07-28T02:34:26+00:00",
-    "source": "iranintl"
-  },
-  "ad221c1e5a477bd4f7cb499321473ce4": {
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhcHpCc3hsZHc0VTNEcjlvSUhxaFVqd0FXV0dOTGdjdWVnZ1dSaXRSSWxxeklHcnRJYXdNTzRrcFhHYUtQeklNbWFSeFV0X2FwbTF6V0N1NVhDYm14VjlPZk5QVE01N29HdmJpZnBQVDI4RGU2cXgwTjlR?oc=5",
-    "timestamp": "2026-07-28T01:56:42+00:00",
-    "source": "fars"
-  },
-  "1e9d6201305bc51392af3785f4470b0b": {
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhcHpCc3hsZHc0VTNEcjlvSUhxaFVqd0FXV0dOTGdjdWVnZ1dSaXRSSWxxeklHcnRJYXdNTzRrcFhHYUtQeklNbWFSeFV0X2FwbTF6V0N1NVhDYm14VjlPZk5QVE01N29HdmJpZnBQVDI4RGU2cXgwTjlR?oc=5",
-    "timestamp": "2026-07-28T01:56:42+00:00",
-    "source": "fars"
-  },
-  "d1c110f5894f1dd893d7a13b557298d9": {
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhcHpCc3hsZHc0VTNEcjlvSUhxaFVqd0FXV0dOTGdjdWVnZ1dSaXRSSWxxeklHcnRJYXdNTzRrcFhHYUtQeklNbWFSeFV0X2FwbTF6V0N1NVhDYm14VjlPZk5QVE01N29HdmJpZnBQVDI4RGU2cXgwTjlR?oc=5",
-    "timestamp": "2026-07-28T01:56:42+00:00",
-    "source": "fars"
-  },
-  "0372b4a068941dfc4f488f196087ae43": {
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82dzlnYTAwbHU0NFZoalA5emR0ZFVzSVQybV9uc3NjNVNVY1FXNmc2dmp4Ym5YZGVCS1JFWFZOMzR4M2ZLOUJmcGFrVmhjYVA5WnVWWkFzZ0RaWGFGXy0tcUpVWGwxS01QRkRIWmpjT0M?oc=5",
-    "timestamp": "2026-07-28T01:45:35+00:00",
-    "source": "fars"
-  },
-  "32cc4adeeb9e5a11c54639d9ef49563a": {
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82dzlnYTAwbHU0NFZoalA5emR0ZFVzSVQybV9uc3NjNVNVY1FXNmc2dmp4Ym5YZGVCS1JFWFZOMzR4M2ZLOUJmcGFrVmhjYVA5WnVWWkFzZ0RaWGFGXy0tcUpVWGwxS01QRkRIWmpjT0M?oc=5",
-    "timestamp": "2026-07-28T01:45:35+00:00",
-    "source": "fars"
-  },
-  "010167b6c53d35cd0ac5aec7887b7079": {
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82dzlnYTAwbHU0NFZoalA5emR0ZFVzSVQybV9uc3NjNVNVY1FXNmc2dmp4Ym5YZGVCS1JFWFZOMzR4M2ZLOUJmcGFrVmhjYVA5WnVWWkFzZ0RaWGFGXy0tcUpVWGwxS01QRkRIWmpjT0M?oc=5",
-    "timestamp": "2026-07-28T01:45:35+00:00",
-    "source": "fars"
-  },
-  "5f6a729cee3d20be537b97ab1067d8bd": {
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa2M1am9JRVdmbUE2TTF1ZG5ya1dXNjVjdWUtVngzX09jamxQNk1idEJoNDBCY2Y2dlpURUpYb1Q3WTY0Qk84ZEd5V0FYaHVHakFGbmtKbEhOTy0xYmdLUnZIN3JlcS1yWXZTbnVTYlBlcVg5NUx2eGZFT0VmM0FhQkZYS2pZZHJJMlp4SmtVZkpKTmZwOTZOM2g1S3FtMGhYdWc?oc=5",
-    "timestamp": "2026-07-28T01:41:00+00:00",
-    "source": "ap"
-  },
-  "b0b6883039211c74a90310034f5a636c": {
-    "url": "https://www.france24.com/en/france/20260728-france-and-spain-continue-to-battle-fires-as-new-heatwave-looms",
-    "timestamp": "2026-07-28T01:25:47+00:00",
-    "source": "afp"
-  },
-  "5b901c2e7e4d6fe0cc182ac5ef2542d5": {
-    "url": "https://www.france24.com/en/europe/20260728-ukraine-s-zelensky-expected-at-white-house-to-secure-trump-s-support-against-russia",
-    "timestamp": "2026-07-28T01:23:12+00:00",
-    "source": "afp"
   }
 }
