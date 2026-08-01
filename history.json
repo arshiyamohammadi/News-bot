@@ -1,13 +1,28 @@
 {
+  "7803826a5b122b535fd016d6c98692cd": {
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UZ0xNUU4wbVNINzJZQWpRbzhYcGNkb3lZR0xxVjREeHpuOE5IMDByaWpJQ1c0MG13MDE2dUpGVVYwY3lROWJOU3UzaG9pSlNfZnk5cXVR?oc=5",
+    "timestamp": "2026-08-01T21:21:23+00:00",
+    "source": "radiofarda"
+  },
   "643285243ddd60ebdbf36b40367eb638": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FMm1URjFVeHV1SzVFM3E0VWp4Q1Y5bXdyd043ZlhWUmR0d1JqVUJHeUZJcUI4cTJUcV9wQ0didEdZRnpkLUhsTThLSngwMGt5Y1E?oc=5",
     "timestamp": "2026-08-01T21:00:00+00:00",
     "source": "iranintl"
   },
+  "b90a566d99549e4a3434b20df58caf04": {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sbm85M3c3UHM2SXZLeXI2UWQwcUFWaGltX2VyMlJjSnZSMDZqM2FsWEU2cTNaZGFlOVFUaFdoNFUwRU1Ba2lMb2VGTWR1RlNfVlpBcGwxeFZJWnBPVm1Dd1R5Vk5hTGt6?oc=5",
+    "timestamp": "2026-08-01T20:19:05+00:00",
+    "source": "fars"
+  },
   "1c43edaa4ba8f63edb092fefd5544e68": {
     "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
     "timestamp": "2026-08-01T20:14:08+00:00",
     "source": "nyt"
+  },
+  "bd60d5f1a13f736b638c2b1a0e05e68a": {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjdiZU1CVmhFWmRaYWtqRW82NnNUMEZjRzNlR293WTljQW1McXpnY3BiLXdWbVdobmRIdUJDVmVuWngwUHRVSUtyMkJjejRkQTl4WU0xc2xfcFpwaHBKamZGdUNqd1RIblhERllZY01hYjlmVUdOblVIVGxjTjVqVndGSURnTGJ5M2U5Vkp6dDVIRHZPZW8wTmRYaXl4WmQtejR6SzFBaw?oc=5",
+    "timestamp": "2026-08-01T20:14:00+00:00",
+    "source": "ap"
   },
   "555d710d9313f364515b54c002709052": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aMXBRNE1uWklreHZkbmU0dnh6THdWdWxKbXJQQzFlR0ROc2hLT01hcl96THJXWXRkVU9FcUdhREtDY1JVRkpsSk1ldlRFbVk2TFE?oc=5",
@@ -680,11 +695,6 @@
     "source": "afp"
   },
   "c4aba0f679dc2b99a79d750ed7886e0e": {
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13UEVielJkNGpaMGpWQVRTNUdVM0o0SG55bDRhSHJNU1FSR1JUWkNXLXgzd3NmNXJwNUZTNFZNLVlTWmNWWkd1Wk1DYVFWN2c4STV5eV9pRy1aS3F3Njhr?oc=5",
-    "timestamp": "2026-07-31T12:54:01+00:00",
-    "source": "radiofarda"
-  },
-  "7803826a5b122b535fd016d6c98692cd": {
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13UEVielJkNGpaMGpWQVRTNUdVM0o0SG55bDRhSHJNU1FSR1JUWkNXLXgzd3NmNXJwNUZTNFZNLVlTWmNWWkd1Wk1DYVFWN2c4STV5eV9pRy1aS3F3Njhr?oc=5",
     "timestamp": "2026-07-31T12:54:01+00:00",
     "source": "radiofarda"
@@ -2488,15 +2498,5 @@
     "url": "https://www.france24.com/en/zelensky-visit-white-house-in-test-to-maga-s-significant-shift-towards-kyiv",
     "timestamp": "2026-07-28T14:33:15+00:00",
     "source": "afp"
-  },
-  "3f171a3917f8c31b7a8c241c55839af2": {
-    "url": "https://www.france24.com/en/heatwave-threatens-firefighting-mission-in-france-s-southwest",
-    "timestamp": "2026-07-28T14:29:02+00:00",
-    "source": "afp"
-  },
-  "6bd8f598ab132a60e5c21e085f81c95c": {
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYWVUX1VacV9rb1VTNW1wZUI5dUFDSWNVMUplX0dfT1F6NHFJLXA1bmdiTVZTV2VZY2NyOEhCZDlyLS1OR1VVdDFZNlBOTEhzcHJDVzFDdXBLeXlfQTFsLVZ6YXp0c3JPY0VSRWlNQnJrSmVFeVRXN3lOMTNDa2YtYUlJUklzb3k2WjM4VlJFS05GYmhYRWZNWl9oRlprazdzMTZMazFjQU95TFluQnhiaVp3RDZjVl9EeEZONlQ1Rk0?oc=5",
-    "timestamp": "2026-07-28T14:27:32+00:00",
-    "source": "reuters"
   }
 }
