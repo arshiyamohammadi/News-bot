@@ -1,4 +1,29 @@
 {
+  "1aef0e7de115e577661b00923e144ef9": {
+    "url": "https://www.france24.com/en/fire-spread-deeper-into-athens-region",
+    "timestamp": "2026-08-02T15:12:24+00:00",
+    "source": "afp"
+  },
+  "9f3f823819e64cd9c30f8da6a2c777ac": {
+    "url": "https://www.france24.com/en/us-israel-to-hold-off-on-iran-strikes",
+    "timestamp": "2026-08-02T15:11:30+00:00",
+    "source": "afp"
+  },
+  "8b559afcd7f062784bcfca5a6d4f009c": {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU0hsUjhJMWI1WXh1VkRmYTVMdzNvcmpNeEplc3pyeHFsM0J5LU9mSzJkNk9sUXpUQ3JITERKRzlNQ004Sm9WMHplUVVyYm9UWmowQjR2ZXlscnJXc3JOMmtKTG1aWUMzNXduNENWY2Y5UFlPWEZnbUpNR1VzYV9kQjJrUGgxNXFvYnBpSVBKdlVEajBzRklYYThaWGtXb25BU0FIN0QzYlFxWmMyRVRUdnRzcHpua2xYdktsNklfQ1hpVE1zSHc?oc=5",
+    "timestamp": "2026-08-02T14:59:22+00:00",
+    "source": "reuters"
+  },
+  "82808caff4cdf44a222d6da3ec49c2b8": {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5",
+    "timestamp": "2026-08-02T14:12:47+00:00",
+    "source": "reuters"
+  },
+  "9cb9e58934cc481987fa91c41846656f": {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONW5zbU8yMjdVdGc1Z0pTSGFZVUZRTDJPR2lQM3NNU2p0Ym5OcW5xSkgwbnZ5ZmNsUWRaWHgwckZSRFFPMHNWQWtkVS1wcHIwX19uUEdER3Ewd3BLS25NdnFEb29WNHd3dzVPaHJZRVBwamp6MWltM29hbXNNYTVTc2FCUmZpaWF4b0dsNUJzYnRYMHhfRWR4emdRaFBkd0tHX0ViZlZoMXBDN3FEWS1rV21kaXpqdWlHXzkxaU50SGlfaGdvZEI4LQ?oc=5",
+    "timestamp": "2026-08-02T13:53:25+00:00",
+    "source": "reuters"
+  },
   "dd4e87e8effae5121e2490b52f0758aa": {
     "url": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
     "timestamp": "2026-08-02T13:50:26+00:00",
@@ -45,6 +70,11 @@
     "source": "reuters"
   },
   "6269bcd3424da04876b6075497344283": {
+    "url": "https://www.france24.com/en/europe/20260802-fire-toll-mounts-in-greece-as-blazes-spread-amid-strong-winds",
+    "timestamp": "2026-08-02T09:03:11+00:00",
+    "source": "afp"
+  },
+  "515a3953f3ec7f309968a54d061a7302": {
     "url": "https://www.france24.com/en/europe/20260802-fire-toll-mounts-in-greece-as-blazes-spread-amid-strong-winds",
     "timestamp": "2026-08-02T09:03:11+00:00",
     "source": "afp"
@@ -337,6 +367,11 @@
   "a87908704a83458e9555d0b50ea133cf": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJNEw4YWVnZlRxX204UFhRUkh4bUJtT05YckZtOGxfUS1wVlAtTkZyU2l3eElBVEFwdExlTUM4TFRoNFdyalVWQWlTS1BHQ1pXd1loOThzWVBhbG5za0E?oc=5",
     "timestamp": "2026-08-01T16:27:54+00:00",
+    "source": "iranintl"
+  },
+  "542e4ce9bfabd59fd9bfa822b008b571": {
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pS3pkM0VsMTlVSkFUN0V3bDVSVUFZcHpZN2p5VXhFNlVVcjBRT04zVDFWcmo4RDQ1MjYzS3dfZzlFc1FCMmtrWGdEeUw?oc=5",
+    "timestamp": "2026-08-01T16:24:00+00:00",
     "source": "iranintl"
   },
   "5e363272f82cea4e069d06e55879c194": {
@@ -2463,40 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WVHZvUkRmR1Q1MWtHU0Q4LWJLNHZaSEFkM25hcGZjU0xmZGdteDdXVXFUY3dVbnQzSFNjd1RwZEJaQ1F5Y3R4dmt0MjZ5ZG5kbVE?oc=5",
     "timestamp": "2026-07-29T04:17:45+00:00",
     "source": "iranintl"
-  },
-  "18b53580d87daec113b62f5cb5dc8af7": {
-    "url": "https://www.nytimes.com/2026/07/29/world/middleeast/jordan-us-military-iran-war.html",
-    "timestamp": "2026-07-29T04:01:19+00:00",
-    "source": "nyt"
-  },
-  "5b29272a3cb6d2bce868a9dd5984e6cb": {
-    "url": "https://www.nytimes.com/2026/07/29/world/asia/myanmar-war-nightlife-luxury.html",
-    "timestamp": "2026-07-29T04:01:17+00:00",
-    "source": "nyt"
-  },
-  "94f0185ecc3ecd4eb039d781484044b3": {
-    "url": "https://www.nytimes.com/2026/07/29/world/europe/northern-ireland-belfast-protestant-loyalists-immigration-violence.html",
-    "timestamp": "2026-07-29T04:01:13+00:00",
-    "source": "nyt"
-  },
-  "4cd5753b7a9ecca31b6327408cc220dc": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPci1oZGNSclBOc3NUX2VsZDdBYlVSNnJsYklvRDduS0d5S3BGa1ljb3I3cEZkS1dUS0dNcVIyS29sOXUzYXp3UG9Qa1g1YjhtOFdRWkw3Q2ZBdURkUzVaX1JERmJBQ2d5Tmw1TEhxRFVvd21YUVBMeHc4clNxbFlLY2REc0VtMUJGYjFBdkREX0pRTk5VVXFxUmtZZFBYOGJndTV3YmJnb0pwUEI0eGlaVVNpN28xNjJOblRxVQ?oc=5",
-    "timestamp": "2026-07-29T03:37:00+00:00",
-    "source": "reuters"
-  },
-  "f5e0704d7692b8556561fdb0cf902945": {
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
-    "timestamp": "2026-07-29T03:29:00+00:00",
-    "source": "reuters"
-  },
-  "de5f800a814917dc782d33bd758e2765": {
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5",
-    "timestamp": "2026-07-29T03:04:00+00:00",
-    "source": "reuters"
-  },
-  "b861dd0640cd5b0131beeaf5ebeb42d1": {
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kYUhMdU1DU0VGSWJDS1UzLThXb0NMb2tBSm9yOHU3UEJCcm45Nmp1d3dFRkJUQ214aHBpRU9nRUF4eHE1UFZPQ0tSQjRkT2N6QlJ3Nk5ISk9RdFhyY0xWNjlJVQ?oc=5",
-    "timestamp": "2026-07-29T02:59:31+00:00",
-    "source": "fars"
   }
 }
