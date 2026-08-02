@@ -1,23 +1,53 @@
 {
+  "dd4e87e8effae5121e2490b52f0758aa": {
+    "url": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
+    "timestamp": "2026-08-02T13:50:26+00:00",
+    "source": "nyt"
+  },
+  "92513f6a00326f1b10d2e6382e9bef88": {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUxtS1l6d0U4NVcxelJCQ1EwSGpaQ3BjNXJHUlpQcVlfZXJjMWU5WllQR21KdDZ0dlo2NDI0cW1RVXd3U0FiTHZMRHNDNng5ZXZseU9lT19KeG1RY18xRGNTVzBjdHpzOWpYQkwxTENWWko4NmtFQm5iQzFvQWdfeGhvQVZSMHdrZjhzRFREVnN2RWQyanBEdGp0T19mazNxR0ZiRXdFRVlvX1RZNW5mVFgyYlUxeS15QlZfOHhWY1UzSzFTZk13Yw?oc=5",
+    "timestamp": "2026-08-02T12:58:24+00:00",
+    "source": "reuters"
+  },
   "3fd0c7eb4f9b0e3778ee279d2003631a": {
     "url": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html",
     "timestamp": "2026-08-02T11:05:56+00:00",
     "source": "nyt"
+  },
+  "27239d49c79e03e47c08846d2a882f1d": {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3k3dmJWR3pfSnFZRFVOcE1KMXF6UkpsQUoyTk9JVVFLOW1XNGlLQXkxRlhnNXVuaTRnOElUT2paNnlneG1pYnNNMjhxZFVsR3R4czN3dFdab2w4S1hfZms5TC1tRDdpR3F3cGYzQnFvOVViWGtsdFdaQUpZZ1FvOFJiMl9QUk1raEF1M1BDZzdUM1NyZDB1Znp4OGlUZWdIMDRBeEptWlhpaU9BeTl2YkF6dDluS1VIRmc?oc=5",
+    "timestamp": "2026-08-02T10:45:44+00:00",
+    "source": "reuters"
   },
   "a2ed8b962508e7b9abb711b4e0ae8075": {
     "url": "https://www.france24.com/en/europe/20260802-the-week-in-pictures-european-wildfires-a-woolly-mammoth-and-a-migrant-influx-at-spain-s-ceuta",
     "timestamp": "2026-08-02T10:16:34+00:00",
     "source": "afp"
   },
+  "f0b822c9d6484d6828d4588f34028cb1": {
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nWmhkSEdqcF9HVjlsZWZZUmJmS0F3X3I1WFczOTcyeFFaeUJCMmRFal9vOFMyNEtfUkVIREhqeHA1ZzJHVVNfLTdfdFpuT3FQNlNHLWI3OHp0ZHc0cjJIR3BrdGdYUQ?oc=5",
+    "timestamp": "2026-08-02T10:00:30+00:00",
+    "source": "fars"
+  },
   "224753bb70a949a61d02ebae993ab364": {
     "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
     "timestamp": "2026-08-02T09:56:03+00:00",
     "source": "nyt"
   },
+  "1081de99eb7fafcff18c67eb1a7e8229": {
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44Ri1hQmtFaXJmUHdtVnlYWUctTjdUcWxNTDdydVJqeUZHNWxRSC1HUXZZRjRja25nWDZpdzVBWmpSbUpMeENsZ2NKV2NBQ2dZT1VadQ?oc=5",
+    "timestamp": "2026-08-02T09:45:07+00:00",
+    "source": "fars"
+  },
   "6256bf7245131bb24a04eaf69037600e": {
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5",
     "timestamp": "2026-08-02T09:17:54+00:00",
     "source": "reuters"
+  },
+  "6269bcd3424da04876b6075497344283": {
+    "url": "https://www.france24.com/en/europe/20260802-fire-toll-mounts-in-greece-as-blazes-spread-amid-strong-winds",
+    "timestamp": "2026-08-02T09:03:11+00:00",
+    "source": "afp"
   },
   "3140c3e247ebd92a16ac8107438a8ec6": {
     "url": "https://www.france24.com/en/hungary-successive-heatwaves-drain-danube-river-used-to-cool-nuclear-plant",
@@ -118,6 +148,11 @@
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hZkdEUTNSNTZpOGhzZndieDJEMXRUMFJLMDdQTHFOUnNxQlRCVzM2MVNnSzZLWHpsUVVfc1BZTFdzQUNjMmNuQTVTanY3SWVIcldxX1JFaVhwa1pGM3M2eHQxM1R1VzFLWnVnSHFCQWRvZw?oc=5",
     "timestamp": "2026-08-02T02:52:35+00:00",
     "source": "fars"
+  },
+  "0078627be51274658a6c8664f5acbb0b": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51bTJYYnlaRGc1aTRsMXc3UkhqTFhnTEVoRW1WNG9TUlhQZHY0ZXNFaVpDeWJKQ0JxcC1YM3gyT1FrTmQtX0NvY0J6aGpEcVBPaVE?oc=5",
+    "timestamp": "2026-08-02T01:44:45+00:00",
+    "source": "iranintl"
   },
   "e9541aa864846d02a69687aecce0d7e9": {
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LZmd0VlJmWk9tRWNrM25zUWpBRTBNelZfdjdQcC1UTlBYcUFfcUlNNjItV3V1MGVyZEl5cjdhYzllbHVWVUxRUFM3YVFEd1F2VXJ5RXM0QQ?oc=5",
@@ -303,6 +338,11 @@
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJNEw4YWVnZlRxX204UFhRUkh4bUJtT05YckZtOGxfUS1wVlAtTkZyU2l3eElBVEFwdExlTUM4TFRoNFdyalVWQWlTS1BHQ1pXd1loOThzWVBhbG5za0E?oc=5",
     "timestamp": "2026-08-01T16:27:54+00:00",
     "source": "iranintl"
+  },
+  "5e363272f82cea4e069d06e55879c194": {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWRtajJreDVJMGhOOThIQlk5NUN1Uk9hUzBzSWQ3UE0zck5kbG9EZ0g0OXhZRUNsVGZfRlgzM3BLZzRFenl5LWJfQ0paYkJhcFpBYzRFQTgwcE1Kck51bEVZd0pJbGZ4LWZkS202bGt2OC1mbTdBeHVhU3ZQM0MwZWVGSExDRHR6OFUxTmJjNHRiUWxDbHdhLTRzdWZfdC1uU3c?oc=5",
+    "timestamp": "2026-08-01T16:16:00+00:00",
+    "source": "ap"
   },
   "6d3835bdd84d2761c604b3f6d4546661": {
     "url": "https://www.france24.com/en/europe/20260801-russian-forces-strike-targets-ukraine-odesa-mykolaiv-ports",
@@ -793,11 +833,6 @@
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQXNqSU9WRVUwMm1rWkFyY0ZVdXpoQ3RudWlwQmI5aGh1VmJITWJuWkpjc3NJQ2VfQU1PZlFwZkhfYTZvYWNxZ1NvM1FseWMxU1J2SDZkN2N3SW5HYmJUTWozTlpwWTBNYmEzQ1Y0N1lPYUotUllyTW5PZ0xQUmo0b3NSNzdsV1QzNzJGNk1ZWVhIam9FNXpUMUVSOGxVaGVCWGJmR0VnV2x3bUZ1Nzh2OHY2TkRyd0dCdGlpYWRhVWhNcVU?oc=5",
     "timestamp": "2026-07-31T18:08:09+00:00",
     "source": "reuters"
-  },
-  "f0b822c9d6484d6828d4588f34028cb1": {
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ORHJKV1VTMmZhLVpoMnE2V0dhYkVMc1VGUDdJa2wwTnVLQTl0N2tzdnN2NTh5dkJiZ1paN3ZtcWtvdXY4ZVVvZV9LakNTd284NVhPaFY1UFN1NTBoTE5NRUdIbzVodkszb1lKQg?oc=5",
-    "timestamp": "2026-07-31T18:00:12+00:00",
-    "source": "fars"
   },
   "0c6207f3253aad89de5069b77e5a56f8": {
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNm5pTVNDLURFZkZQWHVrd3VibjhDM05FOVd1QWIzNVRfbWtPWTFiSjQtSmc5Mk41Yl9MaG4zWTV3YTNyQVpOWVl1WUZCcXVKeGJzVjFtUVh3dGlvYlFScVI3UFJfamhnX2M0ZG1UNDZSckhIM214Q1c1bG53S0dnWnZDRDF4Mm9CWnZQMzBVS1M5c3BvTmxCQmg5bURtMTZ4dHBGanhNak8?oc=5",
@@ -2463,40 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kYUhMdU1DU0VGSWJDS1UzLThXb0NMb2tBSm9yOHU3UEJCcm45Nmp1d3dFRkJUQ214aHBpRU9nRUF4eHE1UFZPQ0tSQjRkT2N6QlJ3Nk5ISk9RdFhyY0xWNjlJVQ?oc=5",
     "timestamp": "2026-07-29T02:59:31+00:00",
     "source": "fars"
-  },
-  "b7a128c8e8ed0f644ed70a12d72b17b1": {
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kYUhMdU1DU0VGSWJDS1UzLThXb0NMb2tBSm9yOHU3UEJCcm45Nmp1d3dFRkJUQ214aHBpRU9nRUF4eHE1UFZPQ0tSQjRkT2N6QlJ3Nk5ISk9RdFhyY0xWNjlJVQ?oc=5",
-    "timestamp": "2026-07-29T02:59:31+00:00",
-    "source": "fars"
-  },
-  "089e8eaea1ec05f91919f7bde779a0cb": {
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kYUhMdU1DU0VGSWJDS1UzLThXb0NMb2tBSm9yOHU3UEJCcm45Nmp1d3dFRkJUQ214aHBpRU9nRUF4eHE1UFZPQ0tSQjRkT2N6QlJ3Nk5ISk9RdFhyY0xWNjlJVQ?oc=5",
-    "timestamp": "2026-07-29T02:59:31+00:00",
-    "source": "fars"
-  },
-  "aa57a9a96111d977916d4125936385b8": {
-    "url": "https://www.france24.com/en/middle-east/20260729-live-us-and-saudi-arabia-launch-strikes-on-iraq-target-iran-allies",
-    "timestamp": "2026-07-29T02:51:49+00:00",
-    "source": "afp"
-  },
-  "d78b104d5c6156a63442de3871869c93": {
-    "url": "https://www.france24.com/en/middle-east/20260729-live-us-and-saudi-arabia-launch-strikes-on-iraq-target-iran-allies",
-    "timestamp": "2026-07-29T02:51:49+00:00",
-    "source": "afp"
-  },
-  "00d3b0b09eff25f17644e4e8e297dbe6": {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGM3TlNxUEczUHdxRW5fUWYwM3g0YTNVR01kQURibVZtbEtPY1VWRUk1MmhVV0J1QjlVc05nSTFUM2dPcDBKT3BXa3pUZ0xmTUJ2TWJBcGRfNXMwMVotZjNhdVJGeWZIemVQTm1XelUyZ0tkMXFLVHVydEo4OTNFRnRLUVA0aE5mLW1CRWc2Y3FpY2dmd1J2c0xTZXplZUVKX1paR09fSzZMbTZfVkg3N0dFMnZ3aW5pOFE?oc=5",
-    "timestamp": "2026-07-29T02:34:00+00:00",
-    "source": "reuters"
-  },
-  "f583034915c1b3c2e37cae1893650d38": {
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWlwZk94dzhfNkVQUDNyVWRCekU3RmZJa09ldGwyOFZ1NzlCWEJhWXN5ZjRqdWRGX25RMWZyMHJJai1LVHZxOVNaZ2NFQ1pyTnI5Q1hONTZZR1Zid25ULUV4T3EyNGtRQTQzSVJPQ3pyS2RKM0I1VUF5cl9ZY2VDd3VwQzMxNzgybnlEXzdXV3RlRUxGX2JZMjZKcHk?oc=5",
-    "timestamp": "2026-07-29T02:15:00+00:00",
-    "source": "ap"
-  },
-  "091bcfd0fee750b0ec9439a7b45c435a": {
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWlwZk94dzhfNkVQUDNyVWRCekU3RmZJa09ldGwyOFZ1NzlCWEJhWXN5ZjRqdWRGX25RMWZyMHJJai1LVHZxOVNaZ2NFQ1pyTnI5Q1hONTZZR1Zid25ULUV4T3EyNGtRQTQzSVJPQ3pyS2RKM0I1VUF5cl9ZY2VDd3VwQzMxNzgybnlEXzdXV3RlRUxGX2JZMjZKcHk?oc=5",
-    "timestamp": "2026-07-29T02:15:00+00:00",
-    "source": "ap"
   }
 }
