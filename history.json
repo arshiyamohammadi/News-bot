@@ -1,4 +1,34 @@
 {
+  "a2ed8b962508e7b9abb711b4e0ae8075": {
+    "url": "https://www.france24.com/en/europe/20260802-the-week-in-pictures-european-wildfires-a-woolly-mammoth-and-a-migrant-influx-at-spain-s-ceuta",
+    "timestamp": "2026-08-02T10:16:34+00:00",
+    "source": "afp"
+  },
+  "6256bf7245131bb24a04eaf69037600e": {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5",
+    "timestamp": "2026-08-02T09:17:54+00:00",
+    "source": "reuters"
+  },
+  "3140c3e247ebd92a16ac8107438a8ec6": {
+    "url": "https://www.france24.com/en/hungary-successive-heatwaves-drain-danube-river-used-to-cool-nuclear-plant",
+    "timestamp": "2026-08-02T08:55:03+00:00",
+    "source": "afp"
+  },
+  "e0c971293db91f957ed0213be6dfd5ea": {
+    "url": "https://www.france24.com/en/colombia-police-station-bombed-wounding-14-people",
+    "timestamp": "2026-08-02T08:51:49+00:00",
+    "source": "afp"
+  },
+  "246e1ef5484e783ea5bad7c5af20cb15": {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWdaQkJhWGNkUHZsUkZqQXAyLWJ1MGs1XzJCTlVuUFVrald2bzBLdnU4TnNHVjFIYXNmOTJJNVVrVFR2QmVDZjJJU0x2b0NiOF9iLVViQjk2VkViT0lmZ0Fpd1R4T1NiLTdWQ1JKemFTNmhaM2lxQ0FaV2NvdW1RbHJYMkZQZElYN29kcWNxd09rUzRVRHMxS05SbzVFal9TNUgzS1hka2xLcmFMbUFHNVc3eWppcUJBTElvbjRsNHpfU2VGcEJLczNn?oc=5",
+    "timestamp": "2026-08-02T08:51:38+00:00",
+    "source": "reuters"
+  },
+  "0b24869eb53ffbd727625f8fdaa7fcd9": {
+    "url": "https://www.france24.com/en/gaza-overnight-israeli-strikes-kill-at-least-8",
+    "timestamp": "2026-08-02T08:42:26+00:00",
+    "source": "afp"
+  },
   "dc1039b681ab0f64762cab6a27161437": {
     "url": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html",
     "timestamp": "2026-08-02T08:08:33+00:00",
@@ -19,10 +49,20 @@
     "timestamp": "2026-08-02T07:23:48+00:00",
     "source": "fars"
   },
+  "80ba44dfb19bfee7eb45e9d93034296d": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41T1ZHVmo1QThDS21zN3VpN2lpLUhQQTRJRW16VFFtSFFlb2ZESGJrV0psSTZkYmd5Q3B6UDBtaXlQR21wdGlXVERROWpqS0JSdXQ2Rm1xNjNGbmlRRmNqOA?oc=5",
+    "timestamp": "2026-08-02T07:23:48+00:00",
+    "source": "fars"
+  },
   "1ab099ba17ac0e9f874f533b5946c160": {
     "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
     "timestamp": "2026-08-02T07:02:40+00:00",
     "source": "nyt"
+  },
+  "86a22b10c6e659d0cd668781760ecfbb": {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQblhNTDVZU3dqTmw4d252dTlOaS1pdnFEcU5ZTjdobll4RnNJYXdVVkszRExqOHRLRGFYbG5XNVE3a0h0TUp3UzZocVNic3l1dXdPMzNGaDljWWZmS2kwUF90RVlfcG02TVc0LVJTS0dqbUV2QWhLZlhEVTloNHUxUjZJLXdwb0FRUk8td1FDaHdUdC1SalhBTWlJVEJ5cDBiaGlmeWtLNHBycWJlVFU0VTlFYThLamVfMGNB?oc=5",
+    "timestamp": "2026-08-02T06:16:00+00:00",
+    "source": "reuters"
   },
   "82ea29ef6b950b66afd16a50b962174f": {
     "url": "https://www.france24.com/en/europe/20260802-at-least-three-killed-in-moscow-restaurant-bombing-russian-officials-say",
@@ -55,6 +95,11 @@
     "source": "ap"
   },
   "cfc4f535b194a06d1616488a04d5865e": {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hZkdEUTNSNTZpOGhzZndieDJEMXRUMFJLMDdQTHFOUnNxQlRCVzM2MVNnSzZLWHpsUVVfc1BZTFdzQUNjMmNuQTVTanY3SWVIcldxX1JFaVhwa1pGM3M2eHQxM1R1VzFLWnVnSHFCQWRvZw?oc=5",
+    "timestamp": "2026-08-02T02:52:35+00:00",
+    "source": "fars"
+  },
+  "47cedfbcbf67f205fc9f13a07a597a51": {
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hZkdEUTNSNTZpOGhzZndieDJEMXRUMFJLMDdQTHFOUnNxQlRCVzM2MVNnSzZLWHpsUVVfc1BZTFdzQUNjMmNuQTVTanY3SWVIcldxX1JFaVhwa1pGM3M2eHQxM1R1VzFLWnVnSHFCQWRvZw?oc=5",
     "timestamp": "2026-08-02T02:52:35+00:00",
     "source": "fars"
@@ -263,6 +308,11 @@
     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NWWdRbkxfUDZ3ZFRzQi1nRkx6RnpFTUdsaDBtWnRWaGxXa0REeVhVckR2aWNuYWNLSmQ2UXc3Yms3MXQ1amJWT0NBRkQ?oc=5",
     "timestamp": "2026-08-01T14:22:28+00:00",
     "source": "iranintl"
+  },
+  "145830271973c354eeab1140e86c20d1": {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVltVTN1VjZFdU05eU9fdEF4aXU3WDVTSVg4blgwRzBNeWRZdll3NmN1ZHNkYy1lUm5jOHBqSHQxRWtPY1g2d29nOFZiU2J5YU44VjZnZkg1cTcyaTBzVXg2eU1oY0xHYVpNdGxPODZJa29ScnJkbUt5OFI4UTRIdWUwOTZreVBiamhzbVV1ZGpXcjRCOElNUV9qTFZGTUtKdlBkSWJURU9VQVphVl9vMQ?oc=5",
+    "timestamp": "2026-08-01T13:33:30+00:00",
+    "source": "ap"
   },
   "07bfe404bbd935882931a950d9154e8f": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJNEw4YWVnZlRxX204UFhRUkh4bUJtT05YckZtOGxfUS1wVlAtTkZyU2l3eElBVEFwdExlTUM4TFRoNFdyalVWQWlTS1BHQ1pXd1loOThzWVBhbG5za0E?oc=5",
@@ -732,11 +782,6 @@
   "f0b822c9d6484d6828d4588f34028cb1": {
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ORHJKV1VTMmZhLVpoMnE2V0dhYkVMc1VGUDdJa2wwTnVLQTl0N2tzdnN2NTh5dkJiZ1paN3ZtcWtvdXY4ZVVvZV9LakNTd284NVhPaFY1UFN1NTBoTE5NRUdIbzVodkszb1lKQg?oc=5",
     "timestamp": "2026-07-31T18:00:12+00:00",
-    "source": "fars"
-  },
-  "47cedfbcbf67f205fc9f13a07a597a51": {
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fMVhadFpSRGFWdHVGMFd6M0trWV9FeW40TDF4QWpXMldod0JxRW94a21nbjV0cGdLcm96UTJERXhmQ2ZDZkd1NzVuREFUMkgxejBFYkhzODFQTG8yNlRLa1p0UDRMSkQwd3c?oc=5",
-    "timestamp": "2026-07-31T17:40:02+00:00",
     "source": "fars"
   },
   "0c6207f3253aad89de5069b77e5a56f8": {
@@ -2453,50 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUHJGTGM0cWxxc1lyajNFQ1Y1NXNKUUdnREtjZDk3Z3RaRUFabm41dmF2UE1YVTFfbVJNTHJWZTlRYzJCTEpGbnVRWlg1akk2cGJKamVPRmZQNEZZRFVsSFp1LXFOOWQxYzRObjYyYmQ1U29LWUVyRHAtNHVFcUplWHlZYWZnWVFJeTVxdmktRVdmaTJ2aTh6SkM5R3VJOEtKR254SzdEMFNyZFJHcHJGN3kwaE4ySVdSUngwbTdhZ1M?oc=5",
     "timestamp": "2026-07-29T00:38:30+00:00",
     "source": "reuters"
-  },
-  "257c97a8c4aa3eef8ed3b5e5d41b2888": {
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
-    "timestamp": "2026-07-29T00:27:00+00:00",
-    "source": "reuters"
-  },
-  "8cee8bc742bd0f181506a21f8e7853ad": {
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
-    "timestamp": "2026-07-29T00:27:00+00:00",
-    "source": "reuters"
-  },
-  "7f20081d99e4c837539eb5918652cc82": {
-    "url": "https://www.france24.com/en/france/20260728-france-braces-for-fresh-evacuations-as-spain-eases-wildfire-restrictions",
-    "timestamp": "2026-07-28T23:41:23+00:00",
-    "source": "afp"
-  },
-  "d610f0e640ebe3d3d8f2e4feb0934b49": {
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbExYYjdfX1I4Mmt6eFo1Ty1JWjFtdEl5dWxIRnJsbllyODZPd3pmUjc0bzlMX29iV1ZlaUJVSUwwNl8yNkd1dkI5WERxdm1NUXp6Q1RXS1JqLVgzZzZXbFA4ZU9HU2Q0UVNQS2h3N0dtTldHbE5oLUxPek9iem9uMTBiZGU0QUNNeUpwX2Z2ZVF5bkVEZ1FVVjBlVkFoRjBzVkN1ZWU2N1hSbXR0QjgyUVpveXNsT244VDQ1Zm5Nb3BUbFRjR3FNUDhmZTQ?oc=5",
-    "timestamp": "2026-07-28T23:32:00+00:00",
-    "source": "reuters"
-  },
-  "2a2b40de01cabcfe70ff1743f7b99e96": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GbkxObFlHZ3gtc2ZxT1l6OTdWMXpCVUF1ZTFIWERFdE5xbnVjcmtzZThCRWoyOHpUc3Z4OU9MZjliZU82V0ltMFBLOUtMX3pqRXc?oc=5",
-    "timestamp": "2026-07-28T22:00:34+00:00",
-    "source": "iranintl"
-  },
-  "8149b0e5bc3eb0942acf07bb1abe6943": {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemw2MG1LNS1HZlpDdEJrcU5Ha2FHY3NYVkU0QUtMOVlxT0pzXzJNdXFnZUZOOUgteFo3QmVmZXRLR1BSbTdBcDNIV1p6UXhMZ0JuMFN4ZFF1RlhhelhhTUE5OU1SdjAzdGpHSWpVcmZoTjRRZi1HRHNTQkI1bVR4Vlk1Y0g2U3pqRFhScWNQNzNuWDFrOWF1d3pYWW5FajJqelpLNXdUVzVXVUdTRERWUw?oc=5",
-    "timestamp": "2026-07-28T21:48:16+00:00",
-    "source": "reuters"
-  },
-  "d6abc59705b9e125ea1eb259ffb1ab76": {
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY3Rzb3FyVlMwYnpEMC02Rk9LOTlTWGhnOEJSWGJoS3hZVGRkYVlvLVBXa0tJWUlQeDJaU0FjZ0lKeEpQUGJXYUxWRlFzSDVCN19ZMWpmRldpRXY0R0I0bHdUckZhbHNMeW9weXBEenBPY0V5MTdKZW1ZRGZwcXdRT0NpU3kxY0w5RVVNODFnaw?oc=5",
-    "timestamp": "2026-07-28T21:27:00+00:00",
-    "source": "ap"
-  },
-  "e8131ad43441c66ba1fa875c92350c7f": {
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZmtOc1FQd0ZlV1pQbWNHeElfVGNkMldRSlhkWGl4cUV6a1BpRFNNSVozQnhXb0lDVnlKc2M4MkI5U2ozM0hlb3Vta05MbmN2Q05QN3lmQjhscG9OQUM4ZmFoc3luYkRmNDFoTjdZOWdEYXYxdHFGTlJyemw4SmJzYQ?oc=5",
-    "timestamp": "2026-07-28T21:26:00+00:00",
-    "source": "ap"
-  },
-  "47240bb18e42b3a94ca854073a4162a7": {
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZmtOc1FQd0ZlV1pQbWNHeElfVGNkMldRSlhkWGl4cUV6a1BpRFNNSVozQnhXb0lDVnlKc2M4MkI5U2ozM0hlb3Vta05MbmN2Q05QN3lmQjhscG9OQUM4ZmFoc3luYkRmNDFoTjdZOWdEYXYxdHFGTlJyemw4SmJzYQ?oc=5",
-    "timestamp": "2026-07-28T21:26:00+00:00",
-    "source": "ap"
   }
 }
