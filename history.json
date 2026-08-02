@@ -1,8 +1,18 @@
 {
+  "3fd0c7eb4f9b0e3778ee279d2003631a": {
+    "url": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html",
+    "timestamp": "2026-08-02T11:05:56+00:00",
+    "source": "nyt"
+  },
   "a2ed8b962508e7b9abb711b4e0ae8075": {
     "url": "https://www.france24.com/en/europe/20260802-the-week-in-pictures-european-wildfires-a-woolly-mammoth-and-a-migrant-influx-at-spain-s-ceuta",
     "timestamp": "2026-08-02T10:16:34+00:00",
     "source": "afp"
+  },
+  "224753bb70a949a61d02ebae993ab364": {
+    "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
+    "timestamp": "2026-08-02T09:56:03+00:00",
+    "source": "nyt"
   },
   "6256bf7245131bb24a04eaf69037600e": {
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5",
@@ -83,6 +93,11 @@
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QSHQ3TEM4T21ZUFJfSG8tR0lFcG9POXFIa3p0Y2NGVWd5MXJremNXbGNZY2I4cmltUUlISmYwckx2czUwQllrWnE3RW44SHZ5c09BUmJn?oc=5",
     "timestamp": "2026-08-02T04:12:06+00:00",
     "source": "radiofarda"
+  },
+  "3fdde4e4fc170b407affb3963d3f0fc8": {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81ZHpRZ2EtdGUzdXJvMS1adkJ1WmJncnNUQXh4ekxWcC16QVQ5MzVtVlhybEtLaXVZWkc1LWU5T3VMY1puRXN1cmNGNGQzYktRZ2g1bGswcVNRMThNSkVN?oc=5",
+    "timestamp": "2026-08-02T04:07:00+00:00",
+    "source": "fars"
   },
   "c82495da6f175edae78fbfeedec6aaea": {
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUxMdnNIZ1MzaWNwNXBYV19IbUpVbUo2LTBiR3BiS05fVE1fOUczeVM1MVk3TEJWbjA5cmVZZmlNZ2ZLdnp6NlNLRlBmanlpTnhVbFZPc0RicnVJRjFBUS1uNU1kMldjb2F3ZnN3QTRkZGVLNW8wSklmVjZIcG52dks0TE5kXzlmdkF1d01SUW9TemFEQ09DSGlZdkxON1k?oc=5",
@@ -2483,20 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWlwZk94dzhfNkVQUDNyVWRCekU3RmZJa09ldGwyOFZ1NzlCWEJhWXN5ZjRqdWRGX25RMWZyMHJJai1LVHZxOVNaZ2NFQ1pyTnI5Q1hONTZZR1Zid25ULUV4T3EyNGtRQTQzSVJPQ3pyS2RKM0I1VUF5cl9ZY2VDd3VwQzMxNzgybnlEXzdXV3RlRUxGX2JZMjZKcHk?oc=5",
     "timestamp": "2026-07-29T02:15:00+00:00",
     "source": "ap"
-  },
-  "283280561dd5cc5e4412959689ba84ee": {
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSk5HS2lsMDFmVFM5NUIweFRwRkJLMWZKUWd2NG95WUVFdEFXWnpMeWJEZEVDbndzSEdrLWZtaUh5RXJ0U1FiS3RfRHNoMzFiVXc2NVFEYktIQk5RTmFfdjhqTU9UNjVFb1JpcTFTZWc2bzROM2FxSTJkdVpLRUFDVnVvTUxKY2xyLVBsbnFiandSX0haQzNUVzR3ZE1XYjd5aUtYbkhOYXl5ZjB4NHlVd01vVzlBQnc?oc=5",
-    "timestamp": "2026-07-29T01:27:00+00:00",
-    "source": "reuters"
-  },
-  "bf5dded25b1d1ac35d87a8dfc1889c66": {
-    "url": "https://www.france24.com/en/sport/20260729-uefa-accuses-fifa-of-selling-football-with-world-cup-investment-plan",
-    "timestamp": "2026-07-29T01:26:29+00:00",
-    "source": "afp"
-  },
-  "ad1c738ea9d5b15baba8be3919ab8bf1": {
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUHJGTGM0cWxxc1lyajNFQ1Y1NXNKUUdnREtjZDk3Z3RaRUFabm41dmF2UE1YVTFfbVJNTHJWZTlRYzJCTEpGbnVRWlg1akk2cGJKamVPRmZQNEZZRFVsSFp1LXFOOWQxYzRObjYyYmQ1U29LWUVyRHAtNHVFcUplWHlZYWZnWVFJeTVxdmktRVdmaTJ2aTh6SkM5R3VJOEtKR254SzdEMFNyZFJHcHJGN3kwaE4ySVdSUngwbTdhZ1M?oc=5",
-    "timestamp": "2026-07-29T00:38:30+00:00",
-    "source": "reuters"
   }
 }
