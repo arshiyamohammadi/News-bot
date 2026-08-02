@@ -1,4 +1,9 @@
 {
+  "92030ad6c2793b375b7e1e5cbabf718d": {
+    "url": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
+    "timestamp": "2026-08-02T21:49:47+00:00",
+    "source": "nyt"
+  },
   "7b1b75cc5edb88391dd360d22a6b2aeb": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GNHIyTnBmaWNPTVAydmQ4a0Qtemcyam5rMmZKY184QTRNdGF4Tm5kanBvdFBoYVh1V2VLdVNmZG0xQ093enExbXNybS04eUpuZkE?oc=5",
     "timestamp": "2026-08-02T20:37:31+00:00",
@@ -8,6 +13,11 @@
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJNEw4YWVnZlRxX204UFhRUkh4bUJtT05YckZtOGxfUS1wVlAtTkZyU2l3eElBVEFwdExlTUM4TFRoNFdyalVWQWlTS1BHQ1pXd1loOThzWVBhbG5za0E?oc=5",
     "timestamp": "2026-08-02T19:31:26+00:00",
     "source": "iranintl"
+  },
+  "6c15d8ebc18ba0ad40a3c1d82e63e6f7": {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQUpTTWg4MEVxOG9ZTExoRTFzZW94TDNkYTFvUVpWMlJFU0JBbE1hRVkta2k5ZmhISGJqMTdjb2Z1TXVncEdZWmxIeUppazRrMzRSMWo2aTJydTM2ekNneWhXTEFaSjVTQzMwLUhNM09GUTN6Y3Z3c1VUbmxIcG9RZXgwWmRuMjQ0OEJsTWdqWEJfYlJ6TU1zRjNvNzBjaGxQMHBiY3Rmc0ZmdWpHd1o2dEdfOHpkSjI3OVVrb084cw?oc=5",
+    "timestamp": "2026-08-02T19:17:05+00:00",
+    "source": "reuters"
   },
   "4c3cfedd8e48d64be72e6681e85e84a3": {
     "url": "https://www.france24.com/en/americas/20260802-brazil-s-lula-80-says-in-great-shape-as-he-launches-reelection-bid",
@@ -2486,16 +2496,6 @@
   },
   "8c207e4d706fe18f808641d068411892": {
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWdPV244VDdxZnhvMmRiV2ZidVpDaUpEQnR6WFpySzJtUWtTV0U4ZjZ4M0tabm9yRXhNUzd6aUJra2Zid05vUTI0RmJ4Ri1RTmduMUNQV1BvNlBJTU1tMGY5dGlJNXJrMUk5NU12T1pWc2hHLUZfM3owdFNiaUxYWmd1UjZyQldvT1hTX1o4N0hPZW4zN1NyVm5xSjA3QTA?oc=5",
-    "timestamp": "2026-07-29T07:57:33+00:00",
-    "source": "fars"
-  },
-  "30c0177c4f1cef392524ae8a7d7c07a4": {
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZUtBamN0WFF2NVJpUjNhZ3Jrd05saG9uMHU0RElPamIyTXRwS2d5Z0lNYWdqV3lZNFJtOWprUWViTWc5dkFGTEVXTXg0bzYtelEzNDg5d3BHZTBDeGhKVE92am9GanR6WThpVkVlVWp6aGRrR1NrRlNfRUprNlpnWHJtbUtNS3QzMkltb3NuTVBUX3gzWHlxd0VzaS1DOElma2J1ekljR29OUkRqZXQ2YlVXVWN1N1k3V2hLbjh6ZTJaQjRhd2hMUXdGNWpxZmgzRDREX0FzVVVfZm8?oc=5",
-    "timestamp": "2026-07-29T07:57:33+00:00",
-    "source": "fars"
-  },
-  "9317939a25f85e504a55653ee9b3b5e6": {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMFRmT0dTOXAtLUZSVXpYSXdiTFVxNE5VMzFtWXdzRWM5U0lSWWhneXdmRW1tTTg2RVVNMU92d2pIWXBheFhBejRkbjBxOE90cDNzTEkyTzdYc05EWGl1a0ZrdWR2NE5vcjN4SHNSZmVnWmFkZE5oRWZsYnR1R3htNFlrN1ZCQ1MxdlJ6TFEtWjVoVHQ3WEpYYmNzMXh2MVl4TkFjVW5VV2JPdHhodi0tZlNITnJIb2Q4eEtTeVF3?oc=5",
     "timestamp": "2026-07-29T07:57:33+00:00",
     "source": "fars"
   }
