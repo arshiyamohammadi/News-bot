@@ -69,6 +69,11 @@
     "timestamp": "2026-08-03T18:33:56+00:00",
     "source": "reuters"
   },
+  "c020aa676a1b4738e71f86c01f2dfb0f": {
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHTlQybG1RLWtQbXdqbjR1ZDJzbEFNcHE3VjdkY3FQY0hMN0FQVGxtSXh1TlM0RnNVZTFiWjhnSGFEWWhSRV8tUmdWLW1ZUkdWT3BjU0pIemI?oc=5",
+    "timestamp": "2026-08-03T18:19:48+00:00",
+    "source": "fars"
+  },
   "996afb477ffb7711ca16a54197b990b2": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfd2FoczZYcldnZF9ldHE4ZTZoVzNWZUpWd3JSU2tPWXctTGY0UjU1VzFnN0VyTVNGRk1pbWZpbDBsdklPOFdpYnpzM04tQzlsd0E?oc=5",
     "timestamp": "2026-08-03T18:11:51+00:00",
@@ -103,6 +108,11 @@
     "url": "https://www.france24.com/en/europe/20260803-ceuta-migrant-influx-reignites-immigration-divisions-in-europe",
     "timestamp": "2026-08-03T15:57:17+00:00",
     "source": "afp"
+  },
+  "5fc1e7ff93fc2656bcda7b32ff427ff5": {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vZDFSMXdwOE9iVGJoTEExSVJOd3c5d25CY2QtYU1JM25FOXItWDZHMkN5MUNkUFctRm1IakJ4S3RPaGpiSE9LZ2JzeEkzTWZJZ2pPRUpGVGJuV0dUc3R4VXQyX2ZCUmRs?oc=5",
+    "timestamp": "2026-08-03T15:37:39+00:00",
+    "source": "fars"
   },
   "fa2ec38fef83fd6ec849ecabf21321be": {
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVpSLU9DNzZlb3plSWpueFdNUFN3ZmxuZkQxN1RhRTlaZlBteHFVVEVXN0p4NnBOY2paYTNwNGlxaGdfWGRCRjVXazlOLVUtUVZnNlB4eFB1RFBKQjBtXzQtbEN6djVNZGs5dWJBTXYtVmxSVEtfU1I1WFdJWmU4dEQ2eU8xX1Z5MVNCV1pjdkJ6dVRaVnNwbm9HbmVSaFFqd3k1aGdmbW44NEUyRENTZmtMZk9iVGxpRklr?oc=5",
@@ -333,6 +343,11 @@
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjBjdHpEdEdMdVNpbVprQmRvNG9JTzl0ZHB4SkNmWUxqT2hNUG8xcW96U1R2czNKWHVMYXRqY2gxR1pHTzZ4RjlpaDgzUnM3U0dCNURmZDhPUUhVTnRuUFhYcGFmVHdoOWg2a3RJNTNGQktBU3pvZVZGSS1EVUJ1QzlVbw?oc=5",
     "timestamp": "2026-08-03T01:03:00+00:00",
     "source": "reuters"
+  },
+  "ae9f54736563c50a608a11a5d6d5f407": {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DNFZxVXFNdUY2Y1VwTzhlMnVVeVI4N0Z2ZWY4VnlJbzZyY0VRRzE5TjBnOWN0bWY4emc0dWVEekF4RWtxeEtlTnJhZlZOMlpGWUNHT2xhU1N3Vm5fTjRv?oc=5",
+    "timestamp": "2026-08-03T00:43:55+00:00",
+    "source": "fars"
   },
   "c79baf6050cfb3963a41812b6163b041": {
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcjE3eW1QaE5nM2hJVXA3OEhrblV6RkJqNTZMWVVrWTZxcTFqRkh4QllhTEJVUWZ3emQ2ZjhCYm5fV1dJdkpBOHhFU21SZzluQlNXMlozaWxGMy1GNnRuamVvUW1xaFlVcTVxYlFtNzRBLWJDZzQ0UUIxUjhNRFhoWmhBUjhiZktWVzdVMmlLcmQwWmZmNzRxaE9Qdmk4T1V2RDl6ZmRn?oc=5",
@@ -2483,20 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tOG5RU3NFLXQ4ZFhTRVdfX0ZRQXFxV24zQ1JEQXk5eFJsWVFlbi1GZTBZS0NZcXVNZkRoT003TGZUUTNNTjZ1Rl9UYTI4WVJxSHc?oc=5",
     "timestamp": "2026-07-29T21:05:32+00:00",
     "source": "iranintl"
-  },
-  "0399d394616e4f8a69c045704dc352cb": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tOG5RU3NFLXQ4ZFhTRVdfX0ZRQXFxV24zQ1JEQXk5eFJsWVFlbi1GZTBZS0NZcXVNZkRoT003TGZUUTNNTjZ1Rl9UYTI4WVJxSHc?oc=5",
-    "timestamp": "2026-07-29T21:05:32+00:00",
-    "source": "iranintl"
-  },
-  "0a338a230543dc664f45090675111758": {
-    "url": "https://www.france24.com/en/drone-hits-storage-tanker-at-egyptian-port-in-major-middle-east-escalation-security-firm-says",
-    "timestamp": "2026-07-29T20:55:44+00:00",
-    "source": "afp"
-  },
-  "5595d825afa3c6f2cd0c017f46785587": {
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhqMlRBNU0taHdVcUdHUUE3eDFsZEFQbTZ6dElnTEtMOGVSb1ktYlhpbmJHMm9NY2xRc1lQRWRXcGZ2N0NUNm9FSWV1ZkQ2MjAtaE5WWkwxeHFDMmxxX3I4MHNDNmduRnZ4ODNzNUtSZ2hyZEh3NVBtMmthTHA5UDRzcTBXOWJYNS0yVHlUM0loVXE5VThkeg?oc=5",
-    "timestamp": "2026-07-29T20:47:00+00:00",
-    "source": "ap"
   }
 }
