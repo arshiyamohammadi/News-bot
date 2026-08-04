@@ -1,8 +1,43 @@
 {
+  "7b3e39783e28b64e9d23ac0c5df619c7": {
+    "url": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html",
+    "timestamp": "2026-08-04T13:55:54+00:00",
+    "source": "nyt"
+  },
+  "5a21bb5182b38e963d4e106b55550297": {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjFmUC1OVjJCS05weXNFTmhaZkRab0dwSVV1LXJ5dEp2ZVNxX0l6QVdLQTN3SUdtSS1pOVF4OEYxRzZHbUJNeXk5ZmJnUG5FVVFScEJnOEUyM3FLWWhzQk8yME1VcW42X3dPOURqRi03QlN6RnZLMGFfWW5LWUVmUDctVDR0YXRhWTAwbTJRaUdKYTNJb2NuS2hrNjRpOVdlZjBPRTVzNXhUbjRpdmRFSGdkVHlGUnpJYjRGTQ?oc=5",
+    "timestamp": "2026-08-04T13:34:01+00:00",
+    "source": "reuters"
+  },
+  "fa50f526f7e8217d5d5e4acd53cb1142": {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVoa01lTFhQYVMtVjRxRWZKSng1YzFUTTNJOVI1T1pWZVNKc1czOWhJWHB3VDFFWnVrY3lLT1FnSVBfU1M1RFdrU2FsYVlKZXdhVm9VbF9PaEFNeGVMR0ZtNmlEeGhkWG1iang1U0kzb3hmWENGSnNXODRzdnZYaE1LYkY4Vm1hbzJEcEl1ZzZIRVBQLS1nYUYyTWdDdjZjXzN0NmtuZm5IV2FEdlBQby1UUnBqc0FF?oc=5",
+    "timestamp": "2026-08-04T13:28:39+00:00",
+    "source": "reuters"
+  },
+  "b9f3249088e72446d5e078a39c8fcc39": {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw?oc=5",
+    "timestamp": "2026-08-04T13:06:35+00:00",
+    "source": "reuters"
+  },
+  "c60213a5b668bd11d0efc6e5d40f160c": {
+    "url": "https://www.france24.com/en/video/20260804-wildfire-prevention-requires-nature-based-solutions-land-treating-us-the-way-we-treat-the-land-1",
+    "timestamp": "2026-08-04T12:43:52+00:00",
+    "source": "afp"
+  },
+  "70c95fbbb3466bd988157cc46bc3424c": {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEtUQkZFZkRmeUVMUF9KSXRLMUJXTzRSUXNHalpmSlp6WW4yMEJFaWQ5cTRPVHpwemJjb3hTNjgzQmswYWQ0R2hVOVkyV1pVOVBoZjhqSEFES2VVUWRLRzg1SmRxb0x6QmQxZkQwSnhhaXBLVTBrbTFNeWUwN1NISUIwQ3lxOGFWcEdDdkpBUzQwWmxPTkhJNjB1SVVlbS13OTMyS0Z0T1hQVkFpQkRF?oc=5",
+    "timestamp": "2026-08-04T12:16:09+00:00",
+    "source": "reuters"
+  },
   "45f4fee0b4fb58e930390874200ea4bb": {
     "url": "https://www.france24.com/en/video/20260804-romania-hungary-france-europe-s-nuclear-power-plants-tested-by-heatwave",
     "timestamp": "2026-08-04T11:33:43+00:00",
     "source": "afp"
+  },
+  "58d64a02b2d48547ab03be8e183278a8": {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRzFrNFI0Ry1iYVEtVTB1SFBPbXF1N244ZjJOaTh4SE52eWVETjFvcHBlRlJ5eXlpdGJsYktuX1JPVW5LbmRneW1jQXdpdC1XSmo4OTVEME42eXk3bEhBYWZUOEdOaHVmSHc0OFk3NUl2Y2lkYXZvdGlFa0Q0ODVMYVdNSHZ1SzU2czZSN3ZuczdBbFVJSTZSTkZPTXItMU1zV0Z0VmxsT2RvaVNxT0tsd0hiWDdKcERacDVsUERSdFpRbXpIU1NGa29aU0xMd08wbl9mc1lUbjA?oc=5",
+    "timestamp": "2026-08-04T11:19:34+00:00",
+    "source": "reuters"
   },
   "7b7d9b58c6bc346f0edf3c3afc02b329": {
     "url": "https://www.france24.com/en/amid-successive-energy-blackouts-frustration-grows-in-cut-off-cuba",
@@ -24,10 +59,25 @@
     "timestamp": "2026-08-04T10:50:06+00:00",
     "source": "reuters"
   },
+  "9c27c520d192794166d45c2605c3ba89": {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUllLTEZpVXpPaEQxbG5tWlVyYnlUN3MwUURrck9nWnNXeTVqSG9uQWczMi1FY3dJM1RtSFBBT3RUOFpzaEZKVjZ3LVpfZ01aODFDaFlvTFhLdXJhMzVvQ25qamJ6MDlYVHRuUmZPcW5HamJIbENjeExMUWlsY3UyaWcySjZ6WHJqWE5EZGtIT0N0YXlUZGtHX1FQR2NEemFyUUx1S1hDOGtqYXpvc2l1cFZCMWF3ejAwcnY3Mk5OSWk3Y04wb21FMg?oc=5",
+    "timestamp": "2026-08-04T10:50:06+00:00",
+    "source": "reuters"
+  },
   "7f27cd5497ed2c972193455e5e6c254e": {
     "url": "https://www.france24.com/en/record-drought-and-heatwave-bring-energy-emergency-to-eastern-europe",
     "timestamp": "2026-08-04T10:49:41+00:00",
     "source": "afp"
+  },
+  "e113c821d06d2b5c9d928cd068d4c618": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XOFA2dm5nX1gwV0RnM0VRODhaR1JOU1lfNi00NnVETGg1UWhsbHNrY0FwTzN6T0dKWGlYVmY2X0hxV1Jhc040RmhKOEZSRFVXOTE0YWJJbi1zbG1ZNE94Xw?oc=5",
+    "timestamp": "2026-08-04T10:42:21+00:00",
+    "source": "fars"
+  },
+  "e6db337857fbe8853bf6769b39a6e142": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQlFkaW9qVXlucTFmN0R0RjR4eGNZN1p1bjh5WGJRdHRfX09sMU80OEZpNDQ3VjFPRTJPcUp6ZUxqNXJDZ095bEdidS1JYjJQLXc?oc=5",
+    "timestamp": "2026-08-04T10:42:06+00:00",
+    "source": "iranintl"
   },
   "03810b79034c0d45969b3b80fc78eaaf": {
     "url": "https://www.france24.com/en/cape-verde-s-vozinha-signs-with-chile-s-most-decorated-football-club",
@@ -73,6 +123,11 @@
     "url": "https://www.france24.com/en/ukraine-strikes-inside-russia-as-moscow-accused-of-increasingly-brutal-attacks",
     "timestamp": "2026-08-04T09:07:42+00:00",
     "source": "afp"
+  },
+  "865bb44d23debe83c989788c1567cbf6": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SOFZnb3ctM1NBNlBfYk1fN2t6bHY1THY4cFhzQjM3V19aWTd4U3FoTV80WnZmRUVxWmtKS2FMYjlaRW1sSVgzd2FlWko4RVdXaEE?oc=5",
+    "timestamp": "2026-08-04T09:06:29+00:00",
+    "source": "iranintl"
   },
   "dfc73fc51f577bb9e8fd968f9c0662f1": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MRDRpeGliVmFwMXg5cml6S0ZGWHZrazQzMTUxQmRXazY5RjFDV1lJdnF3djNZOUk0S0tpdUJURnMzWV9CUm1rdXNhbTMxNjUxY0E?oc=5",
@@ -129,6 +184,11 @@
     "timestamp": "2026-08-04T05:51:16+00:00",
     "source": "afp"
   },
+  "db3a0443d7647cbdd60141b8d268ebfe": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTOVpaa3NlUzdNSU9ocGFtVjZPMEFyLUZLaE9td2NmN3JmUzVVWUZwZGtpYkNpVW5lbEpEbFBEdmtWQ3JJbHlQcGl6aWRkVWV2LWc?oc=5",
+    "timestamp": "2026-08-04T05:37:21+00:00",
+    "source": "iranintl"
+  },
   "eabd43f0c3142a58a74d7220186b0b5f": {
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXFsci0ySk53THJaUktvbFlJd0ZjTzhFNmJSU0gtY1B5RElscWFhWHJLWTcxdlJ1SDhhV1dJcmQteVdaT0NLekZaMU05V2tockhvaGFtYlgzbk5OdWpDVEM4TmFoX2FpZFMyQWdxTzJ2SkdzYVExYVdRWHBKVlNPcTBzX1hub05WWk45TE1HVDM?oc=5",
     "timestamp": "2026-08-04T05:32:00+00:00",
@@ -183,6 +243,11 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUJQVVd6S3NYc2pFV2IyYW90UXl5bjJBb3JwcWFDclNEY1VMbzNYZ1V0cjhvd0lBZVFGMlJ0bzYzNl83TVY1Z0U5M1JsXzA3THlBN2xhUjJkOWpadVhCenRTX0QxME5xSnExeWFpRFF0WVd3ZzNxZ1BJeEQzVGctNlBRUEs3ZHllVVBJNWk4TzlNQmFqY3pHV0JEZll1S1RWUDNjRFlFeXRoWHpB?oc=5",
     "timestamp": "2026-08-04T02:22:00+00:00",
     "source": "reuters"
+  },
+  "c4aba0f679dc2b99a79d750ed7886e0e": {
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IUzN6UkJXcngtS3FzOVhjOHRKM1QxZUpDSFlEaUNRdFNtSzNzSnRCYmo0cVRfYzB2LXNjd2NNS251aXdsZnJqeUlENnBIOGN3bzJQXzln?oc=5",
+    "timestamp": "2026-08-04T02:02:56+00:00",
+    "source": "radiofarda"
   },
   "9c11a2f1a630f0930dc2cd7b060b137f": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KVXVxdzdJUUJkUC1Jd1gxLVY5Vmx3OVg3aWVTMExpQTlEQkEtNXpZeVRqYzZCMV84cVpwYnpJZWFFaDBwdEFfQ0RMdmNrd1pwbFE?oc=5",
@@ -978,11 +1043,6 @@
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJNEw4YWVnZlRxX204UFhRUkh4bUJtT05YckZtOGxfUS1wVlAtTkZyU2l3eElBVEFwdExlTUM4TFRoNFdyalVWQWlTS1BHQ1pXd1loOThzWVBhbG5za0E?oc=5",
     "timestamp": "2026-08-02T05:00:55+00:00",
     "source": "iranintl"
-  },
-  "c4aba0f679dc2b99a79d750ed7886e0e": {
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QSHQ3TEM4T21ZUFJfSG8tR0lFcG9POXFIa3p0Y2NGVWd5MXJremNXbGNZY2I4cmltUUlISmYwckx2czUwQllrWnE3RW44SHZ5c09BUmJn?oc=5",
-    "timestamp": "2026-08-02T04:12:06+00:00",
-    "source": "radiofarda"
   },
   "3fdde4e4fc170b407affb3963d3f0fc8": {
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81ZHpRZ2EtdGUzdXJvMS1adkJ1WmJncnNUQXh4ekxWcC16QVQ5MzVtVlhybEtLaXVZWkc1LWU5T3VMY1puRXN1cmNGNGQzYktRZ2g1bGswcVNRMThNSkVN?oc=5",
@@ -2438,65 +2498,5 @@
     "url": "https://www.france24.com/en/video/20260730-fifa-hit-by-furious-backlash-over-plans-to-sell-stake-in-competitions",
     "timestamp": "2026-07-30T09:51:07+00:00",
     "source": "afp"
-  },
-  "8fd81b87956b3cbd1c3b01da36ca5d54": {
-    "url": "https://www.france24.com/en/video/20260730-us-launches-wave-of-strikes-on-iran-in-response-to-tehran-missile-attack-in-jordan",
-    "timestamp": "2026-07-30T09:48:50+00:00",
-    "source": "afp"
-  },
-  "bd43d1e7e480aaff8be34c4b1286ef05": {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNXgwY1BYbk9QMmE3WW5aUXhhampyaXFHRWZXWXp5ZlhEdGRLNlVSR2ZlRks0ak9JMjFnQXN0OXZVZFZWUnBZSDNVUG9lN0xQa21CLUJ3RnlNMV9MUEQwREFPU1lnZkVkangwTnhvbGlFZUhPWDFnQ3FfejVUMFkweVBSUnc0dk9QbVJWcUhFaWdwWHBsOWRxNk44a2tTVldnaTBPbHZMX3k4RTJPLWZCSWJ5OTloOWhLUkE?oc=5",
-    "timestamp": "2026-07-30T09:46:28+00:00",
-    "source": "reuters"
-  },
-  "2a72d03b5697cfbadf4230efa952a397": {
-    "url": "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html",
-    "timestamp": "2026-07-30T09:45:03+00:00",
-    "source": "nyt"
-  },
-  "0cfb7af3159d1e2d4fab366b56b30607": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02NW9IQ0JPRERkbWdkcG4xeDkwV0RXMnFSdlJkTEZOcGNXeF9FSExlWUlfZDlTaVllVGhsME94VmNHVHlCZmQzLWNMMzRpVm5qbkE?oc=5",
-    "timestamp": "2026-07-30T09:41:42+00:00",
-    "source": "iranintl"
-  },
-  "bdae06f20ab875b03cefc2f7221d9db8": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02NW9IQ0JPRERkbWdkcG4xeDkwV0RXMnFSdlJkTEZOcGNXeF9FSExlWUlfZDlTaVllVGhsME94VmNHVHlCZmQzLWNMMzRpVm5qbkE?oc=5",
-    "timestamp": "2026-07-30T09:41:42+00:00",
-    "source": "iranintl"
-  },
-  "f1feb537ef28af895253e2df40bed65a": {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjY4dFJnUXNtdWVUZkJZRVVjRnB1cTBISWJrUFhSc1dRbnpqanF4U3dteloxRHdOcjB5bEJSZ1J4SlFGYTIwR001Qk1XVjJzVnpsQkUteDlrakxYeXYwZHZMTjk5b1pZdHQtcjluZkE0OUFodWRobWcxMm1pYV9hSFlUNFI1YmxmMl9iMF9yeWJtR0Z4RzdJZVFENFdvN2UybWNJWlhma2dWVGtQeVNfWW9BV2dWVmJNVlpvV18zMmlxQQ?oc=5",
-    "timestamp": "2026-07-30T09:32:09+00:00",
-    "source": "reuters"
-  },
-  "5cebcef99d2e423b42af0edf8df30fc7": {
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VWVZsUDh0aXk1MzBSdUZZZkNMTjE1U21CLVBXSW1sQmRnU3pvY3BvaldHcVhzOTZaWm1fTmtZeTBwQ00wMnVVU1k3Ql9MeVdUeFotTzZn?oc=5",
-    "timestamp": "2026-07-30T09:24:41+00:00",
-    "source": "fars"
-  },
-  "1e995b76026fd22ecd6727b7677c3cdc": {
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VWVZsUDh0aXk1MzBSdUZZZkNMTjE1U21CLVBXSW1sQmRnU3pvY3BvaldHcVhzOTZaWm1fTmtZeTBwQ00wMnVVU1k3Ql9MeVdUeFotTzZn?oc=5",
-    "timestamp": "2026-07-30T09:24:41+00:00",
-    "source": "fars"
-  },
-  "1168d8e8d27461580e6039d533747b03": {
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VWVZsUDh0aXk1MzBSdUZZZkNMTjE1U21CLVBXSW1sQmRnU3pvY3BvaldHcVhzOTZaWm1fTmtZeTBwQ00wMnVVU1k3Ql9MeVdUeFotTzZn?oc=5",
-    "timestamp": "2026-07-30T09:24:41+00:00",
-    "source": "fars"
-  },
-  "8e757d25f5dd6ee8cf49b64411c3306c": {
-    "url": "https://www.nytimes.com/2026/07/30/world/americas/cuba-deputy-foreign-minister-interview-trump.html",
-    "timestamp": "2026-07-30T09:01:40+00:00",
-    "source": "nyt"
-  },
-  "be04801343d870983731ce5d397aa5d0": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mTHFLVTdMZnlneVR6aGZsNTRhekNmNUhISnN1b2prUThtbzg3cGUwVU9DNGc0d2xvZDZqOVd6Tl93Y3I5TC1FWi1KUk1XdHFwM2c?oc=5",
-    "timestamp": "2026-07-30T08:57:03+00:00",
-    "source": "iranintl"
-  },
-  "eb10f11c65495ca6a5b769295ecda3b0": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MeW4tR2pxbzE0Y2xCVlpDcUI0R3JGWklDR3htS3FXUC1rYkRWOExENTJDRWZFVHlaYzFWNjhpTTNMa2RSTm1ENzJ6TTZIUEJZS3c?oc=5",
-    "timestamp": "2026-07-30T08:49:43+00:00",
-    "source": "iranintl"
   }
 }
