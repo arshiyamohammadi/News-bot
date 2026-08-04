@@ -1,4 +1,69 @@
 {
+  "45f4fee0b4fb58e930390874200ea4bb": {
+    "url": "https://www.france24.com/en/video/20260804-romania-hungary-france-europe-s-nuclear-power-plants-tested-by-heatwave",
+    "timestamp": "2026-08-04T11:33:43+00:00",
+    "source": "afp"
+  },
+  "7b7d9b58c6bc346f0edf3c3afc02b329": {
+    "url": "https://www.france24.com/en/amid-successive-energy-blackouts-frustration-grows-in-cut-off-cuba",
+    "timestamp": "2026-08-04T11:11:23+00:00",
+    "source": "afp"
+  },
+  "142f6c72a7a526944f3bd4f2af773cfa": {
+    "url": "https://www.france24.com/en/despite-world-cup-success-controversy-marred-infantino-loses-election-support",
+    "timestamp": "2026-08-04T11:01:52+00:00",
+    "source": "afp"
+  },
+  "9a5be04c2a2a18e5ecabcabfe233e88e": {
+    "url": "https://www.france24.com/en/ahead-of-the-midterms-democrats-face-reckoning-in-michigan-primary",
+    "timestamp": "2026-08-04T10:54:19+00:00",
+    "source": "afp"
+  },
+  "cda5863f0287b4bb951a9872087b57e8": {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUllLTEZpVXpPaEQxbG5tWlVyYnlUN3MwUURrck9nWnNXeTVqSG9uQWczMi1FY3dJM1RtSFBBT3RUOFpzaEZKVjZ3LVpfZ01aODFDaFlvTFhLdXJhMzVvQ25qamJ6MDlYVHRuUmZPcW5HamJIbENjeExMUWlsY3UyaWcySjZ6WHJqWE5EZGtIT0N0YXlUZGtHX1FQR2NEemFyUUx1S1hDOGtqYXpvc2l1cFZCMWF3ejAwcnY3Mk5OSWk3Y04wb21FMg?oc=5",
+    "timestamp": "2026-08-04T10:50:06+00:00",
+    "source": "reuters"
+  },
+  "7f27cd5497ed2c972193455e5e6c254e": {
+    "url": "https://www.france24.com/en/record-drought-and-heatwave-bring-energy-emergency-to-eastern-europe",
+    "timestamp": "2026-08-04T10:49:41+00:00",
+    "source": "afp"
+  },
+  "03810b79034c0d45969b3b80fc78eaaf": {
+    "url": "https://www.france24.com/en/cape-verde-s-vozinha-signs-with-chile-s-most-decorated-football-club",
+    "timestamp": "2026-08-04T10:40:12+00:00",
+    "source": "afp"
+  },
+  "edb205c67a7b45613ad40d946d62e58d": {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVoa01lTFhQYVMtVjRxRWZKSng1YzFUTTNJOVI1T1pWZVNKc1czOWhJWHB3VDFFWnVrY3lLT1FnSVBfU1M1RFdrU2FsYVlKZXdhVm9VbF9PaEFNeGVMR0ZtNmlEeGhkWG1iang1U0kzb3hmWENGSnNXODRzdnZYaE1LYkY4Vm1hbzJEcEl1ZzZIRVBQLS1nYUYyTWdDdjZjXzN0NmtuZm5IV2FEdlBQby1UUnBqc0FF?oc=5",
+    "timestamp": "2026-08-04T10:34:11+00:00",
+    "source": "reuters"
+  },
+  "649c382fa5036d18362dab27387d86f3": {
+    "url": "https://www.france24.com/en/video/20260804-nigerian-judge-kidnapped-from-his-home-by-unknown-gunmen-has-been-freed",
+    "timestamp": "2026-08-04T10:21:57+00:00",
+    "source": "afp"
+  },
+  "af8a3edfb64366e4bcd1a678bb09eb14": {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14WGkzeGRPY04tTWZpZnUwZEE4OUdOeDNPWW5ZemlDNUVad05wZXNielhCemo2WWwwS0hUdHllMW9MWllQTjgxMnFTd0xqMmx6eldmRkMxSjBDSGNUbGpCV1Iwc0VXaDFu?oc=5",
+    "timestamp": "2026-08-04T10:05:08+00:00",
+    "source": "fars"
+  },
+  "b4aefb924560ca731f22d8cb772eb4df": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMMWtqSGV1TE1NLWZpLWJhQTRCcEpCbXBpRGpCbkt6MWVWb1R5UEx2bVZFYnVSc1l3RldESkhZTXFEQlFOTnJMa0RJY19EZEFwZFlXNFdqUHNScm1jdi1YVw?oc=5",
+    "timestamp": "2026-08-04T09:43:02+00:00",
+    "source": "fars"
+  },
+  "4e50c18c66c6ae0061187cff18521985": {
+    "url": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html",
+    "timestamp": "2026-08-04T09:42:12+00:00",
+    "source": "nyt"
+  },
+  "874bec8c15bcc7dd697bd3963f346143": {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWxZWjEzUHh2dXNYYUxyS2RjbUhHTXh1RHpVTjZwUUpScFlZbnFUVDkwUlR3bXJMU3otWDY4Q2cyTml6dXV2YVJIZkdiN0lnZUV0T19VN1QwRUY4ZmU5bjNhUHJfU2tWeEw4RVFoTUN4R2lGaW1WSXpzUWxaVmZWSF9kRGhLcE9GU1lxaHp4N0xnNFp0MG9lMkZEeTd4TTEyTTBySlEzYVJFM0RSdjFTRHJZbnFmdFBISndla004RHVTQQ?oc=5",
+    "timestamp": "2026-08-04T09:15:46+00:00",
+    "source": "reuters"
+  },
   "2bea91d4d801ecc158f30a883f6d66f5": {
     "url": "https://www.france24.com/en/middle-east/20260804-how-israel-reduced-iran-historic-rafi-nia-synagogue-rubble-1-2",
     "timestamp": "2026-08-04T09:09:14+00:00",
@@ -9,6 +74,11 @@
     "timestamp": "2026-08-04T09:07:42+00:00",
     "source": "afp"
   },
+  "dfc73fc51f577bb9e8fd968f9c0662f1": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MRDRpeGliVmFwMXg5cml6S0ZGWHZrazQzMTUxQmRXazY5RjFDV1lJdnF3djNZOUk0S0tpdUJURnMzWV9CUm1rdXNhbTMxNjUxY0E?oc=5",
+    "timestamp": "2026-08-04T09:00:29+00:00",
+    "source": "iranintl"
+  },
   "ccd5f6c9260c90ec7094716cf422e135": {
     "url": "https://www.france24.com/en/europe/20260804-at-least-9-russian-civilians-killed-as-ukraine-war-takes-its-toll-on-black-sea-shores",
     "timestamp": "2026-08-04T08:53:10+00:00",
@@ -18,6 +88,21 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Bb0xuQUhFQi1fRS12VTQySFpQbXdySkc5c3V2cTBJWnhLc2VobldpdWtnMlVWdXZuRVpjd2x3clZhOVFwWjFlMFdZMjhnU2RwN1E?oc=5",
     "timestamp": "2026-08-04T08:34:17+00:00",
     "source": "iranintl"
+  },
+  "e275b3a1ab745b01ac3c9d59c78d20e6": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Bb0xuQUhFQi1fRS12VTQySFpQbXdySkc5c3V2cTBJWnhLc2VobldpdWtnMlVWdXZuRVpjd2x3clZhOVFwWjFlMFdZMjhnU2RwN1E?oc=5",
+    "timestamp": "2026-08-04T08:34:17+00:00",
+    "source": "iranintl"
+  },
+  "ec7b531b56031b7abbf98088420f15cf": {
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yblRrNnJibjZkTnF3eWhhM2YxRURrOS1LTHlHR2I3cU5tTGNjLTRRX25peGFQcXMxZHJteXFhbGRtcmtBcHlxRjhfX014MnhRdXVBTVQ3aw?oc=5",
+    "timestamp": "2026-08-04T08:13:54+00:00",
+    "source": "fars"
+  },
+  "379aa8189381bd570c4ad76818f876bf": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jRWdpdU5pYTBhUkZrTUZGbDAxYXlXWkZKdFJXNzl3QVY4TlBjNlFEWk54ck5xb0NjcElFcUxvSGtocXpxcko5QXI2eWpxRnFQYUcxMU9ubGxiWnJWMUtKVw?oc=5",
+    "timestamp": "2026-08-04T08:13:49+00:00",
+    "source": "fars"
   },
   "16f4fa4ca113ba08301940541b0bac5e": {
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95b2lvYzZzdjNPZGZnek9Kb3kxTU1IbTBlZmhOZGxxcGxCbkhIZFhkWFVYN25Lc0ttZ1ZLZnNhWWZrQWRpZUZNeGdjYw?oc=5",
@@ -33,6 +118,11 @@
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11VEpsbFh0QTZaaFZMdDBxbDcxUTFFWDlHMld6Nk1aV0tNdkwxSXdSYTk3dWRWM24zRVF3U2E4TTNXYnIzdFJiSG1uS3V0NWRkd0QxNllNSUJUOWhhUlZUVg?oc=5",
     "timestamp": "2026-08-04T06:39:42+00:00",
     "source": "fars"
+  },
+  "fee5ed190ee79d6351c05939e29a4d1a": {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdU9hYzNQV1Ezbmd5OXB4Z1d4QTR0QU80Z0MteS03b002RE5yd2hPb2l5Z0NqLWJ4Y21PSTN0Z29UNVBBVEVyRDRGc0VNUnoySWNlcWU4cUlVXy1iNWd0MVA3V3pXLXN1ZHlyQWcyNzRfcmNxYnJKWFBQTWZ1anZtajRzcFRSd3BIQWJhOVlfQXZUaVU2Y1RlTUhqcHBQZ1ItTjhJeEg0NA?oc=5",
+    "timestamp": "2026-08-04T06:09:00+00:00",
+    "source": "reuters"
   },
   "6f36f594fbdaba3ab0ae1c19edffafe1": {
     "url": "https://www.france24.com/en/europe/20260804-ukrainian-drone-strikes-on-russia-kill-at-least-six-spark-fire-at-wildberries-warehouses",
@@ -53,6 +143,16 @@
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXZGT3BmOHBhbTZqRm5xTURQRUxmckpIUjBlTmEwNnBrQ2c1QjNGVkcyRGQwZEZteGp2QlB1OEhabWttNGd5WnI3bTk2ajJZckxDNWRjT2hsOFBBSW9lSnotel9UX3VlRjdnV1RGbGdScE5IeWJxa25RNkxZSUp5RUt0dVljTlNmYXl6QnRzMElLaVViaVBWbGZQSGwzYjlNV0F1bVlmanoxOUx4bXRlRTRMdkZMM2pv?oc=5",
     "timestamp": "2026-08-04T04:23:00+00:00",
     "source": "reuters"
+  },
+  "a54b6394af6b5ee971fd2c2ec7557fba": {
+    "url": "https://www.nytimes.com/2026/08/04/world/asia/pakistan-kashmir-jaac-rawalkot-protests.html",
+    "timestamp": "2026-08-04T04:00:13+00:00",
+    "source": "nyt"
+  },
+  "6cbb37bd23b694a39a22de18f1c39e68": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzRFJxNm85Z0ZldVJKc0hEbWhfcWdMZGk0N1RwdTU1aVY3dHNlNEtRNDF4Q2JvakJXVUkyVWdUT2VTbGl1MEp4RmdGY3ZPemNaNHc?oc=5",
+    "timestamp": "2026-08-04T03:50:43+00:00",
+    "source": "iranintl"
   },
   "a7e67558fe8d47c95d32b90eef4e2002": {
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
@@ -114,6 +214,11 @@
     "timestamp": "2026-08-03T23:12:00+00:00",
     "source": "iranintl"
   },
+  "7fd49674d0134e1d0b83078af214b714": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JdkUxcU9neWQ1ei1ObUdhc0hPcVB5N1dyR1pOZGFkd20yamczRzV1d3V2R2pVMlkzeDdkSGxadmhKOHZLLThVcFMwbDZUbEkxbUE?oc=5",
+    "timestamp": "2026-08-03T23:12:00+00:00",
+    "source": "iranintl"
+  },
   "cf2a137466d90ba6bf8ea2b06b46205b": {
     "url": "https://www.france24.com/en/middle-east/20260803-trump-says-us-iran-talks-continue-warns-tehran-faces-last-chance",
     "timestamp": "2026-08-03T22:57:33+00:00",
@@ -132,6 +237,11 @@
   "63cfaf8d33c51ba4ac374f6d1a0a3ba2": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04NEJKdkl4MkRKZDF0cVkwMXgtWXk1WTBYOXFBZzhick9kR293S0RQdlA3NDU1RWNIcWhoNG5iNlByUlJJaVNVdlk4M21fMmVabEE?oc=5",
     "timestamp": "2026-08-03T22:15:47+00:00",
+    "source": "iranintl"
+  },
+  "4fccfb4c38cc08d064be1ed1d2f18bee": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IYnd5Y1VhcDV1dWJPc1FfWW1MM0dyXzJxdEhLSnd1RXVxUHdaYVZ2YTFldnZxQ3hEVkhYOGgza0ZUYXlmWXdiOGx0OFNrRmp4RkE?oc=5",
+    "timestamp": "2026-08-03T21:43:00+00:00",
     "source": "iranintl"
   },
   "beb75bcea8215c9a043c3bafe30fa150": {
@@ -193,6 +303,16 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53eUtIUTlZejBhZm8wOTdLVWY2ZURzYUpJSGNUb21DMHJJY2w5NndVYXh0b0I5YndwbWVUdzdmUmo4dlRmWXNvZnRpb0ItaDVtUnc?oc=5",
     "timestamp": "2026-08-03T20:00:00+00:00",
     "source": "iranintl"
+  },
+  "5b855e6fcef1c8ea7c9e2e18327b8748": {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQektERUZodzkzOXlDY2NnVEhHRzF4eElSdXV3VG1Gd2Ria3FNbUdLS3VKUFhiRzhpTHVwT3k2WXJxanZRNVNQRjJEQjBsSGl5cGV5TVViTXhDMUY5WDZPRnduaE96cFQxMVgwc1FVQl9KMThMOFRlVl9VM04yOE42cVI0eGo3YUhzWGFWeUk4bw?oc=5",
+    "timestamp": "2026-08-03T19:58:00+00:00",
+    "source": "ap"
+  },
+  "3e4223e126fedc3b2f2970334c91966a": {
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55WnNxbkJRVmt4b1VxYnNuUlYyNzBiQjF5WXd0VWVCSW1sZVpqWXNMOHpXR0FYaXFvMGlxLTFoNG1ldVF3dE1pXzgwSHFnTWZyS2lWQ0tSbzU?oc=5",
+    "timestamp": "2026-08-03T19:54:15+00:00",
+    "source": "fars"
   },
   "171d0a1944f289f80503eb5f1d453777": {
     "url": "https://www.france24.com/en/europe/20260803-europe-s-record-breaking-heat-sparks-wildfires-drought-in-france-greece-and-the-uk",
@@ -2378,125 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MeW4tR2pxbzE0Y2xCVlpDcUI0R3JGWklDR3htS3FXUC1rYkRWOExENTJDRWZFVHlaYzFWNjhpTTNMa2RSTm1ENzJ6TTZIUEJZS3c?oc=5",
     "timestamp": "2026-07-30T08:49:43+00:00",
     "source": "iranintl"
-  },
-  "c74cbd4ead030dd9eeb406aeecbea2e9": {
-    "url": "https://www.nytimes.com/2026/07/30/world/asia/japan-earthquake-kumamoto-death-toll.html",
-    "timestamp": "2026-07-30T08:41:57+00:00",
-    "source": "nyt"
-  },
-  "6ae51393988611ec6fb1da4b0aeed434": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hNnpPd0dXSmlpY2lsMjBoR0pjaWR3M0p1dzNOV2NaOE9EaW5jbXZOSnR1WlREcmM1MERMRXVWWDdMUVZHMU0xZGppX3VZQ2FDRFE?oc=5",
-    "timestamp": "2026-07-30T08:39:38+00:00",
-    "source": "iranintl"
-  },
-  "f0912a9e7cf805270eff3ad3d02dde9b": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hNnpPd0dXSmlpY2lsMjBoR0pjaWR3M0p1dzNOV2NaOE9EaW5jbXZOSnR1WlREcmM1MERMRXVWWDdMUVZHMU0xZGppX3VZQ2FDRFE?oc=5",
-    "timestamp": "2026-07-30T08:39:38+00:00",
-    "source": "iranintl"
-  },
-  "f35a7cc43a9a2f1f24fef49ca3c8548f": {
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdHVQbzFYb2F3Z3I2eUpLdnVUQ0FTUnFSWEMwMTVXbVRrX1BXdlNZd1B1WkRaZzctS3VPdU9UbzQ5U1FsQ2dqcThUcW5nRWlXcjg0QjZ5SS00VWVVNHhYa1pVbHMwaG56VDlBRDZWbE9ENTgzZFJvRzRWSC1wdFlabFpQU0xPWE9vMllXWkYwb1kwOVNPQUhNS05FQnRZOTNmWEVRajZ2VGhLYXNwYTFhZEVWZw?oc=5",
-    "timestamp": "2026-07-30T08:15:16+00:00",
-    "source": "fars"
-  },
-  "327394549628268db10feb5076a497e1": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnhRWEFZaDdpMkNfSDhNVmJ6NmxmQUxmZVlfZHJldjhpdVBLdnlaYzVOX3pYNE0wTkhyYmRjempCeDBMNURTejFDNlB5RThIYlhOOWlfb2xvbElYbEl4X3NhUlpYaWwwTkhxSDZSazdXMVc0ei1CYW4xakkzUENEb0tPRXJ4VktVVExvZGpTWnJ6azU5cjVEUmdPS3V0LUE?oc=5",
-    "timestamp": "2026-07-30T07:40:00+00:00",
-    "source": "ap"
-  },
-  "dd556ab8e7710011cd78f81eab0d1dab": {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjY4dFJnUXNtdWVUZkJZRVVjRnB1cTBISWJrUFhSc1dRbnpqanF4U3dteloxRHdOcjB5bEJSZ1J4SlFGYTIwR001Qk1XVjJzVnpsQkUteDlrakxYeXYwZHZMTjk5b1pZdHQtcjluZkE0OUFodWRobWcxMm1pYV9hSFlUNFI1YmxmMl9iMF9yeWJtR0Z4RzdJZVFENFdvN2UybWNJWlhma2dWVGtQeVNfWW9BV2dWVmJNVlpvV18zMmlxQQ?oc=5",
-    "timestamp": "2026-07-30T07:14:07+00:00",
-    "source": "reuters"
-  },
-  "265f2f9cc1d4642f936a788e04684f02": {
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVRxVmV1aXoxM0p1dUtFcFR4Tk9YWXB1X19xUGJLREFKS3VGMXpCd213a1lTc2sybGtnM2Y4SGhmZUJWZDRGWm4wUXhxTVFEVXJJaGllblFOSEx6TV9XQ1h3ZGhtMWk5V19ROV9BRC1pa3kybF9iejNLMTZNRXI4SXNRanJEbUlwU2ZCZWRxT2Q5NGJEdE4tbll4NFJDQUtyZnV0NHA2YnluYmpRYWYwRlhPbTdVcjBJaHVwOEdWblY?oc=5",
-    "timestamp": "2026-07-30T06:45:46+00:00",
-    "source": "fars"
-  },
-  "01d03ea8b0c39de0f65a7919d577bea1": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jOVBsY2RPeTJuMmo0SWFRZ3FqeTdrdjRXVUlMNDhUUk4tbC14YUhRX2p0UjN1ZS1UTjAwVURIT05vVlAwd3pCX2hUVThxZGo1Wmc?oc=5",
-    "timestamp": "2026-07-30T06:35:31+00:00",
-    "source": "iranintl"
-  },
-  "06ab1e0466e2ff86d76f1028313c1f9f": {
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUjlxdTM1SnYtZ3Bzei1qLUpRXzlYanVpb1MwNnRuQjY2NmkzZHNTeEl5cGljWGE5VDQ5ZHF0djVzVnV5OEprZWdlWUpPMV9fanYyN1N5cHdhbkxBZC1fZTlHWmpRMG8zdlRZV0hLSW9nTHU0S3JDZU44WWVHbnhWZVhRTVJ1Z0RaM25nR09fTFNTMUR2SVNkVXdlVHpDZHRmMXlJdDN3?oc=5",
-    "timestamp": "2026-07-30T06:30:00+00:00",
-    "source": "reuters"
-  },
-  "bd9cfe2f2dd301771d6d5976fa6c850c": {
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUjlxdTM1SnYtZ3Bzei1qLUpRXzlYanVpb1MwNnRuQjY2NmkzZHNTeEl5cGljWGE5VDQ5ZHF0djVzVnV5OEprZWdlWUpPMV9fanYyN1N5cHdhbkxBZC1fZTlHWmpRMG8zdlRZV0hLSW9nTHU0S3JDZU44WWVHbnhWZVhRTVJ1Z0RaM25nR09fTFNTMUR2SVNkVXdlVHpDZHRmMXlJdDN3?oc=5",
-    "timestamp": "2026-07-30T06:30:00+00:00",
-    "source": "reuters"
-  },
-  "69679194952c6566241dd36009952410": {
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVlEVkZ5c0ZFc3F3cjhHdllWWFNMNlAzR3VKVGR3cTFGQU11UUFJbWNzemJBLTIwX0lwWHBydVBySkUzS2dQQXJlZGpFRTNEdGljNENnaXNZQmQ0blUzejRLU3dsRlpLeExXZkJHdUlBcGlqZ3EyeFRIS2toSUdsbmpmTzh1eHJyODF4M2VtZi02ZHR3N2F5Sjd6Rk9nbXl1TmVrZWk1UXkwUHAxZjVZ?oc=5",
-    "timestamp": "2026-07-30T06:24:00+00:00",
-    "source": "reuters"
-  },
-  "8b68800580468a5a37a37d78f5a63d37": {
-    "url": "https://www.nytimes.com/2026/07/30/world/europe/iraqi-militias-iran-war-saudi-arabia-us.html",
-    "timestamp": "2026-07-30T06:20:03+00:00",
-    "source": "nyt"
-  },
-  "c9306e87c848d0abf42e09638d661423": {
-    "url": "https://www.france24.com/en/middle-east/20260730-middle-east-live-us-air-strikes-on-iran-qeshm-island-kill-three-people",
-    "timestamp": "2026-07-30T05:52:12+00:00",
-    "source": "afp"
-  },
-  "f53d6aacc83c6a411eb82328da6c42fa": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJT0RJTnpSYXVJX093N1lIclJQMnh2OUtDNG5QaUJiZW43NUlEVjg5Q0NoSTJOX00zeVMwcGxVV2oyMmRlVGJmWmxLTTlLUEJxcFE?oc=5",
-    "timestamp": "2026-07-30T05:41:17+00:00",
-    "source": "fars"
-  },
-  "ca211b645a0766550dc51f1c6ae37c9b": {
-    "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
-    "timestamp": "2026-07-30T05:11:45+00:00",
-    "source": "nyt"
-  },
-  "1be939d75fd873620be9e80c412f5331": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQzJ5R2NIOEkxaUZRQTJuaWxiTnh3VGJTRTMtcFFIX2ZRWnVITklaNGpSNFNTT29Kd0NUTU5jU3VQV0VyYTVtV3MwRl9WTE9kLVRzRkhscEtFUHdsZEV3Y3dqZDlFcm5GRmtBTGZSWXUzTU95VFB1cGVQTFp3MUJRbVB4Njd1ajJPRjJGS1M1OEphTHBwbGpKdHJNRjE1dGc?oc=5",
-    "timestamp": "2026-07-30T04:39:00+00:00",
-    "source": "ap"
-  },
-  "163a6236a2b8ca3ec80f4864ed4442fc": {
-    "url": "https://www.nytimes.com/2026/07/30/world/europe/scotland-wildfire-cairngorms-highlands.html",
-    "timestamp": "2026-07-30T04:01:06+00:00",
-    "source": "nyt"
-  },
-  "fbb59ea37bc1244a46afc0272b0e0577": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFZvamthZTNrZ0JiSDZZMVJBNW02Y1JiQUlvUlAwN1RRODcyUWNydUtZbGxpVVdhZElfTERINDh6ZURJZll3M25weWk4UVFPczliQWZ0MkRUc09VTTQ0X1BMVDBDa0hMdzE0TjBlYmI3UkJpYl9KZDFYMTFsZ05jNnd0Zm9wUHEwTlJObUEycG1BNTVqVTVQWjl5NnJqdEE?oc=5",
-    "timestamp": "2026-07-30T03:47:00+00:00",
-    "source": "ap"
-  },
-  "c541ff55ffaa7646af453989b3be3157": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GRFdjbGZjS1NzWk9wQ0JQZE1qaEJIZzU1aTJST3ZJbFdyV01OUFVtZFJWYWtUZzNvQUdEZVlLbmR1VFI4a256a2QyOTVLM1ktRFRMNVMzTFZrb1doaFE?oc=5",
-    "timestamp": "2026-07-30T03:14:40+00:00",
-    "source": "fars"
-  },
-  "7b3a645ed16ec13d08eed9fe95ccc714": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GRFdjbGZjS1NzWk9wQ0JQZE1qaEJIZzU1aTJST3ZJbFdyV01OUFVtZFJWYWtUZzNvQUdEZVlLbmR1VFI4a256a2QyOTVLM1ktRFRMNVMzTFZrb1doaFE?oc=5",
-    "timestamp": "2026-07-30T03:14:40+00:00",
-    "source": "fars"
-  },
-  "f39f0b82b533e2733fda07888c5e95c2": {
-    "url": "https://www.france24.com/en/middle-east/20260730-us-carries-out-powerful-strikes-on-iran-after-attacks-on-bases-and-regional-allies",
-    "timestamp": "2026-07-30T02:22:48+00:00",
-    "source": "afp"
-  },
-  "a0d02b130363c98b5b8000278a340352": {
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmdhbnhGZW9OcUE5SGUyUmQ2RDdyQkN4N3d0ZVhtT201UTd5MEd1clhZc21YaUxIUVFMRTc2aUU5RzJWZTVQd3RmM19kUVhoVjJ4RElZS2UwbjdfNUhNVnY5NU1kTzNoUGFaX3VrNFZELUJmemg1R084Mm80cjFXd3FEeWhWczZ4MXFvNUo3c2pWLS14WnlqQlh4Y2JYaXlCZnVmeEdQcy1Udw?oc=5",
-    "timestamp": "2026-07-30T02:09:00+00:00",
-    "source": "reuters"
-  },
-  "5c40e55f40d01024e3020d4bd8d95dbc": {
-    "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
-    "timestamp": "2026-07-30T01:55:28+00:00",
-    "source": "nyt"
-  },
-  "4a593eefed6b1141f451057594a60ce0": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFZvamthZTNrZ0JiSDZZMVJBNW02Y1JiQUlvUlAwN1RRODcyUWNydUtZbGxpVVdhZElfTERINDh6ZURJZll3M25weWk4UVFPczliQWZ0MkRUc09VTTQ0X1BMVDBDa0hMdzE0TjBlYmI3UkJpYl9KZDFYMTFsZ05jNnd0Zm9wUHEwTlJObUEycG1BNTVqVTVQWjl5NnJqdEE?oc=5",
-    "timestamp": "2026-07-30T01:53:00+00:00",
-    "source": "ap"
   }
 }
