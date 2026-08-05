@@ -1,4 +1,49 @@
 {
+  "30529681e20fc5623be4087e5e7dc692": {
+    "url": "https://www.france24.com/en/ukrainian-capital-lit-up-by-massive-overnight-russian-strikes-killing-17",
+    "timestamp": "2026-08-05T09:51:46+00:00",
+    "source": "afp"
+  },
+  "1e6c43f35f6623460060ac2355006b12": {
+    "url": "https://www.france24.com/en/video/20260805-cameroon-s-president-reshuffles-military-as-speculation-on-whereabouts-persists",
+    "timestamp": "2026-08-05T09:24:12+00:00",
+    "source": "afp"
+  },
+  "c40dbea5f12d6862cf5fa02b93d3a759": {
+    "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html",
+    "timestamp": "2026-08-05T08:59:30+00:00",
+    "source": "nyt"
+  },
+  "1e14d7f81ce4e43f6ab78aec5111159a": {
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vbEI1Z1lXUkgyalZKWHpNUG5Sd0VpWEcwckUyWGVIbXAzZGR5am16ZjhIcTdGQkJIQm1udmdOM3JHcGZIeXB4dXZFanZOU1FMME9JV0V4dw?oc=5",
+    "timestamp": "2026-08-05T08:50:35+00:00",
+    "source": "fars"
+  },
+  "86780e4470c4e8cfe277b4144398565a": {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRkt1eGstMWVNYl9XRjRBTG1vb3hyM1dBQTRiOVB5TVltWVFJY0swTy1YVU1UZ1gyQlh4MmRZXzFfYW5VRkFYbS1WM3IyeHc0eTItVUVPTlhUcGJubkRnLTVKdFZyLXNo?oc=5",
+    "timestamp": "2026-08-05T08:06:06+00:00",
+    "source": "fars"
+  },
+  "5f2e8ba7dcb9e2ec8e545881f5e10976": {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmJPenJsYUFVUXJVNXRDN205US1NQnlqbFJ6aW1Pb3RNNlE0MHY0V2prVnZTVVlIQ2ExM3Q1WHp5bEpqa01UVHlHRDdZRXJlSTlTa3Z5R2hFdENLaUtRYnpMZEVhYWFfZE53X3V0eE9YMmM3QlBWamlvb0piMFU5U29Yb0ZVZ01acXhlZGE1Rzl4by15ZWdCUnUzTE0yc3lkWmdTZk9tUnJQUnRzUGdzVFJlT3lKQjlnZVd3Sm5vVQ?oc=5",
+    "timestamp": "2026-08-05T07:51:46+00:00",
+    "source": "reuters"
+  },
+  "e9fc0021f715e64f92e7940749d99232": {
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tWWpobnBaRW8tOXRTY1FZY180eWRWcmRSYk5qZzM2YzB0a0NVZDJRTnJuQldPU1dYb3kyZkpabEhJbURwX2tUZ0I5bERfQzRjcDJJUHpjQnU?oc=5",
+    "timestamp": "2026-08-05T07:41:33+00:00",
+    "source": "fars"
+  },
+  "64f4151ca3a4592d7c71b9abe0945278": {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWEQwU2pxeTRYSXhNQWtrT3hmNFhmOUx6eVUzUUt4aVBtOEpub01Fa3U5S0ZOYXRmU2oyb0t4WEpRRXZ3VmwxWksyYkNRcF9GbFJvbEpkMGxWWVY5alo2NS1LdDFzMWVPdmYtV082T3JOaVpoYW5NTFNncUxHZndSdnUzMXdWWHNXQWQ3NXZXMy02MDloQ3dWTHJhWHBfS2pNVnZoUXBEcVZKQm1HZXl5Ug?oc=5",
+    "timestamp": "2026-08-05T07:27:57+00:00",
+    "source": "reuters"
+  },
+  "f0b822c9d6484d6828d4588f34028cb1": {
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FalNBalZHYVJaN2VqTzV0OUtBeEdVVU9RVEZJLU9ZSi1rSkRmdmRtY1otUWNEQllMX3BDY2dyeFBIT1hvd1Q4S3VoemtKdzVqaGxPMGJqYndTak85Tnd2anA5b25FbGVyR1dubA?oc=5",
+    "timestamp": "2026-08-05T06:14:56+00:00",
+    "source": "fars"
+  },
   "13741444dd5f12bd7d70b001fcc4779d": {
     "url": "https://www.france24.com/en/americas/20260805-michigan-democratic-primary-test-progressive-movement-us",
     "timestamp": "2026-08-05T06:11:09+00:00",
@@ -23,6 +68,11 @@
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMkpnYUF2THhmeU1oTWlVZDhlRDBFZ05MMEExSXk4Sldrd3BZQ01ZTUpTc0tsbW5pYWJrcThGSkpXbkhWZHVvSzRYRjV6X3cyanUxQ2NKVXlxUkxFYXFtXzhQZlJCMV92dklHUzk5ZlZ4SUVhdElSX0VuWDBPYkdGbEtKS3NsVVhWUk80SUI3UzZ5cGt2LVh3bFRkeDNOa0F0T0d2NVhSUHFILXFUcjR4c0FjSVNzS2o0RWlZUHF4eWhYQ3ZSZmoxY2l2WFhETTgtYlpQNWJyNk5kUQ?oc=5",
     "timestamp": "2026-08-05T05:02:00+00:00",
     "source": "reuters"
+  },
+  "c4aba0f679dc2b99a79d750ed7886e0e": {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51V2hoU2VxZzdNcUg2RldXSFYwTXgydGRqSHRqdktRWDJ0eHpfU20tdWdiRXNBV3dBT1dLSTJPMlpQcmZDQlpaUVNWZFhQWlJEMC1GUUExVmo5dlRzeVNHR1FR?oc=5",
+    "timestamp": "2026-08-05T04:07:57+00:00",
+    "source": "radiofarda"
   },
   "0e7f66f26a225cda62324c0f48ff2728": {
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaFRSNUJ4Q1ZaYlI0cVl1UjMyRHBNdE40MEYtTGJ6YXplZTdyTG9XTkRDSzg3NUNhUGVTTkY3c1I1MThScU1pZF9Ta1hDYzlHeklKZU8xVTdpUE5xemw4eU4wcUxBUXQ4N1VmMTMxM1N1dXo0SXNMWklQc21EeTFUdnpvTlF4QXRlNGpQM1FySkQ5eDhCWDRLVDVRd1VlaUlpUmtuRS1TVkNEOXRhalVyOXF6VUhFM0JxdzVMaUlXWkpNM2s?oc=5",
@@ -144,6 +194,11 @@
     "timestamp": "2026-08-04T16:08:45+00:00",
     "source": "afp"
   },
+  "4bd429cfe81537841e73e79504eb39f4": {
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfTUVkTW1pRHlyQmZ1R0JidVRfZkpqRDRNOHhMaFBRa25xalBWQnpVQU5SLWxxaTM3N2xRcHlHaTh0ZXpFRGc0UHRyT1RYNzhnRUQwMk5lMA?oc=5",
+    "timestamp": "2026-08-04T15:31:44+00:00",
+    "source": "iranintl"
+  },
   "dcad06292552ee8e11c741775538cb3a": {
     "url": "https://www.france24.com/en/africa/20260804-togo-entry-point-weapons-russia-mali",
     "timestamp": "2026-08-04T15:15:28+00:00",
@@ -228,6 +283,11 @@
     "url": "https://www.france24.com/en/video/20260804-wildfire-prevention-requires-nature-based-solutions-land-treating-us-the-way-we-treat-the-land-1",
     "timestamp": "2026-08-04T12:43:52+00:00",
     "source": "afp"
+  },
+  "6a1e83c1f2b1d0784a5f020ffa2b1286": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FNmhoTjl2ZWNFb1FON1ItYUg3ZW54NlFsT2N2a05mQm1NNmVlUUF6dWhXbGZyZWxsdHc1eWk5SHRSUVB1cWxHMVo1aTJnZWp2LWxEYVozOUFjR0xtRW4xOQ?oc=5",
+    "timestamp": "2026-08-04T12:38:59+00:00",
+    "source": "fars"
   },
   "70c95fbbb3466bd988157cc46bc3424c": {
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEtUQkZFZkRmeUVMUF9KSXRLMUJXTzRSUXNHalpmSlp6WW4yMEJFaWQ5cTRPVHpwemJjb3hTNjgzQmswYWQ0R2hVOVkyV1pVOVBoZjhqSEFES2VVUWRLRzg1SmRxb0x6QmQxZkQwSnhhaXBLVTBrbTFNeWUwN1NISUIwQ3lxOGFWcEdDdkpBUzQwWmxPTkhJNjB1SVVlbS13OTMyS0Z0T1hQVkFpQkRF?oc=5",
@@ -469,11 +529,6 @@
     "timestamp": "2026-08-04T02:22:00+00:00",
     "source": "reuters"
   },
-  "c4aba0f679dc2b99a79d750ed7886e0e": {
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IUzN6UkJXcngtS3FzOVhjOHRKM1QxZUpDSFlEaUNRdFNtSzNzSnRCYmo0cVRfYzB2LXNjd2NNS251aXdsZnJqeUlENnBIOGN3bzJQXzln?oc=5",
-    "timestamp": "2026-08-04T02:02:56+00:00",
-    "source": "radiofarda"
-  },
   "ea698d8c0f8ecac9441f5c9fadce285b": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45Q1dhdnBObW1iZDJTTDh6ckdkQjZhM1N1dENrVjI2Z2NwWHplQnVtYWVTQnZTczI5Z2toazNFWFZlTlYzaV9nVTFhaWM5OGtiNXc?oc=5",
     "timestamp": "2026-08-04T01:40:00+00:00",
@@ -568,11 +623,6 @@
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWTMweFRadm51ZDBCVG5fZlAzdEFVZGZpZ2dVcVdsb0dfRHI4M3VzTWI4YllxTDBQUzJNUDQwLXFjZnVMMG43aW0zbnJ1ZmxyODhmdk1zeXhIVmdxc2F4OUlPNWZ6MFFZRTlKNnduenlqcjJDQ3JNWHpuZFBpejZmTXVva3ZwTWg1cnduR2hhMTJQYmVVZ3JacklNYw?oc=5",
     "timestamp": "2026-08-03T20:53:00+00:00",
     "source": "ap"
-  },
-  "f0b822c9d6484d6828d4588f34028cb1": {
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zYVJvbzVybGdKUXZCZDJHTXdNWDN3MzY4MzB3WXBUUXhLSTJXeTdBbjFXN0Y4WjhTakRiU0t2aDV5MnNBd1hIZDEzWnBKbVlHOXNZTkI0N2dtN19wdU9kOTQyTnhKQ3ZSaUo1bkp6Z2VENXhmRUVj?oc=5",
-    "timestamp": "2026-08-03T20:40:13+00:00",
-    "source": "fars"
   },
   "516e8b6e55e77fc5dcab4c8bdcb5d1f3": {
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWE5YTnBRcFkwQUx5NXBHMGMtaFFHTWh3d1pSRmVodEV1SkRnQmVHbUQ2RDRVZ1U0SUROd2U4YUo4VW95WmFHNWlnQUVkOU1NelRpd0VSVzNTa3o1d1ZqT0JfbjBtTTFTVW9JZVFFbUdsT1Y4U045WElfZFhabjRUZWdKY3BMVVIxWnEwRXlZcjE3bWNTV3UzbGNzdjdOM3FhX2lpckxaR2RJQkhfNlFwc080VEV3RUJUVzNRNFQySkxYQQ?oc=5",
@@ -1055,11 +1105,6 @@
     "source": "iranintl"
   },
   "6d19dd5c6477866b8e3abda7a3587a74": {
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tYlYwZW4wajR1bEtRbmMzSE85UWhnQk9meEpSWXFVc3pYRENodFZnUmZWdXNLVllIUS1wZjRTUzlRR19NVGdyeVdhLWpycW9FVXA3Yk9FUQ?oc=5",
-    "timestamp": "2026-08-02T16:19:23+00:00",
-    "source": "iranintl"
-  },
-  "4bd429cfe81537841e73e79504eb39f4": {
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tYlYwZW4wajR1bEtRbmMzSE85UWhnQk9meEpSWXFVc3pYRENodFZnUmZWdXNLVllIUS1wZjRTUzlRR19NVGdyeVdhLWpycW9FVXA3Yk9FUQ?oc=5",
     "timestamp": "2026-08-02T16:19:23+00:00",
     "source": "iranintl"
@@ -2453,50 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORklpbE9oc2VwaktZcXVwRkdXMWJORTd3Q3ZkNEFDb0IwODV5STBsbXJnbUljOXZSZ25PQzRkbVlwMXNVX01MWTY5NXQzMGpGZGtCakk2c2lDbmdwOVVub0xzVGtMSVBHU19JU3QtZTBRT1V1SzBRd2VPYjZ0dHR5bkVNLXFUcFoxTVBxbUdwNElOZ2NsWGFNV3NNaw?oc=5",
     "timestamp": "2026-07-30T22:42:00+00:00",
     "source": "ap"
-  },
-  "369f64ed5e9df8c5e6bf7e6344ed4554": {
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPazViY2xlNXBVX1BXZThuQUtvYjZ2Y0dHYnlxTG1FeEw3VzZBczVrRUlueGM0X1hHbnd2T3lodTV0UUgtekstcFo3TDJQMnktdmZZOXVERWI0dktTc1hwLVNIRUVtUThsM1lyRGVtUUlwZ1czT3BzOW9INjdqcl90QzNHYWJ6QklWTlRUOWdXYVhaemI5NXc4WXhFUDduMW5IaTNlMFU0TQ?oc=5",
-    "timestamp": "2026-07-30T22:40:50+00:00",
-    "source": "fars"
-  },
-  "4327d44d802c7b775f04b22100e0c04e": {
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPazViY2xlNXBVX1BXZThuQUtvYjZ2Y0dHYnlxTG1FeEw3VzZBczVrRUlueGM0X1hHbnd2T3lodTV0UUgtekstcFo3TDJQMnktdmZZOXVERWI0dktTc1hwLVNIRUVtUThsM1lyRGVtUUlwZ1czT3BzOW9INjdqcl90QzNHYWJ6QklWTlRUOWdXYVhaemI5NXc4WXhFUDduMW5IaTNlMFU0TQ?oc=5",
-    "timestamp": "2026-07-30T22:40:50+00:00",
-    "source": "fars"
-  },
-  "443e10284da30dd8aba8d422e8099dcb": {
-    "url": "https://www.france24.com/en/europe/20260730-climate-change-made-france-spain-wildfire-conditions-far-more-likely-scientists-say",
-    "timestamp": "2026-07-30T22:32:33+00:00",
-    "source": "afp"
-  },
-  "b7df96014ea7adadca912e26aed23280": {
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80SjhYTlBtSGRreTVSeDFkandPS2FZTXhtX2JJWTJBTkl0dHlKM3hHQWhnTmhUOXlfOWpvTzhES2dZMTdrZ2UzU3pNd0o?oc=5",
-    "timestamp": "2026-07-30T21:46:45+00:00",
-    "source": "iranintl"
-  },
-  "27393d5c92497c06a8918d4c4285c618": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00OFc3bDJCWHlDZTNjX0JVUmFnR1M4S0ZTNWp6Y0hwZ3dIQnR3aWF1VUk0Y2VuTWlseEFONUZLbkhJVXhNOTgyN2tjMGZNU0FscGc?oc=5",
-    "timestamp": "2026-07-30T21:10:17+00:00",
-    "source": "iranintl"
-  },
-  "80fb9fc87dc625a04ba73d2e9848b2a0": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QelEzc2xrWGNEWUF6bnBnX3Yya0llcnhwR0YyZFFVYXhFcUN1WWR5SkcyU3FoZlEtUUlublNGSGYyaHg2UE13bFJqTTVDMzhaRzh0YlZWcmFXRTdNUEVjUA?oc=5",
-    "timestamp": "2026-07-30T20:52:29+00:00",
-    "source": "fars"
-  },
-  "74ff64555c8b470e5c09f03c2b72dced": {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY19zWlhiQmx4WmRhRHRLMUdTbjhwdEdVcHpaUmMtWndRMlB1MFNiZ2pJMzJZcFJQWEJSTzdfSGl6R0FXV016c2JUODlSV0Y3ZzBEbWRFeUVkRDQxQ2p5S0VPRWoyc0lZS3pobjVGR0l5YTV1V1FEbmE2N1BscGlFZWlLTjl6Qmp4TDJmalFTX1ZYVUJEYkV2NjBCWVhuNmRsdC1UZzBCVm1GQ2djejdiWUo1UnBfT1UzNmc?oc=5",
-    "timestamp": "2026-07-30T20:08:12+00:00",
-    "source": "reuters"
-  },
-  "3a3ad41a6f235f55fb411279365e53ad": {
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVmxUdGlQaVZMTmM0Sk1jRzBCMEc0TDl0SDFpUktUWFFrU0JOMmxTWU1kUl9rVm43aHdCT1dRZDhzZ21TRU1qaktPRGRwbUZ6ZlB4LVFBckNuQVFtejlyMkhWc2dwMXZCal94RGtOdFprdTdWTExNc2d0LUZJbUY0ZFJsQkxwbm42Wlk4LWplamFDZHZfWVFMQWFPdi15clVYYkNoeXlSSXRneWx0Tm1PTXFCWVNfZVdYU09EaWowTHNnWUhlNDAwelozOUZjVFo1R2c?oc=5",
-    "timestamp": "2026-07-30T20:07:49+00:00",
-    "source": "fars"
-  },
-  "7421637d35846643a4300eff337a2173": {
-    "url": "https://www.france24.com/en/europe/20260730-france-spain-eye-respite-from-wildfires-as-other-blazes-break-out-in-europe",
-    "timestamp": "2026-07-30T20:07:11+00:00",
-    "source": "afp"
   }
 }
