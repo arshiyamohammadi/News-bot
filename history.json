@@ -1,4 +1,34 @@
 {
+  "57045c43501add91eae6b4ac31e2d7ef": {
+    "url": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html",
+    "timestamp": "2026-08-05T19:46:49+00:00",
+    "source": "nyt"
+  },
+  "33c97c0883c872eb8f4d3f22aa92fa76": {
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
+    "timestamp": "2026-08-05T19:44:00+00:00",
+    "source": "ap"
+  },
+  "165bd0d7e5b0699bbd3132f8ce8f0bd8": {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajFnaXk0anVrT2IwaV9XMDBma0pMQU53ZF9LRUJiT01nWjJsdG5FZXhwUjNtZFp2Yy1NV3Q4dFRIeUxzV1pCWk9RMVVZNk1UbWxxMFdiNEdNTG5KSVBVWTRCaWFJSFNlT3RiMFF6RWtqN2pnRThTUU9GaHNfelhwV3RZTXdfMzJwUk1aVlFXZ0FBNk1qWFFmd2xIRWNVWVpmQl9DSkE2NnhMaXlJZ2FFeQ?oc=5",
+    "timestamp": "2026-08-05T19:11:49+00:00",
+    "source": "reuters"
+  },
+  "63ec04eaf32b0de0076caa457847d737": {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXhKWmZFYjctT3FLTWdsTnkyVVdsRnRoRkZCaXBIWk9hcFhnSEU2YV9UZjM1end5SjFKTzFsYXFWY2RGR2lYcEotR0RDSkZwcTVXWF9CeUM2eGZFTGhodk5DMmk2Tm1BbHp0YXRzX3pOb241N2dGQ0tFYnR1elBQU0tzWUxvTFhyZ2JUYWRqY0lkYWlvbzlGS1gwRUpYYkhuQkxJaEdFQ3JYbFdQRmZXNEk4bV9EMkNFdnA1NQ?oc=5",
+    "timestamp": "2026-08-05T18:21:19+00:00",
+    "source": "reuters"
+  },
+  "36a5f6010e5044e9ea1f6fdd055a6de3": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0STRVbzd6ZjVodHRTelJTbUgzZkFWY3MtUUFnb3hQNVFjeW96R0hrUVVOLXRhcnVhcWhEWkpYdzZlMjhlQnpSV1EtQ0F0aWxDQ1E?oc=5",
+    "timestamp": "2026-08-05T17:45:10+00:00",
+    "source": "iranintl"
+  },
+  "eee26c469740276fcc03142c0a73656f": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YQzZMeWtlbGJvOHdncTRuVmd3Qk1FQ3ppSnNIZVpTYlcyMXRuSHV1UU9xTmlpWXQ2NmJ3bXZfRERLMXRidkpCdG9MRldnVUs3b2c?oc=5",
+    "timestamp": "2026-08-05T17:45:04+00:00",
+    "source": "iranintl"
+  },
   "ee056c17e203669a191ea07e680b2953": {
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
     "timestamp": "2026-08-05T17:44:00+00:00",
@@ -9,6 +39,16 @@
     "timestamp": "2026-08-05T17:28:32+00:00",
     "source": "nyt"
   },
+  "e4c146602229adbe544832407581eaf6": {
+    "url": "https://www.nytimes.com/2026/08/05/world/middleeast/iran-oman-strait-of-hormuz.html",
+    "timestamp": "2026-08-05T17:08:46+00:00",
+    "source": "nyt"
+  },
+  "d828df084a14c8ebca05c165da2e5b5b": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12ZjVXWmdQTW9oTHJtUklYdlRJeU1Qa1VualNNSGZrTm9lWFByVUJPZjJCLVFVLTBTd2Y5T3RKMGJUVVhNLUoyT0dZYkJFUDljdlE?oc=5",
+    "timestamp": "2026-08-05T16:47:00+00:00",
+    "source": "iranintl"
+  },
   "5ab48785ca748ab27973c4fe07be1e42": {
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdGd5eGNIbFJTUDl0MlJHQ01RR3F5NVhNaVJuTVpvZ0FJMHlrNnFhQ1hsOUFyNWI0c1cyX0RwbTRwTHNrTE1yQ0NzUmlmMXBPYkM1Q1Vya3hOOFRQXzVHOEhHemQtd1dQcXlrcFVZRUh3T0RoWkRiam9jUWxhNld2MjRPMjNwd3hhaWVlZ2IwN2UzaS05NG04dHVCM0FidUxtQjBNcy1GWThaRE9RT1VmOGFzT2g1MEhiUVludGVGaWhCUQ?oc=5",
     "timestamp": "2026-08-05T16:44:59+00:00",
@@ -18,6 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXZPbkhCTjRpQkNteVlfOVVkTkR4eGpFUFJTZmZySE5WQW1MakpaR1NUVEtXM0VucEpRbml6dUk1R2lsbE5vN3V5M0dHTHZad2JXUEsyUTlvVXFQU0hpNnE5Z3h4d0NMSE9OcXNocHRJQ1Q0eXV6M0phX05BeDFJblF1eDBpRGY2YzNGVHBCT21ISmRUSXhQc2V4dW9SeklwUkY5dmpsTWdzQWNHY2ZLX3NTNXNOeVhOejFRWUN2bURYYS1vOW9URmJR?oc=5",
     "timestamp": "2026-08-05T16:29:20+00:00",
     "source": "reuters"
+  },
+  "723e64b4c2c6cd59f8223aafc34567ef": {
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wWW5VUlZTNFVaUTgxbUo1bHpnZmNHRS0zS1oyNlh0aFFLbWFLZmlfTnlTZE5XNlFQaG5ydGU3WUFQem1hNVhJR0ZrVGFPRVlkYmdVelZvU0xSQnBR?oc=5",
+    "timestamp": "2026-08-05T16:11:02+00:00",
+    "source": "fars"
   },
   "7dc46a021edaad045173ec031c860b1b": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxU0w0Rjk1b2NIZnU4Und0ZWZTU2dpc0F5M2pxVVFRMERmQlRfNlBGaEJlRVRUeWdienhmQ2RRSENDQkN0ZVlrVS1zRWdOM1B2LVE?oc=5",
@@ -2453,50 +2498,5 @@
     "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
     "timestamp": "2026-07-31T13:59:18+00:00",
     "source": "nyt"
-  },
-  "c057573c6ef47658a312b33580218546": {
-    "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
-    "timestamp": "2026-07-31T13:57:13+00:00",
-    "source": "nyt"
-  },
-  "6f19de0b77c5a6cb4df69b7e35db436c": {
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ0FzQll1aTFYRm5WUmtXcG9QVUVwNzJ6UF81Y1hCU0x2UHhrZC1zaTI3RkcwTzZjaUoxa3R3eEZMZHdkeEhmSFZXZjNnQTJSdndvck8xN3JtOE5hbGZ0ZE85SEZPa1FrdXg1cXZzd21wQ1ExTTZRamlLNUpzaWNjU0NramZTSVl2cTd1bXlIM0lVUG1fVm9CRWNwT3dLNjhrVFlkZ240SQ?oc=5",
-    "timestamp": "2026-07-31T13:35:00+00:00",
-    "source": "reuters"
-  },
-  "1bc9a025326a2e2631e38c1c2c3874ef": {
-    "url": "https://www.france24.com/en/europe/20260731-eu-races-to-contain-new-migrant-crisis-as-thousands-cross-into-spanish-territory-of-ceuta",
-    "timestamp": "2026-07-31T13:21:06+00:00",
-    "source": "afp"
-  },
-  "123191b4933a5146bde8d7b5686bd48f": {
-    "url": "https://www.france24.com/en/middle-east/20260731-damietta-drone-attack-video-fact-check",
-    "timestamp": "2026-07-31T13:18:29+00:00",
-    "source": "afp"
-  },
-  "d4f5a3dd047e3dbefa3aebf83a4b20e0": {
-    "url": "https://www.france24.com/en/if-it-disarms-hamas-would-take-away-israel-s-rationale-to-occupy-gaza",
-    "timestamp": "2026-07-31T12:39:54+00:00",
-    "source": "afp"
-  },
-  "cd349801a1676f7f1fbfb0992ec4c9ee": {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbkc0bldHSFZlemNBVTg0Y2wwbzR6UHFEU2czWHZOSEV5X2lLOHNEc0pWUkgyd1NNellCY21yVnp3U01Nc21aTmhwSWVURGFnV2hyWTN4MF9meWQ0bGg1cG8zQ2p6aXRLczUyTzlOdlRiU0tLY3dsWmgyM0pkajE4enBULUNSVlFDUFlmeVhpSzBfYTBHOEJ4Q21MU19tWHgwMEphVk5ZM0FQQko2WlBvcFBWNjFuX1ZGc0VR?oc=5",
-    "timestamp": "2026-07-31T12:39:02+00:00",
-    "source": "reuters"
-  },
-  "a976ad74b9502c870d80ca74b43c6bae": {
-    "url": "https://www.france24.com/en/spain-s-pm-blames-trafficking-mafia-for-ongoing-ceuta-migrant-crisis",
-    "timestamp": "2026-07-31T12:34:04+00:00",
-    "source": "afp"
-  },
-  "e890c7af2c135d46e42e2d4171ee3513": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54d0hrY3l6Uk9OSWQ2RHZqVzRsY0xBRHhPQzRkemZPZHo5T0FCUU5Pc0Z5aEZsTi1VTWc2WHkzYktuSDl1Q2hzMHo1ZEN4U2xyTzJWN1JHR2VxX1pGaW9tSg?oc=5",
-    "timestamp": "2026-07-31T12:31:07+00:00",
-    "source": "fars"
-  },
-  "1e015b76da1db384fd43d356ed4912ca": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54d0hrY3l6Uk9OSWQ2RHZqVzRsY0xBRHhPQzRkemZPZHo5T0FCUU5Pc0Z5aEZsTi1VTWc2WHkzYktuSDl1Q2hzMHo1ZEN4U2xyTzJWN1JHR2VxX1pGaW9tSg?oc=5",
-    "timestamp": "2026-07-31T12:31:07+00:00",
-    "source": "fars"
   }
 }
