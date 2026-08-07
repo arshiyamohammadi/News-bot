@@ -1,4 +1,19 @@
 {
+  "a79d54102d2cd01bf4b36081c37e6eca": {
+    "url": "https://www.nytimes.com/2026/08/07/world/asia/japan-earthquake-kumamoto-preparation.html",
+    "timestamp": "2026-08-07T10:14:07+00:00",
+    "source": "nyt"
+  },
+  "e33fef29cc22cb153fdd74cb34670a21": {
+    "url": "https://www.nytimes.com/2026/08/07/world/asia/hospital-video-earthquake-surgery.html",
+    "timestamp": "2026-08-07T10:02:55+00:00",
+    "source": "nyt"
+  },
+  "e80dcfbbe51163d0102752b95fef5576": {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZS10NkNDSzZNU0hhVHhjcVJ5RFN1YUVXVFl4Skt5bEd6cDE4RDE1NDNKc2E5OXVIV01SWEVDN28xQTBFLWp5MWc3aW44OVBuaXNOZVR0dk5nWF8wR1NKRkdEOXFOaGphdnVFZmlYQ0xGSW8wYnplMi1nSzZDVDdTV21obTBoREpmcjBXZ1N0S1FVVEw3TG01Q2FKRXlEckxyb3k1NFdobFBDUTUxRjRHcmZQSVNXRlFCODhScUJYMFU?oc=5",
+    "timestamp": "2026-08-07T09:26:29+00:00",
+    "source": "reuters"
+  },
   "d4db8f126800e65cbf34811f7e39421a": {
     "url": "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html",
     "timestamp": "2026-08-07T09:02:36+00:00",
@@ -13,6 +28,11 @@
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5",
     "timestamp": "2026-08-07T07:53:48+00:00",
     "source": "reuters"
+  },
+  "4bd429cfe81537841e73e79504eb39f4": {
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hNlJDWUZPY1pYOHQycGZXM3RDWk8zRWU0YVE5UkhNMmVMbHhaelY1dmxwal8tWjhKdTIwY2JvUGFuMlVEbXpneS1fcTJwVGlmQTlobVlPRQ?oc=5",
+    "timestamp": "2026-08-07T06:54:21+00:00",
+    "source": "iranintl"
   },
   "417e4b314cf2c05362079545a4c62b92": {
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZlIyUFVBbEJvTndDSHJ1Q3VoTnMyTy1Nb3A0TmhRazEtUkxGYmNfUE10aElfZzFVWmhjcE9Za3lFVUhBRmpmdHNtTnpGd1pVMGJmd3FtMndvazRxakdYb3hrWnBnUHdzWndXTXVmdkJuNlMxQlQ1cFU4TVA5X3VyS2s4RWh3Rmg5Njd4UWxEZmx0eDVoalhzeHJYUQ?oc=5",
@@ -79,6 +99,11 @@
     "timestamp": "2026-08-07T01:45:27+00:00",
     "source": "fars"
   },
+  "ebbb8bf6348faeab7a460169f34f6481": {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZlNlTi0tMTdEYTJ4Zy1xU1JmQ0w3TFRtOW80d3ZuU2dtc0FwUE5pUmJwN19EQWlIdzVQTHpOVmR3RlJMSzRHNnE2Tm5KaDg3eGNjUzF0R1RtT2Q2c3Fsd0pHRWtoN2NaRXZyMGMwZmdBX1dTMUNjempFdm5XNTBxTGt1XzNsd3E0Rk5HRlB2WnNTWUF6ei12eWhYY3UyZw?oc=5",
+    "timestamp": "2026-08-07T00:31:00+00:00",
+    "source": "ap"
+  },
   "f2c4ba588fad2abc672737e1161ced5c": {
     "url": "https://www.france24.com/en/middle-east/20260807-middle-east-live-saudi-arabia-pakistan-turkey-to-sign-defence-pact",
     "timestamp": "2026-08-07T00:02:57+00:00",
@@ -88,6 +113,11 @@
     "url": "https://www.nytimes.com/2026/08/06/world/middleeast/houthi-yemen-strikes.html",
     "timestamp": "2026-08-06T23:38:14+00:00",
     "source": "nyt"
+  },
+  "642b87918a5c1566574df81b34a9a5a6": {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2dZRzk2MlVWMDJsRHU0ZTRJT2ZJNEU4WGx4dTdoa2x3YXNwN1QxQXRKRXBzNG4zUDhuMGVyVFhRSy1GM2ViZ3RralowZXVxNjFHTFJnRkwxc2dqZVoxRVB1c3Z3eHR2aDJwZU5zSjR6WVl2WWxpSS01RW9uQVpWNFpDVkE0emJGcF9VVlJEQ1g?oc=5",
+    "timestamp": "2026-08-06T23:32:00+00:00",
+    "source": "ap"
   },
   "5e55773fa63936615c58d36d752570cf": {
     "url": "https://www.france24.com/en/americas/20260806-us-backed-venezuela-political-transition-talks-begin-without-nobel-laureate-machado",
@@ -1258,11 +1288,6 @@
     "url": "https://www.france24.com/en/video/20260804-europe-passed-the-test-of-ceuta-crisis-says-eu-commissioner",
     "timestamp": "2026-08-04T16:08:45+00:00",
     "source": "afp"
-  },
-  "4bd429cfe81537841e73e79504eb39f4": {
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfTUVkTW1pRHlyQmZ1R0JidVRfZkpqRDRNOHhMaFBRa25xalBWQnpVQU5SLWxxaTM3N2xRcHlHaTh0ZXpFRGc0UHRyT1RYNzhnRUQwMk5lMA?oc=5",
-    "timestamp": "2026-08-04T15:31:44+00:00",
-    "source": "iranintl"
   },
   "dcad06292552ee8e11c741775538cb3a": {
     "url": "https://www.france24.com/en/africa/20260804-togo-entry-point-weapons-russia-mali",
@@ -2473,30 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FMm1URjFVeHV1SzVFM3E0VWp4Q1Y5bXdyd043ZlhWUmR0d1JqVUJHeUZJcUI4cTJUcV9wQ0didEdZRnpkLUhsTThLSngwMGt5Y1E?oc=5",
     "timestamp": "2026-08-01T21:00:00+00:00",
     "source": "iranintl"
-  },
-  "7133606bf17b7a69d5f08264248a1ff3": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FMm1URjFVeHV1SzVFM3E0VWp4Q1Y5bXdyd043ZlhWUmR0d1JqVUJHeUZJcUI4cTJUcV9wQ0didEdZRnpkLUhsTThLSngwMGt5Y1E?oc=5",
-    "timestamp": "2026-08-01T21:00:00+00:00",
-    "source": "iranintl"
-  },
-  "07370fc1b8cba83b4daddf08d03ed7bb": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WMjhsVkNzdXB0RHlGTlB0dS1pZDZaMHp3N0o5YnZNdktIcnRKclJQME0yUk9yUjJ2NFV3QTBNN0ZjMGtVZVEzZVlELVVlNy1NcVE?oc=5",
-    "timestamp": "2026-08-01T20:52:11+00:00",
-    "source": "iranintl"
-  },
-  "b90a566d99549e4a3434b20df58caf04": {
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sbm85M3c3UHM2SXZLeXI2UWQwcUFWaGltX2VyMlJjSnZSMDZqM2FsWEU2cTNaZGFlOVFUaFdoNFUwRU1Ba2lMb2VGTWR1RlNfVlpBcGwxeFZJWnBPVm1Dd1R5Vk5hTGt6?oc=5",
-    "timestamp": "2026-08-01T20:19:05+00:00",
-    "source": "fars"
-  },
-  "1d4f0863d3ed00dd60b89ff65d19800b": {
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sbm85M3c3UHM2SXZLeXI2UWQwcUFWaGltX2VyMlJjSnZSMDZqM2FsWEU2cTNaZGFlOVFUaFdoNFUwRU1Ba2lMb2VGTWR1RlNfVlpBcGwxeFZJWnBPVm1Dd1R5Vk5hTGt6?oc=5",
-    "timestamp": "2026-08-01T20:19:05+00:00",
-    "source": "fars"
-  },
-  "1c43edaa4ba8f63edb092fefd5544e68": {
-    "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
-    "timestamp": "2026-08-01T20:14:08+00:00",
-    "source": "nyt"
   }
 }
