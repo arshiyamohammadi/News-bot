@@ -1,4 +1,49 @@
 {
+  "f2a2b6147b7a0b72f6913f10bd6ac80e": {
+    "url": "https://www.france24.com/en/turkey-saudi-arabia-and-pakistan-sign-defense-pact",
+    "timestamp": "2026-08-07T12:12:34+00:00",
+    "source": "afp"
+  },
+  "db390d1c051368743722704b04aa128a": {
+    "url": "https://www.france24.com/en/middle-east/20260807-middle-east-live-saudi-arabia-pakistan-turkey-to-sign-defence-pact",
+    "timestamp": "2026-08-07T11:31:44+00:00",
+    "source": "afp"
+  },
+  "309cb27e38a9e780ece407dda3113824": {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5",
+    "timestamp": "2026-08-07T11:23:59+00:00",
+    "source": "reuters"
+  },
+  "e0e5836ca83ae0892e8b7ead5ade90d8": {
+    "url": "https://www.france24.com/en/video/20260807-usa-democrats-progressive-wing-can-win-primaries-can-they-win-a-general-election",
+    "timestamp": "2026-08-07T11:09:46+00:00",
+    "source": "afp"
+  },
+  "5f4a03d5a76e12b6a1b27c9a0fb4c537": {
+    "url": "https://www.france24.com/en/thailand-gunman-killed-grandparents-before-school-attack",
+    "timestamp": "2026-08-07T10:56:11+00:00",
+    "source": "afp"
+  },
+  "677b8d1fc128fcaa88521019fec6fc8c": {
+    "url": "https://www.france24.com/en/europe/20260807-in-pictures-drought-exposes-word-war-ii-ships-grounds-boats-europe-river-levels-plunge",
+    "timestamp": "2026-08-07T10:51:44+00:00",
+    "source": "afp"
+  },
+  "9f1cba5f00da080a9a1adbd5a82410c3": {
+    "url": "https://www.france24.com/en/french-farmers-heavily-impacted-by-climate-crisis-both-psychologically-and-economically",
+    "timestamp": "2026-08-07T10:39:13+00:00",
+    "source": "afp"
+  },
+  "f0b822c9d6484d6828d4588f34028cb1": {
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxMzFFeHZxYzl3T1BSYkloa2czcTZWdG1hOHBpTG1iZVRfWWNmeE10Ujc0QzkzTXl1X2Vtd3hkcGphYS1haFQ1eTVZZEo3OFBrYzFGZEFlbDZPT0stLXJkNHBJSXFpS3dBMkJqTmRuVzhEaEtWaTNxaQ?oc=5",
+    "timestamp": "2026-08-07T10:34:51+00:00",
+    "source": "fars"
+  },
+  "554d33250d57f0f0e177620d7a0c4547": {
+    "url": "https://www.france24.com/en/video/20260807-colombia-s-abelardo-de-la-espriella-takes-office-vows-war-on-guerrillas",
+    "timestamp": "2026-08-07T10:30:17+00:00",
+    "source": "afp"
+  },
   "60577022761f10afb78e4ff1d90ebdd9": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FN1JSdm1rUmN6ZWNEUlAxWW1Db0NuVTFnajJ1YkZVUzlrVUNSZ2piOXZRdXlYNG9PanUxOWc2TGxOemxKOHYwbFJPbXFGQVoyNVE?oc=5",
     "timestamp": "2026-08-07T10:29:30+00:00",
@@ -8,6 +53,11 @@
     "url": "https://www.nytimes.com/2026/08/07/world/asia/japan-earthquake-kumamoto-preparation.html",
     "timestamp": "2026-08-07T10:14:07+00:00",
     "source": "nyt"
+  },
+  "b04082e9ef8a7c23f26a4ae937afbe29": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QdHpFelhYQW4tWWZEU1ZaU0UyMlprNi1lMVVGdWR3Yzg0Y0xWWk9zSTNMcmFqUkN6bGR6czJZVmljdmp1Y2FRZ29NQXhzeTc0QlE?oc=5",
+    "timestamp": "2026-08-07T10:04:42+00:00",
+    "source": "iranintl"
   },
   "e33fef29cc22cb153fdd74cb34670a21": {
     "url": "https://www.nytimes.com/2026/08/07/world/asia/hospital-video-earthquake-surgery.html",
@@ -1133,11 +1183,6 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWEQwU2pxeTRYSXhNQWtrT3hmNFhmOUx6eVUzUUt4aVBtOEpub01Fa3U5S0ZOYXRmU2oyb0t4WEpRRXZ3VmwxWksyYkNRcF9GbFJvbEpkMGxWWVY5alo2NS1LdDFzMWVPdmYtV082T3JOaVpoYW5NTFNncUxHZndSdnUzMXdWWHNXQWQ3NXZXMy02MDloQ3dWTHJhWHBfS2pNVnZoUXBEcVZKQm1HZXl5Ug?oc=5",
     "timestamp": "2026-08-05T07:27:57+00:00",
     "source": "reuters"
-  },
-  "f0b822c9d6484d6828d4588f34028cb1": {
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FalNBalZHYVJaN2VqTzV0OUtBeEdVVU9RVEZJLU9ZSi1rSkRmdmRtY1otUWNEQllMX3BDY2dyeFBIT1hvd1Q4S3VoemtKdzVqaGxPMGJqYndTak85Tnd2anA5b25FbGVyR1dubA?oc=5",
-    "timestamp": "2026-08-05T06:14:56+00:00",
-    "source": "fars"
   },
   "347482ff2f65198e01c63d7f57446be3": {
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FalNBalZHYVJaN2VqTzV0OUtBeEdVVU9RVEZJLU9ZSi1rSkRmdmRtY1otUWNEQllMX3BDY2dyeFBIT1hvd1Q4S3VoemtKdzVqaGxPMGJqYndTak85Tnd2anA5b25FbGVyR1dubA?oc=5",
@@ -2452,51 +2497,6 @@
   "e9541aa864846d02a69687aecce0d7e9": {
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LZmd0VlJmWk9tRWNrM25zUWpBRTBNelZfdjdQcC1UTlBYcUFfcUlNNjItV3V1MGVyZEl5cjdhYzllbHVWVUxRUFM3YVFEd1F2VXJ5RXM0QQ?oc=5",
     "timestamp": "2026-08-02T00:17:14+00:00",
-    "source": "fars"
-  },
-  "da9814804bb4bf4a16fb644510972a75": {
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LZmd0VlJmWk9tRWNrM25zUWpBRTBNelZfdjdQcC1UTlBYcUFfcUlNNjItV3V1MGVyZEl5cjdhYzllbHVWVUxRUFM3YVFEd1F2VXJ5RXM0QQ?oc=5",
-    "timestamp": "2026-08-02T00:17:14+00:00",
-    "source": "fars"
-  },
-  "d7295ab55874bcb0d08ce424eb3954b8": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56VUlfbEhJLUd0clk0aGFpUlY1SE1mVzhzUHJoS2FoaGZLUExOZmhMX2pRM3duVkFNN1lUX3VvcVZnUFRoQUFfVFpGUHMyY2Vicm0wLXNYMWU1V1dYYkE?oc=5",
-    "timestamp": "2026-08-02T00:06:06+00:00",
-    "source": "fars"
-  },
-  "a4410305ffc70e1a8733b5976ce46d1c": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BRW5TMENVZHp4V2RjZ0hpTm9ici1xdld4T2k0blpqb1JURDdEYUt0NDBvOTVRdFAzdEZrWVdRQXEwMHZJWWFLSHU1WnkwUGUtU1E?oc=5",
-    "timestamp": "2026-08-01T23:56:00+00:00",
-    "source": "iranintl"
-  },
-  "8370db7f23633b9fcf31149ab0c88bd7": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BRW5TMENVZHp4V2RjZ0hpTm9ici1xdld4T2k0blpqb1JURDdEYUt0NDBvOTVRdFAzdEZrWVdRQXEwMHZJWWFLSHU1WnkwUGUtU1E?oc=5",
-    "timestamp": "2026-08-01T23:56:00+00:00",
-    "source": "iranintl"
-  },
-  "0cb685e428cf57d7abb7ba195ebc9768": {
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzFyTXBvZ1pGeVZXTUlTRWM3VGxjTjd5dXk4Y1RwZUYtaE9adFlFRGNkcU1tNmR6M2lCckhIN2cwMG54RUNiNzNib3RQVWxLd1FqWlY5eVZObDc4b3NCdGlLZi10a214V25teXViTkpCZXBXeDRfazBSOUNJVkZTM1RLcWt5SzUwaURiUUJMcDlOZFJFTkg5NXZXV0ZuakxZanh2YUNVMko3R1pJS3RsUFBsQjNpOXlLcHQwbHJtZ1FZWk9VdDRz?oc=5",
-    "timestamp": "2026-08-01T23:50:00+00:00",
-    "source": "reuters"
-  },
-  "3341ab35bb2d08e2c1c8e3039b04a484": {
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42RlZRUmNDNnFLb25XdUhJdk1tWF9YOWdiN1ExWGRlN3l5bEdFV0V5dnUwT3pjdWJxRVh3N1BlelJ2bXdtQTFBelo2RGx2YjBKcW52cHdTRQ?oc=5",
-    "timestamp": "2026-08-01T23:13:57+00:00",
-    "source": "fars"
-  },
-  "b6b65a189cbab21a6fc3b6c34c4957bb": {
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IMENGMl9GTmhiaVJ2SmpTQ2V3TFJDOTFfYWpURVhTMmRUQXgweFhWNTZUUWUzdi1YTGFQQ1FmbWFIZnBQZlA5WUFfMzJuR3ht?oc=5",
-    "timestamp": "2026-08-01T23:02:19+00:00",
-    "source": "fars"
-  },
-  "7363c6f800d035aca88a960554830ddb": {
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IMENGMl9GTmhiaVJ2SmpTQ2V3TFJDOTFfYWpURVhTMmRUQXgweFhWNTZUUWUzdi1YTGFQQ1FmbWFIZnBQZlA5WUFfMzJuR3ht?oc=5",
-    "timestamp": "2026-08-01T23:02:19+00:00",
-    "source": "fars"
-  },
-  "f515246c817f25b5aaecae882795476c": {
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOaHZIVXd0MXZXRWNmZnNFSlY4bGJES3ZLVVYtVjNaeTg4SUFfWEVWYTkxMDRfYkRLSzQyaE5RcTAzdktfcno0RjNsNzlIWDdxU1cxU3VCNWhOODdIc2hGV3Fn?oc=5",
-    "timestamp": "2026-08-01T22:42:53+00:00",
     "source": "fars"
   }
 }
