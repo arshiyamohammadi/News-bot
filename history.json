@@ -1,13 +1,28 @@
 {
+  "52e4e3d46e6fd4eeb2ad94bdabc8828e": {
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2d1E3MDdjb250T00zaUlhdUJKdHpWRTJSZ0Rxa0p6Njc2c0gtcG5kYm5jX0hvNE5jSVNuaEpDQmx0VXNkdDBaRHM5UFl6VUViUjdCa0NKRQ?oc=5",
+    "timestamp": "2026-08-07T03:07:55+00:00",
+    "source": "fars"
+  },
   "8f856bbc66d65aac2657baf5c9cda115": {
     "url": "https://www.france24.com/en/technology/20260807-meta-new-mexico-567-million-child-harm-public-nuisance",
     "timestamp": "2026-08-07T02:21:47+00:00",
     "source": "afp"
   },
+  "5852c79be442a95f4cc41b99d40cae1c": {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0YzMU1OZXgxZVVsOS1zOHl4RnZ3SVU4WWtmNFVBd24xM1JNbVlvY0dXMm5DQUZQcDh4WHh1YTZpemRib1NEX1JDOTVqR20wZ2ZObnFJN3dtVkdHS3otcEF3OVBaTUVlTEtNNGw5eUx2QkozTGhvRTQxOHd0Vk5xX194QQ?oc=5",
+    "timestamp": "2026-08-07T02:16:00+00:00",
+    "source": "reuters"
+  },
   "a9dd197e4feeb8333c9116132c5bb41d": {
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
     "timestamp": "2026-08-07T02:08:15+00:00",
     "source": "reuters"
+  },
+  "f2c4ba588fad2abc672737e1161ced5c": {
+    "url": "https://www.france24.com/en/middle-east/20260807-middle-east-live-saudi-arabia-pakistan-turkey-to-sign-defence-pact",
+    "timestamp": "2026-08-07T00:02:57+00:00",
+    "source": "afp"
   },
   "df2296e73869d54caa411d10f8bcb47b": {
     "url": "https://www.nytimes.com/2026/08/06/world/middleeast/houthi-yemen-strikes.html",
@@ -2483,20 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWRtajJreDVJMGhOOThIQlk5NUN1Uk9hUzBzSWQ3UE0zck5kbG9EZ0g0OXhZRUNsVGZfRlgzM3BLZzRFenl5LWJfQ0paYkJhcFpBYzRFQTgwcE1Kck51bEVZd0pJbGZ4LWZkS202bGt2OC1mbTdBeHVhU3ZQM0MwZWVGSExDRHR6OFUxTmJjNHRiUWxDbHdhLTRzdWZfdC1uU3c?oc=5",
     "timestamp": "2026-08-01T16:16:00+00:00",
     "source": "ap"
-  },
-  "6d3835bdd84d2761c604b3f6d4546661": {
-    "url": "https://www.france24.com/en/europe/20260801-russian-forces-strike-targets-ukraine-odesa-mykolaiv-ports",
-    "timestamp": "2026-08-01T15:53:05+00:00",
-    "source": "afp"
-  },
-  "0b4588805e344df0669390205c230ac4": {
-    "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
-    "timestamp": "2026-08-01T15:50:12+00:00",
-    "source": "nyt"
-  },
-  "c2af3e02ce7d3532dd093d18401acf47": {
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXRXNWJWSDNJWk9BVFdoMVlpX0lCVURrSmtnQXRVUVE1TjJqVG1sNXU2QkZZUjZ3cHhVWk1pajNteWtJRmllQjBVSFMybFlyQ00tVjBLQ3ktS2dRVjdLRkRNa3lIU1pZcWNYVjlOb0VhNDRaYkhIa2Ewd09pOTE4ZVUydjNkNzVhd2JETW44Sy1EUjBmbnFUWlRlZVg2eVpONlFzNTg1Nk14NWtJaFJNbm9NM3RrLW5VU19nXzZhazg?oc=5",
-    "timestamp": "2026-08-01T15:45:39+00:00",
-    "source": "reuters"
   }
 }
