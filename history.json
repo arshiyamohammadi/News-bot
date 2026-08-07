@@ -1,8 +1,28 @@
 {
+  "d17b8f142b2826a853aed2b04619684d": {
+    "url": "https://www.france24.com/en/middle-east/20260807-houthi-attacks-kill-at-least-10-in-yemen-as-iran-backed-rebels-target-marib",
+    "timestamp": "2026-08-07T20:52:45+00:00",
+    "source": "afp"
+  },
+  "5a8da2d45d91cb7e62167609dcf94d47": {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaUlRc0EybG1QTjhRc0F1OUxpNjVwQjdnVHZ4VWwxWEllQkp1Q0lKdHREWkxJRGl2T2l4QTZObW5VajVxbDYzQm5RbWxuV3FBbmJ0WXh0Yk5xbkx0UzNvbE4zQzBqN0FwTUZJa3VfTVl1aGxiTEowLTRIT1pYOXZxNXV0Y0MwamNqLTJrNkR5LXN5WEJDX29TMmpoY25fMUxsS01fMGRDVkVrZlRidEkxV0FXT2R2M3dnc3B2WU5BczZSQQ?oc=5",
+    "timestamp": "2026-08-07T20:20:43+00:00",
+    "source": "reuters"
+  },
+  "2740aa8df4a0c8604a05d490736c0520": {
+    "url": "https://www.france24.com/en/ebola-cases-surpasses-4000-cases",
+    "timestamp": "2026-08-07T20:18:26+00:00",
+    "source": "afp"
+  },
   "97e1206f63363df02282755d00aa7d9e": {
     "url": "https://www.france24.com/en/americas/20260807-never-speak-about-palantir-leaked-audit-reveals-the-un-s-palantir-problem-united-nations-ai-tech-wfp-iaea-ethics",
     "timestamp": "2026-08-07T19:58:10+00:00",
     "source": "afp"
+  },
+  "454dff761666bfa8b1c0ced8b6521df4": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zSW12ODlWZGY3MVFqN0h3dF9IbThjTUhWWkpXNzNVTngyaHBUZUF0dVJSaXEyLUJIeURrb2IxWGJxbkMzRk4xVzlXdDJvVGpZMnc?oc=5",
+    "timestamp": "2026-08-07T19:25:00+00:00",
+    "source": "iranintl"
   },
   "184aa19fceab96d1062e862b940f62dc": {
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMkZHc1FWRXNSWG5BdjNhZ0dqOEdNUFUtUl80NTNFYkFrM2RrLVBiSXlOOFdaek5hcEhIMl84OVJLZnVDMzNodFBScmliaFdNYUpaN21uQ3V3VmQ2V1p3MGZ0QUozdTJQb09EcTJ1VERWc3E0d1Z5dkNvalFEcEVSQzRQejkwZmdybVJTVDJPbk4wMS1hWFBOaXJKaTE4MUxHNS1STUFxTzN4S0ZDSmtZOXFhdUZaa0d1?oc=5",
@@ -2478,25 +2498,5 @@
     "url": "https://www.france24.com/en/us-israel-to-hold-off-on-iran-strikes",
     "timestamp": "2026-08-02T15:11:30+00:00",
     "source": "afp"
-  },
-  "796f5dab67bbca039b9633edfb4626c5": {
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SYVZIU1ZZMGZ3aGUyVjVQNjlIOHJwUVZrX2FTUHlRZEFUYnpnelFJbTFRbXUxd1FvZ0pIcEdVVU1TMGM4cFU4Z0hRMWw2bUhnYjFzQVFBQi1pelRFSEowb1lDenB3eTho?oc=5",
-    "timestamp": "2026-08-02T15:02:05+00:00",
-    "source": "fars"
-  },
-  "8b559afcd7f062784bcfca5a6d4f009c": {
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU0hsUjhJMWI1WXh1VkRmYTVMdzNvcmpNeEplc3pyeHFsM0J5LU9mSzJkNk9sUXpUQ3JITERKRzlNQ004Sm9WMHplUVVyYm9UWmowQjR2ZXlscnJXc3JOMmtKTG1aWUMzNXduNENWY2Y5UFlPWEZnbUpNR1VzYV9kQjJrUGgxNXFvYnBpSVBKdlVEajBzRklYYThaWGtXb25BU0FIN0QzYlFxWmMyRVRUdnRzcHpua2xYdktsNklfQ1hpVE1zSHc?oc=5",
-    "timestamp": "2026-08-02T14:59:22+00:00",
-    "source": "reuters"
-  },
-  "e825645a872c6b7712136180236e4f18": {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWWdtblg2S1BkaGRZcFZVZ2d1TndRREJ6Uzd0N1BkUG5qVFFWU2ptSDNSc1NXdHBYTVBydUtSNlhfdVI5bGZLRGNvQ2JKVFFEQ09mTTZLcFJuWlVfRG5LOGNDWFZrSXEyVlJZaXVwejBkSXZKN1U5ZXpQbmlRbjRzb3JIX2JHQUc2V1pvMlphX3dFTkx6YjRSR3ctOVJXUG5aNEhNejRSOHIta1FN?oc=5",
-    "timestamp": "2026-08-02T14:49:00+00:00",
-    "source": "ap"
-  },
-  "4260330d62d04eb3e039b864bdb5ccd6": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IZ3BWc0xwcThabkNUQlludm1kQ0lYR0dBNWhGSENCdEdLenVsUVV2S1paMnQxajdTSlhONmNCenFSdlA5a2JueUtHaEdnQkhOa2c?oc=5",
-    "timestamp": "2026-08-02T14:33:26+00:00",
-    "source": "iranintl"
   }
 }
