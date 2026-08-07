@@ -1,8 +1,18 @@
 {
+  "11021402db58a4d352bc4b895f621fd9": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ENzk2SVFRcU5FZ0lreUxIRXZkQWRvZHlxMXNwVE4tOTR4aFhhNlRDYlFLQUROd3RaS0RLUC1DR3pROS1VbXVPYXZubG1EQTd5Nnc?oc=5",
+    "timestamp": "2026-08-07T15:36:00+00:00",
+    "source": "iranintl"
+  },
   "b904ea0a939c0f42ba1f66f8d6596e0d": {
     "url": "https://www.france24.com/en/turkey-saudi-pakistan-attack-on-one-nation-deemed-an-attack-on-all",
     "timestamp": "2026-08-07T15:09:46+00:00",
     "source": "afp"
+  },
+  "111467bfe43ef69a581e0f5a9dd794c1": {
+    "url": "https://www.nytimes.com/2026/08/07/world/europe/danube-germany-ships-serbia.html",
+    "timestamp": "2026-08-07T15:09:38+00:00",
+    "source": "nyt"
   },
   "8ba5837264708ee86fb3b9cdd589e57f": {
     "url": "https://www.france24.com/en/middle-east/20260807-concerts-pro-assad-singers-cancelled-syrian-public-protests",
@@ -193,6 +203,11 @@
     "url": "https://www.nytimes.com/2026/08/07/world/asia/japan-earthquake-kumamoto-preparation.html",
     "timestamp": "2026-08-07T04:01:15+00:00",
     "source": "nyt"
+  },
+  "c4aba0f679dc2b99a79d750ed7886e0e": {
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wUGdBTUlmeU5tdDkzbW1kcHlvcjNUc24xQXJGY2dsRGQ0SVptVUFLUFFPOW00UmpVMG1qV1VIcm9yVFRnNzhmbXQ2Qzd4eTd4UUZidjN3?oc=5",
+    "timestamp": "2026-08-07T03:35:00+00:00",
+    "source": "radiofarda"
   },
   "52e4e3d46e6fd4eeb2ad94bdabc8828e": {
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2d1E3MDdjb250T00zaUlhdUJKdHpWRTJSZ0Rxa0p6Njc2c0gtcG5kYm5jX0hvNE5jSVNuaEpDQmx0VXNkdDBaRHM5UFl6VUViUjdCa0NKRQ?oc=5",
@@ -1283,11 +1298,6 @@
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMkpnYUF2THhmeU1oTWlVZDhlRDBFZ05MMEExSXk4Sldrd3BZQ01ZTUpTc0tsbW5pYWJrcThGSkpXbkhWZHVvSzRYRjV6X3cyanUxQ2NKVXlxUkxFYXFtXzhQZlJCMV92dklHUzk5ZlZ4SUVhdElSX0VuWDBPYkdGbEtKS3NsVVhWUk80SUI3UzZ5cGt2LVh3bFRkeDNOa0F0T0d2NVhSUHFILXFUcjR4c0FjSVNzS2o0RWlZUHF4eWhYQ3ZSZmoxY2l2WFhETTgtYlpQNWJyNk5kUQ?oc=5",
     "timestamp": "2026-08-05T05:02:00+00:00",
     "source": "reuters"
-  },
-  "c4aba0f679dc2b99a79d750ed7886e0e": {
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51V2hoU2VxZzdNcUg2RldXSFYwTXgydGRqSHRqdktRWDJ0eHpfU20tdWdiRXNBV3dBT1dLSTJPMlpQcmZDQlpaUVNWZFhQWlJEMC1GUUExVmo5dlRzeVNHR1FR?oc=5",
-    "timestamp": "2026-08-05T04:07:57+00:00",
-    "source": "radiofarda"
   },
   "0e7f66f26a225cda62324c0f48ff2728": {
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaFRSNUJ4Q1ZaYlI0cVl1UjMyRHBNdE40MEYtTGJ6YXplZTdyTG9XTkRDSzg3NUNhUGVTTkY3c1I1MThScU1pZF9Ta1hDYzlHeklKZU8xVTdpUE5xemw4eU4wcUxBUXQ4N1VmMTMxM1N1dXo0SXNMWklQc21EeTFUdnpvTlF4QXRlNGpQM1FySkQ5eDhCWDRLVDVRd1VlaUlpUmtuRS1TVkNEOXRhalVyOXF6VUhFM0JxdzVMaUlXWkpNM2s?oc=5",
@@ -2488,15 +2498,5 @@
     "url": "https://www.france24.com/en/gaza-overnight-israeli-strikes-kill-at-least-8",
     "timestamp": "2026-08-02T08:42:26+00:00",
     "source": "afp"
-  },
-  "dc1039b681ab0f64762cab6a27161437": {
-    "url": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html",
-    "timestamp": "2026-08-02T08:08:33+00:00",
-    "source": "nyt"
-  },
-  "7b14940a909540f119b9e5bdebdf373f": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJNEw4YWVnZlRxX204UFhRUkh4bUJtT05YckZtOGxfUS1wVlAtTkZyU2l3eElBVEFwdExlTUM4TFRoNFdyalVWQWlTS1BHQ1pXd1loOThzWVBhbG5za0E?oc=5",
-    "timestamp": "2026-08-02T07:57:34+00:00",
-    "source": "iranintl"
   }
 }
