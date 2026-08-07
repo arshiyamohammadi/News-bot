@@ -244,6 +244,11 @@
     "timestamp": "2026-08-07T07:53:48+00:00",
     "source": "reuters"
   },
+  "f24fce1dd4a8a4b0b23ead80f0d39aec": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QSVBBeFJpNWo0aXJSdGRKaXNHVUFvWkd5TFI1SlBhalMzRTExN0s2NF9aaTd2Qzg3ZExDVGVlS3RMYlRBX2JSNHZ4czBqSFk2TldYT081ZGkydEpWcFhvdQ?oc=5",
+    "timestamp": "2026-08-07T07:15:02+00:00",
+    "source": "fars"
+  },
   "4bd429cfe81537841e73e79504eb39f4": {
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hNlJDWUZPY1pYOHQycGZXM3RDWk8zRWU0YVE5UkhNMmVMbHhaelY1dmxwal8tWjhKdTIwY2JvUGFuMlVEbXpneS1fcTJwVGlmQTlobVlPRQ?oc=5",
     "timestamp": "2026-08-07T06:54:21+00:00",
@@ -2492,11 +2497,6 @@
   "1aef0e7de115e577661b00923e144ef9": {
     "url": "https://www.france24.com/en/fire-spread-deeper-into-athens-region",
     "timestamp": "2026-08-02T15:12:24+00:00",
-    "source": "afp"
-  },
-  "9f3f823819e64cd9c30f8da6a2c777ac": {
-    "url": "https://www.france24.com/en/us-israel-to-hold-off-on-iran-strikes",
-    "timestamp": "2026-08-02T15:11:30+00:00",
     "source": "afp"
   }
 }
