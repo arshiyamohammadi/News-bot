@@ -1,4 +1,19 @@
 {
+  "d4db8f126800e65cbf34811f7e39421a": {
+    "url": "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html",
+    "timestamp": "2026-08-07T09:02:36+00:00",
+    "source": "nyt"
+  },
+  "042c42719f0646a1f71988e993415ef1": {
+    "url": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
+    "timestamp": "2026-08-07T09:02:00+00:00",
+    "source": "nyt"
+  },
+  "159fa75b87cbf553c761cb34927e9796": {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5",
+    "timestamp": "2026-08-07T07:53:48+00:00",
+    "source": "reuters"
+  },
   "417e4b314cf2c05362079545a4c62b92": {
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZlIyUFVBbEJvTndDSHJ1Q3VoTnMyTy1Nb3A0TmhRazEtUkxGYmNfUE10aElfZzFVWmhjcE9Za3lFVUhBRmpmdHNtTnpGd1pVMGJmd3FtMndvazRxakdYb3hrWnBnUHdzWndXTXVmdkJuNlMxQlQ1cFU4TVA5X3VyS2s4RWh3Rmg5Njd4UWxEZmx0eDVoalhzeHJYUQ?oc=5",
     "timestamp": "2026-08-07T06:02:00+00:00",
@@ -58,6 +73,11 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
     "timestamp": "2026-08-07T02:08:15+00:00",
     "source": "reuters"
+  },
+  "47cedfbcbf67f205fc9f13a07a597a51": {
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iMWtENjdzRUNZekZSOTVKV0xQUmpRMV9DaDdzVm4zejI0Zi1fdjZBaXFRd3Vkd0NaYVk3Um84WkNfdDB0V2FUcURGYnNTcVRHSFVURy1CYUpQOVVxazFpWC1lWmtzUQ?oc=5",
+    "timestamp": "2026-08-07T01:45:27+00:00",
+    "source": "fars"
   },
   "f2c4ba588fad2abc672737e1161ced5c": {
     "url": "https://www.france24.com/en/middle-east/20260807-middle-east-live-saudi-arabia-pakistan-turkey-to-sign-defence-pact",
@@ -164,8 +184,18 @@
     "timestamp": "2026-08-06T18:53:24+00:00",
     "source": "fars"
   },
+  "ab25a2248f3ec16174eeeee1a3ba7ba0": {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSExCQ3NUNmxhRWVjcHVLcUp5RVZLbnBWR3pWY2RFcy1BdjdMTUVwVVFGc2xISEN4dXpxeWloSDFXQ1hFQ2x4VFlsYk52QVlKV3NZLWZJNmliSElKRk5YU2FUVnBZbmlBSjFhQ3BNdmVEbm5QX0lqd2JJbVVBZm9ZYXR1N09ibWdPNEk0dlZ3WmhGU2Jiejd0NUJkXzdmLTI1UWRCdlgzdU40MzJ5eXdLN1ctRQ?oc=5",
+    "timestamp": "2026-08-06T18:30:00+00:00",
+    "source": "ap"
+  },
   "645ecce49635f7adb09f01522a958e15": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1U1JBTHlUVkZVZFVXMnVRN3paeGNYczcyaTZKWGo0cEEtdVhMWkx1VlVtVnNnaUxnbGpRY3N6OE96bXVTMHI4Sm5WRGVVX2VEdWc?oc=5",
+    "timestamp": "2026-08-06T18:24:00+00:00",
+    "source": "iranintl"
+  },
+  "1f54805b1f4cafef812e2c9d5c895172": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DZzgzdlBLRWZGOFdCU3dmT3NQd01oN09zYjBnUkotWGdIYUpCRlpKWi1qSnlPRjRvZTcxeUM0blRxdnlzT0ZGUWwxLVcxOWNnZGdxUl9qUUJ3emc1dnc?oc=5",
     "timestamp": "2026-08-06T18:24:00+00:00",
     "source": "iranintl"
   },
@@ -212,6 +242,11 @@
   "67d8fd85b0a30de2c431d5e8c2b5660b": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sOHVmLUZ6UTBjTUFtZnFhRmhkalh3YzFNbVRyNzE2RkdLZm1EZ1EteVl3MGxyRkNMTDlvZ2dtVFFZVnozdmRiU2lBTTI0ZVg5NXc?oc=5",
     "timestamp": "2026-08-06T15:55:10+00:00",
+    "source": "iranintl"
+  },
+  "db70838480ff8281ca9cb0f1162355d7": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55cENSSDduVkhQVDNDaWZqd1p5aGQtSjFacmRwb0tMWjBWTDNfbnFwSUQtUk5HMEtPcWFCOVpTODM3ZWdXOEd1Vm1pNHM1aWZlQXc?oc=5",
+    "timestamp": "2026-08-06T15:15:05+00:00",
     "source": "iranintl"
   },
   "052a5aa0f0e5cf0d61519e0b12a8e13c": {
@@ -500,11 +535,6 @@
     "source": "reuters"
   },
   "cfc4f535b194a06d1616488a04d5865e": {
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Rb2djSWZPOTJMcHBIMjVxWWFzc3VRa0NxRGxoOWt5YlFmM2xwaEt4SENlSDZlUEVTOVJUM01JSU1sWWlQUGpKQ2VMZG1IcjZ2aGtzRFpVQ3hiamxyUVpJN1JkY2w?oc=5",
-    "timestamp": "2026-08-06T00:20:55+00:00",
-    "source": "fars"
-  },
-  "47cedfbcbf67f205fc9f13a07a597a51": {
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Rb2djSWZPOTJMcHBIMjVxWWFzc3VRa0NxRGxoOWt5YlFmM2xwaEt4SENlSDZlUEVTOVJUM01JSU1sWWlQUGpKQ2VMZG1IcjZ2aGtzRFpVQ3hiamxyUVpJN1JkY2w?oc=5",
     "timestamp": "2026-08-06T00:20:55+00:00",
     "source": "fars"
@@ -2468,35 +2498,5 @@
     "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
     "timestamp": "2026-08-01T20:14:08+00:00",
     "source": "nyt"
-  },
-  "bd60d5f1a13f736b638c2b1a0e05e68a": {
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjdiZU1CVmhFWmRaYWtqRW82NnNUMEZjRzNlR293WTljQW1McXpnY3BiLXdWbVdobmRIdUJDVmVuWngwUHRVSUtyMkJjejRkQTl4WU0xc2xfcFpwaHBKamZGdUNqd1RIblhERllZY01hYjlmVUdOblVIVGxjTjVqVndGSURnTGJ5M2U5Vkp6dDVIRHZPZW8wTmRYaXl4WmQtejR6SzFBaw?oc=5",
-    "timestamp": "2026-08-01T20:14:00+00:00",
-    "source": "ap"
-  },
-  "555d710d9313f364515b54c002709052": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aMXBRNE1uWklreHZkbmU0dnh6THdWdWxKbXJQQzFlR0ROc2hLT01hcl96THJXWXRkVU9FcUdhREtDY1JVRkpsSk1ldlRFbVk2TFE?oc=5",
-    "timestamp": "2026-08-01T20:00:00+00:00",
-    "source": "iranintl"
-  },
-  "a70b9c5fd477efb069e1e1e17cd763a5": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aMXBRNE1uWklreHZkbmU0dnh6THdWdWxKbXJQQzFlR0ROc2hLT01hcl96THJXWXRkVU9FcUdhREtDY1JVRkpsSk1ldlRFbVk2TFE?oc=5",
-    "timestamp": "2026-08-01T20:00:00+00:00",
-    "source": "iranintl"
-  },
-  "1d48e059a155f6d0c185def9af772ffc": {
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQZlFsOGhRZXpJSkVCOW9scWRFWmcxd2FwNlB5LTZDODRnbE11OHZpOWhIejlhWGFuOEpDN24ycHVwLXVqSS00emNLSTFEY0tDeFFpc0lueFp0MmJX?oc=5",
-    "timestamp": "2026-08-01T20:00:00+00:00",
-    "source": "iranintl"
-  },
-  "546aa92f788e38134ed09cc7c03c5f2e": {
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQZlFsOGhRZXpJSkVCOW9scWRFWmcxd2FwNlB5LTZDODRnbE11OHZpOWhIejlhWGFuOEpDN24ycHVwLXVqSS00emNLSTFEY0tDeFFpc0lueFp0MmJX?oc=5",
-    "timestamp": "2026-08-01T20:00:00+00:00",
-    "source": "iranintl"
-  },
-  "fd41aab7f48dcd86a3f536f2da23cfc8": {
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pUFNlcTNfekJ6aldlWEc2YkxvUzNTQnRJNFMwbUIwcEtVS2RFRzNQQk8xeF9ZbWVta0RiWldfbjY2ZFRuODRiZXZBZGg1QzZ3WVpDbmlyVzR1SDlHTTJqSkFBUnV5M0hoZ3ZRZDJR?oc=5",
-    "timestamp": "2026-08-01T19:51:06+00:00",
-    "source": "fars"
   }
 }
