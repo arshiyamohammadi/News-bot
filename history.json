@@ -1,4 +1,9 @@
 {
+  "a0e8ec077522707ea1b10adb4c8534e9": {
+    "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
+    "timestamp": "2026-08-08T15:11:40+00:00",
+    "source": "nyt"
+  },
   "6622be701f44cb7fb5ecab1d45e2a398": {
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE?oc=5",
     "timestamp": "2026-08-08T14:00:00+00:00",
@@ -43,6 +48,11 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5INWt1YmNwQlY1Tl9kQ1Q5aVltakNLTnJSWVpwTGo5d3FZM25nazJkdTBIM01PNmszeXotSGl5ME50WlRFUW9mclpTSmp1MlA3UHc?oc=5",
     "timestamp": "2026-08-08T10:43:53+00:00",
     "source": "iranintl"
+  },
+  "ddd5afeb635e7617b5647a1e636aab16": {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM2lHbkI1OWxqUXdmZjN1SmEyTGFVSXVWTmowOFdFTzdWdTh2dVhIZFA1dF9IVy1fQ0dEZ2RtR0kxdkVOdDIzRFZVVkhaNXhyRjN2T292Q2d2UV9hUC15ZC00V0pFa1FoWUpfLWg0YTh1c2V6aUgwblZwTVhtX2dQZHFXN3N3X3hFNHI0bWViZUhXR3kyc0VxVzlnY2Z4RnhuN3dSeEUySjRBZks0cVlnSkk0X1NPNG03MGJCZTgwSU1UeWtqVDZfLUNwSQ?oc=5",
+    "timestamp": "2026-08-08T10:41:26+00:00",
+    "source": "reuters"
   },
   "ad70efb513bac7c1fae7d3b25270c6ea": {
     "url": "https://www.france24.com/en/video/20260808-france-looks-up-for-night-of-stars",
@@ -317,6 +327,11 @@
   "6d19dd5c6477866b8e3abda7a3587a74": {
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85cFM4clpyOHp6N1I0WHp2Q243X3YyZkRXb29xVnpNemdaSFYtcGtGNFVfV19PUVJRWUNwaDJPay14VjFiZ3JqUjVmRHF4NEVZLWlZbkxRUQ?oc=5",
     "timestamp": "2026-08-07T17:21:59+00:00",
+    "source": "iranintl"
+  },
+  "56fabcbe795b257fb0481259e3268cea": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51R0FLS1UzeEpKZEtlS0stUU9PRndHaG1nbWFfZV82UzZpSlZiWmd5RS1XVk1TbWYweDA3enBnSWQxME9FSHJSWUVJcmJobDk4TFE?oc=5",
+    "timestamp": "2026-08-07T17:09:48+00:00",
     "source": "iranintl"
   },
   "97d1c37466290062ee3ebf5b297bd2a1": {
@@ -2482,21 +2497,6 @@
   "0d5a588fc4814f266f19f4d437e9e05a": {
     "url": "https://www.france24.com/en/iran-calls-trump-s-bluff-as-it-denies-negotiating-with-the-us",
     "timestamp": "2026-08-03T14:44:31+00:00",
-    "source": "afp"
-  },
-  "6b7ab7de79e57eaf92b54bead4ada26f": {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSlhBWjU3Vnk4RkhNa1N0cExPUjhxenRiTGVQbVVzakwxRWdhMU9ieVZvSm5fZU4yYkJaREVJR3ltYUhXZW1JYkx6c1lJS1ZYVkM4WVZZSGQza3ZQMDVTYVg5ZktqbGh6RjhWN2wzRTNZUDg0U0JEU2R3N3U2NkVmYjNlOFhHTHFUYmd1QzFGRlg1V2lzWnhabkVVLUt3YmVQS0dGeUwtUnVKb2xMZjQzOGZvY0NKQQ?oc=5",
-    "timestamp": "2026-08-03T14:26:09+00:00",
-    "source": "reuters"
-  },
-  "cfe54d824983e804ef6e0ee0fe90eb4e": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82V1NrdzNNOVVjcXVfcVJKVnE3a1JvYXBaRjlOVkIyVkUxNnctbl9XVzhKUVhIcVk0blJtYmFBNDgxR28wMHdhb1hUWXM0a1RMbEE?oc=5",
-    "timestamp": "2026-08-03T14:01:04+00:00",
-    "source": "iranintl"
-  },
-  "83cb08ab9b4971b25f8a0a95e8e858b2": {
-    "url": "https://www.france24.com/en/europe/20260803-hard-right-reform-uk-proposes-navy-led-operation-to-stop-small-migrant-boats",
-    "timestamp": "2026-08-03T13:29:32+00:00",
     "source": "afp"
   }
 }
