@@ -1,4 +1,9 @@
 {
+  "b3b3762143dbd05b612e4b221615b521": {
+    "url": "https://www.nytimes.com/2026/08/08/weather/heat-in-italy-will-spread-to-western-europe.html",
+    "timestamp": "2026-08-08T09:02:19+00:00",
+    "source": "nyt"
+  },
   "0b0d816f47f5aa680353db95f219d7f9": {
     "url": "https://www.france24.com/en/tv-shows/focus/20260808-vietnam-s-indigenous-hmong-people-forced-to-adapt-to-climate-crisis",
     "timestamp": "2026-08-08T09:00:07+00:00",
@@ -158,6 +163,11 @@
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMkZHc1FWRXNSWG5BdjNhZ0dqOEdNUFUtUl80NTNFYkFrM2RrLVBiSXlOOFdaek5hcEhIMl84OVJLZnVDMzNodFBScmliaFdNYUpaN21uQ3V3VmQ2V1p3MGZ0QUozdTJQb09EcTJ1VERWc3E0d1Z5dkNvalFEcEVSQzRQejkwZmdybVJTVDJPbk4wMS1hWFBOaXJKaTE4MUxHNS1STUFxTzN4S0ZDSmtZOXFhdUZaa0d1?oc=5",
     "timestamp": "2026-08-07T19:15:43+00:00",
     "source": "reuters"
+  },
+  "5af69e83f0f3191119a295399c2dec57": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVY2FuOUc5ODFLbkNxQ0hHci1id1VMNHllbUpPVWJ4QkQxQzBVTC1hNUdvVGU4S0JLU1pVYlFPNHVDWXBZRkhBRkhtWmNkckNjaFE?oc=5",
+    "timestamp": "2026-08-07T18:57:19+00:00",
+    "source": "iranintl"
   },
   "5d56fd0d2ba8d23ab66a55882735f938": {
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0pzeU9VRmJkMDBtRWM3MFhyR3JKTENJeDVfb3pNNHpycXViQnF6LWpveDVmZlotcWVrV0M3cTV4Q1hyTUlPcnRwaDFqRW5fWE5BdlFSYVd4NnZ5MWU2X241OU1QVzZkREh5MjVVMFBlY0k3RDgtM2RDUEFWNVVwUlJ4RFo4OHpGanRuclQ1WXV0bmVZX1MtRUZWak5ERjJ1Y0FLQlR3SlBtS2VyM0EyWUlJQVRJdw?oc=5",
@@ -2488,15 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hUzU5TUE5SUdhdFY5ejA4c0kxQzgwYVJadkg3aDF6YzQ5Qy1ReENlRWsyWWVWS1lFY3FJUXlZMnUyOWh0LVNCeVVPZmNlMkt3d2c?oc=5",
     "timestamp": "2026-08-03T09:25:07+00:00",
     "source": "iranintl"
-  },
-  "4c9ccf7156df6b252084dd9789dd0722": {
-    "url": "https://www.france24.com/en/video/20260803-us-israel-agree-to-pause-further-strikes-on-iran-after-weeks-of-violence",
-    "timestamp": "2026-08-03T09:20:19+00:00",
-    "source": "afp"
-  },
-  "ee046095cea43679665c76d27f55f294": {
-    "url": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html",
-    "timestamp": "2026-08-03T09:05:12+00:00",
-    "source": "nyt"
   }
 }
