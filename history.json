@@ -1,4 +1,39 @@
 {
+  "206525c356a6488398a00a3d06bfe4b1": {
+    "url": "https://www.nytimes.com/2026/08/08/world/asia/thailand-mass-shootings-gun-laws.html",
+    "timestamp": "2026-08-08T11:06:48+00:00",
+    "source": "nyt"
+  },
+  "ae6b5a8d7d9f626af734bdb52746b830": {
+    "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
+    "timestamp": "2026-08-08T11:00:45+00:00",
+    "source": "nyt"
+  },
+  "ad70efb513bac7c1fae7d3b25270c6ea": {
+    "url": "https://www.france24.com/en/video/20260808-france-looks-up-for-night-of-stars",
+    "timestamp": "2026-08-08T10:39:12+00:00",
+    "source": "afp"
+  },
+  "0a8d50175707d5d35b1ffc15f35dc6bd": {
+    "url": "https://www.france24.com/en/video/20260808-serbia-s-vucic-attempts-diplomatic-balancing-act-with-zelensky-s-visit",
+    "timestamp": "2026-08-08T10:34:40+00:00",
+    "source": "afp"
+  },
+  "0c2964c1c6e11d03ec0a8644008b802b": {
+    "url": "https://www.france24.com/en/india-protesters-face-online-backlash",
+    "timestamp": "2026-08-08T10:29:39+00:00",
+    "source": "afp"
+  },
+  "99955d443876b529fb8e9439c6ba9801": {
+    "url": "https://www.france24.com/en/science/20260808-sharks-tapped-help-with-hurricane-prediction",
+    "timestamp": "2026-08-08T10:17:48+00:00",
+    "source": "afp"
+  },
+  "3531b900f6e9317578a011551176e688": {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdWRVbHNkMjA4cmYxWXRuOEh0bjk4YlNZODFMYXphZEJNZlhRYmhtX3JUTWplenMzemoxYU01LXoydTNfX3p5N29nSkNkSnYyMENNbXJ2RU9FeU1Ed2s1b3lXdWNPYjNwWXg0S3Fodm9TVGRyODBQX2Z4dVQ2bTRpTmh6cDJhQTh3ZWNtTlRYdkU3UEJKeTFqcmhEY0VQNl8zUDkxTW51YXM0OG1jUHpDb2Ewa1ZXdHRqRWFYeWF3?oc=5",
+    "timestamp": "2026-08-08T09:02:26+00:00",
+    "source": "reuters"
+  },
   "b3b3762143dbd05b612e4b221615b521": {
     "url": "https://www.nytimes.com/2026/08/08/weather/heat-in-italy-will-spread-to-western-europe.html",
     "timestamp": "2026-08-08T09:02:19+00:00",
@@ -18,6 +53,11 @@
     "url": "https://www.france24.com/en/cuba-no-power-no-fuel-no-internet",
     "timestamp": "2026-08-08T08:33:34+00:00",
     "source": "afp"
+  },
+  "c0500c3ca0bcd00fcf8e42e9fa08b3eb": {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE?oc=5",
+    "timestamp": "2026-08-08T08:33:00+00:00",
+    "source": "ap"
   },
   "63a1c851e74ac80cbd1b27b84f65d24e": {
     "url": "https://www.france24.com/en/crocodiles-attacks-increase-in-kenya",
@@ -50,6 +90,11 @@
     "source": "nyt"
   },
   "231117ba86cb1ff792dbf31e2da891a3": {
+    "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
+    "timestamp": "2026-08-08T04:01:50+00:00",
+    "source": "nyt"
+  },
+  "cc3b4235271830aadce300f5dca47cf0": {
     "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
     "timestamp": "2026-08-08T04:01:50+00:00",
     "source": "nyt"
@@ -2453,50 +2498,5 @@
     "url": "https://www.france24.com/en/cuba-could-collapse-what-s-trump-s-plan-for-the-island",
     "timestamp": "2026-08-03T10:37:19+00:00",
     "source": "afp"
-  },
-  "99266a1d3b82ae5ab72a63d5dd422705": {
-    "url": "https://www.nytimes.com/2026/08/03/world/asia/massive-attack-singapore-palestinian-flag.html",
-    "timestamp": "2026-08-03T10:35:49+00:00",
-    "source": "nyt"
-  },
-  "1b5413bd84e1f7733a76afff046812b7": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xYk9oYUlYY0FTSDBBc2lqQVd2VUEtTUFoVkVybFZvWW5WVHlMckZfX2J3aEY4SlQ5Zlp4R3FaNWNYREREQWxNRjNxT1Zfc0EzbHc?oc=5",
-    "timestamp": "2026-08-03T10:27:56+00:00",
-    "source": "iranintl"
-  },
-  "67eba917dafaa45c358237a42463c4e3": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xYk9oYUlYY0FTSDBBc2lqQVd2VUEtTUFoVkVybFZvWW5WVHlMckZfX2J3aEY4SlQ5Zlp4R3FaNWNYREREQWxNRjNxT1Zfc0EzbHc?oc=5",
-    "timestamp": "2026-08-03T10:27:56+00:00",
-    "source": "iranintl"
-  },
-  "4212227af07f9591344dd4707b1be486": {
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd05NQV9PbUhNVzR3RzNMenhhRG05Nzc2aEJyNzVCSXllSllRRHAxS0NsSHdieGZrN1dweURfd0ZTRWZDYnFjcFZKWW1yOXlxYkJIelZTZTNJMkZsd0xhS2loTGd3UkVqdWVXWmNoQ0pjVTkzZG9ZaGU0NkFjcFZ4NWVGY20zamtOb1k4R2FQdW56V3daV1daeHRsc3JieERjYlI0c0tBSzdBcVZ2bG5qSzFtcjNocDVLREpPMFNsWC0?oc=5",
-    "timestamp": "2026-08-03T10:05:54+00:00",
-    "source": "fars"
-  },
-  "ef101884a8b6ce0feaa4cdbe337b8fbe": {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU2VYbG9DT1JoZWlaZkxlVTc4T01mcjJ0cU9rc2FCWWxuY1dONTVmN0ZTU1RUZzlLUTNGbzgzYURCTFFqZzRWVXZSWXZKZC1Ldm05dFVOdmNZdnlxRVBBUzE2VDVjSU1wMlFXMkFBeDlKeVBuRWQxa2tYV1hPb0hvOHdRd0JvUGREek5HZXhuVXpMR0RBZzdKSE1fNmIyQWVzRVdfUEEzdkt5Zm1XNUVOVnpnbEg3bnNu?oc=5",
-    "timestamp": "2026-08-03T09:55:59+00:00",
-    "source": "reuters"
-  },
-  "970de62f016395221e5910d392d9dccf": {
-    "url": "https://www.france24.com/en/video/20260803-it-s-going-to-be-a-very-close-election-brazil-s-lula-launches-fourth-term-bid",
-    "timestamp": "2026-08-03T09:48:53+00:00",
-    "source": "afp"
-  },
-  "0e6f22cdb614791a51141d0d487c6960": {
-    "url": "https://www.france24.com/en/lula-launches-seventh-presidential-campaign-centred-around-brazil-s-sovereignty",
-    "timestamp": "2026-08-03T09:43:15+00:00",
-    "source": "afp"
-  },
-  "6e574036e339691c66cbb589c1c2e34d": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hUzU5TUE5SUdhdFY5ejA4c0kxQzgwYVJadkg3aDF6YzQ5Qy1ReENlRWsyWWVWS1lFY3FJUXlZMnUyOWh0LVNCeVVPZmNlMkt3d2c?oc=5",
-    "timestamp": "2026-08-03T09:25:07+00:00",
-    "source": "iranintl"
-  },
-  "b38a1de2dce956d628488b2f1449ec39": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hUzU5TUE5SUdhdFY5ejA4c0kxQzgwYVJadkg3aDF6YzQ5Qy1ReENlRWsyWWVWS1lFY3FJUXlZMnUyOWh0LVNCeVVPZmNlMkt3d2c?oc=5",
-    "timestamp": "2026-08-03T09:25:07+00:00",
-    "source": "iranintl"
   }
 }
