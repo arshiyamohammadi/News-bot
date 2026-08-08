@@ -1,8 +1,28 @@
 {
+  "2706e763e7bde2bbe9bcb4b6d1757f70": {
+    "url": "https://www.france24.com/en/russian-attacks-kill-several-in-ukraine",
+    "timestamp": "2026-08-08T13:12:48+00:00",
+    "source": "afp"
+  },
+  "3335a5d0a12abd65f5cb0eff6960614d": {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
+    "timestamp": "2026-08-08T13:08:46+00:00",
+    "source": "reuters"
+  },
+  "99c9c1ec972a1dd3fc2daf83be9eb03d": {
+    "url": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
+    "timestamp": "2026-08-08T12:52:36+00:00",
+    "source": "afp"
+  },
   "cf9dfe0c7a1d242cf0a584a84a11e554": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02WDlZQk03SjJxNzJDWjN0bjFDQkNmSzNQRHV0TzFzN0FjUTVsVHgySjlxV2RUV2xvb1I3QjJOT0ZOUldBcFhBWi0zWGVSc3hpOHc?oc=5",
     "timestamp": "2026-08-08T12:25:05+00:00",
     "source": "iranintl"
+  },
+  "984c0b1f91eeec605cec2269857fb054": {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajV4Uk9FTWd2WFJTWWVSZS1pdkl4OGFERFdzeExaYy1udkYxWGdXYWxRdHUwd2kwLVRtRTdhRkdVdUZuNXZ3U09EQUR3OXUwUzVtZmZZeWZkWmlkTThUTDBYNVBjbE9IWVBQZnhhcHBfcFVnZTc0NG1uMk54dElXNkhzQUFZR3VkRW5QZkthVjdfdTJOaXR6YWxiZmtfdzJROGg3bWFuOVhuV2ZkTDNLNkg4d18?oc=5",
+    "timestamp": "2026-08-08T11:46:57+00:00",
+    "source": "reuters"
   },
   "206525c356a6488398a00a3d06bfe4b1": {
     "url": "https://www.nytimes.com/2026/08/08/world/asia/thailand-mass-shootings-gun-laws.html",
@@ -28,6 +48,11 @@
     "url": "https://www.france24.com/en/india-protesters-face-online-backlash",
     "timestamp": "2026-08-08T10:29:39+00:00",
     "source": "afp"
+  },
+  "45880f0d6fabff9325fe5fc0acaf7380": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aZjFDQUhZWjZPYWVrN0NxbVpsRDlidWQyMkhObjE4UV9YMGVCSzJIV1p6WDN6Mld2ZzFKMXFHOXkwai1wUU9LdUVjcVFEOS1BWEE?oc=5",
+    "timestamp": "2026-08-08T10:20:47+00:00",
+    "source": "iranintl"
   },
   "c6998f9dd28ba57dde9607e161930e83": {
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPclAtNUZ3Z3drR0pPSjJpaVBLa292ay1pdEZxZlJnanFnT1AwbGJPYVJZbEVZWWVRSm9xempKX3VVXzM5NlRzRFNVWHJiSFBEZk1vRmsxekhLZnFZLXpjb2xlcXFJOW10bHZzZlN6NXZjMUVfR1VxWENJV2JqT0ZMemlkbWNJZFN6QkpYSFUwbkdKeXp4UHowQlR3ZEk1bnNEWVhWdE1vMEhrbEpFbW1jT1NEVUFlQ19mRmxSUTh3?oc=5",
@@ -78,6 +103,11 @@
     "url": "https://www.france24.com/en/crocodiles-attacks-increase-in-kenya",
     "timestamp": "2026-08-08T08:30:50+00:00",
     "source": "afp"
+  },
+  "e72ce9a2a8764d32b6e3bd2b000ee5ef": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHcHZqSjViOFhyWEY4MThDam9JYUhia01jVGFKeFJudzU4TGYtd0NlOEFlOThQY0pSRGw4QmtjdEFxWkNnREJuSDBBV1lTM3Jmenc?oc=5",
+    "timestamp": "2026-08-08T08:27:50+00:00",
+    "source": "iranintl"
   },
   "638a15eb27e8933b0f950086d7d46ae0": {
     "url": "https://www.france24.com/en/saudi-turkey-pakistan-deal-for-joint-support-amid-regional-war",
@@ -2468,35 +2498,5 @@
     "url": "https://www.france24.com/en/after-donald-trump-s-latest-u-turn-uncertainty-remains-over-talks-with-iran",
     "timestamp": "2026-08-03T13:19:21+00:00",
     "source": "afp"
-  },
-  "7b164ac5284fbae23beccd095965d828": {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVFQdnYtT25JcU9yZC1KUVlDaTN6djh5UjRtdDV0bFM2N2lXZWFfZXBoSFN5LXpuSFJDZkcxMWZUdzhyYzFfUFhtSS15OGxmR2N6X25zOEtkNjVMdWw3d3loUG1YNXVyMW9waHBELVNMMWdZMHNnNFJmZmFMaE9ZWDdKeWtrZGNPamRScm5SV2Q0UFBsaDFuUk1JX2hnSndseUVhV2VESW1zZDlVNnhjSVBn?oc=5",
-    "timestamp": "2026-08-03T13:11:18+00:00",
-    "source": "reuters"
-  },
-  "3a38c18ce91e9bc433ee69b32ce3a9f9": {
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN2tLQnhCUXRGMDk1T1g3THZjNXVTbFBsUFIzSVc2U19xUl9UM3haNWRQbERvWElBVHA4Y2h0NHJ4c0dzYzhHUjZ4aFBoaS1UX29Cc3JPeHZBRkplNTJaU3JvamtqNDFqTnZEYTluVjNGUk5mZFVhekpBTHMxcUltLUxOSU1rUl9Za1dOcXkyejQwNzhYemRxSE1keDVpRlNiWEo3WjZBNF9TZw?oc=5",
-    "timestamp": "2026-08-03T12:37:47+00:00",
-    "source": "reuters"
-  },
-  "8048a068304e5d80d8d6e9aea22ba1c0": {
-    "url": "https://www.france24.com/en/amid-a-drought-and-soaring-temperatures-hungary-shuts-down-its-nuclear-plant",
-    "timestamp": "2026-08-03T12:34:47+00:00",
-    "source": "afp"
-  },
-  "4097aed1a74bb03f9c796c96ce838237": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMjd6NTB1UFpVNHR2aDgtMWpCR1RINVpBbjJpR0h1WWRoSm85dzlaTTFLRXV2am5YT182WmY0WE40Z2dGaEdsdGZ4YXEyeGZTanY2em9OMkNpN1B4dmZOZC1pY05OLThKM3FsZlNpMy1hejV0SUx3eEZpVnQ0eW1NVnAtRjhMWWNSVjFudk5tOFluanZmQks2UTRpTmd2STM1NXJwMmdJOGx3MURuckE0ZTFGLURvaFphRUN3Zg?oc=5",
-    "timestamp": "2026-08-03T12:24:47+00:00",
-    "source": "reuters"
-  },
-  "61bc17356e7e39007320a81898a9b917": {
-    "url": "https://www.france24.com/en/ceuta-migrant-crisis-far-right-govts-ridiculously-using-these-images-to-stoke-fear-for-votes",
-    "timestamp": "2026-08-03T12:20:57+00:00",
-    "source": "afp"
-  },
-  "2bd7af9ee4e34a8f5907fb55f6d6ebe4": {
-    "url": "https://www.nytimes.com/2026/08/03/world/canada/westjet-strike-update-flight-attendants-canada.html",
-    "timestamp": "2026-08-03T12:13:25+00:00",
-    "source": "nyt"
   }
 }
