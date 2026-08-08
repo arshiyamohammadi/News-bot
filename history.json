@@ -1,8 +1,18 @@
 {
+  "70b6c9370691ec60f167fca16145ed32": {
+    "url": "https://www.france24.com/en/russian-strikes-kill-four-as-kyiv-hits-oil-refinery",
+    "timestamp": "2026-08-08T15:29:49+00:00",
+    "source": "afp"
+  },
   "9c8501ec231fe95e2bf41868646675c4": {
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
     "timestamp": "2026-08-08T15:22:02+00:00",
     "source": "reuters"
+  },
+  "0acbfc02f6223564b19c5dab0f51b5ae": {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE?oc=5",
+    "timestamp": "2026-08-08T15:12:00+00:00",
+    "source": "ap"
   },
   "a0e8ec077522707ea1b10adb4c8534e9": {
     "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
@@ -2487,16 +2497,6 @@
   "17cccf495bcf46da37dc25281545b73d": {
     "url": "https://www.france24.com/en/eu-calls-for-united-action-on-border-protection-after-ceuta-mass-crossing",
     "timestamp": "2026-08-03T15:18:51+00:00",
-    "source": "afp"
-  },
-  "74084464dcf73b63d3780d3abbc24261": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLSzBXT2F2Vmc3TkVKQjMxS1RGWmZlQVNIQVJoZmZzQ1ZWZFFiYjVWaXQzOU1tcFNYMHBTM0ZraWFlSVdBNzd5N0Vjb3VLN2ZNb2c?oc=5",
-    "timestamp": "2026-08-03T14:57:17+00:00",
-    "source": "iranintl"
-  },
-  "44fbd1033ca6539c3f279723b617891e": {
-    "url": "https://www.france24.com/en/video/20260803-myanmar-ousted-leader-suu-kyi-makes-rare-appearance-with-red-cross-representative",
-    "timestamp": "2026-08-03T14:56:22+00:00",
     "source": "afp"
   }
 }
