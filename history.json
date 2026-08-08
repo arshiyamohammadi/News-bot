@@ -1,4 +1,9 @@
 {
+  "93080fc1a07cbc10bbac9d60238f6017": {
+    "url": "https://www.france24.com/en/middle-east/20260808-from-tehran-s-walls-to-the-world-iran-s-visual-propaganda-as-an-art-of-war-2-2",
+    "timestamp": "2026-08-08T07:36:03+00:00",
+    "source": "afp"
+  },
   "49042327671c541e8460e570c41f52b0": {
     "url": "https://www.france24.com/en/us-pledges-1-billion-security-aid-to-colombia-as-trump-endorsed-president-takes-office",
     "timestamp": "2026-08-08T06:16:06+00:00",
@@ -9,10 +14,35 @@
     "timestamp": "2026-08-08T06:10:11+00:00",
     "source": "afp"
   },
+  "cfb652bf9359cbc3895bff0c35c5a032": {
+    "url": "https://www.nytimes.com/2026/08/08/world/asia/pellet-guns-sticks-and-tear-gas-how-indias-police-halted-a-youth-march.html",
+    "timestamp": "2026-08-08T05:21:06+00:00",
+    "source": "nyt"
+  },
+  "231117ba86cb1ff792dbf31e2da891a3": {
+    "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
+    "timestamp": "2026-08-08T04:01:50+00:00",
+    "source": "nyt"
+  },
+  "cda88262534808a06f1894e8eae9cc1d": {
+    "url": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html",
+    "timestamp": "2026-08-08T04:01:31+00:00",
+    "source": "nyt"
+  },
+  "0841cc063f6c40a0f9c1316722094536": {
+    "url": "https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html",
+    "timestamp": "2026-08-08T04:01:17+00:00",
+    "source": "nyt"
+  },
   "7803826a5b122b535fd016d6c98692cd": {
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZcDFZNkphNXM5N0tKX1c5NUd3c2FSYkVZcjYtcXdmenVCc0tRcFFiTkVOVUF2dUk2YlhJcjAwNVNaWlpoREJlUS02djJYdmlnbXRqckZKLUxVQkdGdmp4V0VmeGU?oc=5",
     "timestamp": "2026-08-08T02:50:29+00:00",
     "source": "radiofarda"
+  },
+  "a84d416c35daaf365c6ea646f41977d2": {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmRWNXBNUDIwNU1QVmU3UmctOVNZVXZfVk1idDQ3TWJZRDRKV0FleVRndE5ZTGJsY1p0aUNodG05dzNvdUR1eDJZa0RzdU9OZ0VYREg0RzdqaVBuNXVpYXltckRzNUhnaHZRV0RrNG9Kbm9tZzZ3aHZ1RXQ1U0xBdlA3Mm5BLTJsdFhrVnB1endPSjUtZ3Z2TjJ5ZVQ5M2IwUVZHcHJmcWs2SHNaOEdKa2d6TkhlVnRHc1E?oc=5",
+    "timestamp": "2026-08-08T02:38:00+00:00",
+    "source": "reuters"
   },
   "2cf83d9e988af5bd3342534cbb734baa": {
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uRzNUVXZ6VzhpZlhmMGI0aUMwQ252Q1U3RVFxc2F0eVlMUWZROE5mNEtCcm9TcWZxdkNhdWpwSVJjeWtSdnpRR0NDNUp1UXZoSTlDWVlIdjl5V1NrblhEZQ?oc=5",
@@ -2468,35 +2498,5 @@
     "url": "https://www.france24.com/en/europe/20260803-russia-online-retailer-wildberries-says-warehouse-on-fire-after-ukrainian-drone-attack",
     "timestamp": "2026-08-03T06:38:35+00:00",
     "source": "afp"
-  },
-  "c65a8fdfa1f8639372768a0052ef087f": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KVjZsVjR5U1JMNHY4aElkVUxralFvSGNoblRQOXp2WGsyME1LRE9OOUV4dHQ1VEJaY2N5SmdmdXA3al9obzJRR2J1dlNMY1IySVE?oc=5",
-    "timestamp": "2026-08-03T05:01:21+00:00",
-    "source": "iranintl"
-  },
-  "566ac2c0ea64f246aa75e1e522f71fca": {
-    "url": "https://www.france24.com/en/africa/20260803-sudan-darfur-drone-army-kill",
-    "timestamp": "2026-08-03T01:30:16+00:00",
-    "source": "afp"
-  },
-  "a84e02ffa81f823d59b44f2b4a520572": {
-    "url": "https://www.france24.com/en/africa/20260803-sudan-darfur-drone-army-kill",
-    "timestamp": "2026-08-03T01:30:16+00:00",
-    "source": "afp"
-  },
-  "6d8153a63c8c26820edf75333d9c6bb6": {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjBjdHpEdEdMdVNpbVprQmRvNG9JTzl0ZHB4SkNmWUxqT2hNUG8xcW96U1R2czNKWHVMYXRqY2gxR1pHTzZ4RjlpaDgzUnM3U0dCNURmZDhPUUhVTnRuUFhYcGFmVHdoOWg2a3RJNTNGQktBU3pvZVZGSS1EVUJ1QzlVbw?oc=5",
-    "timestamp": "2026-08-03T01:03:00+00:00",
-    "source": "reuters"
-  },
-  "1b2dfccd3c8c98134fd4199a1652feb8": {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjBjdHpEdEdMdVNpbVprQmRvNG9JTzl0ZHB4SkNmWUxqT2hNUG8xcW96U1R2czNKWHVMYXRqY2gxR1pHTzZ4RjlpaDgzUnM3U0dCNURmZDhPUUhVTnRuUFhYcGFmVHdoOWg2a3RJNTNGQktBU3pvZVZGSS1EVUJ1QzlVbw?oc=5",
-    "timestamp": "2026-08-03T01:03:00+00:00",
-    "source": "reuters"
-  },
-  "ae9f54736563c50a608a11a5d6d5f407": {
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DNFZxVXFNdUY2Y1VwTzhlMnVVeVI4N0Z2ZWY4VnlJbzZyY0VRRzE5TjBnOWN0bWY4emc0dWVEekF4RWtxeEtlTnJhZlZOMlpGWUNHT2xhU1N3Vm5fTjRv?oc=5",
-    "timestamp": "2026-08-03T00:43:55+00:00",
-    "source": "fars"
   }
 }
