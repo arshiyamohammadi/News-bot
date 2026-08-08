@@ -4,6 +4,16 @@
     "timestamp": "2026-08-08T16:27:11+00:00",
     "source": "iranintl"
   },
+  "59f24d3a6aa7a0bf23df7331b6f351e2": {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHBEUUlsdUlIcC1vM0pPSm9IUk9fdnRseE15OXFhN3FRTHRqa0dEcmR4aXVjMmJMLVEyMzNsWDlnaFFLRkRKRkQyb24tTC1MNjBGMVcwa2cyeXczemdMY3AtX2x4TENBWmc4S0Nqbm5COEd6NmVhNEN4MjVPajdrd3UyQ0FsRXoxU0JTdm1BTTBCRjVzcmZ3WTJVNVZ1Y3JFV3owRzBGQXNIVXBiSUVKZ2FJZUpxeUdJZzNFaWhR?oc=5",
+    "timestamp": "2026-08-08T16:14:00+00:00",
+    "source": "ap"
+  },
+  "c4aba0f679dc2b99a79d750ed7886e0e": {
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Bb3JNYVJoSERsWEJtUUxJS3BULWh1QXZkVFJOYU1reWhkeUNJd2k2d09fWHIwSkJMb3N3TDhfaHBnSndNSmY3bW9IS2ZSYWVSQ3NWa09xT3ZKNGFh?oc=5",
+    "timestamp": "2026-08-08T15:35:00+00:00",
+    "source": "radiofarda"
+  },
   "70b6c9370691ec60f167fca16145ed32": {
     "url": "https://www.france24.com/en/russian-strikes-kill-four-as-kyiv-hits-oil-refinery",
     "timestamp": "2026-08-08T15:29:49+00:00",
@@ -22,6 +32,11 @@
   "a0e8ec077522707ea1b10adb4c8534e9": {
     "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
     "timestamp": "2026-08-08T15:11:40+00:00",
+    "source": "nyt"
+  },
+  "547d3e9e47e357bee366ca3e0bfc209f": {
+    "url": "https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html",
+    "timestamp": "2026-08-08T14:39:26+00:00",
     "source": "nyt"
   },
   "6622be701f44cb7fb5ecab1d45e2a398": {
@@ -43,6 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
     "timestamp": "2026-08-08T13:08:46+00:00",
     "source": "reuters"
+  },
+  "a37059ccb02b0ae4d5165aa8f9ec6f38": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtMXB0OVFnZ2d5WV9vNTUzbm5kSFRRNWU3Q0prdGlaaFlJdnV5cWQ1QXEtYnhJV25YSHAwaWNmcXhTRjM5OE9QYmY4ZW1OdWVaenc?oc=5",
+    "timestamp": "2026-08-08T12:52:38+00:00",
+    "source": "iranintl"
   },
   "99c9c1ec972a1dd3fc2daf83be9eb03d": {
     "url": "https://www.france24.com/en/saudi-turkey-pakistan-pact-comes-amid-us-iran-war-fallout",
@@ -678,11 +698,6 @@
     "url": "https://www.nytimes.com/2026/08/07/world/asia/japan-earthquake-kumamoto-preparation.html",
     "timestamp": "2026-08-07T04:01:15+00:00",
     "source": "nyt"
-  },
-  "c4aba0f679dc2b99a79d750ed7886e0e": {
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wUGdBTUlmeU5tdDkzbW1kcHlvcjNUc24xQXJGY2dsRGQ0SVptVUFLUFFPOW00UmpVMG1qV1VIcm9yVFRnNzhmbXQ2Qzd4eTd4UUZidjN3?oc=5",
-    "timestamp": "2026-08-07T03:35:00+00:00",
-    "source": "radiofarda"
   },
   "52e4e3d46e6fd4eeb2ad94bdabc8828e": {
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2d1E3MDdjb250T00zaUlhdUJKdHpWRTJSZ0Rxa0p6Njc2c0gtcG5kYm5jX0hvNE5jSVNuaEpDQmx0VXNkdDBaRHM5UFl6VUViUjdCa0NKRQ?oc=5",
@@ -2482,21 +2497,6 @@
   "5fc1e7ff93fc2656bcda7b32ff427ff5": {
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vZDFSMXdwOE9iVGJoTEExSVJOd3c5d25CY2QtYU1JM25FOXItWDZHMkN5MUNkUFctRm1IakJ4S3RPaGpiSE9LZ2JzeEkzTWZJZ2pPRUpGVGJuV0dUc3R4VXQyX2ZCUmRs?oc=5",
     "timestamp": "2026-08-03T15:37:39+00:00",
-    "source": "fars"
-  },
-  "fa2ec38fef83fd6ec849ecabf21321be": {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVpSLU9DNzZlb3plSWpueFdNUFN3ZmxuZkQxN1RhRTlaZlBteHFVVEVXN0p4NnBOY2paYTNwNGlxaGdfWGRCRjVXazlOLVUtUVZnNlB4eFB1RFBKQjBtXzQtbEN6djVNZGs5dWJBTXYtVmxSVEtfU1I1WFdJWmU4dEQ2eU8xX1Z5MVNCV1pjdkJ6dVRaVnNwbm9HbmVSaFFqd3k1aGdmbW44NEUyRENTZmtMZk9iVGxpRklr?oc=5",
-    "timestamp": "2026-08-03T15:35:44+00:00",
-    "source": "reuters"
-  },
-  "2f5cada96c3db6ec8705ba6ed42b0785": {
-    "url": "https://www.france24.com/en/video/20260803-across-the-eu-immigration-being-used-as-a-political-tool-across-the-political-spectrum-1",
-    "timestamp": "2026-08-03T15:19:49+00:00",
-    "source": "afp"
-  },
-  "6af9d7e3f314782b314c4346a50d414a": {
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvQWpELXUzYTFXVHJOVjlpR3o2OGdwQUdScXlUVkJ3c20zQ1pTQ3VXbXEzZ1V2WFBvdk1sZ1dyZVhFMmx3eGFUZEdSUjBGRlpTd2NxeTR2MUxReGQ3ZS1UOFRxRFlhdERRQmVF?oc=5",
-    "timestamp": "2026-08-03T15:19:37+00:00",
     "source": "fars"
   }
 }
