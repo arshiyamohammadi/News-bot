@@ -1,4 +1,9 @@
 {
+  "9c8501ec231fe95e2bf41868646675c4": {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
+    "timestamp": "2026-08-08T15:22:02+00:00",
+    "source": "reuters"
+  },
   "a0e8ec077522707ea1b10adb4c8534e9": {
     "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
     "timestamp": "2026-08-08T15:11:40+00:00",
@@ -8,6 +13,11 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE?oc=5",
     "timestamp": "2026-08-08T14:00:00+00:00",
     "source": "ap"
+  },
+  "ecb5ef22c1f06a0ae33f7a173cebd221": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HclZ4bF9NLTVncHVwR3EwS1dLVGF2cFZodXB3aFhISjVobmRGc3lIN2VvV2ZYYVluU2ZJanBaM0w4Tk5pWkhTUmVXMzZEb3ZVZWU3eTVyMWh4Y2FqbVE?oc=5",
+    "timestamp": "2026-08-08T13:56:54+00:00",
+    "source": "iranintl"
   },
   "2706e763e7bde2bbe9bcb4b6d1757f70": {
     "url": "https://www.france24.com/en/russian-attacks-kill-several-in-ukraine",
@@ -2487,16 +2497,6 @@
   "44fbd1033ca6539c3f279723b617891e": {
     "url": "https://www.france24.com/en/video/20260803-myanmar-ousted-leader-suu-kyi-makes-rare-appearance-with-red-cross-representative",
     "timestamp": "2026-08-03T14:56:22+00:00",
-    "source": "afp"
-  },
-  "a510a8768b294a45122ec16870168e26": {
-    "url": "https://www.france24.com/en/europe/20260803-anti-war-politician-and-kremlin-critic-boris-nadezhdin-flees-russia-for-france",
-    "timestamp": "2026-08-03T14:47:54+00:00",
-    "source": "afp"
-  },
-  "0d5a588fc4814f266f19f4d437e9e05a": {
-    "url": "https://www.france24.com/en/iran-calls-trump-s-bluff-as-it-denies-negotiating-with-the-us",
-    "timestamp": "2026-08-03T14:44:31+00:00",
     "source": "afp"
   }
 }
