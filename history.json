@@ -1,4 +1,29 @@
 {
+  "0b0d816f47f5aa680353db95f219d7f9": {
+    "url": "https://www.france24.com/en/tv-shows/focus/20260808-vietnam-s-indigenous-hmong-people-forced-to-adapt-to-climate-crisis",
+    "timestamp": "2026-08-08T09:00:07+00:00",
+    "source": "afp"
+  },
+  "dce6893e3cf1133d4171627836cccf1c": {
+    "url": "https://www.france24.com/en/video/20260808-spain-to-impose-border-checks-on-italy",
+    "timestamp": "2026-08-08T08:56:44+00:00",
+    "source": "afp"
+  },
+  "c43053121ec715305e09462a1296d71b": {
+    "url": "https://www.france24.com/en/cuba-no-power-no-fuel-no-internet",
+    "timestamp": "2026-08-08T08:33:34+00:00",
+    "source": "afp"
+  },
+  "63a1c851e74ac80cbd1b27b84f65d24e": {
+    "url": "https://www.france24.com/en/crocodiles-attacks-increase-in-kenya",
+    "timestamp": "2026-08-08T08:30:50+00:00",
+    "source": "afp"
+  },
+  "638a15eb27e8933b0f950086d7d46ae0": {
+    "url": "https://www.france24.com/en/saudi-turkey-pakistan-deal-for-joint-support-amid-regional-war",
+    "timestamp": "2026-08-08T08:26:53+00:00",
+    "source": "afp"
+  },
   "93080fc1a07cbc10bbac9d60238f6017": {
     "url": "https://www.france24.com/en/middle-east/20260808-from-tehran-s-walls-to-the-world-iran-s-visual-propaganda-as-an-art-of-war-2-2",
     "timestamp": "2026-08-08T07:36:03+00:00",
@@ -45,6 +70,11 @@
     "source": "reuters"
   },
   "2cf83d9e988af5bd3342534cbb734baa": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uRzNUVXZ6VzhpZlhmMGI0aUMwQ252Q1U3RVFxc2F0eVlMUWZROE5mNEtCcm9TcWZxdkNhdWpwSVJjeWtSdnpRR0NDNUp1UXZoSTlDWVlIdjl5V1NrblhEZQ?oc=5",
+    "timestamp": "2026-08-07T23:41:20+00:00",
+    "source": "fars"
+  },
+  "0394c301c52c178f034a66d0212010a4": {
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uRzNUVXZ6VzhpZlhmMGI0aUMwQ252Q1U3RVFxc2F0eVlMUWZROE5mNEtCcm9TcWZxdkNhdWpwSVJjeWtSdnpRR0NDNUp1UXZoSTlDWVlIdjl5V1NrblhEZQ?oc=5",
     "timestamp": "2026-08-07T23:41:20+00:00",
     "source": "fars"
@@ -179,7 +209,17 @@
     "timestamp": "2026-08-07T16:47:52+00:00",
     "source": "fars"
   },
+  "28f157ae43bc80cd9f2e2e2c0189cdcc": {
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyVTd6ck1qUGtmLTZETXdMck8wdWdJYzlFdENjUm95eE40dDVqb050WVVIY2VBeWMwX01JQVlWWlU5UDNEOGFIeHlLNm9TNnNBQWNvU05id1oycGM0?oc=5",
+    "timestamp": "2026-08-07T16:47:52+00:00",
+    "source": "fars"
+  },
   "3e6380dc84ae5e54c805377bca5f1814": {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oYnpUUFJpd28tOVVvT3g1M05qLV9EYzJPTFNTRXRnbGZETllfU3p1TmdlVG9HS2xDczlKdk4xdjVNWnVKc3I0VWVlRXpMT3d2X0tONjhpbmhpZWFqUktxZU1fRWpkdWM0?oc=5",
+    "timestamp": "2026-08-07T16:14:25+00:00",
+    "source": "fars"
+  },
+  "b2820eac0b456413bfe95442f4668d34": {
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oYnpUUFJpd28tOVVvT3g1M05qLV9EYzJPTFNTRXRnbGZETllfU3p1TmdlVG9HS2xDczlKdk4xdjVNWnVKc3I0VWVlRXpMT3d2X0tONjhpbmhpZWFqUktxZU1fRWpkdWM0?oc=5",
     "timestamp": "2026-08-07T16:14:25+00:00",
     "source": "fars"
@@ -2458,45 +2498,5 @@
     "url": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html",
     "timestamp": "2026-08-03T09:05:12+00:00",
     "source": "nyt"
-  },
-  "e59f2f7050a6c187bd5e3a6c37bfde8f": {
-    "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html",
-    "timestamp": "2026-08-03T08:50:11+00:00",
-    "source": "nyt"
-  },
-  "2efbf4b04729457b9fed4da01a090aed": {
-    "url": "https://www.france24.com/en/video/20260803-pure-political-theatre-ceuta-migrant-crisis-used-politically-to-make-europe-seem-under-attack-1",
-    "timestamp": "2026-08-03T08:37:42+00:00",
-    "source": "afp"
-  },
-  "c1f3e2ed4ea6c1f3affacfc3c518ee68": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMblJNbFRRZDYwbEVJbW9za3FnLTB4cFRzNWg3RlpWWllLUWVYUUxqT25aNmo2RU9uaWxYOHlZU1BtZ05fMkhtalQyYVM5SzI5TkxPYTZQSzNaZWpLY01WSQ?oc=5",
-    "timestamp": "2026-08-03T08:21:11+00:00",
-    "source": "fars"
-  },
-  "a7ff3dc07ca5864c22892ac1578d31a7": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNY1ZjQUNxMGNXVUZycmJ5WXlaOEdHWUt5bmFZTG9COVE3WERvQ3R2Rmh3TFRNU1pUNGhTSUt4NGlYQTRPVmczM1k0TUV0ejRkd1E?oc=5",
-    "timestamp": "2026-08-03T07:34:04+00:00",
-    "source": "iranintl"
-  },
-  "1fadbcfd14cc8e8b68f6925d7a6c1647": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNY1ZjQUNxMGNXVUZycmJ5WXlaOEdHWUt5bmFZTG9COVE3WERvQ3R2Rmh3TFRNU1pUNGhTSUt4NGlYQTRPVmczM1k0TUV0ejRkd1E?oc=5",
-    "timestamp": "2026-08-03T07:34:04+00:00",
-    "source": "iranintl"
-  },
-  "b8f55382b36f6b828dd4ffdfe699bb84": {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTE5hZ0ZnQjBGVFdjTV9kRkdQWm9oaWd0VG9UQ084WGJvRmFoNElkSG5Ec0xocHdYTDdUM1JTd3RYQ0kybnN0dXB5T2hwNFEwSktaZ05FNGxzbUFwd0FqWEl4WWQyVzBCaVowNUpTWGNad19MdERreFFYSEYwWkVuekpwOW1VeE5lVkR6eDBaOGdPZw?oc=5",
-    "timestamp": "2026-08-03T07:29:55+00:00",
-    "source": "reuters"
-  },
-  "2705b8a0eaa29254a1a68a9f357ea050": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hUWh0Nzh6UkRWbzkwLTFpNUN1VEtTS0xtc1lZQld2bmhhbjZESG5kazBkdGhNN194dVhGZGR0dDVHWTJJMzNDak9mbms1YVdNRmc?oc=5",
-    "timestamp": "2026-08-03T07:21:01+00:00",
-    "source": "iranintl"
-  },
-  "9caea365832db17d68c9ae41dd02ec1b": {
-    "url": "https://www.france24.com/en/europe/20260803-russia-online-retailer-wildberries-says-warehouse-on-fire-after-ukrainian-drone-attack",
-    "timestamp": "2026-08-03T06:38:35+00:00",
-    "source": "afp"
   }
 }
