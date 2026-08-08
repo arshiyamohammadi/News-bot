@@ -24,6 +24,11 @@
     "timestamp": "2026-08-08T17:50:56+00:00",
     "source": "fars"
   },
+  "f75f3fa7ad93b380c5749dc695eb8ebf": {
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRVDQ5STNTY01LQWZtd2FoUWNvTTR0N1dndU1acWlPeFVTZ29NX3VjcG5yWW94dzZ1aVNxVHRHcGd3SHRoUXFDM3pIR3lqajVNQ05DQ29PWFVKZw?oc=5",
+    "timestamp": "2026-08-08T17:50:56+00:00",
+    "source": "fars"
+  },
   "7839e96d99299ac83cfa6b1af442cd3a": {
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
     "timestamp": "2026-08-08T16:45:44+00:00",
@@ -203,6 +208,11 @@
     "url": "https://www.france24.com/en/science/20260808-sharks-tapped-help-with-hurricane-prediction",
     "timestamp": "2026-08-08T10:17:48+00:00",
     "source": "afp"
+  },
+  "9387ee6473cc04828e56a6a3c8f503c8": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wN21oNFc5SlFwdXh3SzVMejVlYjZEaEhGZjR4ZElUcFNOZ1JPOUVTQ3JtOGVhZ1ZrenFjcVBCWTBNbHVGWmItMDYwa0tCN3pGb2c?oc=5",
+    "timestamp": "2026-08-08T10:07:24+00:00",
+    "source": "iranintl"
   },
   "831fc991e6bfd81912a52f998cf1092d": {
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85Vml6M1JVVGt4Rk9lZTZPS0RvV1BKcExxLUNzc1NoVUZ4SlBzbEU5V1FsdzVfVU9vRHBVVFV5N25yNzJiZ1FLbWRjYTVrLUpoSHNBcVJwWTRKeUUtclMzQ1VxNA?oc=5",
@@ -2488,15 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWTMweFRadm51ZDBCVG5fZlAzdEFVZGZpZ2dVcVdsb0dfRHI4M3VzTWI4YllxTDBQUzJNUDQwLXFjZnVMMG43aW0zbnJ1ZmxyODhmdk1zeXhIVmdxc2F4OUlPNWZ6MFFZRTlKNnduenlqcjJDQ3JNWHpuZFBpejZmTXVva3ZwTWg1cnduR2hhMTJQYmVVZ3JacklNYw?oc=5",
     "timestamp": "2026-08-03T20:53:00+00:00",
     "source": "ap"
-  },
-  "516e8b6e55e77fc5dcab4c8bdcb5d1f3": {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWE5YTnBRcFkwQUx5NXBHMGMtaFFHTWh3d1pSRmVodEV1SkRnQmVHbUQ2RDRVZ1U0SUROd2U4YUo4VW95WmFHNWlnQUVkOU1NelRpd0VSVzNTa3o1d1ZqT0JfbjBtTTFTVW9JZVFFbUdsT1Y4U045WElfZFhabjRUZWdKY3BMVVIxWnEwRXlZcjE3bWNTV3UzbGNzdjdOM3FhX2lpckxaR2RJQkhfNlFwc080VEV3RUJUVzNRNFQySkxYQQ?oc=5",
-    "timestamp": "2026-08-03T20:34:55+00:00",
-    "source": "reuters"
-  },
-  "e9c3f8bbb3d145c89cac6480237f32e6": {
-    "url": "https://www.france24.com/en/hundreds-flee-tigray-after-fighting-flares-near-border",
-    "timestamp": "2026-08-03T20:15:26+00:00",
-    "source": "afp"
   }
 }
