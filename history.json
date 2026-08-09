@@ -1,4 +1,14 @@
 {
+  "dd10055d38c17338c6597d5218eda97f": {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUDNZQ2tzZXhwUEJYY1pVZENyM3FJQnRSdGdBUkJSbUNxVzdCQXJBQWVqa1dyRUhkNXJ2eWFTN1lFYzF3UHI0VUdBODcxVjJlNUtvNUVYR3MzWkZFU0VHTkV4ZEtNYkNaQlR4RnpkOWNiX1ZIVlJzTDRsc19BSC1LZGlzTzlXazRVV0xyWVNLcElsRWRGQnpCYjdXbUcza1NETmRmcFlFWmY1NnoyV2d4M1NBeVJ1UDlQb2o5TXMtVmtweGVEWmFvS3JyOHMzUHNtSHc?oc=5",
+    "timestamp": "2026-08-09T12:36:23+00:00",
+    "source": "fars"
+  },
+  "638b530ba87c3d8e86501669cedce07f": {
+    "url": "https://www.nytimes.com/2026/08/09/weather/extreme-heat-wave-uk-france-spain-forecast.html",
+    "timestamp": "2026-08-09T12:23:03+00:00",
+    "source": "nyt"
+  },
   "5db04909587b23898e2027b4bd0447b2": {
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGdMX0J2dzgzRWwxbWt3Mkw4YjhxVy1ySE1rODhEVjZ2Si1DdndzWERTT3UzcFNuMk91N0hFTDB3Sk1HTTVJVnJKbnhKejRCa0dPeUNuYnd2YjlkeGVhb1Y5STVXNy1WZ3NnTERTR3Y1T3BOZ211M0Juc2dJYVdRTU15Y3Bmclp6UjJ6dEhXMjNYRWpOdU0xTVUwbERmWW94N29JT0RoUk1xcml1bTlLV1c3QQ?oc=5",
     "timestamp": "2026-08-09T11:45:14+00:00",
@@ -185,6 +195,11 @@
     "source": "fars"
   },
   "0d25a7d4372dddecdd32d3603e698f09": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04aGhraWIxaFBlcTZxcGVaSGhtUnlXdmxvSGJyWFdQcjBLUnZ1MGF2X09MZlZScWsyazZjZEt6Y3JNQWtnRHh1SkloZjZKc1RJWUE?oc=5",
+    "timestamp": "2026-08-09T00:13:35+00:00",
+    "source": "iranintl"
+  },
+  "933dcd61c864b7a3dc651b1d7b13d163": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04aGhraWIxaFBlcTZxcGVaSGhtUnlXdmxvSGJyWFdQcjBLUnZ1MGF2X09MZlZScWsyazZjZEt6Y3JNQWtnRHh1SkloZjZKc1RJWUE?oc=5",
     "timestamp": "2026-08-09T00:13:35+00:00",
     "source": "iranintl"
@@ -2483,20 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUllLTEZpVXpPaEQxbG5tWlVyYnlUN3MwUURrck9nWnNXeTVqSG9uQWczMi1FY3dJM1RtSFBBT3RUOFpzaEZKVjZ3LVpfZ01aODFDaFlvTFhLdXJhMzVvQ25qamJ6MDlYVHRuUmZPcW5HamJIbENjeExMUWlsY3UyaWcySjZ6WHJqWE5EZGtIT0N0YXlUZGtHX1FQR2NEemFyUUx1S1hDOGtqYXpvc2l1cFZCMWF3ejAwcnY3Mk5OSWk3Y04wb21FMg?oc=5",
     "timestamp": "2026-08-04T10:50:06+00:00",
     "source": "reuters"
-  },
-  "7f27cd5497ed2c972193455e5e6c254e": {
-    "url": "https://www.france24.com/en/record-drought-and-heatwave-bring-energy-emergency-to-eastern-europe",
-    "timestamp": "2026-08-04T10:49:41+00:00",
-    "source": "afp"
-  },
-  "e113c821d06d2b5c9d928cd068d4c618": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XOFA2dm5nX1gwV0RnM0VRODhaR1JOU1lfNi00NnVETGg1UWhsbHNrY0FwTzN6T0dKWGlYVmY2X0hxV1Jhc040RmhKOEZSRFVXOTE0YWJJbi1zbG1ZNE94Xw?oc=5",
-    "timestamp": "2026-08-04T10:42:21+00:00",
-    "source": "fars"
-  },
-  "e6db337857fbe8853bf6769b39a6e142": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQlFkaW9qVXlucTFmN0R0RjR4eGNZN1p1bjh5WGJRdHRfX09sMU80OEZpNDQ3VjFPRTJPcUp6ZUxqNXJDZ095bEdidS1JYjJQLXc?oc=5",
-    "timestamp": "2026-08-04T10:42:06+00:00",
-    "source": "iranintl"
   }
 }
