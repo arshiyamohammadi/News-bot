@@ -1,8 +1,43 @@
 {
+  "ee9e03d84dcfabfb6ce023c60b238028": {
+    "url": "https://www.france24.com/en/iran-sets-tough-terms-to-reopen-strait-of-hormuz",
+    "timestamp": "2026-08-09T14:59:00+00:00",
+    "source": "afp"
+  },
+  "4b0a430882bf55f7fb737a0c0b503a83": {
+    "url": "https://www.france24.com/en/europe/20260809-zelensky-claims-north-korea-may-deploy-50-000-troops-russia",
+    "timestamp": "2026-08-09T14:58:11+00:00",
+    "source": "afp"
+  },
+  "c9031d7c82b271c01c5a7034c89a41a0": {
+    "url": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
+    "timestamp": "2026-08-09T14:44:02+00:00",
+    "source": "nyt"
+  },
+  "13924a1101ab2a24662f4a3d1718e139": {
+    "url": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html",
+    "timestamp": "2026-08-09T14:30:54+00:00",
+    "source": "nyt"
+  },
   "c254669b933a829a5cdf1a7e22116434": {
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkNMLVhYYm1zdG9veTFxQlIxY3IzNHpyOFZGMzAzWVZVWU9xU0xTUzdGMUplZmlzZTlPbEZCV3Fsb3pPa1J2MWhuU0Vhc0xoSDhsZXpLWUh6ektRLUItdUVUd2g4Q1lTSmtLZWlNd1p4ZnhhYUxlRFdCVjZlOUtQaU5qX1U4Ql9DRUtvNWZOVnRJMjNOOHJMSmFkQzNqTThMY2ZFamxQV0dqemsyRlhmaGFHZHgzLXd0b081dDZKRVRfTE9PeVhj?oc=5",
     "timestamp": "2026-08-09T14:19:58+00:00",
     "source": "reuters"
+  },
+  "8ba49108e739ef018cd912291a3a5971": {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ1AwYUlQbmU1Z1N3cmIwSGFFdWtvc19tdjZJY3hRSEg3bGp5VXo0Y1BRbGZMYnVHSUJHZ0RlZHJuMFl3ZnhFZnl3elg1XzlDUE9NTjh5ODFDa25nQVQwYTN4UldXOFQzUHZzVHJuWnBuYXBrcUcwb1BUeFpZb3pDbHJoWkJMb3drbmQ2bEF4eFpNRkVKR0o0?oc=5",
+    "timestamp": "2026-08-09T13:42:12+00:00",
+    "source": "fars"
+  },
+  "2f6726519914910ea8d8408c20f5ae60": {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rWURubWRoMFM3ZlFkYVIycE9MOXd2bTdCOHZmWEdjaHI4TmdqejFnSFdieEo0ZmhMUkd2R28xMVpsc2N4VDVhRjFoeUJZU21pY3l6SmxXRkhIZEM5VUZZ?oc=5",
+    "timestamp": "2026-08-09T13:26:06+00:00",
+    "source": "fars"
+  },
+  "e81e0314ff53bf59db3622350985b6d4": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OemNtSTE4dWRxWUJnZndUNDhBUU1mY0w4QVZRUUtNb3h5d2VMY2czNWg3REpRX3Y0TGI5VmRVM1U4S2wzWXY3SDdmQXo5MnM5MFo3cVBNQ0pGTU5udU5PQw?oc=5",
+    "timestamp": "2026-08-09T13:25:00+00:00",
+    "source": "fars"
   },
   "6f36829fe75d5e347be37b7cc8f665a9": {
     "url": "https://www.france24.com/en/russia-and-ukraine-exchange-deadly-overnight-strikes",
@@ -28,6 +63,11 @@
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTHltYW1BZ2tteEtoRWZwSUVpMy1vMVZTTF9HUzJYcUxZeGN0TGdPTzJ6dzB4clFRTWNDRkR1ZUVRT1BmbnNiZm9tQkZRdFZHSmVydXdDOHVnZERHVElJZm0zSk1HdG51LVZCRjVpakpfWDZiWXh0X0lmN0dQangwM01QNU5DY1BmNmdCR3FOX0FYQjdCNF9teE5zc0tTOXA3WWQyYUswOS1oYzVKUzdnNFdGdU5KREFyUnlyWVZSZld6c1NPa3Q4?oc=5",
     "timestamp": "2026-08-09T13:09:43+00:00",
     "source": "reuters"
+  },
+  "7a1106b9686c6b6e04355d3e6a8c29da": {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV0hwOVNGS0hjMXE3VC1PclVSWEJuem5SWmpFeEtyb2hmWElQREwzbURIZXlhaGdYX2czbDlfNDJ3T1g2Z3pMeFcxUThBZ1E0UkhNU1Y2T3VlSm5JM2hCenpTUU1fZlBOaFQ0NDFaVGFZLUs2MGpFaXUyR2ROcDYyaWVCUFkycmY5cS1ObU96ZEhXdlRpblRvODNZeGdUNXJJeXNYb01kRmw2V3pXV1NoQzZ2TVFqU1BFaVNhRFlLeWp5NEVJQktNa0Vn?oc=5",
+    "timestamp": "2026-08-09T13:06:15+00:00",
+    "source": "fars"
   },
   "552c430a53d554984fdb90ec8ba334e4": {
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13djdvdDl3STM4WFlGRzFYT2NOWVpidHotNmJSMzlUMjU4LXBtLXFFNXZvb0gybmpRTHFtQjR1MXJxZ3pYUXBsV3M0cGpUMXZfQWp3SldmdHp0SUw4WGFv?oc=5",
@@ -59,6 +99,11 @@
     "timestamp": "2026-08-09T12:23:03+00:00",
     "source": "nyt"
   },
+  "c2c6cbc7e190fd50d1c00dff00cf34ee": {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLTd6TExsQVUzWU1OTlNGdzREQVBSY2R5STlrTVBra3ZPOWozaERiVC1zd3FDMmJJOTEwS2pIemlUcUNZZ2l5Y1JGMjljUHlqTWJ4RC1fRjFRNEtuc1JCd1BFOEM5VzRwRnAyc3N0ejEtOGlhT2Y5VHNPWXd1a2puYXNxTS1fQjJpSzFrTlpYUDd5UFlCRFloQWhQZDdNM1FqZEFOYXNpYmEtTmdpUFFockU0TnhKSVpfNmd5SmRJZmp3UQ?oc=5",
+    "timestamp": "2026-08-09T12:22:49+00:00",
+    "source": "reuters"
+  },
   "3cf33b261be7ce11cd29e1179c8dbf25": {
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
     "timestamp": "2026-08-09T12:16:34+00:00",
@@ -72,6 +117,11 @@
   "f0200dfee62a254ff7c23dc9b1f6fb2b": {
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yOXpXZmZuNVM1REQwN0xkdnJfWDJuSlh0RHdDX0xVNGZRLVZlSDBlVDk1dFhsM2xsWmhzNTczTUVSRWg5LWppemZaQVVUNnNEbnh0b3pXVGlSbXFkdTJV?oc=5",
     "timestamp": "2026-08-09T11:58:59+00:00",
+    "source": "fars"
+  },
+  "b8a403fe7deb12a6830c5ed60a107183": {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNTRib3hrYzJ1am1BNVVNd3pHVnZIMlNiS205Y0U2aHlJOUl4a1VRbVVGRU1EMVZuc05wbXRFUDJSVi1YVHhDVzNvZVA2TkNWTVdZRERIUkZQM25zNXJHOFBBalY0WEJVc01ub01Xb1NGN2Q5NVdWbFlOVkFJWHlIRkVOWmNOekdGNHl5V1VlQjVETzZhX2w1VjhKajh5OHNQYmNjNUhMS2VpOXRTZThvWmh2WjBlUHNyZ0h1NHBIc3g?oc=5",
+    "timestamp": "2026-08-09T11:57:03+00:00",
     "source": "fars"
   },
   "5db04909587b23898e2027b4bd0447b2": {
@@ -2447,56 +2497,6 @@
   "5d3aed790ca23e776b772a804a5e7822": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yWjY5Zy11cXVPUklMcHJULXNhaUZXT09pOGViZ1h3TTg4MDV1N3lsZHNFMW1HMlFIdzZrNTBiZFZ6ZEVkVlpCQ0FDNkQ1bGtvSUE?oc=5",
     "timestamp": "2026-08-04T15:01:26+00:00",
-    "source": "iranintl"
-  },
-  "d95f0f739a4ad53f4ef8fd34278aeaf0": {
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTlFTVkJVNkVFanp6SEVZelFQaGpBR3JhTW9UTHcteFZQQjI5a184WEl2bkZMQjlsZUtQZzhtZGlDNmRtbXJNSzdUWktOOTkyZGVVWVRUSmpZYkNjRHhab29RbF8xdEpCTGJXaHh3X2ptYm5UYmxvNHJWMnZxdzI3TUFxVFFXNkh2WGNmNzRwdUhTRFpTSEFiRg?oc=5",
-    "timestamp": "2026-08-04T15:00:00+00:00",
-    "source": "ap"
-  },
-  "2d17b3f8dd0b95237eeb1ce73461d2ce": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ld3RWekJvY3kxTzBiQVdqN0VQWVlxYVcySzUxOFdIWm5Iei1YQ3pOdGF4eFlUQVZTdjc4c1pCRUVtRWdqU3NIbE9uUkRYVW1wZjJ2bVpKQ1N2bnlLTmtpMA?oc=5",
-    "timestamp": "2026-08-04T14:38:30+00:00",
-    "source": "fars"
-  },
-  "da27a1c90ba59dc2e3addcd3d10b3519": {
-    "url": "https://www.france24.com/en/hezbollah-rejects-fresh-round-of-talks-between-lebanon-and-israel",
-    "timestamp": "2026-08-04T14:33:50+00:00",
-    "source": "afp"
-  },
-  "4ec8ba81997ba241331738347a38d11c": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15YXFoeWVsLVU5amhBQmRQU2FyMW9wNzh2cUdZUTZtMWpzQjRyUFVFSnZqVGlOQnpWYnpZaUJLOGxtamxreXJqZWtjYW96UUt6Vk0xUDViektqSVpjQlV5cg?oc=5",
-    "timestamp": "2026-08-04T14:08:56+00:00",
-    "source": "fars"
-  },
-  "7b3e39783e28b64e9d23ac0c5df619c7": {
-    "url": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html",
-    "timestamp": "2026-08-04T13:55:54+00:00",
-    "source": "nyt"
-  },
-  "75a78da2234be5ab2da0ee078807649f": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjFmUC1OVjJCS05weXNFTmhaZkRab0dwSVV1LXJ5dEp2ZVNxX0l6QVdLQTN3SUdtSS1pOVF4OEYxRzZHbUJNeXk5ZmJnUG5FVVFScEJnOEUyM3FLWWhzQk8yME1VcW42X3dPOURqRi03QlN6RnZLMGFfWW5LWUVmUDctVDR0YXRhWTAwbTJRaUdKYTNJb2NuS2hrNjRpOVdlZjBPRTVzNXhUbjRpdmRFSGdkVHlGUnpJYjRGTQ?oc=5",
-    "timestamp": "2026-08-04T13:46:35+00:00",
-    "source": "reuters"
-  },
-  "c8fd615d38bb0f24a9367e4ff98ff4c2": {
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0dKYnNEVVFrdlNXS1JkMXNlcVlYekZlTTFXZ21IVU5wLUpvRTRoZFVNUUtvcUZOWHlZZG84Z0huU3ltdlVrVFpMZ3dMV1dSano3bmlRM3Bnam5Qa0Vmd2ZsOGpxQWstTkNBV19DLXo1OWVsMDlzOUtwT3pYNm8wdW41VUhOOXBqQV90TjBsUDdnRVlJVEhGNnB3MExacFdES19PdGYyQkp3dmNhcGxnQy1LUFFJZ0U5YnB4UHFuV2RIQmtrQXc?oc=5",
-    "timestamp": "2026-08-04T13:34:35+00:00",
-    "source": "reuters"
-  },
-  "5a21bb5182b38e963d4e106b55550297": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjFmUC1OVjJCS05weXNFTmhaZkRab0dwSVV1LXJ5dEp2ZVNxX0l6QVdLQTN3SUdtSS1pOVF4OEYxRzZHbUJNeXk5ZmJnUG5FVVFScEJnOEUyM3FLWWhzQk8yME1VcW42X3dPOURqRi03QlN6RnZLMGFfWW5LWUVmUDctVDR0YXRhWTAwbTJRaUdKYTNJb2NuS2hrNjRpOVdlZjBPRTVzNXhUbjRpdmRFSGdkVHlGUnpJYjRGTQ?oc=5",
-    "timestamp": "2026-08-04T13:34:01+00:00",
-    "source": "reuters"
-  },
-  "fa50f526f7e8217d5d5e4acd53cb1142": {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVoa01lTFhQYVMtVjRxRWZKSng1YzFUTTNJOVI1T1pWZVNKc1czOWhJWHB3VDFFWnVrY3lLT1FnSVBfU1M1RFdrU2FsYVlKZXdhVm9VbF9PaEFNeGVMR0ZtNmlEeGhkWG1iang1U0kzb3hmWENGSnNXODRzdnZYaE1LYkY4Vm1hbzJEcEl1ZzZIRVBQLS1nYUYyTWdDdjZjXzN0NmtuZm5IV2FEdlBQby1UUnBqc0FF?oc=5",
-    "timestamp": "2026-08-04T13:28:39+00:00",
-    "source": "reuters"
-  },
-  "701f9c4807f64720316d57589934da8d": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uUEdBQ0taSGtqdjNzYnpHN3Y0R2F3WW5JcG52RG02M042SGVfZWlSMHdGanctVkhFOWV3V2UtelZoazBIakhzRzA4cnFsMlFQSGc?oc=5",
-    "timestamp": "2026-08-04T13:26:46+00:00",
     "source": "iranintl"
   }
 }
