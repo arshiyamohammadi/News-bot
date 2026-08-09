@@ -14,6 +14,21 @@
     "timestamp": "2026-08-09T09:04:07+00:00",
     "source": "afp"
   },
+  "00efe1f6badc0a517138c7195e8fe1da": {
+    "url": "https://www.nytimes.com/2026/08/09/world/canada/arctic-beavers-canada-climate-umiujaq-quebec.html",
+    "timestamp": "2026-08-09T09:00:42+00:00",
+    "source": "nyt"
+  },
+  "cc2bd63a577fba637c100a7cafaba60f": {
+    "url": "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html",
+    "timestamp": "2026-08-09T09:00:15+00:00",
+    "source": "nyt"
+  },
+  "fa7915796fa3a4746c8d497c65f6c89b": {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRllnWjhRYk9ZMlhGdzE1NGtIRlpuOXJ0Z0ZuVFJsTVlzUUdlN1Juai1YUGE5WHVnajEtejY4ekktRi1FNUlBLWdzdDRFS0dFNUJ4elhjalNudmVsVkpoYTgybnBNVXB6UXBwTEtlUGtwWHVLM091SzFkMTdKOUFrZ2w1WmpkcFoxQkJVUFlvSC1GMzhlYkM5TWRaVnJHMmhXLXhXSXJnd2FxVkJIOHpNeUE2bkFvSVY1YWMtQ2lNWWNHY2Jma0I1cHA2Q0Y?oc=5",
+    "timestamp": "2026-08-09T08:36:57+00:00",
+    "source": "reuters"
+  },
   "ece74502f23b1a0638ce05fab7133d30": {
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOENwSFprNnAxMlVVRDZJclVmY0VZR1VpN2I0SnhjY2d2cGwzc2QtUHRSWk9jdEg1eW84WnFadDJHaWhIWEU3R3hPNHlsSXJCdk04R3NNbGlYTTU5RzQ1QlhER1lDLWh6Z2czZU9jWkFIdkdkdzdZLW5tcHQwTE1qZ0ctSl96OWdWbFB6WlN2UXhTbnRtYlpvNUFBY0FMWDBJN2xKanJUUU1GU1Y3N0ZSd0k4TnM2QUJW?oc=5",
     "timestamp": "2026-08-09T08:21:18+00:00",
@@ -84,6 +99,11 @@
     "timestamp": "2026-08-09T01:48:00+00:00",
     "source": "reuters"
   },
+  "79bf6170768736ca432fe96a07d2e4e7": {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzBVeVBiZENRc3B0WldHbXZqbXBjLU5ucDVuODRNY3pIWFRKaWlES0lzRDVoWEFjOFBLQVkxeGVHd0pHWWV6Y0V0OFphUk81YksyX3BHQ0I2MVY2RHdfNDY1dE9XdGozaVQ0RWsyaXNieWlRT2RYdHNRNEp4ZHptOHBBTVFST2pfZXVIbkJZUlIteElMRTlQWEt5eGZ6RU9JMjRtUmdCYWVXUUM0TUE?oc=5",
+    "timestamp": "2026-08-09T01:48:00+00:00",
+    "source": "reuters"
+  },
   "cd6df6fec84f6ac95b084c02805c17f4": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qOGRkNHhJdTl0QXdKQ3J3MG80SkZVRHNnbFhHVWZpYVQzTWVlck1RR2RRSEJRN1BwY3pOTGlpTG1MNTkzcDY3NGZxT09Nc2R6bGc?oc=5",
     "timestamp": "2026-08-09T01:04:16+00:00",
@@ -123,6 +143,11 @@
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5a2RNalVSNUYzNFEzMmNjdnVKaG5ITml1X2MxVmhHeEpuQ2YxNjZMRGNrLWFCTWREWVJXdWhtbDNveE9Vbkg5UlExeTdYaXlGb2JPeno2Nk9iajIwdzBR?oc=5",
     "timestamp": "2026-08-09T00:14:55+00:00",
     "source": "fars"
+  },
+  "0d25a7d4372dddecdd32d3603e698f09": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04aGhraWIxaFBlcTZxcGVaSGhtUnlXdmxvSGJyWFdQcjBLUnZ1MGF2X09MZlZScWsyazZjZEt6Y3JNQWtnRHh1SkloZjZKc1RJWUE?oc=5",
+    "timestamp": "2026-08-09T00:13:35+00:00",
+    "source": "iranintl"
   },
   "13e45de75b220f37ffe4f6f3c169464f": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HclZ4bF9NLTVncHVwR3EwS1dLVGF2cFZodXB3aFhISjVobmRGc3lIN2VvV2ZYYVluU2ZJanBaM0w4Tk5pWkhTUmVXMzZEb3ZVZWU3eTVyMWh4Y2FqbVE?oc=5",
@@ -318,6 +343,11 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajV4Uk9FTWd2WFJTWWVSZS1pdkl4OGFERFdzeExaYy1udkYxWGdXYWxRdHUwd2kwLVRtRTdhRkdVdUZuNXZ3U09EQUR3OXUwUzVtZmZZeWZkWmlkTThUTDBYNVBjbE9IWVBQZnhhcHBfcFVnZTc0NG1uMk54dElXNkhzQUFZR3VkRW5QZkthVjdfdTJOaXR6YWxiZmtfdzJROGg3bWFuOVhuV2ZkTDNLNkg4d18?oc=5",
     "timestamp": "2026-08-08T11:46:57+00:00",
     "source": "reuters"
+  },
+  "ba45cb97af74f5d72057c1f77b42fb76": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xenlYMl8xN2p0V1dhSUl1SnBCZ05OeldlY1dFTjBaUjl6ZzV6OUVaNTYxaWNCa0RmZUVUeENwQTFfeS1yNkh3NFlfV1J1U2ZyRlE?oc=5",
+    "timestamp": "2026-08-08T11:37:27+00:00",
+    "source": "iranintl"
   },
   "206525c356a6488398a00a3d06bfe4b1": {
     "url": "https://www.nytimes.com/2026/08/08/world/asia/thailand-mass-shootings-gun-laws.html",
@@ -2468,35 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Bb0xuQUhFQi1fRS12VTQySFpQbXdySkc5c3V2cTBJWnhLc2VobldpdWtnMlVWdXZuRVpjd2x3clZhOVFwWjFlMFdZMjhnU2RwN1E?oc=5",
     "timestamp": "2026-08-04T08:34:17+00:00",
     "source": "iranintl"
-  },
-  "e275b3a1ab745b01ac3c9d59c78d20e6": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Bb0xuQUhFQi1fRS12VTQySFpQbXdySkc5c3V2cTBJWnhLc2VobldpdWtnMlVWdXZuRVpjd2x3clZhOVFwWjFlMFdZMjhnU2RwN1E?oc=5",
-    "timestamp": "2026-08-04T08:34:17+00:00",
-    "source": "iranintl"
-  },
-  "c48a203d3e41a56e2f177c9a239fbe17": {
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZlo2TEIzbk95cldwdmxxbEg5N19zM2dvVWFuY2lnaGI2ZU9nR0xOZ1hDUlFlcHUxbVFpUWpzcWJmN19YLVBtbUJIOFJla3hCbmpjRTRBMzVvOFhWbGhJaFpUUnJUdTVhbjRoZzc4ZngwbGFTOWhPbVhiMXc0eC1jYnU0Wms?oc=5",
-    "timestamp": "2026-08-04T08:17:39+00:00",
-    "source": "ap"
-  },
-  "ec7b531b56031b7abbf98088420f15cf": {
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yblRrNnJibjZkTnF3eWhhM2YxRURrOS1LTHlHR2I3cU5tTGNjLTRRX25peGFQcXMxZHJteXFhbGRtcmtBcHlxRjhfX014MnhRdXVBTVQ3aw?oc=5",
-    "timestamp": "2026-08-04T08:13:54+00:00",
-    "source": "fars"
-  },
-  "379aa8189381bd570c4ad76818f876bf": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jRWdpdU5pYTBhUkZrTUZGbDAxYXlXWkZKdFJXNzl3QVY4TlBjNlFEWk54ck5xb0NjcElFcUxvSGtocXpxcko5QXI2eWpxRnFQYUcxMU9ubGxiWnJWMUtKVw?oc=5",
-    "timestamp": "2026-08-04T08:13:49+00:00",
-    "source": "fars"
-  },
-  "16f4fa4ca113ba08301940541b0bac5e": {
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95b2lvYzZzdjNPZGZnek9Kb3kxTU1IbTBlZmhOZGxxcGxCbkhIZFhkWFVYN25Lc0ttZ1ZLZnNhWWZrQWRpZUZNeGdjYw?oc=5",
-    "timestamp": "2026-08-04T07:15:06+00:00",
-    "source": "fars"
-  },
-  "49535967bd473d1178eefa84c9b31add": {
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSXNqV053eGo1Y3UtWjV1S0VuZGFOdU1KWlJRb2pDZkFlTl9ETEhta21XNjIxaDMwRDU5S1c0bTBLemdLdkVEN1FZa19jVU5ZWkRHRDd6aVBhZFNYYnRXU3pkbnN3UWlaYnNyMG12Tm9jMF9ZdkczOFQ0OTNXOHEzWTlQZ0NCRkJWUXhhYXdrSGhBdGV1anpWWXdxS053WEwydjAxSVNYanI4SjBUX0xzcEFET2VFMnE0U2Y3NERmbXFLX3h4VklR?oc=5",
-    "timestamp": "2026-08-04T06:58:00+00:00",
-    "source": "reuters"
   }
 }
