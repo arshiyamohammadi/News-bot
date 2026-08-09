@@ -1,4 +1,19 @@
 {
+  "a39f51052eee0ae2c6953c7d2c8ed1a2": {
+    "url": "https://www.france24.com/en/libreville-grapples-with-water-shortage",
+    "timestamp": "2026-08-09T09:32:13+00:00",
+    "source": "afp"
+  },
+  "c66598dcb98570edcad405e81b16fb02": {
+    "url": "https://www.france24.com/en/dozens-of-nigerians-freed-after-6-months-in-jihadi-captivity",
+    "timestamp": "2026-08-09T09:05:42+00:00",
+    "source": "afp"
+  },
+  "eb1f4552758db4c81735aaa148cf7635": {
+    "url": "https://www.france24.com/en/ukraine-denies-targeting-bulgaria-after-drone-exploded-near-a-gas-pipeline",
+    "timestamp": "2026-08-09T09:04:07+00:00",
+    "source": "afp"
+  },
   "9a56c1b712e57108444c1fbea1aeccf4": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HclZ4bF9NLTVncHVwR3EwS1dLVGF2cFZodXB3aFhISjVobmRGc3lIN2VvV2ZYYVluU2ZJanBaM0w4Tk5pWkhTUmVXMzZEb3ZVZWU3eTVyMWh4Y2FqbVE?oc=5",
     "timestamp": "2026-08-09T07:44:13+00:00",
@@ -213,6 +228,11 @@
     "url": "https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html",
     "timestamp": "2026-08-08T14:39:26+00:00",
     "source": "nyt"
+  },
+  "d87eb5f9e8c7c403777e9c206e581842": {
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PMmlaYU5Yc2ZlZTBMd2ctX0lFdDlMTWpQMHJvdlNIT3lKVWkyWGZfeWljUm5CeElsRElBMG1uZ05wTGlZTHY2ajVhUWVmSk9WOUVQalhlR2tjcy02ZUVqVFNGSU1TS1NMcUEwR21nY3JSRC1pbG9mQ2pDN2U4REU?oc=5",
+    "timestamp": "2026-08-08T14:37:00+00:00",
+    "source": "ap"
   },
   "6622be701f44cb7fb5ecab1d45e2a398": {
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE?oc=5",
@@ -2478,25 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXFsci0ySk53THJaUktvbFlJd0ZjTzhFNmJSU0gtY1B5RElscWFhWHJLWTcxdlJ1SDhhV1dJcmQteVdaT0NLekZaMU05V2tockhvaGFtYlgzbk5OdWpDVEM4TmFoX2FpZFMyQWdxTzJ2SkdzYVExYVdRWHBKVlNPcTBzX1hub05WWk45TE1HVDM?oc=5",
     "timestamp": "2026-08-04T05:32:00+00:00",
     "source": "reuters"
-  },
-  "00825a90b398506105d1a9703f8a9303": {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQnNVUVlkZnZoNU5sbVJNSEVjRl82ZzctbzVzenVkTDlhU3dPV29WOXhYMWd2S1ctRlhyQ05YdGVtUjZrZUNyUjJyNklfMml6WlMxa2dodWFVMHRCZWdLLXhYc1NWbjVNdE1kblZFSWZWT2NabUtQZkJMbXl3UUVaRWhYMTVubUYtbjdIUTM0Zm1pZjR3UUNpUU1iMEQ1Ukwzek5rT3N5RFVVV2JKR0NkVWZRZ2s5ZlpmbGc?oc=5",
-    "timestamp": "2026-08-04T04:53:00+00:00",
-    "source": "reuters"
-  },
-  "89cbc4f38f0a02916dfe158b82322432": {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXZGT3BmOHBhbTZqRm5xTURQRUxmckpIUjBlTmEwNnBrQ2c1QjNGVkcyRGQwZEZteGp2QlB1OEhabWttNGd5WnI3bTk2ajJZckxDNWRjT2hsOFBBSW9lSnotel9UX3VlRjdnV1RGbGdScE5IeWJxa25RNkxZSUp5RUt0dVljTlNmYXl6QnRzMElLaVViaVBWbGZQSGwzYjlNV0F1bVlmanoxOUx4bXRlRTRMdkZMM2pv?oc=5",
-    "timestamp": "2026-08-04T04:23:00+00:00",
-    "source": "reuters"
-  },
-  "a54b6394af6b5ee971fd2c2ec7557fba": {
-    "url": "https://www.nytimes.com/2026/08/04/world/asia/pakistan-kashmir-jaac-rawalkot-protests.html",
-    "timestamp": "2026-08-04T04:00:13+00:00",
-    "source": "nyt"
-  },
-  "6cbb37bd23b694a39a22de18f1c39e68": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzRFJxNm85Z0ZldVJKc0hEbWhfcWdMZGk0N1RwdTU1aVY3dHNlNEtRNDF4Q2JvakJXVUkyVWdUT2VTbGl1MEp4RmdGY3ZPemNaNHc?oc=5",
-    "timestamp": "2026-08-04T03:50:43+00:00",
-    "source": "iranintl"
   }
 }
