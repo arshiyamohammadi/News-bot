@@ -1,8 +1,28 @@
 {
+  "ccc1a9b5d5a03cbcc47bd5cf5e5eeb99": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zQlVlQzJsTmdHSFdRdXpKQVo3U1RzdjJ1SmItVDgwa3RvUmZnaXBLbUpvRVhGdkFYV0Q5cThGNFktLTVmcGRvdWhseGZlckxHU3c?oc=5",
+    "timestamp": "2026-08-09T21:00:24+00:00",
+    "source": "iranintl"
+  },
+  "8388ebf679d1974967a5a2e60dbfddb4": {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcTVWZ09iSTNNWHMzZjJ1NWZ3RDdEWURJZnBhd0x0Z2VpQnZEcHVxWmd1cVpkVjVoVllpcXlTMWl4OUh2SW5ySllfZFU2dEhpdXZheUhHVmE1YnNZZlQ3TFZ5OU1qWHQwaGVkRlMzUmxUU0FnYUZLeF9zeW5RTGVlTg?oc=5",
+    "timestamp": "2026-08-09T20:17:03+00:00",
+    "source": "fars"
+  },
   "1283846b6d1856d9b5414af60be2efc5": {
     "url": "https://www.france24.com/en/middle-east/20260809-iran-vows-to-keep-strait-of-hormuz-closed-until-us-meets-demands",
     "timestamp": "2026-08-09T20:14:34+00:00",
     "source": "afp"
+  },
+  "8651940cb2fd9fb4cd5dd665bd39257c": {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWhzbGhpYTNuV1JTcU8wSEotZ01CQ3lJb1pteWZiUzRpVVdmdmhUYldVSlV5cXNnR0pKQTFZVmFZeG1VUjZJWkN5Tm5Vak9FTmZFd1RncERPZnJBQmQwdllYaktkQ1VKeWQ5Qi1WaUdSdVlwbGRGaFM0NUJrNmt4MExPczhrVHdSZTVBQlJ4OUN5WVpvSi1XMDE0N0hub292RmlkOUJ1eG9xbkh2U0RXdEpraUF5VU01bXY2NFVqUVFYdjRLT0JWaVN3a0FjY0E?oc=5",
+    "timestamp": "2026-08-09T19:57:43+00:00",
+    "source": "reuters"
+  },
+  "f1dcfb15ae66cd924a994b5884027d17": {
+    "url": "https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html",
+    "timestamp": "2026-08-09T19:44:16+00:00",
+    "source": "nyt"
   },
   "e722bd3e2e9c0de488211e6c73e5dd9a": {
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
@@ -241,6 +261,11 @@
   },
   "b8a403fe7deb12a6830c5ed60a107183": {
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNTRib3hrYzJ1am1BNVVNd3pHVnZIMlNiS205Y0U2aHlJOUl4a1VRbVVGRU1EMVZuc05wbXRFUDJSVi1YVHhDVzNvZVA2TkNWTVdZRERIUkZQM25zNXJHOFBBalY0WEJVc01ub01Xb1NGN2Q5NVdWbFlOVkFJWHlIRkVOWmNOekdGNHl5V1VlQjVETzZhX2w1VjhKajh5OHNQYmNjNUhMS2VpOXRTZThvWmh2WjBlUHNyZ0h1NHBIc3g?oc=5",
+    "timestamp": "2026-08-09T11:57:03+00:00",
+    "source": "fars"
+  },
+  "b119420347ab6df64d0c97c0836a3168": {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORUNvYjkxTml4UERLS2dCN3ZqUlY3LUdoQmdXaV9pMmJ5OENzcUpKYjRNYkgwaXo2X3ktWXRod3RJV2dxUWx2STFEdDdhY3A2dm82ZUQySk5xbHlxUmpnajFudVJtazgtWUMzQ253OTlLdWY4XzNVTDE0Y3B1eC01aUJPOUZxcDd3cUNpRzJURm4tOUxEMDhsY01EaWRoYWVjd0tsMG1ncThwQ3hm?oc=5",
     "timestamp": "2026-08-09T11:57:03+00:00",
     "source": "fars"
   },
@@ -2473,30 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFpfZEh3NVhNLURNVl9ETWp2ak5nZEx4d0JYQ19WZ3Z6bTl3V2wyUzVLQmFnTkJrZTZtVXd1cnp2dkdXUmh0d1FXUmhfbGQ1a3dKY1ZzQ0pXQTdUcS02X1llNkdFbzFLN0k2YXk2X2JEUTVCV1RBeGdUaFA2VGFzSW9LYlRDQm5senFDSzFVRkxHaXdSazRBWUlTT1pjY00yU1Qw?oc=5",
     "timestamp": "2026-08-05T05:11:00+00:00",
     "source": "reuters"
-  },
-  "18b666668c21046cca0d411bb096504f": {
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMkpnYUF2THhmeU1oTWlVZDhlRDBFZ05MMEExSXk4Sldrd3BZQ01ZTUpTc0tsbW5pYWJrcThGSkpXbkhWZHVvSzRYRjV6X3cyanUxQ2NKVXlxUkxFYXFtXzhQZlJCMV92dklHUzk5ZlZ4SUVhdElSX0VuWDBPYkdGbEtKS3NsVVhWUk80SUI3UzZ5cGt2LVh3bFRkeDNOa0F0T0d2NVhSUHFILXFUcjR4c0FjSVNzS2o0RWlZUHF4eWhYQ3ZSZmoxY2l2WFhETTgtYlpQNWJyNk5kUQ?oc=5",
-    "timestamp": "2026-08-05T05:02:00+00:00",
-    "source": "reuters"
-  },
-  "0e7f66f26a225cda62324c0f48ff2728": {
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaFRSNUJ4Q1ZaYlI0cVl1UjMyRHBNdE40MEYtTGJ6YXplZTdyTG9XTkRDSzg3NUNhUGVTTkY3c1I1MThScU1pZF9Ta1hDYzlHeklKZU8xVTdpUE5xemw4eU4wcUxBUXQ4N1VmMTMxM1N1dXo0SXNMWklQc21EeTFUdnpvTlF4QXRlNGpQM1FySkQ5eDhCWDRLVDVRd1VlaUlpUmtuRS1TVkNEOXRhalVyOXF6VUhFM0JxdzVMaUlXWkpNM2s?oc=5",
-    "timestamp": "2026-08-05T04:02:00+00:00",
-    "source": "reuters"
-  },
-  "9ea4e167b923d211424387f9f43a5eb1": {
-    "url": "https://www.france24.com/en/asia-pacific/20260805-taiwan-launches-major-war-games-as-china-pressure-grows",
-    "timestamp": "2026-08-05T03:35:19+00:00",
-    "source": "afp"
-  },
-  "33b0672bfb97cd57c359c484f367f8cf": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KWUxMamZtaUpYYjN5Qy1nLTlzWUVObUk5MVN3NkdkamtzXy05QmNVaV91dmVIclFXdldibGJLemZTbVlJeEhLaXZjTjNCR05KN0E?oc=5",
-    "timestamp": "2026-08-05T02:35:56+00:00",
-    "source": "iranintl"
-  },
-  "de6864c51a5a9da934f698aa83318911": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KWUxMamZtaUpYYjN5Qy1nLTlzWUVObUk5MVN3NkdkamtzXy05QmNVaV91dmVIclFXdldibGJLemZTbVlJeEhLaXZjTjNCR05KN0E?oc=5",
-    "timestamp": "2026-08-05T02:35:56+00:00",
-    "source": "iranintl"
   }
 }
