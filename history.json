@@ -1,8 +1,33 @@
 {
+  "4db4af51b269575a24a661f0678e90ce": {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3dqbHVnc1RTLW5XOVYycjU1dExQZEUxRy1ORVBiWEtWLWFLQ3VoVGtTaFk5U3hQcThZRGdobnlSczZwYkJDOWR2OGtXbWhVMmdqTFV0U0xhVWtNMXQ1Z25GVnNtME0xWjJIV3RtNnpUUHFtOGFOSEtlblpZN3F0RUp3MzRreDRXVXRCaFlVczlOTmRSczlCQTBvODF4bnM0ZUJPeS1qNC1ZSzhwZXNEV0RoRDV2a0swVVFYTHNUU1dvcEFaT0xzY1VxTQ?oc=5",
+    "timestamp": "2026-08-10T16:31:44+00:00",
+    "source": "reuters"
+  },
+  "038e5a16d5dff3c8539c4c6371481e36": {
+    "url": "https://www.france24.com/en/video/20260810-deadly-7-4-magnitude-earthquake-strikes-western-colombia",
+    "timestamp": "2026-08-10T16:29:44+00:00",
+    "source": "afp"
+  },
+  "18ac68110f16f2f2695c9e88d7be099e": {
+    "url": "https://www.france24.com/en/asia-pacific/20260810-in-malaysia-wave-of-hate-speech-threatens-rohingya-refugees",
+    "timestamp": "2026-08-10T15:58:37+00:00",
+    "source": "afp"
+  },
+  "aef83ed9be4c7ba5019ac05cbf2dbb6f": {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE?oc=5",
+    "timestamp": "2026-08-10T15:50:38+00:00",
+    "source": "reuters"
+  },
   "a79c4470de7be479692696300cb25874": {
     "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
     "timestamp": "2026-08-10T15:49:05+00:00",
     "source": "nyt"
+  },
+  "69fe665f9d4522931db017a78ae8a81f": {
+    "url": "https://www.france24.com/en/video/20260810-india-students-clash-with-police-over-exam-leaks",
+    "timestamp": "2026-08-10T15:41:47+00:00",
+    "source": "afp"
   },
   "3eded0f13396d09454b0001d84d1ebe6": {
     "url": "https://www.nytimes.com/2026/08/10/world/asia/police-india-protest-jharkhand-jobs.html",
@@ -14,10 +39,40 @@
     "timestamp": "2026-08-10T15:40:38+00:00",
     "source": "nyt"
   },
+  "a72a82a3326124e828770d864752d258": {
+    "url": "https://www.france24.com/en/video/20260810-dolphin-tropical-storm-causes-some-flooding-in-eastern-china",
+    "timestamp": "2026-08-10T15:33:21+00:00",
+    "source": "afp"
+  },
+  "a8d539480b8dc0c42bab1dc97fd2cb4f": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtZF9XbnluTGZ5NEdYSTJ2MEpodml0R05aQUFjWU0yT25CM1Jzb1hLQ2QwWHB6RXVSdy1PX3A1M1hFeU5pS3ZhLWtpeDZXZnVrUkE?oc=5",
+    "timestamp": "2026-08-10T15:25:25+00:00",
+    "source": "iranintl"
+  },
+  "35f4739edf3be6ef55fde90c26d5a7a4": {
+    "url": "https://www.france24.com/en/video/20260810-trial-opens-for-ex-gang-leader-charged-with-tupac-shakur-s-1996-murder",
+    "timestamp": "2026-08-10T15:15:44+00:00",
+    "source": "afp"
+  },
+  "d9455cae7182cd407f4b2f8c2b2a84c4": {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1M0Y1lDeVR4MktLU0xfUXAydHFNYzZiZDNNeEw2VzVkamZDSi1qdlJ0ckNYcFdzdm0tWVhGVU1kMVppZG5tVFhyUUtSSl9QQmdMTWNlV25QOF82MnN6NTJzcTdxS0JtdGh0VVRBLTg2UVNGQ2dXbW5RNEdlLTF1OGRHSTR2NjhmY2VxV194MVVLUlk0?oc=5",
+    "timestamp": "2026-08-10T14:57:59+00:00",
+    "source": "reuters"
+  },
+  "bcf1d8a29b126a09520a3ae6c59438f2": {
+    "url": "https://www.france24.com/en/video/20260810-netanyahu-says-no-gaza-withdrawal-until-hamas-disarms",
+    "timestamp": "2026-08-10T14:50:08+00:00",
+    "source": "afp"
+  },
   "049f238d53e4f3257acf42f402c6d3a8": {
     "url": "https://www.france24.com/en/americas/20260810-powerful-quake-rocks-colombia-causing-major-damage",
     "timestamp": "2026-08-10T14:18:46+00:00",
     "source": "afp"
+  },
+  "7803826a5b122b535fd016d6c98692cd": {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLW1RbHVGUXZVbFRKWUpKbGV0MFlfdzNhVk9Ma0VwbmdMV3JWMHNST0J5U3lsOUNyVERkb0FwbExtZDZ2LUJsbVhLNEp3ZjlGdDFNOTE4bVVNdmY2RTVlRW9XUFdwMVFUTUJCLUJfMVRtU0xNX3RrWE1GbnJidHEzeGJjX3FKek1FQ1k3YXlHR3NDWEF1LVBz?oc=5",
+    "timestamp": "2026-08-10T14:04:47+00:00",
+    "source": "radiofarda"
   },
   "95410195549c3fe669c6a29f9b562ce4": {
     "url": "https://www.france24.com/en/video/20260810-a-7-4-magnitude-earthquake-shakes-colombia-and-ecuador-prompting-people-to-evacuate-buildings",
@@ -803,11 +858,6 @@
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HclZ4bF9NLTVncHVwR3EwS1dLVGF2cFZodXB3aFhISjVobmRGc3lIN2VvV2ZYYVluU2ZJanBaM0w4Tk5pWkhTUmVXMzZEb3ZVZWU3eTVyMWh4Y2FqbVE?oc=5",
     "timestamp": "2026-08-09T04:44:13+00:00",
     "source": "iranintl"
-  },
-  "7803826a5b122b535fd016d6c98692cd": {
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QQ1hDSUFNMUxVTE0wSDhZT3g3UnUyeGJCaU5JbUlWY1QwaHZkVGprOEpqSUJZS3Eyb1l5c0JqNUtjVDhoVy0xU3ItZzVyVXRVN0pvQ0tGOXVDY2dEcTNxVGt3?oc=5",
-    "timestamp": "2026-08-09T03:55:51+00:00",
-    "source": "radiofarda"
   },
   "4dda6ad570603c6f7dd05dbc4e39b39f": {
     "url": "https://www.france24.com/en/asia-pacific/20260809-japan-nuclear-debate-unnerves-proponents-of-pacifism",
@@ -2448,55 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
     "timestamp": "2026-08-05T19:44:00+00:00",
     "source": "ap"
-  },
-  "165bd0d7e5b0699bbd3132f8ce8f0bd8": {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajFnaXk0anVrT2IwaV9XMDBma0pMQU53ZF9LRUJiT01nWjJsdG5FZXhwUjNtZFp2Yy1NV3Q4dFRIeUxzV1pCWk9RMVVZNk1UbWxxMFdiNEdNTG5KSVBVWTRCaWFJSFNlT3RiMFF6RWtqN2pnRThTUU9GaHNfelhwV3RZTXdfMzJwUk1aVlFXZ0FBNk1qWFFmd2xIRWNVWVpmQl9DSkE2NnhMaXlJZ2FFeQ?oc=5",
-    "timestamp": "2026-08-05T19:11:49+00:00",
-    "source": "reuters"
-  },
-  "63ec04eaf32b0de0076caa457847d737": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXhKWmZFYjctT3FLTWdsTnkyVVdsRnRoRkZCaXBIWk9hcFhnSEU2YV9UZjM1end5SjFKTzFsYXFWY2RGR2lYcEotR0RDSkZwcTVXWF9CeUM2eGZFTGhodk5DMmk2Tm1BbHp0YXRzX3pOb241N2dGQ0tFYnR1elBQU0tzWUxvTFhyZ2JUYWRqY0lkYWlvbzlGS1gwRUpYYkhuQkxJaEdFQ3JYbFdQRmZXNEk4bV9EMkNFdnA1NQ?oc=5",
-    "timestamp": "2026-08-05T18:21:19+00:00",
-    "source": "reuters"
-  },
-  "36a5f6010e5044e9ea1f6fdd055a6de3": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0STRVbzd6ZjVodHRTelJTbUgzZkFWY3MtUUFnb3hQNVFjeW96R0hrUVVOLXRhcnVhcWhEWkpYdzZlMjhlQnpSV1EtQ0F0aWxDQ1E?oc=5",
-    "timestamp": "2026-08-05T17:45:10+00:00",
-    "source": "iranintl"
-  },
-  "eee26c469740276fcc03142c0a73656f": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YQzZMeWtlbGJvOHdncTRuVmd3Qk1FQ3ppSnNIZVpTYlcyMXRuSHV1UU9xTmlpWXQ2NmJ3bXZfRERLMXRidkpCdG9MRldnVUs3b2c?oc=5",
-    "timestamp": "2026-08-05T17:45:04+00:00",
-    "source": "iranintl"
-  },
-  "be23652aebc653efa70accd002233d96": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YQzZMeWtlbGJvOHdncTRuVmd3Qk1FQ3ppSnNIZVpTYlcyMXRuSHV1UU9xTmlpWXQ2NmJ3bXZfRERLMXRidkpCdG9MRldnVUs3b2c?oc=5",
-    "timestamp": "2026-08-05T17:45:04+00:00",
-    "source": "iranintl"
-  },
-  "ee056c17e203669a191ea07e680b2953": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
-    "timestamp": "2026-08-05T17:44:00+00:00",
-    "source": "ap"
-  },
-  "adc7db28fc1dedb8509c10ac7d76f9ec": {
-    "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
-    "timestamp": "2026-08-05T17:28:32+00:00",
-    "source": "nyt"
-  },
-  "e4c146602229adbe544832407581eaf6": {
-    "url": "https://www.nytimes.com/2026/08/05/world/middleeast/iran-oman-strait-of-hormuz.html",
-    "timestamp": "2026-08-05T17:08:46+00:00",
-    "source": "nyt"
-  },
-  "d828df084a14c8ebca05c165da2e5b5b": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12ZjVXWmdQTW9oTHJtUklYdlRJeU1Qa1VualNNSGZrTm9lWFByVUJPZjJCLVFVLTBTd2Y5T3RKMGJUVVhNLUoyT0dZYkJFUDljdlE?oc=5",
-    "timestamp": "2026-08-05T16:47:00+00:00",
-    "source": "iranintl"
-  },
-  "469a4603c1089b1246ed30a670bf5bce": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12ZjVXWmdQTW9oTHJtUklYdlRJeU1Qa1VualNNSGZrTm9lWFByVUJPZjJCLVFVLTBTd2Y5T3RKMGJUVVhNLUoyT0dZYkJFUDljdlE?oc=5",
-    "timestamp": "2026-08-05T16:47:00+00:00",
-    "source": "iranintl"
   }
 }
