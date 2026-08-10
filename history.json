@@ -1,4 +1,19 @@
 {
+  "a79c4470de7be479692696300cb25874": {
+    "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
+    "timestamp": "2026-08-10T15:49:05+00:00",
+    "source": "nyt"
+  },
+  "3eded0f13396d09454b0001d84d1ebe6": {
+    "url": "https://www.nytimes.com/2026/08/10/world/asia/police-india-protest-jharkhand-jobs.html",
+    "timestamp": "2026-08-10T15:41:28+00:00",
+    "source": "nyt"
+  },
+  "6d6637854e84dcf2e4a8974f6564e6b6": {
+    "url": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
+    "timestamp": "2026-08-10T15:40:38+00:00",
+    "source": "nyt"
+  },
   "049f238d53e4f3257acf42f402c6d3a8": {
     "url": "https://www.france24.com/en/americas/20260810-powerful-quake-rocks-colombia-causing-major-damage",
     "timestamp": "2026-08-10T14:18:46+00:00",
@@ -2482,21 +2497,6 @@
   "469a4603c1089b1246ed30a670bf5bce": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12ZjVXWmdQTW9oTHJtUklYdlRJeU1Qa1VualNNSGZrTm9lWFByVUJPZjJCLVFVLTBTd2Y5T3RKMGJUVVhNLUoyT0dZYkJFUDljdlE?oc=5",
     "timestamp": "2026-08-05T16:47:00+00:00",
-    "source": "iranintl"
-  },
-  "5ab48785ca748ab27973c4fe07be1e42": {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdGd5eGNIbFJTUDl0MlJHQ01RR3F5NVhNaVJuTVpvZ0FJMHlrNnFhQ1hsOUFyNWI0c1cyX0RwbTRwTHNrTE1yQ0NzUmlmMXBPYkM1Q1Vya3hOOFRQXzVHOEhHemQtd1dQcXlrcFVZRUh3T0RoWkRiam9jUWxhNld2MjRPMjNwd3hhaWVlZ2IwN2UzaS05NG04dHVCM0FidUxtQjBNcy1GWThaRE9RT1VmOGFzT2g1MEhiUVludGVGaWhCUQ?oc=5",
-    "timestamp": "2026-08-05T16:44:59+00:00",
-    "source": "reuters"
-  },
-  "2d0eb80525deefdde0941db593439744": {
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXZPbkhCTjRpQkNteVlfOVVkTkR4eGpFUFJTZmZySE5WQW1MakpaR1NUVEtXM0VucEpRbml6dUk1R2lsbE5vN3V5M0dHTHZad2JXUEsyUTlvVXFQU0hpNnE5Z3h4d0NMSE9OcXNocHRJQ1Q0eXV6M0phX05BeDFJblF1eDBpRGY2YzNGVHBCT21ISmRUSXhQc2V4dW9SeklwUkY5dmpsTWdzQWNHY2ZLX3NTNXNOeVhOejFRWUN2bURYYS1vOW9URmJR?oc=5",
-    "timestamp": "2026-08-05T16:29:20+00:00",
-    "source": "reuters"
-  },
-  "c99d00507d22ecc7f0eec0d17b636962": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YMUpUY3ZUWlhUSXItTDAtTjdZQ2kweENSR19pWlUyQzRFb3R2cUtBa3haN2R0WWRWaHBKUXgxdTFnVk9iTFpEYUNUWlkzYlFkdVE?oc=5",
-    "timestamp": "2026-08-05T16:12:17+00:00",
     "source": "iranintl"
   }
 }
