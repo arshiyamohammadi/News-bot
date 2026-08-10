@@ -1,4 +1,9 @@
 {
+  "6f9417305cb7980ed2f8b4661b44fb8f": {
+    "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
+    "timestamp": "2026-08-10T19:15:19+00:00",
+    "source": "nyt"
+  },
   "b099ac2cfb9889f8d529bd01c467c16d": {
     "url": "https://www.france24.com/en/live-news/20260810-russia-bars-only-anti-war-party-from-elections",
     "timestamp": "2026-08-10T17:49:13+00:00",
@@ -2493,10 +2498,5 @@
     "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260805-un-warns-drone-strikes-worsen-in-sudan",
     "timestamp": "2026-08-05T20:39:15+00:00",
     "source": "afp"
-  },
-  "23bf67ec180dbaec6be4df4fc177b727": {
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORTh0MGxWX1RCZWdvU0lqaUZVczZzdDJaYlNDVlM5aURvZlVLWUpXaTJPZjRvOXpjQ2c2eUwwbDkzaTZBc3dRaHhyYkViSGdMV25VdWpvWVB6OXphVlZmOXl1OFRXV0pQZ2VxRkZtX1psOTN4UnRQeV9nNllHUzdadnB2Z3M4bTR1NG9HQW1pTVlYNzJBcXJZU0JYcmhEZVNIcWF2RmF6b1pucFFxWFpKWmtMbm10QXd4Vy1CT2V4dWI5NmUycW1fUw?oc=5",
-    "timestamp": "2026-08-05T20:37:45+00:00",
-    "source": "reuters"
   }
 }
