@@ -1,8 +1,58 @@
 {
+  "049f238d53e4f3257acf42f402c6d3a8": {
+    "url": "https://www.france24.com/en/americas/20260810-powerful-quake-rocks-colombia-causing-major-damage",
+    "timestamp": "2026-08-10T14:18:46+00:00",
+    "source": "afp"
+  },
+  "95410195549c3fe669c6a29f9b562ce4": {
+    "url": "https://www.france24.com/en/video/20260810-a-7-4-magnitude-earthquake-shakes-colombia-and-ecuador-prompting-people-to-evacuate-buildings",
+    "timestamp": "2026-08-10T13:53:37+00:00",
+    "source": "afp"
+  },
+  "fd65c76cebd59cd8ab70e498a585f9c8": {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeC1FV2UwSUJ1TGdfbjNOa1B6WWJ1R1N4TFBycWJsc016ZDQwSUdzblo1SXU5a2x4cWsySkw1eV90clVKbS1Iekc0RzVTaDNzWGdvamJiT0s0NVprWUdEbmN5WUFsMHM2MlVVbTZTRnNnMFZWQlA1Rk9EM1VDLVNqbGMyZXMtRlZPZGc3Wnd3V1E?oc=5",
+    "timestamp": "2026-08-10T13:25:00+00:00",
+    "source": "ap"
+  },
+  "51fdba07c33e219e4ac24fd16bdb4bc5": {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE?oc=5",
+    "timestamp": "2026-08-10T13:13:05+00:00",
+    "source": "reuters"
+  },
+  "5812bf719a8fe0a870d3ee3e4ee6a864": {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3dqbHVnc1RTLW5XOVYycjU1dExQZEUxRy1ORVBiWEtWLWFLQ3VoVGtTaFk5U3hQcThZRGdobnlSczZwYkJDOWR2OGtXbWhVMmdqTFV0U0xhVWtNMXQ1Z25GVnNtME0xWjJIV3RtNnpUUHFtOGFOSEtlblpZN3F0RUp3MzRreDRXVXRCaFlVczlOTmRSczlCQTBvODF4bnM0ZUJPeS1qNC1ZSzhwZXNEV0RoRDV2a0swVVFYTHNUU1dvcEFaT0xzY1VxTQ?oc=5",
+    "timestamp": "2026-08-10T13:11:20+00:00",
+    "source": "reuters"
+  },
+  "a766bf4f22e0f73e782ef41f8ce50f0e": {
+    "url": "https://www.france24.com/en/video/20260810-ukraine-drone-strike-on-russian-oil-refining-city-kills-12-people",
+    "timestamp": "2026-08-10T13:09:16+00:00",
+    "source": "afp"
+  },
+  "31e2b5127900ad786ed2f1b489947a67": {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk?oc=5",
+    "timestamp": "2026-08-10T12:48:00+00:00",
+    "source": "ap"
+  },
+  "477f8e3f4338e88bb871caaa7bd1dcea": {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbTVmdTJrZGhIN3BDTWJGYnJlZVJjMmdNZkdacW84NGdEbEthY0FpN3FJcTFVMW1TWlZkNFBSS0JxYmlxaUxMUzMzenpKdDNKT1FQSTBtdEhFc1RVemY0YkZOdmlzYXhMcndOc0QxU0hsaWZxRVdCVDAtRHA4d1hXTFB0MWoxNGNrV05kNXdhR2tPVjJaWmZtOHNUTFpoN0doYnJraEZDMlRteW8?oc=5",
+    "timestamp": "2026-08-10T12:44:25+00:00",
+    "source": "reuters"
+  },
   "72d05d8df0a5de89a983384f97e22e8f": {
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDdMbHg5dEV5Z2x3bW1Ua2pDc0Z4bXhTX0pCWkhfc01fY1pBWGtNLVZRQ3BOcXJHS2FvSlRyWWxlZDUyd09aQ3FNSHRjUDBTQnMzci1BY1MyYnRtekRZN1dfNEwwdktkMGRUVkx6Sk5HWmd3RFoyS05UYm15aGQ5VENNWGFkcDlqbmxpQzkxLTYwelZtQTE0YlRSTndRNkQwZGpHSnJqdTQ0YlpYc3ZhczRfb0o2UQ?oc=5",
     "timestamp": "2026-08-10T12:14:58+00:00",
     "source": "reuters"
+  },
+  "3102d8ba67110c6b98d3d2a67602bbff": {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekxQUnMwU09VWk1GRXI5Y18xYkQ1MVV3THExMHlKU3JDaFVZVGFnX2xUV0tZbTY3RGNQamdCdkZHRndOV2p4OElDVkkxZW00M2tFWkZuN1dYaXVWZ0wydnZkTy1PeTVrLS1oU0M1X0Q4Tk1HZzVvemRuRzMtczdwWE10N1RQaUg4ZEpUM0lvMDc2RDIxTXZCSzFUUXJ2SGZKWmVhaDRR?oc=5",
+    "timestamp": "2026-08-10T12:01:40+00:00",
+    "source": "reuters"
+  },
+  "d5fbd919fb153b0057d065d00e779633": {
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQk84empJSVYwTmtybkFrNjRVak1PM0h4WjRRN1ZRdENESHpFVWFpc2NqNHRxdU85TUVZbDdpZjlTMzAzMnd2ZzVOSWJ4MmJLOTlVS2pPaFFyT3JXTk5RRjNvMlhwcDdZdVFLXzIxTHVUV1k1MUlSbTF3N1BObF9PWHpfVU5KWFlnRHRxOGdfb2lGcThkczBOTzNwVVAwYlFIb3pLeTR1ZktOdll1RUFkOVJTbFBIRjhPRlN1cVlWc0RCSGtkUC1xQXQxV3YtVTI2NHMxUk1zSTI3d3VMVlV6R1hwbmtIQQ?oc=5",
+    "timestamp": "2026-08-10T11:38:49+00:00",
+    "source": "fars"
   },
   "f881539c67bd3fa6d0ccb6f0d635164b": {
     "url": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html",
@@ -23,6 +73,11 @@
     "url": "https://www.france24.com/en/tv-shows/focus/20260810-ivory-coast-s-biama-boom-tiktok-trend-gets-the-nation-s-youth-dancing",
     "timestamp": "2026-08-10T11:25:24+00:00",
     "source": "afp"
+  },
+  "171b98562d97068780bbc1c71d0c0b40": {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLVhyVXA0ZVRMUDFJMDhIRWpfeW1rQm5CVFpPVXg0bUhId2Z3ams1OGtJejBqYXd5dGsxRnFXTVJ2ZXJOMXlkZU5tZ2o0dDNoZkcyTVZ0RFp6dUo1T1pwTzBwelhlRlBFbkhmYUVnV0ZCVWVwZjR0SVA4UFpMUWVmN0dSNlB4UWRQMmpFcWIxM1VTVDViYXYxVk5QQmk5Q3FvS0RwSDdmUXBJbTUwZFZWdDc3bm82ZVd3SG9qTW5R?oc=5",
+    "timestamp": "2026-08-10T11:23:42+00:00",
+    "source": "reuters"
   },
   "734dcf34a8aceccc1d65d0d4145895a4": {
     "url": "https://www.france24.com/en/video/20260810-china-tropical-storm-dolphin-causes-floodings",
@@ -89,6 +144,11 @@
     "timestamp": "2026-08-10T08:28:49+00:00",
     "source": "fars"
   },
+  "3a98ce6db8ef4edd4a9bb4d1d857e791": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZVkw1bWpJQ1d4SElrTE01MnNqMkc2Ykh0YS0wZkVCT3lxUU5RRnVkSXlhck1uV1h3UXNrZ0tnTEJtTW9vUzJKTGJSNkl4UmpHSlE?oc=5",
+    "timestamp": "2026-08-10T08:20:03+00:00",
+    "source": "iranintl"
+  },
   "3de19589522377702c37f17ba005fb6b": {
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdGVUcUxFVnozbGQzbUFJeTV2am9vY3lPQ0N5VU9NS1d0bUVTbU9qcGFGZEMwX0REUTBWa0h1WlBGdm5wY3pweERFRWNqUGZUb0NRNDBHRm5NaTZRdFY1VUt3ZFE0TkFtVnFOZ0o2a3lNSXhTSHZTblgyeGVkTEFqcTgxcDJid3lkbE1OMXhLSDQydnUwSUlCeGtOMXp0UjNtc1BHd2J5ejdCS0Izd1hvVjlJc3lRYXFWQVkyS1JwX05CWm5LVEE?oc=5",
     "timestamp": "2026-08-10T08:08:44+00:00",
@@ -98,6 +158,11 @@
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk?oc=5",
     "timestamp": "2026-08-10T07:45:00+00:00",
     "source": "ap"
+  },
+  "83a75d9c3f224185c0ac2e47cfd4c692": {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObnJHbHBKTndrdFh2QUd0MDlQd01PV2ZkVEdqM2pPc0JZX3BVRXlXaWJid1pwc0V2Z1UwM09KRVZ4SmpoVTlyMkJ2cU1UTTlRSlRiWGhFclR2OUJJZmtqVUZZM3lRMFBjRUFvaDQwSDZiWEVtRUlZMk5JMTRQd3h4Ny1QSGk4MVBLY0txU2ZzWHhVWnhxRmNWcGxKNW9XSnFRYkdpQjQyM2Y?oc=5",
+    "timestamp": "2026-08-10T07:41:53+00:00",
+    "source": "fars"
   },
   "344e1d40d6deea7ccf986a30c47e7507": {
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Qb2g0RVRhOHNqX1NneGhzclRrTzJnbG5MRjFkUl9rTnNKclk2OXRXSE1fWVUyUWhRenBoYUdEYnY0MWd3SE1xNkZNcHY0RFBX?oc=5",
@@ -144,6 +209,11 @@
     "timestamp": "2026-08-10T05:02:00+00:00",
     "source": "reuters"
   },
+  "739161d42c7497e7f620ff5f46ee9eee": {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ1ZGYTFYNVhqMWFRdzMtNmt2M08zVVpCZk1Va3p3dWlkYnpGLUZmSWhvcmtiUDBrTElteGY4RkY2SmpzNjFWUzBFMmhxUnFmMDVtWUxLVmZQZWNEb3ZCanlKNF9tOGRKZGw1TWhVQ0RmRmpNUHhrWG1ieHpyNXBuTTFDaW1ZazR1QzRXMjFHVGJ5dDF4M2RiTTZUY09qLVAzTDctOTZiTFU4NzdjYXhMUXJB?oc=5",
+    "timestamp": "2026-08-10T04:53:50+00:00",
+    "source": "ap"
+  },
   "9b3caf7647e6d0b4e92af345a9b60d93": {
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGI3ZEkwRkVXWXhoWDVOWDNQQi1ZaXU1RE1BWWxpWlJYeWxxZDdmS0xfRDBVYW1jOGt1Q1NRU3dPZWJVVXpwNEdCbEloN0ZiWHozOG5YaE5yUzlhR2R6dVhoM2w2MWg3ejZoa2RRY3FHLWVMSmQxOHdEZ1A4V0kyVWJrYy04SV9xSWM3NGdQLXFydi1yU2NpWWtiNA?oc=5",
     "timestamp": "2026-08-10T04:14:00+00:00",
@@ -168,6 +238,11 @@
     "url": "https://www.france24.com/en/europe/20260810-western-europe-saw-hottest-june-july-on-record-as-climate-change-fuels-historic-summer",
     "timestamp": "2026-08-10T02:15:21+00:00",
     "source": "afp"
+  },
+  "190e2cdacbe6bc2934da989ccaad32ef": {
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xcTh6VV9hOW96ZV9mcHF1SjBJMEdyaVBWNUxvZm9xdjl3Z2pyWFFlVVNXMjF5dzJPZGRiX1E3d1MzUWFTZHdRV0RkR240Wl9GUnEtVWtR?oc=5",
+    "timestamp": "2026-08-10T01:39:12+00:00",
+    "source": "fars"
   },
   "f427228a68fbc72fc6cf45c6302951d9": {
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HclZ4bF9NLTVncHVwR3EwS1dLVGF2cFZodXB3aFhISjVobmRGc3lIN2VvV2ZYYVluU2ZJanBaM0w4Tk5pWkhTUmVXMzZEb3ZVZWU3eTVyMWh4Y2FqbVE?oc=5",
@@ -248,6 +323,11 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWhzbGhpYTNuV1JTcU8wSEotZ01CQ3lJb1pteWZiUzRpVVdmdmhUYldVSlV5cXNnR0pKQTFZVmFZeG1VUjZJWkN5Tm5Vak9FTmZFd1RncERPZnJBQmQwdllYaktkQ1VKeWQ5Qi1WaUdSdVlwbGRGaFM0NUJrNmt4MExPczhrVHdSZTVBQlJ4OUN5WVpvSi1XMDE0N0hub292RmlkOUJ1eG9xbkh2U0RXdEpraUF5VU01bXY2NFVqUVFYdjRLT0JWaVN3a0FjY0E?oc=5",
     "timestamp": "2026-08-09T21:26:39+00:00",
     "source": "reuters"
+  },
+  "f1d5e4c73d2f36257c11155945b9637a": {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KdDlOWENtTG5kci1nOFJxd1FhMjFkTE90NHdYdVBJODFGTGFneVM4dXRVVkhRQWxJRzZ2bXkwejZDS0hab21vSnlJU3YyUjJRLV9lTEJ3c1hKQkhnMGFsclhETVZRZHJpNFlr?oc=5",
+    "timestamp": "2026-08-09T21:23:23+00:00",
+    "source": "fars"
   },
   "32cc4adeeb9e5a11c54639d9ef49563a": {
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WVVBSLUQ5UlZiXzdISW41cVlTMUdoa0ZkWXF6M0Zha1Juc2pmYTU3NmNJUjN5MjZGWTFzRXdVUDIzZlAyVmd1Y0YweHhsdDdwM2Z2eTJuRVlNczJXaHB5XzFGZV9iUGdXRWQ4dGw1VjNnVFU?oc=5",
@@ -1469,11 +1549,6 @@
     "timestamp": "2026-08-07T13:03:20+00:00",
     "source": "nyt"
   },
-  "d5fbd919fb153b0057d065d00e779633": {
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZmMwc3ZvRDljTWlVeFRYbnphaEJ4QnlZQ2NwOFhOMjNJSUFOcTlKUE9YaDlpanVpWW5EYnhFN1N6dzdVdkViRk5BOUFUV0ZMLVZOTDJ2Y0RHTks2OE1vV3ZMT3BjZWdYSUtNTEtvVVprNE5ObjdWREludnpSQnZVVFNRTVp5UkdkeURaaDV3MWVqUy1OR0lJ?oc=5",
-    "timestamp": "2026-08-07T12:29:49+00:00",
-    "source": "fars"
-  },
   "2392cac6ac04ff5c6b3e49323c1b2add": {
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZmMwc3ZvRDljTWlVeFRYbnphaEJ4QnlZQ2NwOFhOMjNJSUFOcTlKUE9YaDlpanVpWW5EYnhFN1N6dzdVdkViRk5BOUFUV0ZMLVZOTDJ2Y0RHTks2OE1vV3ZMT3BjZWdYSUtNTEtvVVprNE5ObjdWREludnpSQnZVVFNRTVp5UkdkeURaaDV3MWVqUy1OR0lJ?oc=5",
     "timestamp": "2026-08-07T12:29:49+00:00",
@@ -2423,80 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YMUpUY3ZUWlhUSXItTDAtTjdZQ2kweENSR19pWlUyQzRFb3R2cUtBa3haN2R0WWRWaHBKUXgxdTFnVk9iTFpEYUNUWlkzYlFkdVE?oc=5",
     "timestamp": "2026-08-05T16:12:17+00:00",
     "source": "iranintl"
-  },
-  "723e64b4c2c6cd59f8223aafc34567ef": {
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wWW5VUlZTNFVaUTgxbUo1bHpnZmNHRS0zS1oyNlh0aFFLbWFLZmlfTnlTZE5XNlFQaG5ydGU3WUFQem1hNVhJR0ZrVGFPRVlkYmdVelZvU0xSQnBR?oc=5",
-    "timestamp": "2026-08-05T16:11:02+00:00",
-    "source": "fars"
-  },
-  "87dc21ba79ab438c35fdf7550c81740b": {
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wWW5VUlZTNFVaUTgxbUo1bHpnZmNHRS0zS1oyNlh0aFFLbWFLZmlfTnlTZE5XNlFQaG5ydGU3WUFQem1hNVhJR0ZrVGFPRVlkYmdVelZvU0xSQnBR?oc=5",
-    "timestamp": "2026-08-05T16:11:02+00:00",
-    "source": "fars"
-  },
-  "7dc46a021edaad045173ec031c860b1b": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxU0w0Rjk1b2NIZnU4Und0ZWZTU2dpc0F5M2pxVVFRMERmQlRfNlBGaEJlRVRUeWdienhmQ2RRSENDQkN0ZVlrVS1zRWdOM1B2LVE?oc=5",
-    "timestamp": "2026-08-05T15:51:57+00:00",
-    "source": "iranintl"
-  },
-  "226b5053b48f10d847803c0d87a9b300": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxU0w0Rjk1b2NIZnU4Und0ZWZTU2dpc0F5M2pxVVFRMERmQlRfNlBGaEJlRVRUeWdienhmQ2RRSENDQkN0ZVlrVS1zRWdOM1B2LVE?oc=5",
-    "timestamp": "2026-08-05T15:51:57+00:00",
-    "source": "iranintl"
-  },
-  "8a087995cc15e5c2945c0d9919f2772b": {
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnozbmNJWkxCLUZVcG1RTzhucVVaeHFYMndzTTZKcWhsUUZ3cDcwaFRrN0JpRDFGaTZLYUc1UnNieTZDNDI1bjZQMk5MNUZ6SW9qUWw1Wk5hbVBfbENzM1ZrZkk1U1ZEMU05MjFkTjJMaERSTlItX19lX2FCUVhfSVhmMHdpYzB5Qk4yTVRnUE5McDc0eXRFWVZmWHB6Z0laMWdWWXFoZmZXamZ3aDBBVGhCdw?oc=5",
-    "timestamp": "2026-08-05T15:40:00+00:00",
-    "source": "ap"
-  },
-  "a16f3d2d70e8957dc8ad13c30915c560": {
-    "url": "https://www.france24.com/en/who-is-abdul-el-sayed-michigan-democrats-best-hope-at-taking-back-the-senate",
-    "timestamp": "2026-08-05T15:22:19+00:00",
-    "source": "afp"
-  },
-  "6ff0ac73391ecbafa12e33c31419fddd": {
-    "url": "https://www.france24.com/en/middle-east/20260805-israel-resumes-military-strikes-on-southern-lebanon-as-rome-hosts-peace-talks",
-    "timestamp": "2026-08-05T15:20:14+00:00",
-    "source": "afp"
-  },
-  "6b2bcec40109dc50c0fd8c8283646626": {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUNJWWdZUW9teWxlNDE2eWVZWTFmd0JQdmwwYUNvSEpES1BhMjBJNF9LczlwUTZkaTZjMm5MNFhEUFN1RnpZclZHamljVnlGcW5GdkFMclYyUjQ4dEpHRWwtNjJLdjNoNWx5YlU3Q1FIUmhoV1hxMktXNnZXanZLLW9YS1JjRGp6ZkNMbTNGOVlETVRSUGREMnZ5dDVhUjYyWlB1RzBwenhtUDg3dDdIYVpoTXBlN2dFWTkyVnJn?oc=5",
-    "timestamp": "2026-08-05T15:11:32+00:00",
-    "source": "reuters"
-  },
-  "a07eb2490b9d41ba63ce70107844a4fa": {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdGd5eGNIbFJTUDl0MlJHQ01RR3F5NVhNaVJuTVpvZ0FJMHlrNnFhQ1hsOUFyNWI0c1cyX0RwbTRwTHNrTE1yQ0NzUmlmMXBPYkM1Q1Vya3hOOFRQXzVHOEhHemQtd1dQcXlrcFVZRUh3T0RoWkRiam9jUWxhNld2MjRPMjNwd3hhaWVlZ2IwN2UzaS05NG04dHVCM0FidUxtQjBNcy1GWThaRE9RT1VmOGFzT2g1MEhiUVludGVGaWhCUQ?oc=5",
-    "timestamp": "2026-08-05T14:23:45+00:00",
-    "source": "reuters"
-  },
-  "001fb0465a84d9cc6b74f26900896c05": {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdGd5eGNIbFJTUDl0MlJHQ01RR3F5NVhNaVJuTVpvZ0FJMHlrNnFhQ1hsOUFyNWI0c1cyX0RwbTRwTHNrTE1yQ0NzUmlmMXBPYkM1Q1Vya3hOOFRQXzVHOEhHemQtd1dQcXlrcFVZRUh3T0RoWkRiam9jUWxhNld2MjRPMjNwd3hhaWVlZ2IwN2UzaS05NG04dHVCM0FidUxtQjBNcy1GWThaRE9RT1VmOGFzT2g1MEhiUVludGVGaWhCUQ?oc=5",
-    "timestamp": "2026-08-05T14:23:45+00:00",
-    "source": "reuters"
-  },
-  "4c1fb4802eb33a1105785e3195c75985": {
-    "url": "https://www.france24.com/en/americas/20260805-democrat-el-sayed-narrowly-wins-high-profile-michigan-us-senate-primary",
-    "timestamp": "2026-08-05T14:21:32+00:00",
-    "source": "afp"
-  },
-  "99ad6feef0c2f3d21d9d2250399a5e6e": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
-    "timestamp": "2026-08-05T14:20:00+00:00",
-    "source": "ap"
-  },
-  "5864181e7b98804af0e5f116d46158e4": {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMFpOMDBiVmpKVlBJazhKdEJ2RWhjLUlpNUl4Nm04OVF4TnUtSzhETjhYS0NJN2NtWDRDMFlBMHlRWm9OOVduTFBqWmZJbzFxbVRSajM2NFhmYkxaSE1xOVZQN004Wi1QRDMwNzhsMVdNbHZ3Qk42Vm50andHUWdVY0hITGFKQ2xMTTBqT3RYM2VQMGhTWTJfczdHeE5PY0djdFVpMGtnRlNoQUtXN2RvUg?oc=5",
-    "timestamp": "2026-08-05T13:55:08+00:00",
-    "source": "reuters"
-  },
-  "8154adb6e3479a7132646d2e1152b394": {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMFpOMDBiVmpKVlBJazhKdEJ2RWhjLUlpNUl4Nm04OVF4TnUtSzhETjhYS0NJN2NtWDRDMFlBMHlRWm9OOVduTFBqWmZJbzFxbVRSajM2NFhmYkxaSE1xOVZQN004Wi1QRDMwNzhsMVdNbHZ3Qk42Vm50andHUWdVY0hITGFKQ2xMTTBqT3RYM2VQMGhTWTJfczdHeE5PY0djdFVpMGtnRlNoQUtXN2RvUg?oc=5",
-    "timestamp": "2026-08-05T13:55:08+00:00",
-    "source": "reuters"
-  },
-  "437e5ae4bf6b10695200121435fe3350": {
-    "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-lebanon-hezbollah-cease-fire.html",
-    "timestamp": "2026-08-05T13:52:36+00:00",
-    "source": "nyt"
   }
 }
