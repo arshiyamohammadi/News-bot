@@ -1,13 +1,38 @@
 {
+  "a9f753d4c4bd10f8fbdb8e06b51b792c": {
+    "url": "https://www.france24.com/en/middle-east/20260810-turkey-parliament-passes-limited-amnesty-law-for-kurdish-pkk-militants",
+    "timestamp": "2026-08-10T21:36:10+00:00",
+    "source": "afp"
+  },
+  "cb902b339689c6f76f88e88d3ef69525": {
+    "url": "https://www.france24.com/en/ebola-started-3-months-earlier-than-official-declaration",
+    "timestamp": "2026-08-10T20:26:40+00:00",
+    "source": "afp"
+  },
+  "52b757cfb3dcffadec139ad67c8992cc": {
+    "url": "https://www.france24.com/en/middle-east/20260810-iran-backed-houthis-strike-red-sea-port-of-mocha-threatening-shipping-routes",
+    "timestamp": "2026-08-10T20:26:19+00:00",
+    "source": "afp"
+  },
   "fd3f2d3d1d95f6f15b5af7651502f412": {
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUE4QXJjenhzdy1DTVEtby1VRDU5TnoyczNRWGM0SFVEWDVVelIwQ08xRVRyaVpVbWpuR2dKMzZaZG9vU0tqLUJWaVM2OFd5U2FkTUhfQ3hrczVIcVVVeldhNGRfajlrLUFrZWRpOVM2bFZSekxmT2NISmxqSDVmR1kyZkZ5VjZoT2liZFJmSm1sZw?oc=5",
     "timestamp": "2026-08-10T20:20:00+00:00",
     "source": "ap"
   },
+  "305524a5ffe2e3bb5e534beed9800fe0": {
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ENDN6SFdSUHU1M1NZNVFnN0UtdG1DaHFHRTR3ckdmX1VFMmctU2s5WGpwaDAzQThJa2toNW1ndGZZYTVDSkF6UW50WTR2d190VmRXZERrbV9RWlpxNkx2VXlFS1hiN3RwSGc?oc=5",
+    "timestamp": "2026-08-10T19:22:37+00:00",
+    "source": "fars"
+  },
   "6f9417305cb7980ed2f8b4661b44fb8f": {
     "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
     "timestamp": "2026-08-10T19:15:19+00:00",
     "source": "nyt"
+  },
+  "289f5dcbb62e0d2dd0f3e09bc61bef16": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMVlRtMWJTRG5oaWlnVGc1cDBuSFRsT29ZdHhHN0RPUlVlb01HeDVva214Y2NJdEVyT1I2blZFdmRtNXNTdXZSaENpVHNpbkM1Rmc?oc=5",
+    "timestamp": "2026-08-10T19:01:50+00:00",
+    "source": "iranintl"
   },
   "77911fed4a7af81d35bbbd9ad2f96768": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGVjJ5b1RLZFI4U0kxZXVKOVRvSGZjWDlPMF9WTEFCUGVDUHRHVlJrczZZd2M0ZU01bHNqMU0wbGFROGxRQTJ4SjFHd1lTc2RXRnc?oc=5",
@@ -284,6 +309,11 @@
     "timestamp": "2026-08-10T09:16:16+00:00",
     "source": "iranintl"
   },
+  "b3445ac90fb3c0f40f3432532779d165": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KUlZnNkRMZFBSNlNEU3hXQ2NsVHFLYVBuMk95LU1nWFhTQUdCbmFVUFFpbTBRQlZLODZPdFNfZG9rbW1DNEt4OUdESHp5WlBGdGc?oc=5",
+    "timestamp": "2026-08-10T09:08:22+00:00",
+    "source": "iranintl"
+  },
   "b9566c543aca89d3b954bfe858aa8b57": {
     "url": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html",
     "timestamp": "2026-08-10T09:02:27+00:00",
@@ -303,6 +333,11 @@
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdGVUcUxFVnozbGQzbUFJeTV2am9vY3lPQ0N5VU9NS1d0bUVTbU9qcGFGZEMwX0REUTBWa0h1WlBGdm5wY3pweERFRWNqUGZUb0NRNDBHRm5NaTZRdFY1VUt3ZFE0TkFtVnFOZ0o2a3lNSXhTSHZTblgyeGVkTEFqcTgxcDJid3lkbE1OMXhLSDQydnUwSUlCeGtOMXp0UjNtc1BHd2J5ejdCS0Izd1hvVjlJc3lRYXFWQVkyS1JwX05CWm5LVEE?oc=5",
     "timestamp": "2026-08-10T08:08:44+00:00",
     "source": "reuters"
+  },
+  "61094365f6543a7250bba678191d00d0": {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOODI1RzUzTXBJaFM3NmZiUXBSVVNLdnhzbHZvNThEM1hpRkE1NE5aektObDBiMWRGd3ZVdDJWWHdBY2RMTTV1VUM2UnlHU1BacUtqaU8wY1hRY1BlTEVib2JBWmhLY0JWMHJjY3NmaFA2VTQ5cHVocXlienVJdUJrcGNnZ25KbDVubW9kTTVrSTAteWphOW1FanhIa3g5dHlVZng1LXRrMU1uMXMxV1EzSUduWHU0dw?oc=5",
+    "timestamp": "2026-08-10T08:01:23+00:00",
+    "source": "fars"
   },
   "7ed723c8c144fee9523ec5e90db7b2cf": {
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk?oc=5",
@@ -2463,40 +2498,5 @@
     "url": "https://www.france24.com/en/middle-east/20260806-middle-east-live-israeli-military-says-two-soldiers-killed-in-southern-lebanon",
     "timestamp": "2026-08-06T03:48:53+00:00",
     "source": "afp"
-  },
-  "3e84fa87b78810ae16794cac60fd8904": {
-    "url": "https://www.france24.com/en/americas/20260806-guatemala-declares-fuego-volcano-eruption-over-evacuees-return-home",
-    "timestamp": "2026-08-06T03:16:40+00:00",
-    "source": "afp"
-  },
-  "b83383ecae9e54c298d4bc0357d71500": {
-    "url": "https://www.france24.com/en/middle-east/20260806-iran-says-hormuz-deal-with-oman-in-final-stage-as-trump-signals-breakthrough",
-    "timestamp": "2026-08-06T02:55:47+00:00",
-    "source": "afp"
-  },
-  "4cbe0fa0d45d418e3942029658c65f2e": {
-    "url": "https://www.france24.com/en/africa/20260806-nigeria-rescues-more-than-300-kidnapping-victims-in-major-operation",
-    "timestamp": "2026-08-06T02:31:59+00:00",
-    "source": "afp"
-  },
-  "173acc4b46c24481bb261ffa44b02011": {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE5UZ1dJanFrQ1hFUUNWWmM2N2cxckRKUFYtOHNLUHhtVkdpLXpmNXZjeVMzd2dycVUxSmVlNU54aE1DLVFnMmY0VnVsZk1IT1puQVQydHlUS19RNkVhRXlfbU1fdlhIZ0tORnBOWHl4a2dUZFUyZFpoUzZuZDFkUFZucw?oc=5",
-    "timestamp": "2026-08-06T01:27:00+00:00",
-    "source": "reuters"
-  },
-  "c7eff292ec2864538e549035c4322370": {
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmw0WV9PeEJVU0pBczd6UzhWSjdUMlQ2aDhwUGxDbWdvc3hMakw5d3h3Q2wxMXNRakctZjRlTW8wNi1PNnU2eDY0anYxakZYSkZBSVN6SUhJOEF4aW1HSTVnUWREc3k2dFBvUEl0azM4TXFoV1I1S1pJRVlVUm1SakpIeVFqM0wxS2gtMDFvc3ktZ05QYjc3VXRtSHdsNk9hLWUwb3VxTzBFcVhBeUx3Zm82Zw?oc=5",
-    "timestamp": "2026-08-06T01:07:41+00:00",
-    "source": "reuters"
-  },
-  "68026cb7ffdbc45eb6fb929605dd7e9c": {
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmw0WV9PeEJVU0pBczd6UzhWSjdUMlQ2aDhwUGxDbWdvc3hMakw5d3h3Q2wxMXNRakctZjRlTW8wNi1PNnU2eDY0anYxakZYSkZBSVN6SUhJOEF4aW1HSTVnUWREc3k2dFBvUEl0azM4TXFoV1I1S1pJRVlVUm1SakpIeVFqM0wxS2gtMDFvc3ktZ05QYjc3VXRtSHdsNk9hLWUwb3VxTzBFcVhBeUx3Zm82Zw?oc=5",
-    "timestamp": "2026-08-06T01:07:00+00:00",
-    "source": "reuters"
-  },
-  "9e87097b092f196236089fef60b8a8f5": {
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUUzblFjVFRKQWlxYngzbXZvcllLWG4wVHo1LW9ZNk5NLU9WVmV5eXhOdEo4a2tEcklkbzZzaHpvT3NBM2NVTjd1MWFWc2lzcW1QWG5vbmxoMVdMZUZVS1duZGdkMDRZRUtydzZYYWZEd2lSeUJ0ZjMwR09oaWxHUzM3UWcwc3pnY0hKdGlZTFdPZGhJR0Vz?oc=5",
-    "timestamp": "2026-08-06T00:14:00+00:00",
-    "source": "ap"
   }
 }
