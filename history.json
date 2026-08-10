@@ -1,4 +1,19 @@
 {
+  "974d9ac035b83c3ee9ca2c041e933fdb": {
+    "url": "https://www.france24.com/en/western-europe-sets-new-temperature-record-as-heat-waves-pummel-the-region",
+    "timestamp": "2026-08-10T06:49:52+00:00",
+    "source": "afp"
+  },
+  "bccdb2b8367803a84691c889804fb73b": {
+    "url": "https://www.nytimes.com/2026/08/10/world/asia/typhoon-dolphin-china-evacuations.html",
+    "timestamp": "2026-08-10T06:46:22+00:00",
+    "source": "nyt"
+  },
+  "e3ee281c78a5f928e89714109468120c": {
+    "url": "https://www.france24.com/en/europe/20260810-hundreds-of-ukrainian-drones-target-russia-in-overnight-strikes",
+    "timestamp": "2026-08-10T06:34:13+00:00",
+    "source": "afp"
+  },
   "681a8acd065e07702e3f412fbd336d05": {
     "url": "https://www.france24.com/en/middle-east/20260810-middle-east-live-houthis-launch-deadly-strike-on-port-city-of-mocha-in-yemen",
     "timestamp": "2026-08-10T05:31:56+00:00",
@@ -8,6 +23,21 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNFFOeHJsTmtMNUdzeWw0WnhwY2xRQlJvOURPczNwdjNtVXk4Z2x6dDFYVS0xdFJDQ3JMOEpla19XMmdRVU52V2xMalotMmdvRGtodFJSdEN2RHlxdjVsbDlQYkk2ZmlVajV1blVlTDYtQko3UGZtbXlrM3hndm1aX2dYcnl1LXpHZjdlSDhWcF9qMUVQZlVzOE9NOEU2RlBzcGRqbjllbWdEM1NpV3FrRmVSczduMy1EN0h6ag?oc=5",
     "timestamp": "2026-08-10T05:02:00+00:00",
     "source": "reuters"
+  },
+  "9b3caf7647e6d0b4e92af345a9b60d93": {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGI3ZEkwRkVXWXhoWDVOWDNQQi1ZaXU1RE1BWWxpWlJYeWxxZDdmS0xfRDBVYW1jOGt1Q1NRU3dPZWJVVXpwNEdCbEloN0ZiWHozOG5YaE5yUzlhR2R6dVhoM2w2MWg3ejZoa2RRY3FHLWVMSmQxOHdEZ1A4V0kyVWJrYy04SV9xSWM3NGdQLXFydi1yU2NpWWtiNA?oc=5",
+    "timestamp": "2026-08-10T04:14:00+00:00",
+    "source": "ap"
+  },
+  "465bbd042d806f6b991593cebcc37978": {
+    "url": "https://www.nytimes.com/2026/08/10/world/europe/malaga-spain-mayor-torre-urban-regeneration.html",
+    "timestamp": "2026-08-10T04:01:10+00:00",
+    "source": "nyt"
+  },
+  "b793e81fbf5f62c30c4f7e9c2dc30a75": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kR0xkazNGTm1RV01DZjNOMTc3N2MxRldZbzdKSUU2Y3FBbUF1S3ZHUjQxdkY0TTBQci1jMVI0WjFlazZVaS1ld3JWZTBoUk53anc?oc=5",
+    "timestamp": "2026-08-10T02:57:00+00:00",
+    "source": "iranintl"
   },
   "06fa1762b94badee4d5c02aa942edf78": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mME1ENllQMzBrUlFrbUtKdEJDTnJYLVNUNURlaV9fekRjQmlIMFl0b3NuYjlKOFpvQU1WdW5GWmhlYkstQWdubkZzYW5xSUJnaVE?oc=5",
@@ -29,6 +59,11 @@
     "timestamp": "2026-08-10T01:34:00+00:00",
     "source": "iranintl"
   },
+  "d3258f888ef405f8d23224c2987cff50": {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUNXbzdKZzN4SWREMXRobGFBNUZTbkhiRERVTXVER0xFMndJbzBGXzRwckk4SWJLTlJtUHNaSDN1Uy1BRUMwZDY2U3dYRVRzeWV1NTNWN3QzazF5NHZuNGUteGpmanpqQnloXzBQWk1oY1FKWWFjUWYyX0ljSF91NXhWQVl0ek5RVWhwakpoZWZTbXJFelRXN3hIZnlfMlk3elZtUEtzbU5DQWZiamc?oc=5",
+    "timestamp": "2026-08-10T01:31:00+00:00",
+    "source": "reuters"
+  },
   "f479e78d54cc045eb73585c9a9550984": {
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTM0VnQ2S3MzSjk1RTlkeFJPc3NoYVJHQjU3Y1JoQTZuU0lfWlV4Wm4xWkN6Y2JjM0E2azJYTi1YOHVXdFFzN2ZVNzhsdnhWclJyLTdFV1FmWEdWMnR4S1ctbllrT29iaFFGY3NqN0hKLVRRSlU3WWJfUTFnM3FvQ2NaUlpzU3UyN3JDckRQbmNZd3NYQ0JISjFDamR5amNUT00yNk9DQjY2ekwwZ0VxZjF3M2VwQ2RsWXVjSQ?oc=5",
     "timestamp": "2026-08-10T01:08:00+00:00",
@@ -45,6 +80,11 @@
     "source": "reuters"
   },
   "16a56162e46c8b0b00aa7156e29c3431": {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5",
+    "timestamp": "2026-08-10T00:25:00+00:00",
+    "source": "reuters"
+  },
+  "6fdabf5aa3614537fe9102f384fd210d": {
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5",
     "timestamp": "2026-08-10T00:25:00+00:00",
     "source": "reuters"
@@ -2457,46 +2497,6 @@
   "73538f64fbf991f928fa2ec603f15ff5": {
     "url": "https://www.france24.com/en/russian-drone-hits-street-vendor-in-kherson-zelensky-denounces-safari-attack",
     "timestamp": "2026-08-05T10:51:32+00:00",
-    "source": "afp"
-  },
-  "9b6f4c72c340e0bf56883db97e7b4cd4": {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0p3ci13M2E4ZHdienF4dUc4Ni1rZDlJZUhrTVJMNlA1NmNaOTNqMUpXaG16cGlCekJCdlBReFgtQmR4ZlJMdThKSTZIcGZwR0pXS0QzcmV5eGE5MG0tRmFWNEt2cnpzaW82YU81akZRR3pXZHF6amg2c1RzUEZKWGNDRWNKdS1lOGRYNW9wdkpZVTltVW1IZkhtSkpqU21sY2pKMVNkMU9XY0ZVbVE?oc=5",
-    "timestamp": "2026-08-05T10:49:00+00:00",
-    "source": "ap"
-  },
-  "233d4533f598d6bb792a9aca545036ad": {
-    "url": "https://www.france24.com/en/the-era-of-the-machine-silicon-valley-shows-off-humanoid-robots",
-    "timestamp": "2026-08-05T10:48:44+00:00",
-    "source": "afp"
-  },
-  "2d853b6d5864d979e7c61ef589275f03": {
-    "url": "https://www.france24.com/en/video/20260805-terrifying-deadly-russian-attack-on-kyiv-overwhelms-ukraine-s-air-defence",
-    "timestamp": "2026-08-05T10:45:00+00:00",
-    "source": "afp"
-  },
-  "6ac69e9190a32af6251b0847955b0051": {
-    "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
-    "timestamp": "2026-08-05T10:41:55+00:00",
-    "source": "nyt"
-  },
-  "916f1d9905d2e6fcf5f30f23c7c53ed8": {
-    "url": "https://www.france24.com/en/guatemala-volcano-eruption-forces-hundreds-to-flee-ash-gas-and-lava",
-    "timestamp": "2026-08-05T10:20:57+00:00",
-    "source": "afp"
-  },
-  "324ccfaa699647d907a364a26a9b3b72": {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXl3dzBUMWFzY3VBNUl4U3NoODJFcFBIVkFCWHc1WHkwUmNRRE5PeUFjY2N4VWxBYXBJeXRPTXNmUEVEOXFmQmpsY1dQeUF3QUNTVmFOMTBXWWltYmsxd1BfVWQxUnpNNUJ5VlpISEN6aVlkbnlBLWsxdGdET0pZQV9EMDZqTldXSDF2SHEzYU4zODR1bVNoWTM3Sjc5MG9GTWRyU05zakE4VGxMamc?oc=5",
-    "timestamp": "2026-08-05T10:18:32+00:00",
-    "source": "reuters"
-  },
-  "8b2e201c4f090bd9f6dd654177efd524": {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXl3dzBUMWFzY3VBNUl4U3NoODJFcFBIVkFCWHc1WHkwUmNRRE5PeUFjY2N4VWxBYXBJeXRPTXNmUEVEOXFmQmpsY1dQeUF3QUNTVmFOMTBXWWltYmsxd1BfVWQxUnpNNUJ5VlpISEN6aVlkbnlBLWsxdGdET0pZQV9EMDZqTldXSDF2SHEzYU4zODR1bVNoWTM3Sjc5MG9GTWRyU05zakE4VGxMamc?oc=5",
-    "timestamp": "2026-08-05T10:18:32+00:00",
-    "source": "reuters"
-  },
-  "0841158fed11476426e10e691a8371ef": {
-    "url": "https://www.france24.com/en/high-stakes-michigan-democratic-primary-pits-progressive-against-moderates",
-    "timestamp": "2026-08-05T10:16:43+00:00",
     "source": "afp"
   }
 }
