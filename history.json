@@ -1,4 +1,39 @@
 {
+  "e6bc3dee9baa72be913466a6b087a080": {
+    "url": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html",
+    "timestamp": "2026-08-10T11:32:17+00:00",
+    "source": "nyt"
+  },
+  "f93845c06c60b626eb3e3d462bcbfdc9": {
+    "url": "https://www.france24.com/en/tv-shows/focus/20260810-ivory-coast-s-biama-boom-tiktok-trend-gets-the-nation-s-youth-dancing",
+    "timestamp": "2026-08-10T11:25:24+00:00",
+    "source": "afp"
+  },
+  "734dcf34a8aceccc1d65d0d4145895a4": {
+    "url": "https://www.france24.com/en/video/20260810-china-tropical-storm-dolphin-causes-floodings",
+    "timestamp": "2026-08-10T11:22:10+00:00",
+    "source": "afp"
+  },
+  "86376b8a447cae2b211fe12bb529abb1": {
+    "url": "https://www.nytimes.com/2026/08/10/world/asia/taiwan-internet-china-invasion-drill.html",
+    "timestamp": "2026-08-10T11:08:25+00:00",
+    "source": "nyt"
+  },
+  "609e8e47fa3ee41f1d2ecafeaab63068": {
+    "url": "https://www.france24.com/en/video/20260810-iran-s-list-of-demands-to-reopen-hormuz-a-capitulation-document",
+    "timestamp": "2026-08-10T10:13:32+00:00",
+    "source": "afp"
+  },
+  "5be04a7af09422d5b6681c4989b79390": {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk?oc=5",
+    "timestamp": "2026-08-10T10:13:00+00:00",
+    "source": "ap"
+  },
+  "acb1014a231638bb8e0fc79a18a520f7": {
+    "url": "https://www.france24.com/en/video/20260810-suspected-crime-boss-daniel-kinahan-lands-in-dublin-after-extradition-from-dubai",
+    "timestamp": "2026-08-10T10:07:54+00:00",
+    "source": "afp"
+  },
   "1b6cd4531d098d0dbfe49ed3972de817": {
     "url": "https://www.france24.com/en/video/20260810-ukraine-russian-bombs-injure-five-civilians-in-sumy-authorities-say",
     "timestamp": "2026-08-10T10:00:41+00:00",
@@ -23,6 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0ZKNWFNbV9WOEFpMnZYa3NkbzBGWUNiVnVsMlJtT1IzRDliNHJIM0g0eUZ0N2lNcWxSSEd5QVV4QW1pZFRCSTQ5WndIdGtVRTFMcmYxUVVVZzVQazFQRy1vNG5Vd1hhbG9ObG14SnJnbl94VDJLZnJ6dmN4ZUJKTXRiTFBrTkdkN0FyWkFua3FhR3B6aHN5Z05ETmpNUkxLTlViUm4xdGtINktfUDk2UmRUOGtqdw?oc=5",
     "timestamp": "2026-08-10T09:21:03+00:00",
     "source": "reuters"
+  },
+  "b9566c543aca89d3b954bfe858aa8b57": {
+    "url": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html",
+    "timestamp": "2026-08-10T09:02:27+00:00",
+    "source": "nyt"
   },
   "1d1619818b2a28011485806ee6b2f4d7": {
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44eWZVTllNeWtGZHhiU09vYXJtcW5Eb09ETWZQYmFqaXN5cVd1RGItcVYzeXNhN3RPOGNGdHNQLU9kYnNuR1Y1RzItX3FMaXhJZXEwNkI5TXV0UlFQZnhDQzBwSHFwQ2lV?oc=5",
@@ -53,6 +93,11 @@
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWEzU2g0WHZKaTFWSUtaNmZ2cHY1dWlHM1MwYmxLQzZuODlIQnZXUnduMTZXZl9GcnhWbGJGaDBBZWhaUVRjdWhkZWJ2bFNWLXZJRlU1RkFuVGdBRkZBdGJLR1JoY19QT3ZnUFJ0U0FJUmh4enlCZjVfdVRELTBmVEMwSm4xVkVsZlFZWnlNVXZiNzFHalpVZnJFZVhTMUx6UXktTjh0MzRhb3YzXzFZU3U4a1hRNGp6NlBsanZoN1hjdw?oc=5",
     "timestamp": "2026-08-10T06:57:00+00:00",
     "source": "reuters"
+  },
+  "4020dd4499e147707bfd58a4406844a0": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrNjR2Wm9rNlEzVVA5T0hOSDlPMzdEMktTS19wZ1AtbEl3cExjSGhHQmVwWkx3RVdfUXRqQ3JWX0tFbl9ESmw5STZOeHhDaWxjWVE?oc=5",
+    "timestamp": "2026-08-10T06:50:26+00:00",
+    "source": "iranintl"
   },
   "974d9ac035b83c3ee9ca2c041e933fdb": {
     "url": "https://www.france24.com/en/western-europe-sets-new-temperature-record-as-heat-waves-pummel-the-region",
@@ -2453,50 +2498,5 @@
     "url": "https://www.france24.com/en/netanyahu-pushes-back-against-gaza-deal-saying-will-not-withdraw-from-enclave",
     "timestamp": "2026-08-05T13:41:20+00:00",
     "source": "afp"
-  },
-  "c8a9f51897bfeaa64d3267c8133fdc01": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbHJ6aHpOeXBGeVhjdjBkcVVfdF9wSHYzRlpkWDh3eEZENXJPdlU5amwtN2k1OE80VXA2TlBPWGh3VzVnWG5vLTVjanROSjI1Q3hJS2lEQUR5WEFlSy0yM05XZFRLWDJTUkJzbkZnVFdRTHgxbVhMZVQ4VWZ1empGcUY3cDRyS21GUWU2ZkFkaTZRajVkUm9xdGExQWZXeVU?oc=5",
-    "timestamp": "2026-08-05T13:33:25+00:00",
-    "source": "reuters"
-  },
-  "c11f34440412b0a2c902d6b35255d23e": {
-    "url": "https://www.france24.com/en/video/20260805-theme-park-or-political-park-did-france-s-puy-du-fou-break-russian-sanctions",
-    "timestamp": "2026-08-05T13:30:11+00:00",
-    "source": "afp"
-  },
-  "9804ee328150e715c15d3c0ade1916f8": {
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KejY4TnlOUFJFeGJLd0xORnpsa0RHYnE5RDNaaTNrbmw4a01fMC1WWmJxYjZJeE1OS25sNnFvTFV0UVNVb01qdUFwOTR6Uk1rQWVjd21aMHBjdnM?oc=5",
-    "timestamp": "2026-08-05T13:17:58+00:00",
-    "source": "fars"
-  },
-  "443b6c70eed143e138f43238f4639790": {
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KejY4TnlOUFJFeGJLd0xORnpsa0RHYnE5RDNaaTNrbmw4a01fMC1WWmJxYjZJeE1OS25sNnFvTFV0UVNVb01qdUFwOTR6Uk1rQWVjd21aMHBjdnM?oc=5",
-    "timestamp": "2026-08-05T13:17:58+00:00",
-    "source": "fars"
-  },
-  "dd363d0d4793b768ba9c66b27123a8d6": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92bm9xR0UyTldfemRKU3JGMjUzdkpsSUZrb2VuVUhTSFNHVC1xXzN0VEVvSnRvQmpxY0pvX1BTVElOQ3Y1blJUUzlsbzNLMDZ1NUE?oc=5",
-    "timestamp": "2026-08-05T13:15:55+00:00",
-    "source": "iranintl"
-  },
-  "3004f3804140b7b6f7bc8a63b28bcb06": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92bm9xR0UyTldfemRKU3JGMjUzdkpsSUZrb2VuVUhTSFNHVC1xXzN0VEVvSnRvQmpxY0pvX1BTVElOQ3Y1blJUUzlsbzNLMDZ1NUE?oc=5",
-    "timestamp": "2026-08-05T13:15:55+00:00",
-    "source": "iranintl"
-  },
-  "72d2fc7961ed8f49b72c8ac6ec1eb871": {
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ja2M5bHNWVFhaR0cyMW9PY0tjOUFkc2RkMTVqUlNTWC1zNjZDUncwX0NQUHBZZzZpS0xXblNNTEkybnRNVWI4OXh2bTdXczdwU2dKdUZXb1lWNlJHTjY0c1ZrcVZhaDVx?oc=5",
-    "timestamp": "2026-08-05T13:02:26+00:00",
-    "source": "fars"
-  },
-  "7e17105cc08c1a9b002d32da6df52fcc": {
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ja2M5bHNWVFhaR0cyMW9PY0tjOUFkc2RkMTVqUlNTWC1zNjZDUncwX0NQUHBZZzZpS0xXblNNTEkybnRNVWI4OXh2bTdXczdwU2dKdUZXb1lWNlJHTjY0c1ZrcVZhaDVx?oc=5",
-    "timestamp": "2026-08-05T13:02:26+00:00",
-    "source": "fars"
-  },
-  "0123d5fc7a607a1662927dbb54d3f825": {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUNJWWdZUW9teWxlNDE2eWVZWTFmd0JQdmwwYUNvSEpES1BhMjBJNF9LczlwUTZkaTZjMm5MNFhEUFN1RnpZclZHamljVnlGcW5GdkFMclYyUjQ4dEpHRWwtNjJLdjNoNWx5YlU3Q1FIUmhoV1hxMktXNnZXanZLLW9YS1JjRGp6ZkNMbTNGOVlETVRSUGREMnZ5dDVhUjYyWlB1RzBwenhtUDg3dDdIYVpoTXBlN2dFWTkyVnJn?oc=5",
-    "timestamp": "2026-08-05T12:59:28+00:00",
-    "source": "reuters"
   }
 }
