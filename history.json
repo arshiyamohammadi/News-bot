@@ -1,10 +1,55 @@
 {
+  "1b6cd4531d098d0dbfe49ed3972de817": {
+    "url": "https://www.france24.com/en/video/20260810-ukraine-russian-bombs-injure-five-civilians-in-sumy-authorities-say",
+    "timestamp": "2026-08-10T10:00:41+00:00",
+    "source": "afp"
+  },
+  "3328d1d7bb9389b4f5baaa06ad1ff5e3": {
+    "url": "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal",
+    "timestamp": "2026-08-10T09:55:44+00:00",
+    "source": "afp"
+  },
+  "14c2944620e06fe959ec7993ccb2261e": {
+    "url": "https://www.france24.com/en/video/20260810-greenland-issues-warning-against-us-oil-drilling-on-its-territory",
+    "timestamp": "2026-08-10T09:43:04+00:00",
+    "source": "afp"
+  },
+  "0f4adc4f69b89226dc361e2c50be5c79": {
+    "url": "https://www.france24.com/en/video/20260810-yemeni-military-says-houthi-attack-on-mocha-kills-7-wounds-30",
+    "timestamp": "2026-08-10T09:34:07+00:00",
+    "source": "afp"
+  },
+  "cd511bc062600353975f4ef1686acb57": {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0ZKNWFNbV9WOEFpMnZYa3NkbzBGWUNiVnVsMlJtT1IzRDliNHJIM0g0eUZ0N2lNcWxSSEd5QVV4QW1pZFRCSTQ5WndIdGtVRTFMcmYxUVVVZzVQazFQRy1vNG5Vd1hhbG9ObG14SnJnbl94VDJLZnJ6dmN4ZUJKTXRiTFBrTkdkN0FyWkFua3FhR3B6aHN5Z05ETmpNUkxLTlViUm4xdGtINktfUDk2UmRUOGtqdw?oc=5",
+    "timestamp": "2026-08-10T09:21:03+00:00",
+    "source": "reuters"
+  },
+  "1d1619818b2a28011485806ee6b2f4d7": {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44eWZVTllNeWtGZHhiU09vYXJtcW5Eb09ETWZQYmFqaXN5cVd1RGItcVYzeXNhN3RPOGNGdHNQLU9kYnNuR1Y1RzItX3FMaXhJZXEwNkI5TXV0UlFQZnhDQzBwSHFwQ2lV?oc=5",
+    "timestamp": "2026-08-10T08:28:49+00:00",
+    "source": "fars"
+  },
+  "3de19589522377702c37f17ba005fb6b": {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdGVUcUxFVnozbGQzbUFJeTV2am9vY3lPQ0N5VU9NS1d0bUVTbU9qcGFGZEMwX0REUTBWa0h1WlBGdm5wY3pweERFRWNqUGZUb0NRNDBHRm5NaTZRdFY1VUt3ZFE0TkFtVnFOZ0o2a3lNSXhTSHZTblgyeGVkTEFqcTgxcDJid3lkbE1OMXhLSDQydnUwSUlCeGtOMXp0UjNtc1BHd2J5ejdCS0Izd1hvVjlJc3lRYXFWQVkyS1JwX05CWm5LVEE?oc=5",
+    "timestamp": "2026-08-10T08:08:44+00:00",
+    "source": "reuters"
+  },
+  "7ed723c8c144fee9523ec5e90db7b2cf": {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk?oc=5",
+    "timestamp": "2026-08-10T07:45:00+00:00",
+    "source": "ap"
+  },
   "344e1d40d6deea7ccf986a30c47e7507": {
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Qb2g0RVRhOHNqX1NneGhzclRrTzJnbG5MRjFkUl9rTnNKclk2OXRXSE1fWVUyUWhRenBoYUdEYnY0MWd3SE1xNkZNcHY0RFBX?oc=5",
     "timestamp": "2026-08-10T07:06:50+00:00",
     "source": "fars"
   },
   "b09ea3a4011d8277055b74bbca01d926": {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWEzU2g0WHZKaTFWSUtaNmZ2cHY1dWlHM1MwYmxLQzZuODlIQnZXUnduMTZXZl9GcnhWbGJGaDBBZWhaUVRjdWhkZWJ2bFNWLXZJRlU1RkFuVGdBRkZBdGJLR1JoY19QT3ZnUFJ0U0FJUmh4enlCZjVfdVRELTBmVEMwSm4xVkVsZlFZWnlNVXZiNzFHalpVZnJFZVhTMUx6UXktTjh0MzRhb3YzXzFZU3U4a1hRNGp6NlBsanZoN1hjdw?oc=5",
+    "timestamp": "2026-08-10T06:57:00+00:00",
+    "source": "reuters"
+  },
+  "4110816ce7eb35a97caeae7017aadbb5": {
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWEzU2g0WHZKaTFWSUtaNmZ2cHY1dWlHM1MwYmxLQzZuODlIQnZXUnduMTZXZl9GcnhWbGJGaDBBZWhaUVRjdWhkZWJ2bFNWLXZJRlU1RkFuVGdBRkZBdGJLR1JoY19QT3ZnUFJ0U0FJUmh4enlCZjVfdVRELTBmVEMwSm4xVkVsZlFZWnlNVXZiNzFHalpVZnJFZVhTMUx6UXktTjh0MzRhb3YzXzFZU3U4a1hRNGp6NlBsanZoN1hjdw?oc=5",
     "timestamp": "2026-08-10T06:57:00+00:00",
     "source": "reuters"
@@ -2452,51 +2497,6 @@
   "0123d5fc7a607a1662927dbb54d3f825": {
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUNJWWdZUW9teWxlNDE2eWVZWTFmd0JQdmwwYUNvSEpES1BhMjBJNF9LczlwUTZkaTZjMm5MNFhEUFN1RnpZclZHamljVnlGcW5GdkFMclYyUjQ4dEpHRWwtNjJLdjNoNWx5YlU3Q1FIUmhoV1hxMktXNnZXanZLLW9YS1JjRGp6ZkNMbTNGOVlETVRSUGREMnZ5dDVhUjYyWlB1RzBwenhtUDg3dDdIYVpoTXBlN2dFWTkyVnJn?oc=5",
     "timestamp": "2026-08-05T12:59:28+00:00",
-    "source": "reuters"
-  },
-  "38f25bc9765665913fc7164705266e8a": {
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmhVYjlwbm1wMlhfRFdxSzdwRk11S2psRjhGRlV6aENOTVUxbVQwX2JCT0F5QUpMTWEtd0NzN1VLVkxTOGx6S3ZiSUEzOW1HLVZiWHpQMnh4a21heG00aGJHaVBYeUJTMnhkckpQeDQtS0EzOXRvaXRvd2xyUC1XVlR4V244TjJlOUF4S3M3RENvenZKVjVCTEF0QUFsOE9OWnphbXBibHZ0NjJrNk96OUdlYmt1cjlEWlBTcDltdw?oc=5",
-    "timestamp": "2026-08-05T12:45:51+00:00",
-    "source": "reuters"
-  },
-  "1c397e1b408e0e9f79baf37dc99b0d62": {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0l5WlZxSFZkVGM2eXNGWXJEdzBmTDRZNmRRbU1hNjFTdm8yQWF1RU9tcDktUlZ2UnEwS204bE9FQjlXYmlyYm44YmZqVXdaeGtDVkYwWkJoZUVBZjZmazdVc2dLSEd0WnJmaGlPMm5pc3g0VTQ0SWdubHZzcGJOc1I2aTJYeTBRZVBJNnJmck1jSkQ3NEZGSlpYdmpwYmszR2t3WDRCUmxpMkpvQUt4LURJQmJScWx5dXc?oc=5",
-    "timestamp": "2026-08-05T12:40:31+00:00",
-    "source": "reuters"
-  },
-  "8a2c4cfb591ed1c92e6ef4f2a8c9759e": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WGd0NDF5OXZlQ3dMWDhXdjRXREM3aF8zSE1BMVRuYU9tOEI1am5ZZ2s2YzNRclpVVmFITHFhR3A1RERWOC1mVWw5TW1id3RLTFE?oc=5",
-    "timestamp": "2026-08-05T12:38:05+00:00",
-    "source": "iranintl"
-  },
-  "9914dfbe18e32be76cbd9ba1fbc5fbb2": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2RmwtM21xTGkxVXd3ZE1WcjBGVWZ4cXA0dXZqOFZ0SG1RRi10M1d5RDFRMGRnX2UycDZIbFZBQWt5UzBtWmdWNXhxOVFYSlF5V3c?oc=5",
-    "timestamp": "2026-08-05T11:59:13+00:00",
-    "source": "iranintl"
-  },
-  "8902aa91b8bcb5a3c5c160542904d492": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2RmwtM21xTGkxVXd3ZE1WcjBGVWZ4cXA0dXZqOFZ0SG1RRi10M1d5RDFRMGRnX2UycDZIbFZBQWt5UzBtWmdWNXhxOVFYSlF5V3c?oc=5",
-    "timestamp": "2026-08-05T11:59:13+00:00",
-    "source": "iranintl"
-  },
-  "155cc04c3fc6775dc3347c064469323c": {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
-    "timestamp": "2026-08-05T11:54:00+00:00",
-    "source": "ap"
-  },
-  "f89bfd9b7342684ebda312d301bfa693": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfR0o1ak5YX2U1UGFyM1JRWFhyOHRFalJ0Z01hbUl1SWw2a1k3NzZDaVFvZHFKZzQ4LUZTOU1iN2thQzJqXzdNXzZxcnplbUVFQ0E?oc=5",
-    "timestamp": "2026-08-05T11:42:10+00:00",
-    "source": "iranintl"
-  },
-  "06a7745de1fb48755314fc795147d27c": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfR0o1ak5YX2U1UGFyM1JRWFhyOHRFalJ0Z01hbUl1SWw2a1k3NzZDaVFvZHFKZzQ4LUZTOU1iN2thQzJqXzdNXzZxcnplbUVFQ0E?oc=5",
-    "timestamp": "2026-08-05T11:42:10+00:00",
-    "source": "iranintl"
-  },
-  "ab1dcf20d355a4059f3b6714dc97f4c1": {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOWRFZk1NZFA0NXNZNmlPcF9ieHFTQjloNURNQURIcnZ1SDQ0YkZXRHFNTlA2S21Qa1dLNDJKVUwtcHpXam83c2l0dVdLcURabDR3UlR4OWZFOXJuZEJKbkdSMHFweXJZS3pKUXZ6cDRERnl2UnVWa0FoZnhqV2s1bGdmVmFKNG5tbm1wcnVEdmNDcS1LZFdnS0p1cDNrYjZsYlhwM181YnFYeGdPZkE?oc=5",
-    "timestamp": "2026-08-05T10:59:06+00:00",
     "source": "reuters"
   }
 }
