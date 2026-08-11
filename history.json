@@ -1,4 +1,14 @@
 {
+  "81f90bb18a6b15c69e522bfda84f68cc": {
+    "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
+    "timestamp": "2026-08-10T23:50:37+00:00",
+    "source": "nyt"
+  },
+  "ce880201c5aeb217af40038c463dab0a": {
+    "url": "https://www.france24.com/en/europe/20260810-live-russian-missiles-strike-kyiv-triggering-fires-in-city-centre",
+    "timestamp": "2026-08-10T23:03:04+00:00",
+    "source": "afp"
+  },
   "07935018ab33eca70ffff2ad66bff1f2": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xRGMtSmx1YW16ZVVMTW5ocnBWLTRibXVhSDB2aFVsTk5QUVJEQ091dG5WUkVPZU45VG1FSkVVZHlWYjhXcGVGQS1JcEVZRFRpWmc?oc=5",
     "timestamp": "2026-08-10T22:53:46+00:00",
@@ -234,10 +244,20 @@
     "timestamp": "2026-08-10T12:01:40+00:00",
     "source": "reuters"
   },
+  "6a5e8276e41686b889b86fd50c47e553": {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWnNEYlhtc2VHSFhJSTQyY09ZQVZ0MUQ5dFVFNEZ6ZjRrM2x1VVhvUW5fTzZOOFZyZGMwbjFxenlqdEZOaE91dXdqZHhKSzRZQlh5dlVkTmRFaktiM0Zja20xaDZDSXZRb1JvRnNzV3ZIdWdfRXJKM1g3SEl3QkluVUxFYW9ab1R1U293dkx1bUlXdW9iTXF1X1VqVWhpbVYzX1licnRyZ1FHYk16Sndmdkw1QmRZWjQ?oc=5",
+    "timestamp": "2026-08-10T11:50:00+00:00",
+    "source": "ap"
+  },
   "d5fbd919fb153b0057d065d00e779633": {
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQk84empJSVYwTmtybkFrNjRVak1PM0h4WjRRN1ZRdENESHpFVWFpc2NqNHRxdU85TUVZbDdpZjlTMzAzMnd2ZzVOSWJ4MmJLOTlVS2pPaFFyT3JXTk5RRjNvMlhwcDdZdVFLXzIxTHVUV1k1MUlSbTF3N1BObF9PWHpfVU5KWFlnRHRxOGdfb2lGcThkczBOTzNwVVAwYlFIb3pLeTR1ZktOdll1RUFkOVJTbFBIRjhPRlN1cVlWc0RCSGtkUC1xQXQxV3YtVTI2NHMxUk1zSTI3d3VMVlV6R1hwbmtIQQ?oc=5",
     "timestamp": "2026-08-10T11:38:49+00:00",
     "source": "fars"
+  },
+  "614af635463b303b97b885459f76c142": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Id2hwMGJqVDNYVnd4VDluemJKR1NGX1MyY3kwLUZQcXphMWJyYWc3NGNMUVRqMWF1UHFPSm5zNjBxbDIxRVByeDliLW5YeTZ1SGc?oc=5",
+    "timestamp": "2026-08-10T11:37:48+00:00",
+    "source": "iranintl"
   },
   "f881539c67bd3fa6d0ccb6f0d635164b": {
     "url": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html",
@@ -2478,25 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oVG40dDJjYm8yTzhRS2owd3FMRU5KWm1iMjBoV2RieU5OaElyUTZZN1Rhc3ZwOE1FdS1YRTRrQnhIRXU0MjMwOEtva19YYjNDaDVrY1ZnVHE0VUZ0MkJxb2l3ZW5rMlRm?oc=5",
     "timestamp": "2026-08-06T05:40:27+00:00",
     "source": "fars"
-  },
-  "9acb78036689c1e96c873735655be467": {
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oVG40dDJjYm8yTzhRS2owd3FMRU5KWm1iMjBoV2RieU5OaElyUTZZN1Rhc3ZwOE1FdS1YRTRrQnhIRXU0MjMwOEtva19YYjNDaDVrY1ZnVHE0VUZ0MkJxb2l3ZW5rMlRm?oc=5",
-    "timestamp": "2026-08-06T05:40:27+00:00",
-    "source": "fars"
-  },
-  "092753058b33a8ebfeae5ffa468eb44f": {
-    "url": "https://www.france24.com/en/tv-shows/sports/20260806-fifa-apologises-for-world-cup-private-investment-controversy",
-    "timestamp": "2026-08-06T05:17:49+00:00",
-    "source": "afp"
-  },
-  "e2cd95b10b7b0b3129dfa45d6b14373e": {
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWHRyNHp5SGFzVE9LYnQyaFB4bFM3WkFnWDRuU2dRR3RmeUg5MnpqcExMNzJTVFJwUHdBdW5fZVR6NWRYWUJhM3djYkc0U05KUDctOWY1MEJqb1plQmJaeERIeFFZOEMyOTFhNXB1THBOS0REVm95YzZFdXNFWkE3Ulh6am40MFFKYVZGYnllTDl1TkxOWnBmcUlYRENzSHlMM0s3TWJldzRwUFlndkhXcE5rbnZQX3ZhQ0xxZmMyOGNzM09wSk90bE9GWDNmS1RwSklYSmJR?oc=5",
-    "timestamp": "2026-08-06T04:44:00+00:00",
-    "source": "reuters"
-  },
-  "398826c5d687c3f7e305beaaebd880d9": {
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNldJczB0MXMxMnZEaExVV3M1T0ZTM3JxUG1Fci1GVGNMaFd4c1ZsQnh0enBKVUdoSXJScU9aVDgzaFpqTkl5NEZ1LUlTQzhXWWRodjZDU25JeExHLXJDNXNnZ2IyOGxKXzZHaHBRVXczS05wY1JsdU5UcllxVjR4TnNkVXU2RzdIaDhrN21zaWhhYlJOeXJ3cGh5T0hSeGItVlVzbWhGY19MU2JMcEFjdUJrdUQyd2NFVVF3S0Q5R2NsMVAwMnQ1ZXc0SQ?oc=5",
-    "timestamp": "2026-08-06T04:26:00+00:00",
-    "source": "reuters"
   }
 }
