@@ -1,4 +1,29 @@
 {
+  "dae2950969c9bbef7b6d9aee310c3975": {
+    "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html",
+    "timestamp": "2026-08-11T10:52:24+00:00",
+    "source": "nyt"
+  },
+  "e6199494f8e39daff08c5e201d85d42a": {
+    "url": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html",
+    "timestamp": "2026-08-11T10:42:26+00:00",
+    "source": "nyt"
+  },
+  "c449b50d0f47197e65d82f25bb394e14": {
+    "url": "https://www.france24.com/en/video/20260811-colombia-eyewitness-films-moment-earthquake-hits",
+    "timestamp": "2026-08-11T10:37:17+00:00",
+    "source": "afp"
+  },
+  "1cba9bab252ec50f0f312f53b99830d4": {
+    "url": "https://www.france24.com/en/video/20260811-jury-selection-begins-for-ex-gang-leader-charged-with-tupac-shakur-s-1996-murder",
+    "timestamp": "2026-08-11T10:19:09+00:00",
+    "source": "afp"
+  },
+  "7cb048a4cac3ea8ec0305add1eb1d200": {
+    "url": "https://www.france24.com/en/uefa-concacaf-and-afc-accuse-gianni-infantino-of-fundamental-breach-of-trust",
+    "timestamp": "2026-08-11T09:33:47+00:00",
+    "source": "afp"
+  },
   "b527fa06143cfe604086ba4281dc8f60": {
     "url": "https://www.france24.com/en/tupac-shakur-murder-trial-begins-30-years-after-rapper-s-death",
     "timestamp": "2026-08-11T09:27:18+00:00",
@@ -148,6 +173,11 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUYXFrWEc3UDJNdk94V3ZyeFczVXR5VDEtR2U5X2RUeGp2V3VtQzRsN1YwZ21kd2lwMVRFQV9BMTZXS3o3blVyX053bjU1TC1rQ2c?oc=5",
     "timestamp": "2026-08-11T01:37:03+00:00",
     "source": "iranintl"
+  },
+  "59efdc0ff878d36798040ef4b7dcb650": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nOEJXRTV2S3dRYmxBQXJXZVVsOTRkZF84bjZmVHh1S2tiT1RhWDlnNF80QjYyc2VmeUJRR2hkMkR0OWR4cXdMN3BCTXRGd3hmcXlmX2h1RzR3Z3pqeF8tRQ?oc=5",
+    "timestamp": "2026-08-11T01:23:21+00:00",
+    "source": "fars"
   },
   "9ec6182823af2b8f30eb7b9036d8d933": {
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWlhwTk85MEdiQ3UzOWRkSFpQYTh3a29HT2I2U1dmMVRoY0dVczZWenAxblplYXBrTVdMOThNcVMtUFlwWVVobUV6SlVCT01fUVVUQ3ZlS1FWUXNYQks0LTk3VS1UZDF6aklFTFZTUl9vRHVzMFQzOTd4YlJibmZadnp1MHpyNTdLVWs4UTVUVzNWWlpOYTNLZ043MTRVRm1qMlR1aF9FMEhMbUU?oc=5",
@@ -513,6 +543,11 @@
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeC1FV2UwSUJ1TGdfbjNOa1B6WWJ1R1N4TFBycWJsc016ZDQwSUdzblo1SXU5a2x4cWsySkw1eV90clVKbS1Iekc0RzVTaDNzWGdvamJiT0s0NVprWUdEbmN5WUFsMHM2MlVVbTZTRnNnMFZWQlA1Rk9EM1VDLVNqbGMyZXMtRlZPZGc3Wnd3V1E?oc=5",
     "timestamp": "2026-08-10T13:25:00+00:00",
     "source": "ap"
+  },
+  "b076c56435fe44d6e2cd656446f589f3": {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15dDVzSE10aXpCc3NEaWg1YW9heGlGWWhCNF9LUWkySEpRMGVZdUYzQXMxMEllTHlpT3p5eE1NRmhvRFItem40WFVxbVNDNlJQN1dMN1dIa3A0Wjl2M0E?oc=5",
+    "timestamp": "2026-08-10T13:24:38+00:00",
+    "source": "fars"
   },
   "51fdba07c33e219e4ac24fd16bdb4bc5": {
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQm11YVZfbDU1RnZ6SmtvZUJDX3JZT0JpajE4MkV2TzZsRVZhRW05X1JjUnU3a093elpuM1pIdjdKa2dhSkdLY1FtYWhkd3FBSGNLcHloc0d2ck9ESmtNOG5PRDlCQkVKLTlOMEpwbl9adkozZmppWFVvbUIxV3d6WDk5WE5VcDgwazIzajlaQlZtdXA5YVE?oc=5",
@@ -2462,41 +2497,6 @@
   "a1297df96622a01b81eb6f3835639527": {
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqLUNWN1FMSHA2dzFJTlJoUXQ4ZEI5OEFSSlhvY1hZRXZKdTdXUEtFblZqMzVUbWtEcTJfOFhIb3MwLWRjd05hSUdha3lsTjBjUzAzTXRrY0loVTBjMjhjcQ?oc=5",
     "timestamp": "2026-08-06T22:22:11+00:00",
-    "source": "fars"
-  },
-  "5ee2f406295ab225d092b023a24ccae8": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqLUNWN1FMSHA2dzFJTlJoUXQ4ZEI5OEFSSlhvY1hZRXZKdTdXUEtFblZqMzVUbWtEcTJfOFhIb3MwLWRjd05hSUdha3lsTjBjUzAzTXRrY0loVTBjMjhjcQ?oc=5",
-    "timestamp": "2026-08-06T22:22:11+00:00",
-    "source": "fars"
-  },
-  "6f8a7c85150fb85d28f42fb90143ba3f": {
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaUJlMVNMWWhJRTVvczlhSDVtVU80dExDaXdNN0trREZ5aTMzbDg0MlRXTmRZOHlVWTdhc0QyeWZaX3dsYjR3RFZOWDI0MGRqRWRwbUgwa0RCa0I4X2k1WkxidXA3OTFrbk9XV1pHc1QwSGx3QmM4SE1oQmRvNFNKX1l1RUl6NWlRaFdpWERmWVM4c0tiVXdwZzlZQQ?oc=5",
-    "timestamp": "2026-08-06T22:12:00+00:00",
-    "source": "ap"
-  },
-  "2369bb372754e43644f1d72abbfeb89d": {
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaUJlMVNMWWhJRTVvczlhSDVtVU80dExDaXdNN0trREZ5aTMzbDg0MlRXTmRZOHlVWTdhc0QyeWZaX3dsYjR3RFZOWDI0MGRqRWRwbUgwa0RCa0I4X2k1WkxidXA3OTFrbk9XV1pHc1QwSGx3QmM4SE1oQmRvNFNKX1l1RUl6NWlRaFdpWERmWVM4c0tiVXdwZzlZQQ?oc=5",
-    "timestamp": "2026-08-06T22:12:00+00:00",
-    "source": "ap"
-  },
-  "c390de6b750921542f949d242c4ab7e0": {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3M0RkZsT0JHNHhwVXVvVURQZWs0R1hMbHFpa0RsdXE4MjNaME9lUXc4bXc1M1J4em93djJwZ3U4bS1UczdEaVJDRENsYXlYS2xJQ19ZeTVmRU1mLTBxWHFySVIzRjh3OG5JWFU5b1BpNjYtUlFDNzllUG56Tm9VcTgyYUExX1FzZ3ltLWxXNEE2R3NYZ2I4bTRRUFZtbm5WQUo2UDc2X2hUb3ZaOUpvdVVFWFdQdmx0NXFaeHl3XzdjQQ?oc=5",
-    "timestamp": "2026-08-06T21:43:07+00:00",
-    "source": "reuters"
-  },
-  "c7d8e2ff888970fbc689436015a7bd34": {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3M0RkZsT0JHNHhwVXVvVURQZWs0R1hMbHFpa0RsdXE4MjNaME9lUXc4bXc1M1J4em93djJwZ3U4bS1UczdEaVJDRENsYXlYS2xJQ19ZeTVmRU1mLTBxWHFySVIzRjh3OG5JWFU5b1BpNjYtUlFDNzllUG56Tm9VcTgyYUExX1FzZ3ltLWxXNEE2R3NYZ2I4bTRRUFZtbm5WQUo2UDc2X2hUb3ZaOUpvdVVFWFdQdmx0NXFaeHl3XzdjQQ?oc=5",
-    "timestamp": "2026-08-06T21:43:00+00:00",
-    "source": "reuters"
-  },
-  "6081f9804ff0ae602060b99d8ff7a453": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tT0ZhM3lwZ1F3dFlqV2xaaTJYanVEYmdiLU5kV21nS1I2ZGRhYTYxMGo0SlA2VXo0NXRQMy1OOUpiTkJScEVoOVd6bXhXcnM3aUF4RmlPUE5RMVlQX09Ecw?oc=5",
-    "timestamp": "2026-08-06T21:35:19+00:00",
-    "source": "fars"
-  },
-  "61725193e45e7a79d52afbf7d9259cab": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tT0ZhM3lwZ1F3dFlqV2xaaTJYanVEYmdiLU5kV21nS1I2ZGRhYTYxMGo0SlA2VXo0NXRQMy1OOUpiTkJScEVoOVd6bXhXcnM3aUF4RmlPUE5RMVlQX09Ecw?oc=5",
-    "timestamp": "2026-08-06T21:35:19+00:00",
     "source": "fars"
   }
 }
