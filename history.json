@@ -1,4 +1,34 @@
 {
+  "f9867cb00c860023c52c48068317b04a": {
+    "url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html",
+    "timestamp": "2026-08-11T14:14:45+00:00",
+    "source": "nyt"
+  },
+  "879f80f00a4763e1a470e72ea08cc8e9": {
+    "url": "https://www.france24.com/en/ukraine-says-russia-fired-north-korean-missiles",
+    "timestamp": "2026-08-11T13:57:12+00:00",
+    "source": "afp"
+  },
+  "aa11817398d33c3a832fd6687e68985a": {
+    "url": "https://www.france24.com/en/middle-east/20260811-three-killed-in-suspected-houthi-attack-on-egyptian-ship-in-the-red-sea",
+    "timestamp": "2026-08-11T13:34:58+00:00",
+    "source": "afp"
+  },
+  "19731b6adfeaa2665670f35d73e629cf": {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnk3enhDLU5PRHZPNVlfdkVRb0t5ZjFPYmExTFlGcmIzVnh3eDNWQ3loVVF6MEg4ejNZOE92YkxKc0lpNE5pcXRQYnhPRXFWV05QUnpmNE0tMXZkVVU3YndadUxkampNUWx0Q3JqdjY3aC1Wa0pYT0dwVzgyT2JpVDMwVnAteFdDT2NXTXFOLTUwR0x6X01z?oc=5",
+    "timestamp": "2026-08-11T13:10:00+00:00",
+    "source": "ap"
+  },
+  "ae54e40f4f3a4eb008a41d29b6076284": {
+    "url": "https://www.france24.com/en/video/20260811-civilian-casualties-climb-as-russia-and-ukraine-exchange-fresh-strikes",
+    "timestamp": "2026-08-11T13:03:09+00:00",
+    "source": "afp"
+  },
+  "2294d9061980231131daa81556bb41aa": {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTElqUlBOZlk3YzNMRzFoNEV6S1MxOXFhTXRaRF83Rjdzc1FxYUZZV3ZOZnJibWdPNmN5TWtrQnVRYzFyTWkwbjRVRjRqUWxhbExsdUxRN2ZOcDlwYV93U1ltaWRJdy0xYlBvSzhFLXM3TmV4VG1oOHRDWEdGTW44UEo1RkJDY2tqUG1zbjd5U3JSd1pDNVlpOTlxckxSYV93VXVVM2lpT1JGeVo5TmVUOEVZTEVsaVpLNk9BYnFqOWRTMHRoMElia2Nodw?oc=5",
+    "timestamp": "2026-08-11T12:43:04+00:00",
+    "source": "reuters"
+  },
   "7eac35a125c242ab6b912d024e64cba5": {
     "url": "https://www.france24.com/en/trump-boarded-secret-flight-via-catering-truck-due-to-iran-threat-us-media-reports",
     "timestamp": "2026-08-11T12:28:42+00:00",
@@ -14,15 +44,30 @@
     "timestamp": "2026-08-11T11:34:07+00:00",
     "source": "fars"
   },
+  "3d4db780718d9c4dab3cea49b2b5511c": {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQUw4ZGZ0eUtvUWdIbGtfUDF2U3BEZ1JYS3BlaWpfZjBsM0kyY3ByNktwUXVEeklRbms5ZTktQ2VoQVV5eml2VFpjbmNMbFVKWC1aYTc1LVNXQ1lHMTFSekpIRDFTam9Mb2RRLVVUNXpMWWR5VWRVNFBuSjl4UXdPZnlFUVQxZzhNMGJQaE5ONW5BWWJSVHV3UEVGcjhKYTlCTldXRVpOWjdpbnRVOGpqN3I4Zlh5dklNTGdWMjQzb3Jmemlub1JvOFhmUktzRWdfMlhv?oc=5",
+    "timestamp": "2026-08-11T11:34:07+00:00",
+    "source": "fars"
+  },
   "84b0e1f1bf31a67c9762356513a1b789": {
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSURtU0FxazNSZWRITkpUbGp3SDRFemExTERkeHk0c3B6c0hoT3Vaa2lJNGxqZ3pjdmIxX1k0Y0M2cWlxOTRlSGE1WF9WT1V0eUdWd1poSEZObm1kdHpyS24xVU9jNUdubXpTQUpjOURBTERkYTFUNjF0aFAwYXZ0cTN0bVZadW5ub0JBWElFa1lMNlpvZWFYQ1lB?oc=5",
     "timestamp": "2026-08-11T11:32:37+00:00",
+    "source": "reuters"
+  },
+  "a2521cf042e4a9924b6aeb983f99ba11": {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc0JNQkc1NWxqWmlmZHVxVzlsczhwZEJxZHFENkVBMWU0M0pIWjVLRU5vQzVrbW02SXl2ancxN1RmVFNUNE5nYW9sUWZjTVR0dE5aM0xCS0xJZktkY1MwYlZaZjNXR01XVHNyN3RyeV95Z2hvYm1Vd1FockZxUWd2NW5WenE0MXJNRkNmWE4xMTZEam03S2NfMmZidjE1dnd1NldLanJDbnN6WEgwaGJSOHpB?oc=5",
+    "timestamp": "2026-08-11T11:25:42+00:00",
     "source": "reuters"
   },
   "dae2950969c9bbef7b6d9aee310c3975": {
     "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html",
     "timestamp": "2026-08-11T10:52:24+00:00",
     "source": "nyt"
+  },
+  "0b4e8236bdf0585513f4afb794ffc160": {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVUtzMHVDMnBhRWRTQXIwLVNnWi1XY0tEcnM2a1lGSVI1OE94VTJCSGtCUEpIV2VyV1hnQ2MyZUFiMmFLTVNVRmt0eXFhZkxYVkxocXI1ejZ1Rkw5ZTUyamhxdkFSVG54X0JweDJjOUJ1eGlfWllZb2M4U2hlYUp2eFFYcTdwZVZYcTFaYUVzcDh5aVBfMHlB?oc=5",
+    "timestamp": "2026-08-11T10:50:52+00:00",
+    "source": "reuters"
   },
   "e6199494f8e39daff08c5e201d85d42a": {
     "url": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html",
@@ -88,6 +133,11 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWEwRVJMUWthdlFuSTV5N2ZqaDA2TXViaUlic1NJSlgtbXNKYzY5Qnh2d0QtMGRGYTg1QU5uUFNaY2xXOEpPenR1TEZrWGJIT2NxTFFtUE9yZFlUdUlKNFNfRUJ0MV9wT3NjdkhXYWVKN1NTeUh5c1JlTzNiMUM0ZzNyZXBmX0dkdkxWTHktRG9HeWpQMEE?oc=5",
     "timestamp": "2026-08-11T08:44:00+00:00",
     "source": "ap"
+  },
+  "0f5694becc38a9b6d784df167e76e1b0": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaZUlYUjRveTRVSl9yMW9qTE9RenlBV3lXSDQ1eGtWdVdfMUxPOEFsUWFqamlkVkl0SzgxQVdUdUNaUUdDQUJFWDlmUUJUQ09ZWmc?oc=5",
+    "timestamp": "2026-08-11T08:43:09+00:00",
+    "source": "iranintl"
   },
   "21eef69e3ac2b374689731b7b5ef6c75": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBodjV0amZRRnZSekFwYk50al9ncDBRa2dzTmo2NHQzMmdsTWFZSmNNUXZkek1SZ0VEcmtGUmpmbnc4SXh1NUhEX01DdndvdXVNQVE?oc=5",
@@ -210,6 +260,11 @@
     "source": "iranintl"
   },
   "59efdc0ff878d36798040ef4b7dcb650": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nOEJXRTV2S3dRYmxBQXJXZVVsOTRkZF84bjZmVHh1S2tiT1RhWDlnNF80QjYyc2VmeUJRR2hkMkR0OWR4cXdMN3BCTXRGd3hmcXlmX2h1RzR3Z3pqeF8tRQ?oc=5",
+    "timestamp": "2026-08-11T01:23:21+00:00",
+    "source": "fars"
+  },
+  "eadd05ee5e1edd586d96a0ce4531f531": {
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nOEJXRTV2S3dRYmxBQXJXZVVsOTRkZF84bjZmVHh1S2tiT1RhWDlnNF80QjYyc2VmeUJRR2hkMkR0OWR4cXdMN3BCTXRGd3hmcXlmX2h1RzR3Z3pqeF8tRQ?oc=5",
     "timestamp": "2026-08-11T01:23:21+00:00",
     "source": "fars"
@@ -524,10 +579,20 @@
     "timestamp": "2026-08-10T15:24:05+00:00",
     "source": "fars"
   },
+  "10cd8ccd099e7c6ba658c560e1f98c44": {
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Ga2pfWV9KNDlYQWZCUlp1RnM1T3Y3TmZPcFJkcW0xZVJseklmdUJiUzlQMTlIWjROUWltSFJEdEdESVdYVHVUZDlxaGtmbzhaeUJSQg?oc=5",
+    "timestamp": "2026-08-10T15:24:05+00:00",
+    "source": "fars"
+  },
   "35f4739edf3be6ef55fde90c26d5a7a4": {
     "url": "https://www.france24.com/en/video/20260810-trial-opens-for-ex-gang-leader-charged-with-tupac-shakur-s-1996-murder",
     "timestamp": "2026-08-10T15:15:44+00:00",
     "source": "afp"
+  },
+  "0fc6b649c0b4ae82d1c62b6c80977a95": {
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56c3ZUeG5kbXJQYzF3aEdVMTV1NVBrcVl6NllyT3pBNG1pVUdWRllhbkQ1S2JpSlZaR1h4VG9PNlRMVXR1Z0hNcWR4bHo?oc=5",
+    "timestamp": "2026-08-10T14:58:26+00:00",
+    "source": "iranintl"
   },
   "d9455cae7182cd407f4b2f8c2b2a84c4": {
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1M0Y1lDeVR4MktLU0xfUXAydHFNYzZiZDNNeEw2VzVkamZDSi1qdlJ0ckNYcFdzdm0tWVhGVU1kMVppZG5tVFhyUUtSSl9QQmdMTWNlV25QOF82MnN6NTJzcTdxS0JtdGh0VVRBLTg2UVNGQ2dXbW5RNEdlLTF1OGRHSTR2NjhmY2VxV194MVVLUlk0?oc=5",
@@ -2433,70 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2d1E3MDdjb250T00zaUlhdUJKdHpWRTJSZ0Rxa0p6Njc2c0gtcG5kYm5jX0hvNE5jSVNuaEpDQmx0VXNkdDBaRHM5UFl6VUViUjdCa0NKRQ?oc=5",
     "timestamp": "2026-08-07T03:07:55+00:00",
     "source": "fars"
-  },
-  "cfc4f535b194a06d1616488a04d5865e": {
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zTG1sbnpranVTYmZNRzZJSm5KdVJzT0FFSE5sYXUyVVNRZUFKMjFJQTJUVGRsYW41YU5IMTF1azY1aXFiNkRnR1RfZVBSM3Y4VDBvbWhMYS1zZ1BZcDFERUd3S0N4REh6bGRuYlRKS1gzZkd4Vmc?oc=5",
-    "timestamp": "2026-08-07T02:32:19+00:00",
-    "source": "fars"
-  },
-  "8f856bbc66d65aac2657baf5c9cda115": {
-    "url": "https://www.france24.com/en/technology/20260807-meta-new-mexico-567-million-child-harm-public-nuisance",
-    "timestamp": "2026-08-07T02:21:47+00:00",
-    "source": "afp"
-  },
-  "5852c79be442a95f4cc41b99d40cae1c": {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0YzMU1OZXgxZVVsOS1zOHl4RnZ3SVU4WWtmNFVBd24xM1JNbVlvY0dXMm5DQUZQcDh4WHh1YTZpemRib1NEX1JDOTVqR20wZ2ZObnFJN3dtVkdHS3otcEF3OVBaTUVlTEtNNGw5eUx2QkozTGhvRTQxOHd0Vk5xX194QQ?oc=5",
-    "timestamp": "2026-08-07T02:16:00+00:00",
-    "source": "reuters"
-  },
-  "a9dd197e4feeb8333c9116132c5bb41d": {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
-    "timestamp": "2026-08-07T02:08:15+00:00",
-    "source": "reuters"
-  },
-  "5731b99cf13c5c69210d4e7268b8b27b": {
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNfNGY3UG5UMUhyR2c3eDJhU0hjdE1XckpNVEFjclNUQzRxN0NTLTRtUmF1TkE4TG9vak9ELTR3elpHVjhLWTFvdkFwNGV2czVQNDNXZFdHMVBFV1RMZUdzQlJWMkM4el96SWh2T2xQRzBRR05idXN4Q09jLUc2QkU1WGF5NjJ5cFo1Z1h2T25BWXZr?oc=5",
-    "timestamp": "2026-08-07T01:14:00+00:00",
-    "source": "ap"
-  },
-  "ebbb8bf6348faeab7a460169f34f6481": {
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZlNlTi0tMTdEYTJ4Zy1xU1JmQ0w3TFRtOW80d3ZuU2dtc0FwUE5pUmJwN19EQWlIdzVQTHpOVmR3RlJMSzRHNnE2Tm5KaDg3eGNjUzF0R1RtT2Q2c3Fsd0pHRWtoN2NaRXZyMGMwZmdBX1dTMUNjempFdm5XNTBxTGt1XzNsd3E0Rk5HRlB2WnNTWUF6ei12eWhYY3UyZw?oc=5",
-    "timestamp": "2026-08-07T00:31:00+00:00",
-    "source": "ap"
-  },
-  "49d8c2c280944e4f665e2656f315412e": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43aWllVERIMjBYWE5OSC11VGhPRnd3U0J5RnZMdG5UMDExdzE3Ums1ZVgyTVViT3A1eVoxNG9ERTB1RXBhemt0YXVRUVVVV3VMaTZSdVBMTUpHaFlRVkZCVg?oc=5",
-    "timestamp": "2026-08-07T00:25:21+00:00",
-    "source": "fars"
-  },
-  "f2c4ba588fad2abc672737e1161ced5c": {
-    "url": "https://www.france24.com/en/middle-east/20260807-middle-east-live-saudi-arabia-pakistan-turkey-to-sign-defence-pact",
-    "timestamp": "2026-08-07T00:02:57+00:00",
-    "source": "afp"
-  },
-  "a85fcca9757727a7c0d7c72624ae72fa": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mdjhVR0pBYWF0ZXdycTNiSEVGOFNOOTA2YmlVRUhIVDNoanJrQVpHb29oaGJ1VUwzV1VQZ2twVHpiNWRUaEF6R05SR24xc05LMHBtSVR2b1dsR1VXQm05Uw?oc=5",
-    "timestamp": "2026-08-06T23:55:00+00:00",
-    "source": "fars"
-  },
-  "df2296e73869d54caa411d10f8bcb47b": {
-    "url": "https://www.nytimes.com/2026/08/06/world/middleeast/houthi-yemen-strikes.html",
-    "timestamp": "2026-08-06T23:38:14+00:00",
-    "source": "nyt"
-  },
-  "642b87918a5c1566574df81b34a9a5a6": {
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2dZRzk2MlVWMDJsRHU0ZTRJT2ZJNEU4WGx4dTdoa2x3YXNwN1QxQXRKRXBzNG4zUDhuMGVyVFhRSy1GM2ViZ3RralowZXVxNjFHTFJnRkwxc2dqZVoxRVB1c3Z3eHR2aDJwZU5zSjR6WVl2WWxpSS01RW9uQVpWNFpDVkE0emJGcF9VVlJEQ1g?oc=5",
-    "timestamp": "2026-08-06T23:32:00+00:00",
-    "source": "ap"
-  },
-  "f81c51bf0d05676567dbbffa9f5496cf": {
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2dZRzk2MlVWMDJsRHU0ZTRJT2ZJNEU4WGx4dTdoa2x3YXNwN1QxQXRKRXBzNG4zUDhuMGVyVFhRSy1GM2ViZ3RralowZXVxNjFHTFJnRkwxc2dqZVoxRVB1c3Z3eHR2aDJwZU5zSjR6WVl2WWxpSS01RW9uQVpWNFpDVkE0emJGcF9VVlJEQ1g?oc=5",
-    "timestamp": "2026-08-06T23:32:00+00:00",
-    "source": "ap"
-  },
-  "a53e379ed62a4a961c945eeadc2ea000": {
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd1R4TEFIQVkxS1I2SDdWVUZfalVNQXk2VnNDc1FHUnNYU0xRY3ExT0JiLUp6cDl2N2ZYLUl3UHFlbFUzY2F0MU9iVW9ZRTBTYTIxUWd1RXh0dnY4ZTJPT1Q3cTNFNi1ja2lTVnNsZmZPd09SMFFFMjBUNVJPZWxLVlR6OG9fYk1Cc3Byc3JUY3lTYlhqV2xjRl9RVkFDRnU4Vmx2WkV6R19fcjlHYVZWOQ?oc=5",
-    "timestamp": "2026-08-06T23:31:00+00:00",
-    "source": "ap"
   }
 }
