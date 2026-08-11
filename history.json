@@ -1,4 +1,19 @@
 {
+  "5cd04d349b778b1a41eb0f398f2db071": {
+    "url": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
+    "timestamp": "2026-08-11T15:42:13+00:00",
+    "source": "nyt"
+  },
+  "d8daa0694ae589c8e56d7e06a9e0b696": {
+    "url": "https://www.france24.com/en/video/20260811-colombia-thousands-missing-after-deadly-earthquake",
+    "timestamp": "2026-08-11T14:32:29+00:00",
+    "source": "afp"
+  },
+  "bd0ed120b45203a570d585d863bcfec3": {
+    "url": "https://www.france24.com/en/death-toll-from-colombia-earthquake-continues-to-rise",
+    "timestamp": "2026-08-11T14:30:35+00:00",
+    "source": "afp"
+  },
   "f9867cb00c860023c52c48068317b04a": {
     "url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html",
     "timestamp": "2026-08-11T14:14:45+00:00",
@@ -9,12 +24,22 @@
     "timestamp": "2026-08-11T13:57:12+00:00",
     "source": "afp"
   },
+  "45ffc4bb0ccf398f94b879316389482d": {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaUk4OEtuQkJoalZXZFBfS0RPVHhicHktZkwwN3VoOTZPV0JUR0wxakVueUpUU1g5V21HcERUOTg3ekxGSjNhQjFwZnY0aU5uRWsySDVBRkpLUmNHZm9jNWd2NFJxZU1rc3JsT2k2X3ZrcFlDaXpXQ0tveXJMSWVNWU90Znlla1V6YVc0bndkWWlMMEk4MmpjbUdBTFdTTS0zenFQY1VMT3I4RVpCUzNCWkQ3WlNQYnpmd1p4VExobWdXSlU?oc=5",
+    "timestamp": "2026-08-11T13:47:39+00:00",
+    "source": "reuters"
+  },
   "aa11817398d33c3a832fd6687e68985a": {
     "url": "https://www.france24.com/en/middle-east/20260811-three-killed-in-suspected-houthi-attack-on-egyptian-ship-in-the-red-sea",
     "timestamp": "2026-08-11T13:34:58+00:00",
     "source": "afp"
   },
   "19731b6adfeaa2665670f35d73e629cf": {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnk3enhDLU5PRHZPNVlfdkVRb0t5ZjFPYmExTFlGcmIzVnh3eDNWQ3loVVF6MEg4ejNZOE92YkxKc0lpNE5pcXRQYnhPRXFWV05QUnpmNE0tMXZkVVU3YndadUxkampNUWx0Q3JqdjY3aC1Wa0pYT0dwVzgyT2JpVDMwVnAteFdDT2NXTXFOLTUwR0x6X01z?oc=5",
+    "timestamp": "2026-08-11T13:10:00+00:00",
+    "source": "ap"
+  },
+  "2f78d8655730f4d1157aa0a737b07490": {
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnk3enhDLU5PRHZPNVlfdkVRb0t5ZjFPYmExTFlGcmIzVnh3eDNWQ3loVVF6MEg4ejNZOE92YkxKc0lpNE5pcXRQYnhPRXFWV05QUnpmNE0tMXZkVVU3YndadUxkampNUWx0Q3JqdjY3aC1Wa0pYT0dwVzgyT2JpVDMwVnAteFdDT2NXTXFOLTUwR0x6X01z?oc=5",
     "timestamp": "2026-08-11T13:10:00+00:00",
     "source": "ap"
@@ -148,6 +173,11 @@
     "url": "https://www.france24.com/en/americas/20260811-trump-secretly-swapped-planes-in-turkey-over-iran-threat-report-says",
     "timestamp": "2026-08-11T08:11:50+00:00",
     "source": "afp"
+  },
+  "c87793d7923ab44b1bb48ea905942cc0": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzNGUweWpTLUxXUk82d2pXMXE2Ull5d2xNQVhraW9sRmJWczZ6TzBtbDE2ZXl3UFhmY1Zsdm5WWXU1OHl0UjZVdWU0YWNVTFBKOUE?oc=5",
+    "timestamp": "2026-08-11T07:51:20+00:00",
+    "source": "iranintl"
   },
   "43c42fe0ed330ec8b18ea3a50e5e5dd1": {
     "url": "https://www.france24.com/en/europe/20260810-live-russian-missiles-strike-kyiv-triggering-fires-in-city-centre",
@@ -2467,36 +2497,6 @@
   "18b4a65afded6822aee498bc0fbe358c": {
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRVdVcUd1eUJqQkM3M2V0WTIyYnM5aGVKN0RWcHZDSkNfU0hHa3lobUdlUklhOUFBamJyeXJjLTZIbXJrcEdZeVQ1OWZqQWMyZGVPeVBGY3NhaERObEhSdzdSQUN0cURLamtWZUZVWnlWelUtTEpwUllQNnhhOFNMQk5lZnkydnZhTG1WdU5IZjFYYXI1RDM1c0gwbUdrVmFOeVE?oc=5",
     "timestamp": "2026-08-07T04:23:50+00:00",
-    "source": "fars"
-  },
-  "7228a24d11d5d9d55a656a38a4e81439": {
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TWkNYeXJCa0pLNGxxNWNjcGdnRExacUV1LTZvODR5NmcwQU5HUFRDNzdTQVd0bXpPa0x4MTJMN0liWEFUUjRRT1VHd0xPZw?oc=5",
-    "timestamp": "2026-08-07T04:23:08+00:00",
-    "source": "fars"
-  },
-  "dc55eeaf3975ee5be4315000b4484f03": {
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TWkNYeXJCa0pLNGxxNWNjcGdnRExacUV1LTZvODR5NmcwQU5HUFRDNzdTQVd0bXpPa0x4MTJMN0liWEFUUjRRT1VHd0xPZw?oc=5",
-    "timestamp": "2026-08-07T04:23:08+00:00",
-    "source": "fars"
-  },
-  "6a7d4a2330fdf3be5852999953c4d1ef": {
-    "url": "https://www.nytimes.com/2026/08/07/world/asia/vietnam-tourism-foreigners-crime-law.html",
-    "timestamp": "2026-08-07T04:02:55+00:00",
-    "source": "nyt"
-  },
-  "c63f965189c18ab36aa75227a86bc1a3": {
-    "url": "https://www.nytimes.com/2026/08/07/world/asia/japan-earthquake-kumamoto-preparation.html",
-    "timestamp": "2026-08-07T04:01:15+00:00",
-    "source": "nyt"
-  },
-  "52e4e3d46e6fd4eeb2ad94bdabc8828e": {
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2d1E3MDdjb250T00zaUlhdUJKdHpWRTJSZ0Rxa0p6Njc2c0gtcG5kYm5jX0hvNE5jSVNuaEpDQmx0VXNkdDBaRHM5UFl6VUViUjdCa0NKRQ?oc=5",
-    "timestamp": "2026-08-07T03:07:55+00:00",
-    "source": "fars"
-  },
-  "31e7e32c751ad5ed200e46b3c9ff648f": {
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2d1E3MDdjb250T00zaUlhdUJKdHpWRTJSZ0Rxa0p6Njc2c0gtcG5kYm5jX0hvNE5jSVNuaEpDQmx0VXNkdDBaRHM5UFl6VUViUjdCa0NKRQ?oc=5",
-    "timestamp": "2026-08-07T03:07:55+00:00",
     "source": "fars"
   }
 }
