@@ -1,4 +1,14 @@
 {
+  "564e058dd169139d3310e20b35980b50": {
+    "url": "https://www.france24.com/en/voting-ends-in-us-midwest-primaries",
+    "timestamp": "2026-08-12T15:29:27+00:00",
+    "source": "afp"
+  },
+  "f5c988e5f9339ecf8e99a9b43f25a6ac": {
+    "url": "https://www.france24.com/en/colombia-bogota-s-search-for-survivors-continues",
+    "timestamp": "2026-08-12T15:21:22+00:00",
+    "source": "afp"
+  },
   "287a391b7022d965158eeee951f9c474": {
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVo4RlREbjZCeDFybnNPaTFlMDl0SnhGblQ3ZjE4NzA2WlVKU0diWDJqN1lPWXFvVk13eDY5TVhKYXROYXVJb2tLRzM0YVFaNXEzRWxLNWI0blFUSHZqbVN6aVRrMWFPR3Foa0hJd1FLZTluRVAtWlp0d3k1U1doeUhRVlRoRFltSzRneHcyYw?oc=5",
     "timestamp": "2026-08-12T14:07:38+00:00",
@@ -24,6 +34,11 @@
     "timestamp": "2026-08-12T13:38:24+00:00",
     "source": "reuters"
   },
+  "ac706bcbede660131ffaa3750bedf617": {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0VrMUhmQ1hxS0xRZmdtS0RsYjdBaEY0RnhRdHVMT1htcUtPWHBIWG1XY0Y5QjZjM25RdzJCUnBUY3NIbWQyUkRqWUpoYnlXUDZiNjloM0VPWDFDQjBjRVVJWHNtOVgyRFJhcW1yd0h3RGcxZkptU3F5NjRiWTFnYjhVcWpPenR3Vk9PTjF1VE5leW9kQlpaSF9pbmRpZw?oc=5",
+    "timestamp": "2026-08-12T13:34:00+00:00",
+    "source": "ap"
+  },
   "fedcda48e45ff002955af8932b266969": {
     "url": "https://www.france24.com/en/video/20260812-colombia-woman-rescued-from-under-earthquake-debris-after-36-hours",
     "timestamp": "2026-08-12T13:32:43+00:00",
@@ -37,6 +52,16 @@
   "f8ef7d67aa2343cb6d769a79454aabe2": {
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVZJNElycHhPbXBfZXNaRzVIUXFMU2hTTE1xRi1jdjBzZHQyMUNhTHVvbXg4aWowUHpqM29PT1E0Tm5haUNRSFJEUFVScGllVU54blNSRzdXUEN0RmNZV0FWclFOMHk0QWxTbjRsOXZPX3RVQXh1OThyU2V0X215R01zRzNDX2taWmc3YWtlcTZ1X0hGbmdUQ19tV1k5SmZEdHlFblBWZUtkUmxlcnc3cWc1ZmVKdWtzN09pUVJxaHFqcFVf?oc=5",
     "timestamp": "2026-08-12T13:06:17+00:00",
+    "source": "reuters"
+  },
+  "6655691e0e52a1455b5f54b0785c522f": {
+    "url": "https://www.france24.com/en/americas/20260812-colombia-declares-three-days-mourning-for-quake-victims",
+    "timestamp": "2026-08-12T12:55:15+00:00",
+    "source": "afp"
+  },
+  "bbb63b58028088ca4434a1265a8f62ea": {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGtBOHhHeFZVQ0xfdlpxYWtxd1Y4VUVEMFFFMlUxakNMd29IeThMN1RxeVlEbHJpMk8xN0RzakdZWEZxUWFHOGVDSXNRTEM4WjYzcW13TkVSbHBPT1c5VEdCM1A0cFJNVG5fd19yeDlRLTJNYjJYbjVVN1lLRmtQZk5oMW85MXkwNzBhaHNuQUR1Z0RnbHI4RHduQ3dRdFMyOXdvYzZEUmRkVjV6ZXVZ?oc=5",
+    "timestamp": "2026-08-12T12:12:46+00:00",
     "source": "reuters"
   },
   "492ed19fa5d428efd9972be37144ec1a": {
@@ -2473,30 +2498,5 @@
     "url": "https://www.nytimes.com/2026/08/08/world/asia/pellet-guns-sticks-and-tear-gas-how-indias-police-halted-a-youth-march.html",
     "timestamp": "2026-08-08T05:21:06+00:00",
     "source": "nyt"
-  },
-  "231117ba86cb1ff792dbf31e2da891a3": {
-    "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
-    "timestamp": "2026-08-08T04:01:50+00:00",
-    "source": "nyt"
-  },
-  "cc3b4235271830aadce300f5dca47cf0": {
-    "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
-    "timestamp": "2026-08-08T04:01:50+00:00",
-    "source": "nyt"
-  },
-  "cda88262534808a06f1894e8eae9cc1d": {
-    "url": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html",
-    "timestamp": "2026-08-08T04:01:31+00:00",
-    "source": "nyt"
-  },
-  "0841cc063f6c40a0f9c1316722094536": {
-    "url": "https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html",
-    "timestamp": "2026-08-08T04:01:17+00:00",
-    "source": "nyt"
-  },
-  "a84d416c35daaf365c6ea646f41977d2": {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmRWNXBNUDIwNU1QVmU3UmctOVNZVXZfVk1idDQ3TWJZRDRKV0FleVRndE5ZTGJsY1p0aUNodG05dzNvdUR1eDJZa0RzdU9OZ0VYREg0RzdqaVBuNXVpYXltckRzNUhnaHZRV0RrNG9Kbm9tZzZ3aHZ1RXQ1U0xBdlA3Mm5BLTJsdFhrVnB1endPSjUtZ3Z2TjJ5ZVQ5M2IwUVZHcHJmcWs2SHNaOEdKa2d6TkhlVnRHc1E?oc=5",
-    "timestamp": "2026-08-08T02:38:00+00:00",
-    "source": "reuters"
   }
 }
