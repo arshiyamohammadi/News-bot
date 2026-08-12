@@ -1,4 +1,29 @@
 {
+  "83f83b2faa956f965c3dcecf95eabad7": {
+    "url": "https://www.france24.com/en/putin-threatens-to-seize-european-ships",
+    "timestamp": "2026-08-12T13:47:40+00:00",
+    "source": "afp"
+  },
+  "50231dbe326236a28968a766f52b79e5": {
+    "url": "https://www.france24.com/en/meta-faces-1-4-trillion-lawsuit",
+    "timestamp": "2026-08-12T13:46:11+00:00",
+    "source": "afp"
+  },
+  "fedcda48e45ff002955af8932b266969": {
+    "url": "https://www.france24.com/en/video/20260812-colombia-woman-rescued-from-under-earthquake-debris-after-36-hours",
+    "timestamp": "2026-08-12T13:32:43+00:00",
+    "source": "afp"
+  },
+  "f8ef7d67aa2343cb6d769a79454aabe2": {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVZJNElycHhPbXBfZXNaRzVIUXFMU2hTTE1xRi1jdjBzZHQyMUNhTHVvbXg4aWowUHpqM29PT1E0Tm5haUNRSFJEUFVScGllVU54blNSRzdXUEN0RmNZV0FWclFOMHk0QWxTbjRsOXZPX3RVQXh1OThyU2V0X215R01zRzNDX2taWmc3YWtlcTZ1X0hGbmdUQ19tV1k5SmZEdHlFblBWZUtkUmxlcnc3cWc1ZmVKdWtzN09pUVJxaHFqcFVf?oc=5",
+    "timestamp": "2026-08-12T13:06:17+00:00",
+    "source": "reuters"
+  },
+  "492ed19fa5d428efd9972be37144ec1a": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00dVk0Y0dxN01JTVhZVi1NdWhkU0JQOVI3MWtjam16S3NwTFZoWVhrZmFpNk5TLWFSV2Zobl9XRk8xTXEyOWppQ1h5Tk0tbTVkbmc?oc=5",
+    "timestamp": "2026-08-12T11:33:26+00:00",
+    "source": "iranintl"
+  },
   "ff98d300f6de9ea03c835d92a7693a8f": {
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wRXVvRDhKZXFicXhjRkN4NWNXeEVYQ29abmRyM2k3UjVSVkd2OXpUUUUyWW5pY3hPVXJBWVBHZjdEeW9iaEZsdHhUMHdmcHV0enJrQkR5TTREVC1NLVZGSg?oc=5",
     "timestamp": "2026-08-12T10:57:15+00:00",
@@ -8,6 +33,11 @@
     "url": "https://www.france24.com/en/ukraine-seeks-closer-cooperation-with-south-korea",
     "timestamp": "2026-08-12T10:57:11+00:00",
     "source": "afp"
+  },
+  "ad4c4009930d997024c52f1d21340fca": {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUWFOSl9NWnkxNHllQ1VVWW1LWURuSFo4UllLX19rdUFIMWlNTmRMZFVOTU9pdHJ5aUVaU0NJQVQ3LVhVV3RGYy1WVWUzdkh1SFhtYVlQdzBWNWt5Zno5dE1TUUYwU1NMUFMzd3NJdmlrZ1NRRkpuM2RSdHNwRFpyX3BsVXAtaFZ6cGVWeVVSd3IxVml6Z09tb2JzVjAxRmxiWFFmS2s4Y0hEYlE2Qlc3MmRLWWRNZUU?oc=5",
+    "timestamp": "2026-08-12T10:42:48+00:00",
+    "source": "reuters"
   },
   "402eef95716f1e4ddd5636a5a49e6ac4": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56dHNlb1A4TlRvbTIyN2pSRFFWZXNBR20zd0dCY0ltZkxoU3R2eGVlaVJGdWc4QmpzN1Y2SVcwVFlWOXdWWUQ3QVBhQ3pXNmFwOWc?oc=5",
@@ -43,6 +73,11 @@
     "url": "https://www.france24.com/en/americas/20260812-david-crowley-beats-progressive-francesca-hong-wisconsin-democratic-primary",
     "timestamp": "2026-08-12T08:56:42+00:00",
     "source": "afp"
+  },
+  "eb4c9bc3aa74fd9b5c168c9e40b3b243": {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5",
+    "timestamp": "2026-08-12T08:46:00+00:00",
+    "source": "ap"
   },
   "790eb5db315576e490dc17166f2b1f86": {
     "url": "https://www.france24.com/en/europe-braces-for-another-heatwave",
@@ -2463,40 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeTlKQUF3VjE1MnpMNE5PNFRFZmloMHhQMjdHUmhwU0s4QWdWQVl6TFA4NjJCSi1qbnJyRFVjajVIamtFOVd3eHpSdlozSDd4YzlrdW93UHdfaGVDOEVicFByV1hkemlNTFFxbWxiNW5OWUJ4Y3FRbDBkd05nX05pTVNOUUpHc3hjVFlqR3daRnpBNkVDZF91dHV3WTJYQ0ZqLUh3VVVaMV9DU1FtWXlocDlxb3d0cGw1eFVKVA?oc=5",
     "timestamp": "2026-08-07T23:02:00+00:00",
     "source": "reuters"
-  },
-  "b135ecb5aba9b4904e5271698155a240": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IMENERHc4THRyMXExTDBMTTJ5NGhWbjdQSXdqMGdaWnJjWTJ4WUJWQjdRaG1scm1PYXJGSV9oeTl5SEdTV0xrSndDQ1B5R1FpN2c?oc=5",
-    "timestamp": "2026-08-07T22:30:10+00:00",
-    "source": "iranintl"
-  },
-  "3025322be879916512db6ce8816782ae": {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0pzeU9VRmJkMDBtRWM3MFhyR3JKTENJeDVfb3pNNHpycXViQnF6LWpveDVmZlotcWVrV0M3cTV4Q1hyTUlPcnRwaDFqRW5fWE5BdlFSYVd4NnZ5MWU2X241OU1QVzZkREh5MjVVMFBlY0k3RDgtM2RDUEFWNVVwUlJ4RFo4OHpGanRuclQ1WXV0bmVZX1MtRUZWak5ERjJ1Y0FLQlR3SlBtS2VyM0EyWUlJQVRJdw?oc=5",
-    "timestamp": "2026-08-07T22:20:38+00:00",
-    "source": "reuters"
-  },
-  "19f7ca1ec26deb12f09fa55d2ce9ea7f": {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MQmw3emthSE16YUR4bnFrdDZKR3AtN09fQkFfNU5WSHB2T3E1cDZXUUtIWDFyZFg5djh2RV8xOUU0VDFkM1Z5X3lwb29PU0k2U2dOaHpIalB0MG13b0J1QQ?oc=5",
-    "timestamp": "2026-08-07T22:14:31+00:00",
-    "source": "fars"
-  },
-  "3b3a3729ec7f3857235a9a92b55ee48f": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2MDE5S2RtRXJ4cjQ5T1pmWWJXWGY2OVdsQUVGUGxXTUtTMmJDME9aYlZVSXQtYjNFaElPcmp5YlNfdHgyQXUwUmktRmI5TTBIUnc?oc=5",
-    "timestamp": "2026-08-07T21:08:00+00:00",
-    "source": "iranintl"
-  },
-  "4ade87ba30403ef448661b2c73026fb6": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2MDE5S2RtRXJ4cjQ5T1pmWWJXWGY2OVdsQUVGUGxXTUtTMmJDME9aYlZVSXQtYjNFaElPcmp5YlNfdHgyQXUwUmktRmI5TTBIUnc?oc=5",
-    "timestamp": "2026-08-07T21:08:00+00:00",
-    "source": "iranintl"
-  },
-  "d17b8f142b2826a853aed2b04619684d": {
-    "url": "https://www.france24.com/en/middle-east/20260807-houthi-attacks-kill-at-least-10-in-yemen-as-iran-backed-rebels-target-marib",
-    "timestamp": "2026-08-07T20:52:45+00:00",
-    "source": "afp"
-  },
-  "95439643cf89ba71305a15b0d0afab66": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sYm1XZXMxaWVJOWpxdWsyVEc0aVcyMWpYajdrVHZJb3JIUGpZSTk1QlFfVWhuYWd3YVh1V1VDX2NlMi1rTnNGbldjNVdQSzVZUFE?oc=5",
-    "timestamp": "2026-08-07T20:49:03+00:00",
-    "source": "iranintl"
   }
 }
