@@ -1,4 +1,14 @@
 {
+  "05d77564c94a8e0360d632800b5c9643": {
+    "url": "https://www.france24.com/en/americas/20260813-colombia-earthquake-rescue-efforts-enter-final-phase-as-death-toll-rises",
+    "timestamp": "2026-08-13T01:36:28+00:00",
+    "source": "afp"
+  },
+  "b8eded75e853cf39927e6f4132e41aa1": {
+    "url": "https://www.france24.com/en/africa/20260813-zambia-heads-to-polls-with-president-hichilema-expected-to-win-second-term",
+    "timestamp": "2026-08-13T00:33:46+00:00",
+    "source": "afp"
+  },
   "e32eae057391371ef4efa0712488bde5": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rRmxJNFp3d3NLY3drR0dFRk9FZnNaYlh3N25RMzdTXy0zVHRGUS13cjhtZldMTFV6WE55ekpaVy1icVRmdkE1NDZuY290MXFLRFE?oc=5",
     "timestamp": "2026-08-12T23:04:00+00:00",
@@ -24,6 +34,11 @@
     "timestamp": "2026-08-12T22:38:17+00:00",
     "source": "fars"
   },
+  "fc68466be44af9a88614fed9400fe611": {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQQzl6RFVEN1JBdUUzUGwxYmQ0X2tyakZhejBKaDFPc1NLSGlSVkRXcVg3Y3JaUDRiOTJJUFZZWjlQWTV2RHVPbFJOLXhIdjdNMnBIVlZBTG5BS2lGQUV3?oc=5",
+    "timestamp": "2026-08-12T22:27:28+00:00",
+    "source": "fars"
+  },
   "4fd7fb3e6211f447448b1be8ff7bcb5b": {
     "url": "https://www.france24.com/en/middle-east/20260812-oil-spill-from-grounded-tanker-reaches-oman-mainland-beaches",
     "timestamp": "2026-08-12T22:18:17+00:00",
@@ -38,6 +53,11 @@
     "url": "https://www.france24.com/en/americas/20260812-white-house-press-secretary-and-trump-adviser-karoline-leavitt-to-leave-role",
     "timestamp": "2026-08-12T21:54:09+00:00",
     "source": "afp"
+  },
+  "7803826a5b122b535fd016d6c98692cd": {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PS3NnZm1zTmdzU0h2dzZ2X28ycmU3ZVVoTmxuV2hnYWpNRzdBdjI5NlZVc25KSUNqV0pEcVIwX2VfN3dzeGVfZXJxRHRadVE0UDZLVmkyLVBDVzk1RlR6aU40RUt1MkVH?oc=5",
+    "timestamp": "2026-08-12T21:48:03+00:00",
+    "source": "radiofarda"
   },
   "b02beb0fb3ba82d7189a1894d5d6e461": {
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DOGdYRTdpaEUyMzJuNFYyTzBibGZ6cmJjMDNLaVhuR21EdFJLNVVNVThmREZWZXYtcXRUaldEWDVncjBVTHU1ZmFaR2RvdjdlMjZud1JHS21oQQ?oc=5",
@@ -85,6 +105,11 @@
     "source": "fars"
   },
   "f1165c8bfc3e837be66d2c82492e713f": {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWZuZFpUQ0JKbW5uc3dBdFd0WUxfSlpDR3FTUElnWXJ0YjE2WFc3SWFLM29sRi1hX2J5WU94WTBhS3RvWl9vMFFWbzd4bF81QnZ3X19Ic04yLXgzbzBlQVZuX0JrRzh3UUJ1V1pQdld1R1pHc1duSWlkWXNkb3BSOUhCRXJPMmhMSmJYYVdsbDlsaU42cnN6dkVCdzhITHdabEZJXy1UbmFsdE5ZNUE?oc=5",
+    "timestamp": "2026-08-12T19:21:00+00:00",
+    "source": "ap"
+  },
+  "b28c32b6b3b9ed590031e9d9a6086d69": {
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWZuZFpUQ0JKbW5uc3dBdFd0WUxfSlpDR3FTUElnWXJ0YjE2WFc3SWFLM29sRi1hX2J5WU94WTBhS3RvWl9vMFFWbzd4bF81QnZ3X19Ic04yLXgzbzBlQVZuX0JrRzh3UUJ1V1pQdld1R1pHc1duSWlkWXNkb3BSOUhCRXJPMmhMSmJYYVdsbDlsaU42cnN6dkVCdzhITHdabEZJXy1UbmFsdE5ZNUE?oc=5",
     "timestamp": "2026-08-12T19:21:00+00:00",
     "source": "ap"
@@ -160,6 +185,11 @@
     "source": "afp"
   },
   "40185b5b2b901e67336d75cd876ca9a5": {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1p4OTRrUDJrbTJJTmk5Uk05TFV3a2JDOXhXa0pXQm1EdWE4ZnE3WU1pQ1hEdG80RFd6bzQ2QkN2X2NjZnA4U19zZzBmMm1aaG1oUmg4LTZZY2NsSV9SeFpJamZZYVRXQXlXZ0VDT0tIRVo4M3B4WW1VZFltbnVLTkRiU01BN2szVncteXcxQUJFX01jTFdfTUR1MjMydGZjN1d3Wmp2QQ?oc=5",
+    "timestamp": "2026-08-12T15:27:00+00:00",
+    "source": "ap"
+  },
+  "36bc3ca0073ccd46924f03f546993440": {
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1p4OTRrUDJrbTJJTmk5Uk05TFV3a2JDOXhXa0pXQm1EdWE4ZnE3WU1pQ1hEdG80RFd6bzQ2QkN2X2NjZnA4U19zZzBmMm1aaG1oUmg4LTZZY2NsSV9SeFpJamZZYVRXQXlXZ0VDT0tIRVo4M3B4WW1VZFltbnVLTkRiU01BN2szVncteXcxQUJFX01jTFdfTUR1MjMydGZjN1d3Wmp2QQ?oc=5",
     "timestamp": "2026-08-12T15:27:00+00:00",
     "source": "ap"
@@ -389,6 +419,11 @@
     "timestamp": "2026-08-12T05:30:02+00:00",
     "source": "iranintl"
   },
+  "3b01f3440a2e9c8149ec4c09c429dfd7": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mbmhRSkMxNnZoaFpSdlBtSmV5VHBZVXBlWmZjUEZhVFYzSTh4TmZJcWRsaEJDWkIwNElNWmtBNnN2blhEQVpDeHB3NnhvTnNRZkE?oc=5",
+    "timestamp": "2026-08-12T05:30:02+00:00",
+    "source": "iranintl"
+  },
   "81f4308b12ba956201b29dbcde20ef49": {
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVEVhTTk1VHZrSzVZV280LTRiQ0NINElsV0czSEJoWFg4MlFwbzNRZkgzdVFKM3F1b2JidWVZbFN4LWFLVkNQR1BSVFplYjBQb2x1bE84TE01b0wwVFZrT1JCMGc0VWpadER5YVFqSVlPQ2xObllRRVFJQ0pnc1VjNUZSNjlkUElLcVlXLUpnME5MbU9Vc3o2Mi1iYkthTGxtckJLb2Z0RTR6NTM3Q1E?oc=5",
     "timestamp": "2026-08-12T05:15:12+00:00",
@@ -568,11 +603,6 @@
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYUctM2tDd2gxSEhzQk9QV2dud0d0ajdkR0U2TmdlZ2VpQm44U1BhclBHQ184WVFFS1ZnX2l4c1dlb3FiMG9Ld0hSeUNJU0dFSTl6VHFzTVlRSXQ4Z3BUQWtvLW5oTFZJTGJiOG1Sb0dTSGN2V1lzcGJWemhYZjloZnI2YmtvcnZ3dHRGMkpSOGExM3RZTVFxeGFfWkNoXzhpUk5iX0QxVHVWYmpnT05rTnhFM25MeHNnek85UFlLdS15QQ?oc=5",
     "timestamp": "2026-08-11T20:47:44+00:00",
     "source": "reuters"
-  },
-  "7803826a5b122b535fd016d6c98692cd": {
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuTjcwLVhsMWZ3Zi12V0dRck9NMHFLNjhzbVdiMHk4TkVaVFhYbEpPM1RkZTdEQ05wS2tyVWpVLU12NFVTMmtKWG12dG44bVRwNldZSGs3QQ?oc=5",
-    "timestamp": "2026-08-11T20:47:37+00:00",
-    "source": "radiofarda"
   },
   "5776910b7588454fe6c2de60c24588b0": {
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT0RjVGRZTkwyWVR4dFpXckFJRUdMdVJWcDNvQllJWVJqdjVjOUY5ajRmWnVwZERtRFplQVFOazVnajAyQWs1Z0ItdFJpcWZ2dFp0RXpzdDdqT25xaF9Iek1rdEMtWC1pQ0prSU5mOFV2NWVhNW9zQWRTZWJVYzJvaTBISU1fSFcwS2hSemRFb2tqemV2Z3JIOVNvampFMVhPMUhhM25IY2VvNGlwY3ZYNDJ0c1NfWS1YVUh6azRJby14bGFiX2VaR1VrMi12cF9HREhvY1JzSVlmWDlxWmpnNUZhMA?oc=5",
@@ -2468,35 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zeVFQZXYxUTJpTFBGWHhkVWdVRjRGNDN0REQycW9NWXZ4bUN1NXRkXzFoUmE3SUxOYVVGMUZXd1RpYlViTWJBSDR1Y1laOFZucmc?oc=5",
     "timestamp": "2026-08-08T16:27:11+00:00",
     "source": "iranintl"
-  },
-  "59f24d3a6aa7a0bf23df7331b6f351e2": {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHBEUUlsdUlIcC1vM0pPSm9IUk9fdnRseE15OXFhN3FRTHRqa0dEcmR4aXVjMmJMLVEyMzNsWDlnaFFLRkRKRkQyb24tTC1MNjBGMVcwa2cyeXczemdMY3AtX2x4TENBWmc4S0Nqbm5COEd6NmVhNEN4MjVPajdrd3UyQ0FsRXoxU0JTdm1BTTBCRjVzcmZ3WTJVNVZ1Y3JFV3owRzBGQXNIVXBiSUVKZ2FJZUpxeUdJZzNFaWhR?oc=5",
-    "timestamp": "2026-08-08T16:14:00+00:00",
-    "source": "ap"
-  },
-  "05eeacde85bcb4bf4140ef1ae6a2a6c9": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CdzRjelZVWTE1MzFCVTRXZ3lpNGpnYkhzTjhyNHhCUU14OW9vS25rNkNiR3NFTmxjczBlWUxTaHprSU56YkotQU5NV0t0aFA1YXc?oc=5",
-    "timestamp": "2026-08-08T15:39:51+00:00",
-    "source": "iranintl"
-  },
-  "70b6c9370691ec60f167fca16145ed32": {
-    "url": "https://www.france24.com/en/russian-strikes-kill-four-as-kyiv-hits-oil-refinery",
-    "timestamp": "2026-08-08T15:29:49+00:00",
-    "source": "afp"
-  },
-  "9c8501ec231fe95e2bf41868646675c4": {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
-    "timestamp": "2026-08-08T15:22:02+00:00",
-    "source": "reuters"
-  },
-  "0acbfc02f6223564b19c5dab0f51b5ae": {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFfY3QyOTNzV21YQ0VINm5YT013Y3BXZ2Y5aWg5M0xVUVhTRFc0U2JxTktwa0MyS0RERFR3RWZvekQzdVBYdnBnWGhtckZDay1sMS1iZmUyZllQN2hjNGM2X1ZNTjRlaVJMTnNDdW92ekg5QkJDRUVmZzhNYzNhOWM2cUpFMEU3VjB5U0lWQm40enFTUHJMSnJKWEk3T0lXUHJleHhQbEE?oc=5",
-    "timestamp": "2026-08-08T15:12:00+00:00",
-    "source": "ap"
-  },
-  "a0e8ec077522707ea1b10adb4c8534e9": {
-    "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
-    "timestamp": "2026-08-08T15:11:40+00:00",
-    "source": "nyt"
   }
 }
