@@ -1,4 +1,39 @@
 {
+  "3dbcbe5c6f8ad82dc1ca0b8f68baeab3": {
+    "url": "https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html",
+    "timestamp": "2026-08-13T15:26:36+00:00",
+    "source": "nyt"
+  },
+  "d73ee1f78f9da29a9b31340b880c6a0d": {
+    "url": "https://www.france24.com/en/video/20260813-gaza-s-beekeepers-are-rebuilding-their-livelihoods-amid-the-ruins-of-war",
+    "timestamp": "2026-08-13T15:18:02+00:00",
+    "source": "afp"
+  },
+  "b5235dc7f9a5fe0fb55350701d653060": {
+    "url": "https://www.france24.com/en/video/20260813-japan-protests-putin-s-first-visit-to-disputed-islands",
+    "timestamp": "2026-08-13T15:06:07+00:00",
+    "source": "afp"
+  },
+  "6efa1cdea15b3db9e889dd51696bf318": {
+    "url": "https://www.france24.com/en/video/20260813-russian-strike-on-ukraine-passenger-train-kills-2",
+    "timestamp": "2026-08-13T15:02:34+00:00",
+    "source": "afp"
+  },
+  "26585d213c3f42a424574ae19378a1b2": {
+    "url": "https://www.france24.com/en/europe/20260813-poland-detains-russian-for-execution-plot-in-warsaw-tusk-says",
+    "timestamp": "2026-08-13T14:54:22+00:00",
+    "source": "afp"
+  },
+  "b1a1f57aecab134e519eefe021e524bb": {
+    "url": "https://www.france24.com/en/africa/20260813-mali-grants-presidential-pardon-to-french-national-sentenced-to-20-years-in-prison",
+    "timestamp": "2026-08-13T14:50:26+00:00",
+    "source": "afp"
+  },
+  "140c81249dc1ac05b188de075375cf5e": {
+    "url": "https://www.france24.com/en/video/20260813-zambia-voters-weigh-hichilema-s-economic-record",
+    "timestamp": "2026-08-13T14:47:49+00:00",
+    "source": "afp"
+  },
   "ecfe8cab62817ec0d9bf9d6f5e2766c4": {
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1FBbThicWttam5JSXN6Q1BxM3FvX2h1ZkJiZnBCa084Mk1qZG9UZUwwQVZ5TUMzd0tqRnZYYjBKcHA0b2dOdElab0Z0dm5MTlhoT2hqTGNZT1hlVUdSRHU1WDI1aTByaVd5T1Vyc2RHTHM4N1hQLUt4NkJBblpuVmNQRVNZZENyRnppQzNWWWJUUlcyakZoaXZPUGtyUHc2V1RvRUdXSENQRkJDQlloaDYyQUtEdVVIazFPRg?oc=5",
     "timestamp": "2026-08-13T13:48:00+00:00",
@@ -324,6 +359,16 @@
     "timestamp": "2026-08-12T21:09:38+00:00",
     "source": "afp"
   },
+  "8735e2e16ebcbd2d4d8d3e5f197d03c1": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuTVJXdlRNN0pqdWpKWG9HajZ5aS1vZXhPUFdUVEJ2LVdQOS0wQUo3RzB5dTl3MDRra0R5VlI3VHlIZWNUNjFQR1hsTlRJdVFKYWc?oc=5",
+    "timestamp": "2026-08-12T20:57:46+00:00",
+    "source": "iranintl"
+  },
+  "0817243a34de114daf5e4c15f3e18bf8": {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYXJRazFHM3dTM0d1dnJseGg4dFl0TlUxMHJWUVY1cjlWQ2NXSXB5ZGZYeFN3S2g1aV90bHFSMGVwNlp5NVREbXhCZ1NUaWVXeHBrLW9UeG5BMzAzSHRnSVRiOVl6NXo2QWRCOGlsZ1dYYlduNWMzOHVhVGUycVlsakdxWHd1c21sTFB5aU9uV0NINEdO?oc=5",
+    "timestamp": "2026-08-12T20:45:00+00:00",
+    "source": "ap"
+  },
   "069dd83574b1f86b98bad5af5233cf1d": {
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfMmlGV3RHR2JkRTJyQjFLeVAxdzhGUmNHMFJ6Y2p0c3NUeUxkbHJRLUlUUEM2NnRKa05jc0d2YVdzUjB3LVVzTFhFeTJ0S2lpcklMSTU3WjU4dGkzbHpvZw?oc=5",
     "timestamp": "2026-08-12T20:22:12+00:00",
@@ -393,6 +438,11 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XbDJ1LTVpSkFHbnhEZDlfUTFFbk91dWZBd1lRRzlSM0Rremw2TjFVOGtGMGRUZ2Zwem16OUs0RXNRQ21JblU2SkxaOFZnM1RVVnc?oc=5",
     "timestamp": "2026-08-12T18:08:23+00:00",
     "source": "iranintl"
+  },
+  "894d698a857cbcf348dea2f9977e670f": {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWJxb081bl9iYUZrWGltVGsyYkVodFgyX3prR1kzMW1TZTFNS3pld1U5VmR3N21yNzNLOW9FMHVVZnJIalVXTVR6SzVZa3NqbUdpZ3FtMEg3a2o1UFZieVE1azJUZVJ2R0ltckpZNFhXN0hzTDhNemtxNjliMnB5UWhlQ1BLcm05Q1NabDF1LUd5RmQ0bG1hTTY0Yw?oc=5",
+    "timestamp": "2026-08-12T17:37:00+00:00",
+    "source": "ap"
   },
   "c2ca9d8035bc3f78bc83acab8f186e92": {
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ON2dEWUViU2xNbnBYVEw0ZUxpZzhTRll4ZXU2NUdwVnNKOTBadGhrTDItYllYM1dNSXpfdVpGdzFmcDk4Q0EtQW1wOGh0OHdDTDItZkNiaWotZXJhZWNQT19FNlh3QQ?oc=5",
@@ -2448,55 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORUNvYjkxTml4UERLS2dCN3ZqUlY3LUdoQmdXaV9pMmJ5OENzcUpKYjRNYkgwaXo2X3ktWXRod3RJV2dxUWx2STFEdDdhY3A2dm82ZUQySk5xbHlxUmpnajFudVJtazgtWUMzQ253OTlLdWY4XzNVTDE0Y3B1eC01aUJPOUZxcDd3cUNpRzJURm4tOUxEMDhsY01EaWRoYWVjd0tsMG1ncThwQ3hm?oc=5",
     "timestamp": "2026-08-09T11:57:03+00:00",
     "source": "fars"
-  },
-  "2785bb687fcf48b99a442c7f59f1ab0f": {
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNTRib3hrYzJ1am1BNVVNd3pHVnZIMlNiS205Y0U2aHlJOUl4a1VRbVVGRU1EMVZuc05wbXRFUDJSVi1YVHhDVzNvZVA2TkNWTVdZRERIUkZQM25zNXJHOFBBalY0WEJVc01ub01Xb1NGN2Q5NVdWbFlOVkFJWHlIRkVOWmNOekdGNHl5V1VlQjVETzZhX2w1VjhKajh5OHNQYmNjNUhMS2VpOXRTZThvWmh2WjBlUHNyZ0h1NHBIc3g?oc=5",
-    "timestamp": "2026-08-09T11:57:03+00:00",
-    "source": "fars"
-  },
-  "5db04909587b23898e2027b4bd0447b2": {
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGdMX0J2dzgzRWwxbWt3Mkw4YjhxVy1ySE1rODhEVjZ2Si1DdndzWERTT3UzcFNuMk91N0hFTDB3Sk1HTTVJVnJKbnhKejRCa0dPeUNuYnd2YjlkeGVhb1Y5STVXNy1WZ3NnTERTR3Y1T3BOZ211M0Juc2dJYVdRTU15Y3Bmclp6UjJ6dEhXMjNYRWpOdU0xTVUwbERmWW94N29JT0RoUk1xcml1bTlLV1c3QQ?oc=5",
-    "timestamp": "2026-08-09T11:45:14+00:00",
-    "source": "fars"
-  },
-  "14d05bf3bbecdc8e2324dc94958d6a80": {
-    "url": "https://www.france24.com/en/blast-wounds-two-as-de-la-espriella-cracks-down-on-prisons",
-    "timestamp": "2026-08-09T11:36:54+00:00",
-    "source": "afp"
-  },
-  "054a50a5b482d078eaf49051cfc607b7": {
-    "url": "https://www.france24.com/en/iran-oman-near-deal-on-strait-of-hormuz",
-    "timestamp": "2026-08-09T11:33:01+00:00",
-    "source": "afp"
-  },
-  "175a25839d23012be81e234e3c9dc6b8": {
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRllnWjhRYk9ZMlhGdzE1NGtIRlpuOXJ0Z0ZuVFJsTVlzUUdlN1Juai1YUGE5WHVnajEtejY4ekktRi1FNUlBLWdzdDRFS0dFNUJ4elhjalNudmVsVkpoYTgybnBNVXB6UXBwTEtlUGtwWHVLM091SzFkMTdKOUFrZ2w1WmpkcFoxQkJVUFlvSC1GMzhlYkM5TWRaVnJHMmhXLXhXSXJnd2FxVkJIOHpNeUE2bkFvSVY1YWMtQ2lNWWNHY2Jma0I1cHA2Q0Y?oc=5",
-    "timestamp": "2026-08-09T10:52:29+00:00",
-    "source": "reuters"
-  },
-  "6bbc3d0632f1ac64cb6a08ad703b498f": {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOENwSFprNnAxMlVVRDZJclVmY0VZR1VpN2I0SnhjY2d2cGwzc2QtUHRSWk9jdEg1eW84WnFadDJHaWhIWEU3R3hPNHlsSXJCdk04R3NNbGlYTTU5RzQ1QlhER1lDLWh6Z2czZU9jWkFIdkdkdzdZLW5tcHQwTE1qZ0ctSl96OWdWbFB6WlN2UXhTbnRtYlpvNUFBY0FMWDBJN2xKanJUUU1GU1Y3N0ZSd0k4TnM2QUJW?oc=5",
-    "timestamp": "2026-08-09T10:27:14+00:00",
-    "source": "reuters"
-  },
-  "75532e143d4b5e36fcf1c3f9dae0d073": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HclZ4bF9NLTVncHVwR3EwS1dLVGF2cFZodXB3aFhISjVobmRGc3lIN2VvV2ZYYVluU2ZJanBaM0w4Tk5pWkhTUmVXMzZEb3ZVZWU3eTVyMWh4Y2FqbVE?oc=5",
-    "timestamp": "2026-08-09T10:05:05+00:00",
-    "source": "iranintl"
-  },
-  "a39f51052eee0ae2c6953c7d2c8ed1a2": {
-    "url": "https://www.france24.com/en/libreville-grapples-with-water-shortage",
-    "timestamp": "2026-08-09T09:32:13+00:00",
-    "source": "afp"
-  },
-  "c66598dcb98570edcad405e81b16fb02": {
-    "url": "https://www.france24.com/en/dozens-of-nigerians-freed-after-6-months-in-jihadi-captivity",
-    "timestamp": "2026-08-09T09:05:42+00:00",
-    "source": "afp"
-  },
-  "eb1f4552758db4c81735aaa148cf7635": {
-    "url": "https://www.france24.com/en/ukraine-denies-targeting-bulgaria-after-drone-exploded-near-a-gas-pipeline",
-    "timestamp": "2026-08-09T09:04:07+00:00",
-    "source": "afp"
   }
 }
