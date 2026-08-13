@@ -1,8 +1,33 @@
 {
+  "ed414954739505c2876c33d270370ead": {
+    "url": "https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html",
+    "timestamp": "2026-08-13T06:49:40+00:00",
+    "source": "nyt"
+  },
+  "164bf8df64c631d6c7662a4f1383ec17": {
+    "url": "https://www.nytimes.com/2026/08/13/world/europe/britain-heat-records.html",
+    "timestamp": "2026-08-13T06:39:59+00:00",
+    "source": "nyt"
+  },
+  "8d47af1c210061d18be4f1dd34d4c1f6": {
+    "url": "https://www.france24.com/en/europe/20260813-live-russian-attack-sets-ablaze-ukraine-s-izmail-port-infrastructure",
+    "timestamp": "2026-08-13T06:14:52+00:00",
+    "source": "afp"
+  },
   "6892370855172b37719c0ab949134183": {
     "url": "https://www.france24.com/en/asia-pacific/20260813-putin-visits-kuril-islands-claimed-by-japan",
     "timestamp": "2026-08-13T04:53:10+00:00",
     "source": "afp"
+  },
+  "1ab17f34325b311563e821c737075113": {
+    "url": "https://www.france24.com/en/asia-pacific/20260813-putin-visits-kuril-islands-claimed-by-japan",
+    "timestamp": "2026-08-13T04:53:10+00:00",
+    "source": "afp"
+  },
+  "e347f87fa73d8cf5d600528097e01f4c": {
+    "url": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
+    "timestamp": "2026-08-13T04:01:08+00:00",
+    "source": "nyt"
   },
   "22a71396c3d97fe280fee6dfc2873a8c": {
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNei1QbjNvMkM4LTlaU0FlWDFFQ0xkYlFWam1feHpUVjk4cjN2RzVYektNaktNb2c1bFlJZmFieHM3UF9YaHZlQXA0MEljX2lVQXRiTC1nSXpjc1ZVaGx0bzFoaEVOVVlrTEZ0c0dlclV3MzNzTVM4cmJvbGNDeFhTVjZ5LU1fYUN1ZmdXbV9VMG9HYXZPUXFyNnFlT09aR1hrR0RzV1l3Y3duU0RTWVNvaHJn?oc=5",
@@ -57,6 +82,11 @@
   "242823807adc4d7110f10055dbec69db": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tS0FOWmlGRmJJWWRPWFdabXBHMUxVY2VaTTV0MnlibXEzZEFvLWM4anhEMTFtd1VScFptRjBkQ1ZBdnZkWm8xZWNQR0wzWndYU0E?oc=5",
     "timestamp": "2026-08-12T23:37:44+00:00",
+    "source": "iranintl"
+  },
+  "5a7031f94b00b2c71ed8a78243e3fce4": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rRmxJNFp3d3NLY3drR0dFRk9FZnNaYlh3N25RMzdTXy0zVHRGUS13cjhtZldMTFV6WE55ekpaVy1icVRmdkE1NDZuY290MXFLRFE?oc=5",
+    "timestamp": "2026-08-12T23:04:41+00:00",
     "source": "iranintl"
   },
   "e32eae057391371ef4efa0712488bde5": {
@@ -2468,35 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3BON1FnOUtqLWZCMnl4Y29idUQzRWhPTS1QZTVMVy12X1owTVZhSWJqR3BGcTFKNENpR1FRckdUa09RbFpRY2cyVHVyYjBhblBzQk1OUTYtVzItY25Bd1FoRzdRQUowakoxcG5xNWZEc3RYc0MxbzZicVNHbVRhQ1ZieG1hbTZabmVvbUlsZXFRd3R0aXFQSk5mU3NqaExKYnloaVl2MUNPS3VDemM5ZjRUTQ?oc=5",
     "timestamp": "2026-08-08T22:13:46+00:00",
     "source": "reuters"
-  },
-  "e6b0554c675a178e02742af6d51c7ed1": {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
-    "timestamp": "2026-08-08T21:15:33+00:00",
-    "source": "reuters"
-  },
-  "96550e4ae829bce20db7b3ee401f9ea0": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuYlQ0NUlaYjRfa1FIcURzQlllRW5tY2JvdWd4QzZabzFkdWFTSEJ1RXRWcGpwUDlOQWllSng2WmZaMjlyRVFjY3JOc0RXM3E2VEE?oc=5",
-    "timestamp": "2026-08-08T21:08:01+00:00",
-    "source": "iranintl"
-  },
-  "87d6050b9c2c34642d03ef7e0afe2ca5": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuYlQ0NUlaYjRfa1FIcURzQlllRW5tY2JvdWd4QzZabzFkdWFTSEJ1RXRWcGpwUDlOQWllSng2WmZaMjlyRVFjY3JOc0RXM3E2VEE?oc=5",
-    "timestamp": "2026-08-08T21:08:01+00:00",
-    "source": "iranintl"
-  },
-  "9f49b29509a5f5e1fe948fab05cb75c9": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZRUhLSUxVcktoTlNWeEk0YmdzLWtWOXBaRGo3UkVSb0ZucUFKU21VYzU2RC1ZSkc1c0JGZkx6TWlsWDhEaFUwMjBEUXBEeDVGSWc?oc=5",
-    "timestamp": "2026-08-08T20:48:30+00:00",
-    "source": "iranintl"
-  },
-  "4e1aa61e88a352efbeca7bcdeba5fe52": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jZ1Z5WUtGWXgzZ1JNZUd6cVVUcGwweHRsdG4tc3hodEt5anZDNE5SdFFMdWVES01IR1dXRGNnQjJjby04Y20tMk56LVFwMjkxVmc?oc=5",
-    "timestamp": "2026-08-08T20:40:00+00:00",
-    "source": "iranintl"
-  },
-  "346c2df797d6d386d3caf1299f0d1431": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jZ1Z5WUtGWXgzZ1JNZUd6cVVUcGwweHRsdG4tc3hodEt5anZDNE5SdFFMdWVES01IR1dXRGNnQjJjby04Y20tMk56LVFwMjkxVmc?oc=5",
-    "timestamp": "2026-08-08T20:40:00+00:00",
-    "source": "iranintl"
   }
 }
