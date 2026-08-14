@@ -1,4 +1,24 @@
 {
+  "a0a2ac9607b1cde2d7fbb1551e0a7aec": {
+    "url": "https://www.france24.com/en/video/20260814-japan-record-rains-kill-eight-strand-thousands-at-narita-airport",
+    "timestamp": "2026-08-14T11:48:25+00:00",
+    "source": "afp"
+  },
+  "880c6634b8b94252084764754db9d559": {
+    "url": "https://www.france24.com/en/europe-swelters-under-fifth-heatwave-of-summer",
+    "timestamp": "2026-08-14T11:36:21+00:00",
+    "source": "afp"
+  },
+  "d23f0e5b9997a6278588f8a97af39fc9": {
+    "url": "https://www.france24.com/en/west-bank-palestinians-families-trapped-in-home",
+    "timestamp": "2026-08-14T11:33:16+00:00",
+    "source": "afp"
+  },
+  "e37fda3b654612b95e54cd80484789fe": {
+    "url": "https://www.france24.com/en/ukraine-war-grain-attacks-raise-food-price-fears",
+    "timestamp": "2026-08-14T10:41:12+00:00",
+    "source": "afp"
+  },
   "ba9c3b21b5a3ff594a44a728a3a95cef": {
     "url": "https://www.nytimes.com/2026/08/14/weather/europe-extreme-weather-heat-wave.html",
     "timestamp": "2026-08-14T10:38:20+00:00",
@@ -13,6 +33,11 @@
     "url": "https://www.france24.com/en/uk-farage-wins-controversial-by-election",
     "timestamp": "2026-08-14T10:29:22+00:00",
     "source": "afp"
+  },
+  "af4eb9988094429b47b16295a58d5f03": {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOU1EWFduSW94YVRwb3lfUHpQSUc2SjJIdDF1ZWlickdZS0RPVjR5MHlHd3RGV2xGQlhWWFEydXJJSFJ6bkVTTkhZZmdONW5jYUQzWGhsZHBGZzlQTHN2aXdHTTdSMUx1SGdITUZZWGYtdjBBUnJXU1ZleFhWNHBLbFJGNkFIa1lhLVNGblUtT2owSEpK?oc=5",
+    "timestamp": "2026-08-14T10:26:45+00:00",
+    "source": "reuters"
   },
   "87868a2600ed021903cf98d93ccdee7d": {
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM2ROQUVkT0QtZVFZMGk0QVdiZ3hYVjVsY1hHbTVHeGtSSlBHOTd6WDZ4RDhVbmc1Yzg0SkhGdFNOZUtySTBjc1k4eEgxdkRzZUFnOUZCUzMyZUwyUUt4Uk1hdXVjcjV6ZEpLV0ZTVU5WSFhZMHNudFoyTTEzbGVrSkVOc1ZiSkpoa1NndVFB?oc=5",
@@ -34,6 +59,11 @@
     "timestamp": "2026-08-14T09:36:46+00:00",
     "source": "nyt"
   },
+  "2a67b4f4dfd9d81270605f9182734ca1": {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUjhZc2EwR1Y4V09VTUJxZWtzTTctNnNXZUpZRU40VnpSUUtfdk5nVnlheVBqSE0zY3ctNjUzcE94cm80ZDk2UElSN0dIaFFocTYxVF91WEROb3ViMHdXWjJaR1QzU18weGZ1eWQtaHZuRS1SVERJOWRvZ0Z5TFJjLTVldjcwampxUWF0dVo1UjhmS3hYbXM0ZHR4UzAxc3RBaHhLN1ViX0ZseDA2Y1BxVWlFaW81YjVmVm9tUG9sZFVSc01qWmwtZg?oc=5",
+    "timestamp": "2026-08-14T09:14:55+00:00",
+    "source": "reuters"
+  },
   "2a086bc2307caffd62a767144b567c2f": {
     "url": "https://www.france24.com/en/ukraine-civilian-casualties-hit-highest-level-since-may-2022",
     "timestamp": "2026-08-14T09:08:02+00:00",
@@ -54,12 +84,22 @@
     "timestamp": "2026-08-14T07:59:43+00:00",
     "source": "reuters"
   },
+  "c19cd3987d79900016086e83f0f2bf96": {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGhMU25fVEswcGdXUVItRVJmUE05cG52RjJXRUJZMWRsMElTVHhMeTQ4SVd6QXJRRTh5NUFSV3NmdmJHLXpTclI2U09NdlN5c3pGTlFGRkhMVm55Z21QWHZ3dVJTMUU4N2ZzX2VFX25DVXpGU2FKTFNlVlYyTXFjS1Zhcm8ydmFLRF9neTJCbW10RDlCcV9JUS1mUG9EcHMtelZnbVZ0bHAxV1k?oc=5",
+    "timestamp": "2026-08-14T07:59:43+00:00",
+    "source": "reuters"
+  },
   "299d3a3ca69739af2308d37c41ac8b4d": {
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnZS1RUldTVDJkTDNxdHZZaXF1clJ2aDEtekY3aGlfZmJZNm93blhHRDZTaFhvSjZIdlQzaWZuWXpROEk4TlFSR3RWbFNUdEZjT3pyUldZQTU?oc=5",
     "timestamp": "2026-08-14T07:59:01+00:00",
     "source": "fars"
   },
   "85c89b1df3e1abe0385c2a3491ef0f25": {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzZsUDJSYTV2QkNqVmRLUDVIb0l3MzJPdERTOFVrNmswRUw0QmhIWDFkYnYtOFhNc3JTZ0U1dm1pMmxQVUtYVGw3S21HTHRhVWRkdHd6UXExc0Y1QVVQeVVDdjYwRHRkNFRVV0tfQ0JTcXFSVFFTZUtnYnh2aS1hSnAwc0VRWXVaWmZXTG9PMEZiWVNuZmszeGw4TDl1TEY5bmZFUy1jaU9GS2VVLTNjOGNJeFNWZkotd3VJU1N1Vmk?oc=5",
+    "timestamp": "2026-08-14T07:33:57+00:00",
+    "source": "reuters"
+  },
+  "0c4b9c36f9a40219220376adf242c090": {
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzZsUDJSYTV2QkNqVmRLUDVIb0l3MzJPdERTOFVrNmswRUw0QmhIWDFkYnYtOFhNc3JTZ0U1dm1pMmxQVUtYVGw3S21HTHRhVWRkdHd6UXExc0Y1QVVQeVVDdjYwRHRkNFRVV0tfQ0JTcXFSVFFTZUtnYnh2aS1hSnAwc0VRWXVaWmZXTG9PMEZiWVNuZmszeGw4TDl1TEY5bmZFUy1jaU9GS2VVLTNjOGNJeFNWZkotd3VJU1N1Vmk?oc=5",
     "timestamp": "2026-08-14T07:33:57+00:00",
     "source": "reuters"
@@ -113,6 +153,11 @@
     "url": "https://www.france24.com/en/new-us-aircraft-carrier-heads-towards-middle-east-after-reports-of-dire-conditions-on-uss-lincoln",
     "timestamp": "2026-08-14T05:30:36+00:00",
     "source": "afp"
+  },
+  "5d3dcc5ea0121f324f8fb944b19942b6": {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRGxQNEpxUFR3NkJFN1JaeWxBMU8zVFpqNmJnTmNjcXQ5aWZnLXotc3lmUEw1eVZHS2dNUWxhRWdCdEdlVzVqeWEzMDEzaTRJbTVybFoyV2tyMDhJcGo1X2pZcGtCOEhUblBvekJpVmJkR2lnN1hPaTJlQ2lPRjRYMTRoSFFSZjY3T1VGMXA5OF8yem9aMThuRkgwcjJHdWxUSTY0MVd4WFRybTF5M3E5dFBFSV9QbnU2cXc?oc=5",
+    "timestamp": "2026-08-14T05:22:28+00:00",
+    "source": "ap"
   },
   "a797bf753acdf8aa3e1edd9503ff1a22": {
     "url": "https://www.nytimes.com/2026/08/14/world/africa/el-obeid-sudan-war-el-fasher.html",
@@ -2453,50 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOODI1RzUzTXBJaFM3NmZiUXBSVVNLdnhzbHZvNThEM1hpRkE1NE5aektObDBiMWRGd3ZVdDJWWHdBY2RMTTV1VUM2UnlHU1BacUtqaU8wY1hRY1BlTEVib2JBWmhLY0JWMHJjY3NmaFA2VTQ5cHVocXlienVJdUJrcGNnZ25KbDVubW9kTTVrSTAteWphOW1FanhIa3g5dHlVZng1LXRrMU1uMXMxV1EzSUduWHU0dw?oc=5",
     "timestamp": "2026-08-10T08:01:23+00:00",
     "source": "fars"
-  },
-  "326d2937f2cfa26a5ec00d12345c6dbe": {
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOODI1RzUzTXBJaFM3NmZiUXBSVVNLdnhzbHZvNThEM1hpRkE1NE5aektObDBiMWRGd3ZVdDJWWHdBY2RMTTV1VUM2UnlHU1BacUtqaU8wY1hRY1BlTEVib2JBWmhLY0JWMHJjY3NmaFA2VTQ5cHVocXlienVJdUJrcGNnZ25KbDVubW9kTTVrSTAteWphOW1FanhIa3g5dHlVZng1LXRrMU1uMXMxV1EzSUduWHU0dw?oc=5",
-    "timestamp": "2026-08-10T08:01:23+00:00",
-    "source": "fars"
-  },
-  "7ed723c8c144fee9523ec5e90db7b2cf": {
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUNmLWxickRLU05ySXVrTTR6U2Q4aTVSZExPY3ZaZnhCR01UcUtUMzhMU1c5Q0YwNFFCc0ZRVWpLYWo0RWZHWkhRc3Y2d1lLdDhwbTFNSmRZcXJ0SHV1VUtVWmdxQUZOei1iS1dwNEk3dkhyVTJvSWZiSjl6MXU1X01nQTZjenBZWkdUYmU4eG4tdUk?oc=5",
-    "timestamp": "2026-08-10T07:45:00+00:00",
-    "source": "ap"
-  },
-  "83a75d9c3f224185c0ac2e47cfd4c692": {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObnJHbHBKTndrdFh2QUd0MDlQd01PV2ZkVEdqM2pPc0JZX3BVRXlXaWJid1pwc0V2Z1UwM09KRVZ4SmpoVTlyMkJ2cU1UTTlRSlRiWGhFclR2OUJJZmtqVUZZM3lRMFBjRUFvaDQwSDZiWEVtRUlZMk5JMTRQd3h4Ny1QSGk4MVBLY0txU2ZzWHhVWnhxRmNWcGxKNW9XSnFRYkdpQjQyM2Y?oc=5",
-    "timestamp": "2026-08-10T07:41:53+00:00",
-    "source": "fars"
-  },
-  "c27db7fdabbe9d5972da87425eb24255": {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObnJHbHBKTndrdFh2QUd0MDlQd01PV2ZkVEdqM2pPc0JZX3BVRXlXaWJid1pwc0V2Z1UwM09KRVZ4SmpoVTlyMkJ2cU1UTTlRSlRiWGhFclR2OUJJZmtqVUZZM3lRMFBjRUFvaDQwSDZiWEVtRUlZMk5JMTRQd3h4Ny1QSGk4MVBLY0txU2ZzWHhVWnhxRmNWcGxKNW9XSnFRYkdpQjQyM2Y?oc=5",
-    "timestamp": "2026-08-10T07:41:53+00:00",
-    "source": "fars"
-  },
-  "344e1d40d6deea7ccf986a30c47e7507": {
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Qb2g0RVRhOHNqX1NneGhzclRrTzJnbG5MRjFkUl9rTnNKclk2OXRXSE1fWVUyUWhRenBoYUdEYnY0MWd3SE1xNkZNcHY0RFBX?oc=5",
-    "timestamp": "2026-08-10T07:06:50+00:00",
-    "source": "fars"
-  },
-  "b09ea3a4011d8277055b74bbca01d926": {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWEzU2g0WHZKaTFWSUtaNmZ2cHY1dWlHM1MwYmxLQzZuODlIQnZXUnduMTZXZl9GcnhWbGJGaDBBZWhaUVRjdWhkZWJ2bFNWLXZJRlU1RkFuVGdBRkZBdGJLR1JoY19QT3ZnUFJ0U0FJUmh4enlCZjVfdVRELTBmVEMwSm4xVkVsZlFZWnlNVXZiNzFHalpVZnJFZVhTMUx6UXktTjh0MzRhb3YzXzFZU3U4a1hRNGp6NlBsanZoN1hjdw?oc=5",
-    "timestamp": "2026-08-10T06:57:00+00:00",
-    "source": "reuters"
-  },
-  "4110816ce7eb35a97caeae7017aadbb5": {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWEzU2g0WHZKaTFWSUtaNmZ2cHY1dWlHM1MwYmxLQzZuODlIQnZXUnduMTZXZl9GcnhWbGJGaDBBZWhaUVRjdWhkZWJ2bFNWLXZJRlU1RkFuVGdBRkZBdGJLR1JoY19QT3ZnUFJ0U0FJUmh4enlCZjVfdVRELTBmVEMwSm4xVkVsZlFZWnlNVXZiNzFHalpVZnJFZVhTMUx6UXktTjh0MzRhb3YzXzFZU3U4a1hRNGp6NlBsanZoN1hjdw?oc=5",
-    "timestamp": "2026-08-10T06:57:00+00:00",
-    "source": "reuters"
-  },
-  "4020dd4499e147707bfd58a4406844a0": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrNjR2Wm9rNlEzVVA5T0hOSDlPMzdEMktTS19wZ1AtbEl3cExjSGhHQmVwWkx3RVdfUXRqQ3JWX0tFbl9ESmw5STZOeHhDaWxjWVE?oc=5",
-    "timestamp": "2026-08-10T06:50:26+00:00",
-    "source": "iranintl"
-  },
-  "974d9ac035b83c3ee9ca2c041e933fdb": {
-    "url": "https://www.france24.com/en/western-europe-sets-new-temperature-record-as-heat-waves-pummel-the-region",
-    "timestamp": "2026-08-10T06:49:52+00:00",
-    "source": "afp"
   }
 }
