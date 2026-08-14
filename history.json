@@ -1,4 +1,34 @@
 {
+  "ba9c3b21b5a3ff594a44a728a3a95cef": {
+    "url": "https://www.nytimes.com/2026/08/14/weather/europe-extreme-weather-heat-wave.html",
+    "timestamp": "2026-08-14T10:38:20+00:00",
+    "source": "nyt"
+  },
+  "7273cb6adbe081d4127d1365a8c746fc": {
+    "url": "https://www.france24.com/en/earthquake-in-colombia-nearly-300-people-trapped-in-rubbles",
+    "timestamp": "2026-08-14T10:30:32+00:00",
+    "source": "afp"
+  },
+  "52a2b748193c540e550329bec7a66983": {
+    "url": "https://www.france24.com/en/uk-farage-wins-controversial-by-election",
+    "timestamp": "2026-08-14T10:29:22+00:00",
+    "source": "afp"
+  },
+  "87868a2600ed021903cf98d93ccdee7d": {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM2ROQUVkT0QtZVFZMGk0QVdiZ3hYVjVsY1hHbTVHeGtSSlBHOTd6WDZ4RDhVbmc1Yzg0SkhGdFNOZUtySTBjc1k4eEgxdkRzZUFnOUZCUzMyZUwyUUt4Uk1hdXVjcjV6ZEpLV0ZTVU5WSFhZMHNudFoyTTEzbGVrSkVOc1ZiSkpoa1NndVFB?oc=5",
+    "timestamp": "2026-08-14T10:25:10+00:00",
+    "source": "fars"
+  },
+  "3902f7bc290cb80c13f36ef666eb40cd": {
+    "url": "https://www.france24.com/en/colombia-hundreds-still-missing-as-earthquake-resue-effort-continues",
+    "timestamp": "2026-08-14T09:41:28+00:00",
+    "source": "afp"
+  },
+  "f9dbd8046ebfb9b2c561bd03280270ba": {
+    "url": "https://www.nytimes.com/2026/08/14/world/asia/chiba-tokyo-flood-rain-deaths.html",
+    "timestamp": "2026-08-14T09:39:01+00:00",
+    "source": "nyt"
+  },
   "10394528720dd760dabc6c1d05b7e28d": {
     "url": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
     "timestamp": "2026-08-14T09:36:46+00:00",
@@ -13,6 +43,16 @@
     "url": "https://www.france24.com/en/israel-sends-troops-to-west-bank-homes-besied-by-settles",
     "timestamp": "2026-08-14T08:59:38+00:00",
     "source": "afp"
+  },
+  "0372b4a068941dfc4f488f196087ae43": {
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yQnl5NVYzR3BoV3BhUEp2U21QU2hEWUhyZmNIc29mSzNoYWhGeGpJUkFTSmJHUEo0cVZPakxnOTEtVXpKVzNITmhOODJRcnFtb1htRzVDR3c5RklMaUJDTElRUlM?oc=5",
+    "timestamp": "2026-08-14T08:22:13+00:00",
+    "source": "fars"
+  },
+  "42f995ca421e72d21490878c3ede4fbf": {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGhMU25fVEswcGdXUVItRVJmUE05cG52RjJXRUJZMWRsMElTVHhMeTQ4SVd6QXJRRTh5NUFSV3NmdmJHLXpTclI2U09NdlN5c3pGTlFGRkhMVm55Z21QWHZ3dVJTMUU4N2ZzX2VFX25DVXpGU2FKTFNlVlYyTXFjS1Zhcm8ydmFLRF9neTJCbW10RDlCcV9JUS1mUG9EcHMtelZnbVZ0bHAxV1k?oc=5",
+    "timestamp": "2026-08-14T07:59:43+00:00",
+    "source": "reuters"
   },
   "299d3a3ca69739af2308d37c41ac8b4d": {
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnZS1RUldTVDJkTDNxdHZZaXF1clJ2aDEtekY3aGlfZmJZNm93blhHRDZTaFhvSjZIdlQzaWZuWXpROEk4TlFSR3RWbFNUdEZjT3pyUldZQTU?oc=5",
@@ -128,6 +168,11 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3R0d0g1dWFGMnlIUVlDSkYyLTBYUzBodG5mTzJrMl9GMW9QWmVGUDIyWUpqOG95QmJNTVE1S0dpY2l3Z1lha09HQ1hxVm1LQXV6cW8wVXBLQkxib1VLdFI0YTZ0bmRBbkhvelEwOXpBdVhUbFhNeG5EN3pPUzhoQjR0Z0JYSmZOdGxXenlsRFE4TXpuYTNHNzRVM0ZyWTBEa09BRjZ0QW5EaTMw?oc=5",
     "timestamp": "2026-08-14T02:15:00+00:00",
     "source": "ap"
+  },
+  "46069d708a8f63c143f9ff858d175b6e": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OZmI5Z2dad282M0tVYVFBbWZtS0xweFBQOUFxMlM4TXFaM2NnbGNSMEF5WWJGYkFUZmdNLVVHTUF4dHNMSlg0Mjc3cTZTbWNtdVE?oc=5",
+    "timestamp": "2026-08-14T01:41:06+00:00",
+    "source": "iranintl"
   },
   "ea06bec2b8e0ea0d1a0b0131ce422294": {
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHh3dmRQTVJOaXBOODZqNzdueG9RbzJ0VUZ0TTJ3UGNyaXFfOUJ4c1BsWXdKXzFWY21VZTdaaHpySzhxYXFIYnBVcUpsWDdUUE1od3pKN2psUWI1dS10enVtNzBDX0xBQUpqNmkxVE1xZE1scnFHeS1DQkM4YTRwOE01NXpwU3RWREhIWGFZMlFTcndNQzRWc3NrM0xWa2hwdlMzSE5IeEhqUzVJVFBv?oc=5",
@@ -308,6 +353,11 @@
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVG5Gb2NKOTltbG9CVlpKTElmclFqS1JyWGtIckF6UzhMYlVCQUp4a1FEWnRzWDQxS24ycTZYTEstVHIzbzhpMENnMWVzV2kxdklsV0pFR3h5Nk93OGtDRUJndkJhWEMtaUNjQm1scHdJZlczYWlfcUZXQ2pLMGp6S3k0YTdMUS1zaUxyWk1Sd2VSUWpFUmxxb285T1JaUGdUM2paUGotRk5JLWY1QVJWR1lTOC1XWC1xbndPdk5LdkdpTXR2VXc?oc=5",
     "timestamp": "2026-08-13T16:43:12+00:00",
     "source": "reuters"
+  },
+  "daec50dfa8794864c977ded1fe37931b": {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSVRLb0Vwak5DcjRhMWNzd1hBOTNoWE1pazFPU000b1dOVUQ5YmN1X0tEd3lCb3dwR1JrQVVmcWhTcncwaFh5czgxX0dvd0dTS0IzMlRLU3ZiVDZpMlZ1OHlxZndULURtdUwzOFZZOXRBcDJSUFVIakUzaDJ0bWIwZE9yYzM?oc=5",
+    "timestamp": "2026-08-13T16:39:00+00:00",
+    "source": "ap"
   },
   "90ff1583ecd8de7eb8b989576207cdb2": {
     "url": "https://www.france24.com/en/eurovision-winners-involved-in-armed-conflict-now-ineligible-to-host-contest",
@@ -568,11 +618,6 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0RZZ3ItUUhNRlRnSENCV1QxOU5NSURGX2JydVhZQ2p1TTQ0Tjc0QTZZNGRieTRmYlNzSUlRT0JBeGZwV1lTa2poN0NXZWxuT0NPcXVhLXRqZXNvcVhyVDVFN3B3WnF0ZnZTd2RSeWwxeXIxaDFFcC12ZnZFSU9tSnZCMDQ1WERtU1lHcnl4S2pWZWVFNERBU2hR?oc=5",
     "timestamp": "2026-08-13T06:13:00+00:00",
     "source": "reuters"
-  },
-  "0372b4a068941dfc4f488f196087ae43": {
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xdmdHTklJc2ZGYXZrckRjNVUzcWpJeUZremNLcGVZVWFieFBGcHJHTFkxRjRRdkVmTnl1bEFiOC13X2Mwd0hLQTA1LUpHaF9STF9VSXRwSExzWjdfTEg4NmlmeVZoSXZRaXZ3dzFsMFE?oc=5",
-    "timestamp": "2026-08-13T06:06:27+00:00",
-    "source": "fars"
   },
   "73768ab7d1500831401a80b06c094e4b": {
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdk4walQtOHRpY0R0NXVRZFF0OVY0aUR6X1FLMEVKTktzOVk3MWhIalBWNERpLXpqOWwzWkNEdE5lLVJxRVJybzI3S0VWZFdKZERfQ05CN1B3VXpqaUkzc2s3Zmw0cXVoNHJHTjVORWp1SWhNeUVQUTNQWmlPTjRmZWt3M1hJTFBfOXVodlBiN3dtbHRRVE9rQzJWaExHRThlcXp6UjFn?oc=5",
@@ -2453,50 +2498,5 @@
     "url": "https://www.france24.com/en/western-europe-sets-new-temperature-record-as-heat-waves-pummel-the-region",
     "timestamp": "2026-08-10T06:49:52+00:00",
     "source": "afp"
-  },
-  "bccdb2b8367803a84691c889804fb73b": {
-    "url": "https://www.nytimes.com/2026/08/10/world/asia/typhoon-dolphin-china-evacuations.html",
-    "timestamp": "2026-08-10T06:46:22+00:00",
-    "source": "nyt"
-  },
-  "e3ee281c78a5f928e89714109468120c": {
-    "url": "https://www.france24.com/en/europe/20260810-hundreds-of-ukrainian-drones-target-russia-in-overnight-strikes",
-    "timestamp": "2026-08-10T06:34:13+00:00",
-    "source": "afp"
-  },
-  "681a8acd065e07702e3f412fbd336d05": {
-    "url": "https://www.france24.com/en/middle-east/20260810-middle-east-live-houthis-launch-deadly-strike-on-port-city-of-mocha-in-yemen",
-    "timestamp": "2026-08-10T05:31:56+00:00",
-    "source": "afp"
-  },
-  "93e4a8785da521c300b856f3ca4404b5": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNFFOeHJsTmtMNUdzeWw0WnhwY2xRQlJvOURPczNwdjNtVXk4Z2x6dDFYVS0xdFJDQ3JMOEpla19XMmdRVU52V2xMalotMmdvRGtodFJSdEN2RHlxdjVsbDlQYkk2ZmlVajV1blVlTDYtQko3UGZtbXlrM3hndm1aX2dYcnl1LXpHZjdlSDhWcF9qMUVQZlVzOE9NOEU2RlBzcGRqbjllbWdEM1NpV3FrRmVSczduMy1EN0h6ag?oc=5",
-    "timestamp": "2026-08-10T05:02:00+00:00",
-    "source": "reuters"
-  },
-  "739161d42c7497e7f620ff5f46ee9eee": {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ1ZGYTFYNVhqMWFRdzMtNmt2M08zVVpCZk1Va3p3dWlkYnpGLUZmSWhvcmtiUDBrTElteGY4RkY2SmpzNjFWUzBFMmhxUnFmMDVtWUxLVmZQZWNEb3ZCanlKNF9tOGRKZGw1TWhVQ0RmRmpNUHhrWG1ieHpyNXBuTTFDaW1ZazR1QzRXMjFHVGJ5dDF4M2RiTTZUY09qLVAzTDctOTZiTFU4NzdjYXhMUXJB?oc=5",
-    "timestamp": "2026-08-10T04:53:50+00:00",
-    "source": "ap"
-  },
-  "9b3caf7647e6d0b4e92af345a9b60d93": {
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGI3ZEkwRkVXWXhoWDVOWDNQQi1ZaXU1RE1BWWxpWlJYeWxxZDdmS0xfRDBVYW1jOGt1Q1NRU3dPZWJVVXpwNEdCbEloN0ZiWHozOG5YaE5yUzlhR2R6dVhoM2w2MWg3ejZoa2RRY3FHLWVMSmQxOHdEZ1A4V0kyVWJrYy04SV9xSWM3NGdQLXFydi1yU2NpWWtiNA?oc=5",
-    "timestamp": "2026-08-10T04:14:00+00:00",
-    "source": "ap"
-  },
-  "465bbd042d806f6b991593cebcc37978": {
-    "url": "https://www.nytimes.com/2026/08/10/world/europe/malaga-spain-mayor-torre-urban-regeneration.html",
-    "timestamp": "2026-08-10T04:01:10+00:00",
-    "source": "nyt"
-  },
-  "b793e81fbf5f62c30c4f7e9c2dc30a75": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kR0xkazNGTm1RV01DZjNOMTc3N2MxRldZbzdKSUU2Y3FBbUF1S3ZHUjQxdkY0TTBQci1jMVI0WjFlazZVaS1ld3JWZTBoUk53anc?oc=5",
-    "timestamp": "2026-08-10T02:57:00+00:00",
-    "source": "iranintl"
-  },
-  "06fa1762b94badee4d5c02aa942edf78": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mME1ENllQMzBrUlFrbUtKdEJDTnJYLVNUNURlaV9fekRjQmlIMFl0b3NuYjlKOFpvQU1WdW5GWmhlYkstQWdubkZzYW5xSUJnaVE?oc=5",
-    "timestamp": "2026-08-10T02:23:00+00:00",
-    "source": "iranintl"
   }
 }
