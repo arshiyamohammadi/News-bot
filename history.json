@@ -1,8 +1,38 @@
 {
+  "10394528720dd760dabc6c1d05b7e28d": {
+    "url": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
+    "timestamp": "2026-08-14T09:36:46+00:00",
+    "source": "nyt"
+  },
+  "2a086bc2307caffd62a767144b567c2f": {
+    "url": "https://www.france24.com/en/ukraine-civilian-casualties-hit-highest-level-since-may-2022",
+    "timestamp": "2026-08-14T09:08:02+00:00",
+    "source": "afp"
+  },
+  "cb113f95373659101145113b01623589": {
+    "url": "https://www.france24.com/en/israel-sends-troops-to-west-bank-homes-besied-by-settles",
+    "timestamp": "2026-08-14T08:59:38+00:00",
+    "source": "afp"
+  },
+  "299d3a3ca69739af2308d37c41ac8b4d": {
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnZS1RUldTVDJkTDNxdHZZaXF1clJ2aDEtekY3aGlfZmJZNm93blhHRDZTaFhvSjZIdlQzaWZuWXpROEk4TlFSR3RWbFNUdEZjT3pyUldZQTU?oc=5",
+    "timestamp": "2026-08-14T07:59:01+00:00",
+    "source": "fars"
+  },
+  "85c89b1df3e1abe0385c2a3491ef0f25": {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzZsUDJSYTV2QkNqVmRLUDVIb0l3MzJPdERTOFVrNmswRUw0QmhIWDFkYnYtOFhNc3JTZ0U1dm1pMmxQVUtYVGw3S21HTHRhVWRkdHd6UXExc0Y1QVVQeVVDdjYwRHRkNFRVV0tfQ0JTcXFSVFFTZUtnYnh2aS1hSnAwc0VRWXVaWmZXTG9PMEZiWVNuZmszeGw4TDl1TEY5bmZFUy1jaU9GS2VVLTNjOGNJeFNWZkotd3VJU1N1Vmk?oc=5",
+    "timestamp": "2026-08-14T07:33:57+00:00",
+    "source": "reuters"
+  },
   "bd8161a1567e5893435eb8fecbe23452": {
     "url": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html",
     "timestamp": "2026-08-14T07:13:51+00:00",
     "source": "nyt"
+  },
+  "c96d55c6b401afd722707f4a1e2058ac": {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRGxQNEpxUFR3NkJFN1JaeWxBMU8zVFpqNmJnTmNjcXQ5aWZnLXotc3lmUEw1eVZHS2dNUWxhRWdCdEdlVzVqeWEzMDEzaTRJbTVybFoyV2tyMDhJcGo1X2pZcGtCOEhUblBvekJpVmJkR2lnN1hPaTJlQ2lPRjRYMTRoSFFSZjY3T1VGMXA5OF8yem9aMThuRkgwcjJHdWxUSTY0MVd4WFRybTF5M3E5dFBFSV9QbnU2cXc?oc=5",
+    "timestamp": "2026-08-14T07:12:00+00:00",
+    "source": "ap"
   },
   "1775a6de809d4de7c42dee35b6d08502": {
     "url": "https://www.nytimes.com/2026/08/14/weather/europe-extreme-weather-heat-wave.html",
@@ -19,10 +49,20 @@
     "timestamp": "2026-08-14T06:34:35+00:00",
     "source": "afp"
   },
+  "65a9809ee6f39abe1b7c3d6550a9a50c": {
+    "url": "https://www.france24.com/en/europe/20260814-nigel-farage-beats-count-binface-regain-uk-parliamentary-seat-by-election",
+    "timestamp": "2026-08-14T06:34:35+00:00",
+    "source": "afp"
+  },
   "b04d09c469db3ff13371071532261b42": {
     "url": "https://www.france24.com/en/tv-shows/sports/20260814-spain-s-world-cup-final-hero-ferran-torres-closes-in-on-psg-transfer",
     "timestamp": "2026-08-14T06:08:07+00:00",
     "source": "afp"
+  },
+  "9437c725b6a97d772302139ada007c95": {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUkpxWjhTWG5yaE9jV0VIajBSSzBJMGRoX01zU0RUMGU5cWQ3eEhKbmJFV3YzSGRNOEZsTDVsTGQyeEE0ZXRhMlV4X2g0ZFAtWUlMcHF4Q2dBeUg4bWxBeGxuYWVGdkhsM0MyYkFxTnFRVWNxeFR1Z3F5NjFNdW9ZZzZMMmtOOWtmRlVNZS15VE5VbFMweHYwa0FDQVczX1k0N0g1WmRXbw?oc=5",
+    "timestamp": "2026-08-14T06:03:00+00:00",
+    "source": "reuters"
   },
   "76b8678383fedcfafee18effe49fb8b5": {
     "url": "https://www.france24.com/en/new-us-aircraft-carrier-heads-towards-middle-east-after-reports-of-dire-conditions-on-uss-lincoln",
@@ -163,6 +203,11 @@
     "url": "https://www.france24.com/en/americas/20260813-raul-castro-makes-rare-public-appearance-at-fidel-centenary-event",
     "timestamp": "2026-08-13T21:39:57+00:00",
     "source": "afp"
+  },
+  "872cf09b7825f16d937cc3e6be5203d4": {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVotZ0lJOWNnZjE3MXRvdkM2MXJuY2dScktoRFRXSnk0UWg3M3B4ck5UWWM1NHFmcDRXaldfeVFSbDN4QU04bkkwNlBZaXNQN0s1c3pCZDlUT041R2lfUlROU2Q1bzF3V08tbXRrYXVURzJaeXpwNG1URkdPWnRHeW5Dd2t4ZXVUaHpmUDlVZU5RekxSNVU3ckxySk1WOE1QdWV1Sg?oc=5",
+    "timestamp": "2026-08-13T21:23:00+00:00",
+    "source": "ap"
   },
   "f275695e5966ef09fac3052f56504882": {
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVGt4emw3dzdDaUdoNmsxMmRjMlkwZUJCUVlURko4RzRvMjUybnlUMVRGUnFLT0plclNLYkt0dGN1RV9fZnQ3QlE2UkN0d002blZDVUtTX0JwQXhkbXVDZ25WbDBLWld0anI2MmEtMUJOUFVNUTVDeVhpOXlldTQtQmlMVmVzcE1KS0tnWHhUNWtodmJRNjJWNFEyak9ZSGRadktNS3FMZ2tjc0o3MEh6eXEwcTZjY1Q3dmg1eg?oc=5",
@@ -2453,50 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mME1ENllQMzBrUlFrbUtKdEJDTnJYLVNUNURlaV9fekRjQmlIMFl0b3NuYjlKOFpvQU1WdW5GWmhlYkstQWdubkZzYW5xSUJnaVE?oc=5",
     "timestamp": "2026-08-10T02:23:00+00:00",
     "source": "iranintl"
-  },
-  "9173419f6085e2266ff80401e4f0d99f": {
-    "url": "https://www.france24.com/en/europe/20260810-western-europe-saw-hottest-june-july-on-record-as-climate-change-fuels-historic-summer",
-    "timestamp": "2026-08-10T02:15:21+00:00",
-    "source": "afp"
-  },
-  "1285312e804c8b14f2da35fa8c0e0de4": {
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01WDU0YzJwZ0dCT1dRQjJwN1Y3NWxJNzZ6RnhwVEV6TFBuVjhMZkhjbW9oQmtnSndOYVgxZkRJNUVxMnpSYm9TME84YlhxX08yUVVGZnJB?oc=5",
-    "timestamp": "2026-08-10T01:48:42+00:00",
-    "source": "fars"
-  },
-  "190e2cdacbe6bc2934da989ccaad32ef": {
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xcTh6VV9hOW96ZV9mcHF1SjBJMEdyaVBWNUxvZm9xdjl3Z2pyWFFlVVNXMjF5dzJPZGRiX1E3d1MzUWFTZHdRV0RkR240Wl9GUnEtVWtR?oc=5",
-    "timestamp": "2026-08-10T01:39:12+00:00",
-    "source": "fars"
-  },
-  "f427228a68fbc72fc6cf45c6302951d9": {
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HclZ4bF9NLTVncHVwR3EwS1dLVGF2cFZodXB3aFhISjVobmRGc3lIN2VvV2ZYYVluU2ZJanBaM0w4Tk5pWkhTUmVXMzZEb3ZVZWU3eTVyMWh4Y2FqbVE?oc=5",
-    "timestamp": "2026-08-10T01:34:00+00:00",
-    "source": "iranintl"
-  },
-  "8380996faca64ba083fc151245afef1e": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmMmI4TDZTMWFpRXd1TVlCdG1yQUd6YUdmSDVIN2gyNTRhODZRZEtqV2JObEp6V04zRjNERGE4cXF5R0VqRDBONGg5UkhWRjY2d3c?oc=5",
-    "timestamp": "2026-08-10T01:34:00+00:00",
-    "source": "iranintl"
-  },
-  "d3258f888ef405f8d23224c2987cff50": {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUNXbzdKZzN4SWREMXRobGFBNUZTbkhiRERVTXVER0xFMndJbzBGXzRwckk4SWJLTlJtUHNaSDN1Uy1BRUMwZDY2U3dYRVRzeWV1NTNWN3QzazF5NHZuNGUteGpmanpqQnloXzBQWk1oY1FKWWFjUWYyX0ljSF91NXhWQVl0ek5RVWhwakpoZWZTbXJFelRXN3hIZnlfMlk3elZtUEtzbU5DQWZiamc?oc=5",
-    "timestamp": "2026-08-10T01:31:00+00:00",
-    "source": "reuters"
-  },
-  "f479e78d54cc045eb73585c9a9550984": {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTM0VnQ2S3MzSjk1RTlkeFJPc3NoYVJHQjU3Y1JoQTZuU0lfWlV4Wm4xWkN6Y2JjM0E2azJYTi1YOHVXdFFzN2ZVNzhsdnhWclJyLTdFV1FmWEdWMnR4S1ctbllrT29iaFFGY3NqN0hKLVRRSlU3WWJfUTFnM3FvQ2NaUlpzU3UyN3JDckRQbmNZd3NYQ0JISjFDamR5amNUT00yNk9DQjY2ekwwZ0VxZjF3M2VwQ2RsWXVjSQ?oc=5",
-    "timestamp": "2026-08-10T01:08:00+00:00",
-    "source": "reuters"
-  },
-  "bdd05d6a0c9f32021dc9f4b66b274cbb": {
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ0V2YVUtVDBTRWNFMk85UERyby1qRkNveUZvWnNIZjFaUk05Q0xKWlJUWDNLT3htQWo4R09jeHZHbDFFV2gxWWtxcTdrMnk2aHpkbHVtVDBMWTNqX3dJcHRBcEh2eWg1YTJoWEpSYmxaNldMaFFleWpwVVRTRUpwN210dzdPd1hQdW5SZW5pV2VYc3gzamdvMllmRERsSFctYkZiZFJrZktwYWNscFZsdFRvOGpBeVhESlBPRXlqVXJiSTFIYnduLWw3amZ0c293UWJ0Vy1VZjNGTWs?oc=5",
-    "timestamp": "2026-08-10T00:39:00+00:00",
-    "source": "reuters"
-  },
-  "f3426d794f8f69cca439b90fd8f9537e": {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5",
-    "timestamp": "2026-08-10T00:25:00+00:00",
-    "source": "reuters"
   }
 }
