@@ -19,6 +19,11 @@
     "timestamp": "2026-08-14T20:17:00+00:00",
     "source": "ap"
   },
+  "ae9a73ecad0d8b8fc88524bc5de31284": {
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TeGZXYS1hSFNEbUhTVjdxU2pqY1loZHhCanNMekZXSXBhLWJrMXd2WnBjV2ZOQVByV1UzZ2NHRFQwZlRuWDc3RFA4a1VLZTduSmt2ck13Rms2Zw?oc=5",
+    "timestamp": "2026-08-14T19:52:19+00:00",
+    "source": "fars"
+  },
   "d8a3618f333970663f422d20e44b3b68": {
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHZRYUU0eWZPOG1WOUx5U1BpNXRlenFUWnhSdEJvbExTQXl6amlVS2w2YV9wY1JENXkyOG45VUVsaENIb1FUUms1RFBoN2djemxuLVBPMG1GVHlMWTY3aVJuT3BHUEVwVzQ1YnVsYndPUnRyRzhEYzBXbmdMX1NPSW5GUHlLNm0tZHJKYWs5TmllTElIV3l6ZDRrOG1IVE05OUc4QQ?oc=5",
     "timestamp": "2026-08-14T16:51:00+00:00",
@@ -2493,10 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOVlTbzBQVDEyQWg3MGlJTUhxeXdVTG1kdFBmcGJlUDJsR1VoLVB6RVMzejcxX0dQVjFtNTdwTmp6Nm84ZWp1cHZweVNXTWFuZS1oZVk3SkxuQmZvLUVFM2tzbUtncjl0aTM1dXg4bVpLWHpHblhzbnFXRndocU1RV2NDc2NDQk5hR0lSZ3BwOGV3U1ZKRGNPR2J1LVg?oc=5",
     "timestamp": "2026-08-10T14:13:19+00:00",
     "source": "fars"
-  },
-  "95410195549c3fe669c6a29f9b562ce4": {
-    "url": "https://www.france24.com/en/video/20260810-a-7-4-magnitude-earthquake-shakes-colombia-and-ecuador-prompting-people-to-evacuate-buildings",
-    "timestamp": "2026-08-10T13:53:37+00:00",
-    "source": "afp"
   }
 }
