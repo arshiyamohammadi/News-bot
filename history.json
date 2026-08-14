@@ -4,6 +4,11 @@
     "timestamp": "2026-08-14T07:13:51+00:00",
     "source": "nyt"
   },
+  "1775a6de809d4de7c42dee35b6d08502": {
+    "url": "https://www.nytimes.com/2026/08/14/weather/europe-extreme-weather-heat-wave.html",
+    "timestamp": "2026-08-14T07:02:22+00:00",
+    "source": "nyt"
+  },
   "8af0d649ab09c54e6dda0e199c2f8d2f": {
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTzkyUFFSVE1HRFZJVWZqODJkX0N0Tm8zRUVZV2c2UE95Rm1mX0ZncVg0NXVfMi1TbV9LV1RqRDlxQ3gzZVU5eTJSaTB3dTRVMThqNUpDajVOQ196U2NsTm1zeU1ZRGtSNmpkYVRsbzZwQnJIVnI0NzYxMEdYdmVaV2pLOTc0UTZPc25Bc1BfQUxXYzBoRGZadG1XTERyYkJRV2pmbU1BY3U?oc=5",
     "timestamp": "2026-08-14T06:55:32+00:00",
@@ -24,6 +29,11 @@
     "timestamp": "2026-08-14T05:30:36+00:00",
     "source": "afp"
   },
+  "c26da6bda9992c72dd727075d45e653c": {
+    "url": "https://www.france24.com/en/new-us-aircraft-carrier-heads-towards-middle-east-after-reports-of-dire-conditions-on-uss-lincoln",
+    "timestamp": "2026-08-14T05:30:36+00:00",
+    "source": "afp"
+  },
   "a797bf753acdf8aa3e1edd9503ff1a22": {
     "url": "https://www.nytimes.com/2026/08/14/world/africa/el-obeid-sudan-war-el-fasher.html",
     "timestamp": "2026-08-14T04:01:06+00:00",
@@ -36,6 +46,11 @@
   },
   "7baaffabdde5f8e8bc3cef67de342a26": {
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXhaR1BaTkNVbC1FZDJuVlp6MDhWSE81U0NHYlB2SElhdUNYTU1oaXhaZ3hOMkdrNWo4VTFSMjlMWWZjMFJqc19KdzAxdXdWTnk2cDVha1VOYWxmRFRGZXFhQlRiMWJVb3FWVG5TMUt5N1JVdEptaldHZ3JZeFNLbU9UM2tXdUZMZi1wU1VyMXItRHI0NjNUODk5V0JNYWRLOVhpdUE0a1BkS1c0M3c4NzlwUHZvRmlkOVJ5dzNlMA?oc=5",
+    "timestamp": "2026-08-14T03:48:00+00:00",
+    "source": "reuters"
+  },
+  "61b70b47bcdc1fe9031af0db63537845": {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVHN6X2pBMFpxcnFUajQxN1B2MlhZTUVTRlZSYzVkVXp6MENXb2xUai1zRXVTeEhKUVVtSnJabU9yTVd6U05ETV9uRS1FNlVvWjh1dS1vTGd6UjltTXZXU1o0ODlEUWhZNUl6SFF5WGhtNldwbnpNa3lVbEV6SG12RjgtT2V4d2pCVnB4c2UtTEp4S2JOZFY5REVPdUZscnVFaC02akt2dF9rWUhDckZVNmlVRjk?oc=5",
     "timestamp": "2026-08-14T03:48:00+00:00",
     "source": "reuters"
   },
@@ -140,6 +155,11 @@
     "source": "fars"
   },
   "5c167387891b99f3241643f7a3bb0a74": {
+    "url": "https://www.france24.com/en/americas/20260813-raul-castro-makes-rare-public-appearance-at-fidel-centenary-event",
+    "timestamp": "2026-08-13T21:39:57+00:00",
+    "source": "afp"
+  },
+  "d60a2ac0f12c09ee95ea83d6672a28ed": {
     "url": "https://www.france24.com/en/americas/20260813-raul-castro-makes-rare-public-appearance-at-fidel-centenary-event",
     "timestamp": "2026-08-13T21:39:57+00:00",
     "source": "afp"
@@ -2478,25 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5",
     "timestamp": "2026-08-10T00:25:00+00:00",
     "source": "reuters"
-  },
-  "16a56162e46c8b0b00aa7156e29c3431": {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5",
-    "timestamp": "2026-08-10T00:25:00+00:00",
-    "source": "reuters"
-  },
-  "6fdabf5aa3614537fe9102f384fd210d": {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5",
-    "timestamp": "2026-08-10T00:25:00+00:00",
-    "source": "reuters"
-  },
-  "093b32339ef442f201f7ded2dae6ff5a": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pQnNiNjdyX2Rzbk1OblZ4ZUtHaVcwcXdYUWQzWl82Y0VmUmNuaXVEZjRjWWVPMm82akZ2eU56bFo3cXdoQlZuNVppM1ZDbVFxemc?oc=5",
-    "timestamp": "2026-08-09T23:35:00+00:00",
-    "source": "iranintl"
-  },
-  "75f4834502f1c0b50860e057503e6ce1": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sb0ZjZVpuZzM4cXBvVjFHbDBkOWtwRDdfSmFFZDRtb2NwSzZlRWU0YThVeWFLbUhJUGk1Q1BqRnZYT3lmZTJ1V2h3YlBJc2pJT3c?oc=5",
-    "timestamp": "2026-08-09T23:30:00+00:00",
-    "source": "iranintl"
   }
 }
