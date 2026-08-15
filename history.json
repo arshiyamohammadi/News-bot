@@ -24,6 +24,16 @@
     "timestamp": "2026-08-15T08:50:20+00:00",
     "source": "nyt"
   },
+  "ebc860e4c75b012cdb53a8a1b68867b0": {
+    "url": "https://www.france24.com/en/five-years-of-taliban-rule-afghan-women-face-deepening-repression",
+    "timestamp": "2026-08-15T08:49:40+00:00",
+    "source": "afp"
+  },
+  "e99c04f976c900c94b63ff66fd3d8cf9": {
+    "url": "https://www.france24.com/en/indonesia-earthquake-kills-at-least-38-as-rescue-operation-continues",
+    "timestamp": "2026-08-15T08:47:43+00:00",
+    "source": "afp"
+  },
   "a157f5d09a2ba575e41800daca738214": {
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13YU5iNWI3eEkwS2VXRkJ1NHFOVWlhSU45S29lX0N4QkYwX3lGcGNQSEVXS3JLUUlhc213WHJpb2tVMkQ3eXRkRmdYMlpFOThaSVpicXhFRXJJTGpib1NZcQ?oc=5",
     "timestamp": "2026-08-15T08:21:06+00:00",
@@ -398,6 +408,11 @@
     "url": "https://www.france24.com/en/west-bank-palestinians-families-trapped-in-home",
     "timestamp": "2026-08-14T11:33:16+00:00",
     "source": "afp"
+  },
+  "114cc947c48d1b6aaa4a95c9af18dffa": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1URHl4TDFWOVljeDBhUXpTeVA0Y2ZGVTUwaERKcnl0N0VLT3dYNFJ0TlVTWHVMZDZjZXRkQjQ5SU5jWExMS3hhVHEtTm1jczF0Z1E?oc=5",
+    "timestamp": "2026-08-14T11:25:07+00:00",
+    "source": "iranintl"
   },
   "ce1d79468db9ee2585bcf73796446505": {
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOVlTbzBQVDEyQWg3MGlJTUhxeXdVTG1kdFBmcGJlUDJsR1VoLVB6RVMzejcxX0dQVjFtNTdwTmp6Nm84ZWp1cHZweVNXTWFuZS1oZVk3SkxuQmZvLUVFM2tzbUtncjl0aTM1dXg4bVpLWHpHblhzbnFXRndocU1RV2NDc2NDQk5hR0lSZ3BwOGV3U1ZKRGNPR2J1LVg?oc=5",
@@ -2483,20 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QZzZwSUFSeHZiM296UnZsaWhid1dVMGFDcElQQzNmdXFJTnZqTk5URDJVak1YWXNWWFdCUlNfeVluLXBqYlgzWGxfcE1IOHg0ZFE?oc=5",
     "timestamp": "2026-08-11T00:01:55+00:00",
     "source": "iranintl"
-  },
-  "d693ba9248f44664747d54a453cbe109": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QZzZwSUFSeHZiM296UnZsaWhid1dVMGFDcElQQzNmdXFJTnZqTk5URDJVak1YWXNWWFdCUlNfeVluLXBqYlgzWGxfcE1IOHg0ZFE?oc=5",
-    "timestamp": "2026-08-11T00:01:55+00:00",
-    "source": "iranintl"
-  },
-  "81f90bb18a6b15c69e522bfda84f68cc": {
-    "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
-    "timestamp": "2026-08-10T23:50:37+00:00",
-    "source": "nyt"
-  },
-  "c657154b89c61f53515b1ced8dd13185": {
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaXltbWpibFBieFlGQi1PQXlTWktFYXdFSENITmhTenpTVFhpSkhhMG1CMUJKTXo4VUdDX29YdVpmRHViaHowb3k0WjE1ajdjM0JldlRVN0ZVZVlMYU5HaXFlVWlqcmQ5Uk9JbWxsUkhVVUlFSzlMUFNnSnJyNnBhQkR1WVV6UjJFenJPaVNSVVh0YUpwUkduWTFXSkhEMW9IeVhJMFpB?oc=5",
-    "timestamp": "2026-08-10T23:49:05+00:00",
-    "source": "reuters"
   }
 }
