@@ -1,4 +1,9 @@
 {
+  "928f9f6f99dcce60716a8ea799eae3b4": {
+    "url": "https://www.france24.com/en/europe/20260815-ukraine-attacks-russian-air-base-and-rocket-plant-in-samara-region",
+    "timestamp": "2026-08-15T11:43:15+00:00",
+    "source": "afp"
+  },
   "76af17a424ac9bf0f3ef8ab4a7be4259": {
     "url": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
     "timestamp": "2026-08-15T11:00:50+00:00",
@@ -18,6 +23,11 @@
     "url": "https://www.france24.com/en/afghans-rebuild-their-lives-in-france-five-years-after-taliban-takeover",
     "timestamp": "2026-08-15T09:13:06+00:00",
     "source": "afp"
+  },
+  "cec7323cfb4bf52f5ece0b9bb76c7ca6": {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
+    "timestamp": "2026-08-15T09:08:28+00:00",
+    "source": "reuters"
   },
   "e145293f471fdc130d90969323a38e13": {
     "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
@@ -128,6 +138,11 @@
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTmh2SDh1VDhtM29MOENWUVhsVXJwLVFFMkRBRzV5cjdEUHJIeHpFYVFKUE96WU1TUVF1dmEwajRBQzNrYmw2d0E0UGh3RE5rTVFIVE9SYlBPNUp3SXhNa1pjNWFNd3R5RWNJSXluQmZxZnhmT3Q2eGpoTzBOQW0xMzdnVGdxOHVZODZfdGRiNWRNQkIxdUdSU2U2ZXFvUGU1SFlnYmVxbWdwaU81QWxwSV83OWNHa1pWY1YtVlRIYUdJdFpyV0lVZjlselJ6NWM1TVh1SzFCSVFWQzdUcjR3MmJCd0w1QQ?oc=5",
     "timestamp": "2026-08-15T06:13:28+00:00",
     "source": "fars"
+  },
+  "43525ae0e7dd3d097d70b7bdb759c16a": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCMExzcjkteWx0bS1hc2pPTU9Nd29sR0kybTJNTzRNdEVuckYybEJlSWpLNnpscV9xYm1Cd3VsU04yRkFqZTE5OWxFeVFOZjRCS1E?oc=5",
+    "timestamp": "2026-08-15T05:52:58+00:00",
+    "source": "iranintl"
   },
   "1bf4efca9944eb1033903521a43f1a64": {
     "url": "https://www.france24.com/en/asia-pacific/20260815-deadly-earthquake-strikes-indonesia-and-triggers-mass-evacuations",
@@ -408,6 +423,11 @@
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE14cERmMFhqTWJMbFBLWlkzaEp2VGpQOGlWUlRDZmNPZnRkT203U3VBQ3Y2TTUtQTNaSEtJbm9LbDVDSU9hS2hRTnpCaHVxVnUxLXJJUUFlV1NTSUdWanhsRlBmUWhNN05ZZTlCRUMtUnhraVhaSjFoS2Z5dU9GNF95bWdoWll6ZzdJMGY1WDBNWElXakhRZ0hvV0lCTmR4X05LYTN6VDZYMVQwb1g1MjhiaXJvS01Ob0lyUkhuSQ?oc=5",
     "timestamp": "2026-08-14T13:28:44+00:00",
     "source": "reuters"
+  },
+  "0e385c8d438af4c60089f7d00f00b237": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84djdiaUVJQVBPMkJIS1lzcC1tZVdGRDNTWFBGRzh2Y0xvcWdkcm0wY1RfZkFRSThmUkhnYjJoN1l1REgxV1hmZEpKbDJqX0FYWHc?oc=5",
+    "timestamp": "2026-08-14T13:23:31+00:00",
+    "source": "iranintl"
   },
   "5d2a5f8f47ac684f27fa374bec63536f": {
     "url": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
@@ -2478,25 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0p4Wk1wT3I0b3N6VVFXM3h5Tlp3LWphX3RLLTVmUGFaSGdxWUpfM1padFR5ZzNTNlhMRzdZWVc0dzZ1cHF3SUU1dkZUc2lES09GTlc5SGowQUV4WUMwRU8wdkp2TFIxZElGTU5DSTBtZFV0QldUeE5abHk2clFWVkRrTGlVQm9DN01ZSVp2aE9DUml1by1sUUFPd1dBRmlVWHhGRUNHNzNvdExCSzU1TjFKY1UwVnVYVWc?oc=5",
     "timestamp": "2026-08-11T02:39:00+00:00",
     "source": "reuters"
-  },
-  "8c42dbd988c5ecb6ff95c7c989e97a1d": {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5",
-    "timestamp": "2026-08-11T01:41:00+00:00",
-    "source": "reuters"
-  },
-  "2849a0fa706e1a6c86769620833cdd4d": {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5",
-    "timestamp": "2026-08-11T01:41:00+00:00",
-    "source": "reuters"
-  },
-  "760827c8dd92b36d0c3ec54265f80373": {
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5",
-    "timestamp": "2026-08-11T01:41:00+00:00",
-    "source": "reuters"
-  },
-  "77795254e02121b96caf2b823695051b": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUYXFrWEc3UDJNdk94V3ZyeFczVXR5VDEtR2U5X2RUeGp2V3VtQzRsN1YwZ21kd2lwMVRFQV9BMTZXS3o3blVyX053bjU1TC1rQ2c?oc=5",
-    "timestamp": "2026-08-11T01:37:03+00:00",
-    "source": "iranintl"
   }
 }
