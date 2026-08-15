@@ -1,13 +1,48 @@
 {
+  "65a6e64bbd9f8b9a872521a01a46e8c5": {
+    "url": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
+    "timestamp": "2026-08-15T09:17:11+00:00",
+    "source": "nyt"
+  },
+  "f860b348392e685fdac3360cff54d513": {
+    "url": "https://www.france24.com/en/afghans-rebuild-their-lives-in-france-five-years-after-taliban-takeover",
+    "timestamp": "2026-08-15T09:13:06+00:00",
+    "source": "afp"
+  },
+  "e145293f471fdc130d90969323a38e13": {
+    "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
+    "timestamp": "2026-08-15T09:00:24+00:00",
+    "source": "nyt"
+  },
+  "d91bea891d7a965bf3c72183d0b0ee84": {
+    "url": "https://www.france24.com/en/us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west-bank",
+    "timestamp": "2026-08-15T08:52:10+00:00",
+    "source": "afp"
+  },
   "f1f4300e33ff82469f76dcddec90cc49": {
     "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
     "timestamp": "2026-08-15T08:50:20+00:00",
     "source": "nyt"
   },
+  "a157f5d09a2ba575e41800daca738214": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13YU5iNWI3eEkwS2VXRkJ1NHFOVWlhSU45S29lX0N4QkYwX3lGcGNQSEVXS3JLUUlhc213WHJpb2tVMkQ3eXRkRmdYMlpFOThaSVpicXhFRXJJTGpib1NZcQ?oc=5",
+    "timestamp": "2026-08-15T08:21:06+00:00",
+    "source": "fars"
+  },
   "5d7a90a23cdb49ea53e2436ce1b251aa": {
     "url": "https://www.france24.com/en/tv-shows/sports/20260815-liverpool-announce-sale-of-stake-in-club-to-jeff-bezos-backed-consortium",
     "timestamp": "2026-08-15T08:04:46+00:00",
     "source": "afp"
+  },
+  "45724bf7bc01167fd3097c69da7c2923": {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ1JDMTI4SDNkNEZwRUxyTG41ak5GRENmeEhtR05qemczcXZxWWlYTkthSEJva2V4cEVBSWlFTG9JMXpOSFFUX1hHT0tGaUg1bHZ2UzVFWUZZTV9xTDRIa3hZbHB0cHdDRlJLbXVBbGtNdmx6ZVlieHZ2TGJkdWYtM25uTlNJSzAtSm9OVTlFZ0tjNlBGMjRVc2Fjc1NFemxqejVtX1h4YVV0ZXEzdWZuS2NWRDVnX2VxOWp0azVRdjdnRVBBZ0E?oc=5",
+    "timestamp": "2026-08-15T07:21:51+00:00",
+    "source": "reuters"
+  },
+  "10e4947fb998564cf7a1892a3ea42cb9": {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdkZWVjh0dVhzeG43NWJfV0kwZnZQc3dXNGVyUXJLV05JVVYzN3ZJYk9RdEdFQ3lfci1fTU44aGQzTG50UjJPQmlNMzBJMTZNT3JjWDY0dkgxTXo4dWc4aExxRTktb0hFWUprNE80ZDhrWHFWeEtwcE5CMVJOVlkzM0wybmdRQ2NZZXBoR1dnS25GOF82ZjRnY0VTSG40cFM3OGFkUjZISFdnTHdBRDAzTExuMHBWT3VsMzlhcUYtcjdmd21wdGhTMTFoV3gwbVU?oc=5",
+    "timestamp": "2026-08-15T07:20:27+00:00",
+    "source": "reuters"
   },
   "2ffe5a7c50922b96939e1b9f9862e908": {
     "url": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
@@ -18,6 +53,16 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXVvcWZIbkY5aDNaUWczOEFHWVBiRkJ4MlVkVzNqaE1yODh5cW5BLVROY3NpamtVS05uQ2JiYk9PVDdoMjlIOVZZc2tXV21CVUNQV3cxS0N6X2p0TUxmaWMtbk1GX2dpSmdvSEF5WGhNcXJkTEk1ZU9tanhSaTUxM2dwZXhpUnQ2ODA4OE1UQWwxbVVzLWpibF9OSmRRMlpDOWdWWnQyOXZqMmUtNDdUUQ?oc=5",
     "timestamp": "2026-08-15T06:55:00+00:00",
     "source": "ap"
+  },
+  "711da9c8b6264e775ca312f7d81de334": {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXVvcWZIbkY5aDNaUWczOEFHWVBiRkJ4MlVkVzNqaE1yODh5cW5BLVROY3NpamtVS05uQ2JiYk9PVDdoMjlIOVZZc2tXV21CVUNQV3cxS0N6X2p0TUxmaWMtbk1GX2dpSmdvSEF5WGhNcXJkTEk1ZU9tanhSaTUxM2dwZXhpUnQ2ODA4OE1UQWwxbVVzLWpibF9OSmRRMlpDOWdWWnQyOXZqMmUtNDdUUQ?oc=5",
+    "timestamp": "2026-08-15T06:55:00+00:00",
+    "source": "ap"
+  },
+  "21dabdf30eec52a20e2ff36eee9aec69": {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2VZS2R6SVM2SzVhWUhGYzZFRjB6ZlpZeWIxbTA3RnpYN1Bzal9BNkJ4aExVN0ppT3dOWXRZOXBOSFJTLU51M1ExaWRTbzNFZFVfTUU3c3RmMDRfcG51YVNIanlmLXFNYl9aTHQ0VGloX2k3V1NsU0FnVW9TTUdhTld3SmhCY25jejFwUklkaDUzSzZQek1IdzEzMDVnUjAyZE40UTVfYWxPdzNiZ1BHRjFMTXowb3c?oc=5",
+    "timestamp": "2026-08-15T06:42:00+00:00",
+    "source": "reuters"
   },
   "c77b9040591a4d09a40381ea3ce931c6": {
     "url": "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank",
@@ -2453,50 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaXltbWpibFBieFlGQi1PQXlTWktFYXdFSENITmhTenpTVFhpSkhhMG1CMUJKTXo4VUdDX29YdVpmRHViaHowb3k0WjE1ajdjM0JldlRVN0ZVZVlMYU5HaXFlVWlqcmQ5Uk9JbWxsUkhVVUlFSzlMUFNnSnJyNnBhQkR1WVV6UjJFenJPaVNSVVh0YUpwUkduWTFXSkhEMW9IeVhJMFpB?oc=5",
     "timestamp": "2026-08-10T23:49:05+00:00",
     "source": "reuters"
-  },
-  "ce880201c5aeb217af40038c463dab0a": {
-    "url": "https://www.france24.com/en/europe/20260810-live-russian-missiles-strike-kyiv-triggering-fires-in-city-centre",
-    "timestamp": "2026-08-10T23:03:04+00:00",
-    "source": "afp"
-  },
-  "9eb272d9be6f5b35de8663329c441ba6": {
-    "url": "https://www.france24.com/en/europe/20260810-live-russian-missiles-strike-kyiv-triggering-fires-in-city-centre",
-    "timestamp": "2026-08-10T23:03:04+00:00",
-    "source": "afp"
-  },
-  "7d65dc5c43e9d68a211699d5335b9520": {
-    "url": "https://www.france24.com/en/europe/20260810-live-russian-missiles-strike-kyiv-triggering-fires-in-city-centre",
-    "timestamp": "2026-08-10T23:03:04+00:00",
-    "source": "afp"
-  },
-  "d8e907465ac493da638f2f115650c793": {
-    "url": "https://www.france24.com/en/europe/20260810-live-russian-missiles-strike-kyiv-triggering-fires-in-city-centre",
-    "timestamp": "2026-08-10T23:03:04+00:00",
-    "source": "afp"
-  },
-  "07935018ab33eca70ffff2ad66bff1f2": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xRGMtSmx1YW16ZVVMTW5ocnBWLTRibXVhSDB2aFVsTk5QUVJEQ091dG5WUkVPZU45VG1FSkVVZHlWYjhXcGVGQS1JcEVZRFRpWmc?oc=5",
-    "timestamp": "2026-08-10T22:53:46+00:00",
-    "source": "iranintl"
-  },
-  "83f5c6c108036134117b24f899d3528b": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xRGMtSmx1YW16ZVVMTW5ocnBWLTRibXVhSDB2aFVsTk5QUVJEQ091dG5WUkVPZU45VG1FSkVVZHlWYjhXcGVGQS1JcEVZRFRpWmc?oc=5",
-    "timestamp": "2026-08-10T22:53:46+00:00",
-    "source": "iranintl"
-  },
-  "ba86f9dff44ed885c4fd827d5264c026": {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQXJvNXdEbzlEVUJDSXg4R3B1WDBwX1N3QnZlMExoeFk3bGhVZldYSDNaZ0VDSTFCUnh0VGwxcXNmT2xKQlFRZ2hOdkEyVUdYUFRHUmxjNHQ1QmgyRHZPcThRc0wtU0thd0FOdEpZdE5kZy02endkSjVoOTlLcTVka0xONF9OWjZtNm16d0loMURJV1pxUUVDSkE4bEdLLXFqNVlsZzZXRHdxaDVNM1dyOXN2NUtaRGlyV2c?oc=5",
-    "timestamp": "2026-08-10T21:47:32+00:00",
-    "source": "reuters"
-  },
-  "f6d59b46d8b0641be8e86cc02af3c240": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3X3FhXzdINXluSVl0TmpJeV9HeUx4czNOTnVWc0g4ZUpoWFB4SlpSWkVTY1RjRG9lcVVCbFpBeU9VZzllS04yb3V0MDYzSHJHZXc?oc=5",
-    "timestamp": "2026-08-10T21:44:53+00:00",
-    "source": "iranintl"
-  },
-  "db1fad7a2fc904afdaa649307c6c3e99": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3X3FhXzdINXluSVl0TmpJeV9HeUx4czNOTnVWc0g4ZUpoWFB4SlpSWkVTY1RjRG9lcVVCbFpBeU9VZzllS04yb3V0MDYzSHJHZXc?oc=5",
-    "timestamp": "2026-08-10T21:44:53+00:00",
-    "source": "iranintl"
   }
 }
