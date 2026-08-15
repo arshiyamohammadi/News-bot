@@ -1,4 +1,14 @@
 {
+  "f2dc25adc4bd8f66e1b362e0659b3c16": {
+    "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
+    "timestamp": "2026-08-15T14:52:47+00:00",
+    "source": "nyt"
+  },
+  "761133ee7fb97d416c6e39c93b34d2d9": {
+    "url": "https://www.france24.com/en/ebola-outbreak-in-dr-congo-one-death-every-30-minutes",
+    "timestamp": "2026-08-15T14:46:49+00:00",
+    "source": "afp"
+  },
   "4d0b604cb12a203f146abc6be5457509": {
     "url": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
     "timestamp": "2026-08-15T13:28:12+00:00",
@@ -2487,16 +2497,6 @@
   "43c42fe0ed330ec8b18ea3a50e5e5dd1": {
     "url": "https://www.france24.com/en/europe/20260810-live-russian-missiles-strike-kyiv-triggering-fires-in-city-centre",
     "timestamp": "2026-08-11T07:34:09+00:00",
-    "source": "afp"
-  },
-  "be7f27746f4105bf7bee64cae5164cfa": {
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS1VHR2VtTmE3REJQVUxOb3lFYUtNWllhM0ZQRXpWYnFyeEJ4YjgyUU52LWxKWkF3NlFTdFQwTk5WS1c4bnI1VUdhUDR2c1FsdkRwcGNrdWRBdF9lOXRwRWxwMWd6YXBtLVNrX01iTlhrZHlOandDSGpmMVdyVDFnRkJ4NGU5bVM5TnpIcEtBYWsyVGliU2ZSNlRpTmVTNGR5eFJGSVF5MmpNOXo0QU5N?oc=5",
-    "timestamp": "2026-08-11T07:09:44+00:00",
-    "source": "reuters"
-  },
-  "6277fd2b4c0d750a660cbad23029f389": {
-    "url": "https://www.france24.com/en/americas/20260811-colombia-earthquake-rescue-efforts-enter-second-day-as-death-toll-reaches-164",
-    "timestamp": "2026-08-11T07:04:03+00:00",
     "source": "afp"
   }
 }
