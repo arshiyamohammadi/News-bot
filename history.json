@@ -19,6 +19,11 @@
     "timestamp": "2026-08-15T06:13:28+00:00",
     "source": "fars"
   },
+  "277e14578ab1e08f26c830a2eb46dca1": {
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTmh2SDh1VDhtM29MOENWUVhsVXJwLVFFMkRBRzV5cjdEUHJIeHpFYVFKUE96WU1TUVF1dmEwajRBQzNrYmw2d0E0UGh3RE5rTVFIVE9SYlBPNUp3SXhNa1pjNWFNd3R5RWNJSXluQmZxZnhmT3Q2eGpoTzBOQW0xMzdnVGdxOHVZODZfdGRiNWRNQkIxdUdSU2U2ZXFvUGU1SFlnYmVxbWdwaU81QWxwSV83OWNHa1pWY1YtVlRIYUdJdFpyV0lVZjlselJ6NWM1TVh1SzFCSVFWQzdUcjR3MmJCd0w1QQ?oc=5",
+    "timestamp": "2026-08-15T06:13:28+00:00",
+    "source": "fars"
+  },
   "1bf4efca9944eb1033903521a43f1a64": {
     "url": "https://www.france24.com/en/asia-pacific/20260815-deadly-earthquake-strikes-indonesia-and-triggers-mass-evacuations",
     "timestamp": "2026-08-15T05:36:19+00:00",
@@ -428,6 +433,11 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ReXdTWW0xT2lXTmJEbkhVRWdpbTVLUVhFQ1RwWmZ0WnJRc1p6ZXFnWWd0WFVqNnFOTTlOVF9uNi1HeFduM3VrSXBQM0pWTzEtQWc?oc=5",
     "timestamp": "2026-08-14T08:46:39+00:00",
     "source": "iranintl"
+  },
+  "58c9b033fad02a721f820d0f9c478002": {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ1pfMUJ3NjhsWGg5ZkREZEVyWUV2eVkyOTZuV3RscnpXREVqUzNFUlRNdV9iYkt3M2dhaldnb0xkN0wxSlljZXhPMUNELTMyWGlEM2ZVR0k4dWVBS2hlZEN2eEwwVGFwYU01ano1bno4X1hhTy05MkUxcjllUWxROV9wODNib3hVamtjSG01RWM3S250YnhwR0dnTFFxcE5rR1R1ejJ2UGRqajJYemZLNDVrVzRyYTRzaU5JakVvQS1oZFdONHFmdFVYb0tVaGM?oc=5",
+    "timestamp": "2026-08-14T08:36:24+00:00",
+    "source": "fars"
   },
   "0372b4a068941dfc4f488f196087ae43": {
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yQnl5NVYzR3BoV3BhUEp2U21QU2hEWUhyZmNIc29mSzNoYWhGeGpJUkFTSmJHUEo0cVZPakxnOTEtVXpKVzNITmhOODJRcnFtb1htRzVDR3c5RklMaUJDTElRUlM?oc=5",
@@ -2488,15 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUE4QXJjenhzdy1DTVEtby1VRDU5TnoyczNRWGM0SFVEWDVVelIwQ08xRVRyaVpVbWpuR2dKMzZaZG9vU0tqLUJWaVM2OFd5U2FkTUhfQ3hrczVIcVVVeldhNGRfajlrLUFrZWRpOVM2bFZSekxmT2NISmxqSDVmR1kyZkZ5VjZoT2liZFJmSm1sZw?oc=5",
     "timestamp": "2026-08-10T20:20:00+00:00",
     "source": "ap"
-  },
-  "305524a5ffe2e3bb5e534beed9800fe0": {
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ENDN6SFdSUHU1M1NZNVFnN0UtdG1DaHFHRTR3ckdmX1VFMmctU2s5WGpwaDAzQThJa2toNW1ndGZZYTVDSkF6UW50WTR2d190VmRXZERrbV9RWlpxNkx2VXlFS1hiN3RwSGc?oc=5",
-    "timestamp": "2026-08-10T19:22:37+00:00",
-    "source": "fars"
-  },
-  "a1900a9769bcca3eba9e79c0d16b9b79": {
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ENDN6SFdSUHU1M1NZNVFnN0UtdG1DaHFHRTR3ckdmX1VFMmctU2s5WGpwaDAzQThJa2toNW1ndGZZYTVDSkF6UW50WTR2d190VmRXZERrbV9RWlpxNkx2VXlFS1hiN3RwSGc?oc=5",
-    "timestamp": "2026-08-10T19:22:37+00:00",
-    "source": "fars"
   }
 }
