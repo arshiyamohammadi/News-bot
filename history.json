@@ -1,8 +1,28 @@
 {
+  "4d0b604cb12a203f146abc6be5457509": {
+    "url": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
+    "timestamp": "2026-08-15T13:28:12+00:00",
+    "source": "nyt"
+  },
   "4219e4691f98b8ad62cf8c6347d14728": {
     "url": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
     "timestamp": "2026-08-15T13:08:44+00:00",
     "source": "nyt"
+  },
+  "ff7747b60097093b0f448aef8ea3bc81": {
+    "url": "https://www.france24.com/en/ceuta-false-social-media-posts-fuel-migration-tensions",
+    "timestamp": "2026-08-15T12:56:05+00:00",
+    "source": "afp"
+  },
+  "0dbb63402ad63b088c5e013b2b3ead52": {
+    "url": "https://www.france24.com/en/indonesia-hit-by-earthquake-aftershock-as-rescuers-search-for-survivors",
+    "timestamp": "2026-08-15T12:34:05+00:00",
+    "source": "afp"
+  },
+  "9d50da5a2e5a349b1edc6097e6f358ae": {
+    "url": "https://www.france24.com/en/zambia-resumes-vote-count-after-pause-over-violence",
+    "timestamp": "2026-08-15T12:32:22+00:00",
+    "source": "afp"
   },
   "57e50c4078ecd0f3eb0055971e806bcb": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2NmE3YWE3ZnY3V3huX080ckV2SGF5MXM1ZDVJV2ZjT2NmM0lYQ0VHVFVwNWNlcmxFSW04NHpYaF9aZjFtSlBZZUdkZkFVa21QOHc?oc=5",
@@ -80,6 +100,11 @@
     "source": "afp"
   },
   "a157f5d09a2ba575e41800daca738214": {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13YU5iNWI3eEkwS2VXRkJ1NHFOVWlhSU45S29lX0N4QkYwX3lGcGNQSEVXS3JLUUlhc213WHJpb2tVMkQ3eXRkRmdYMlpFOThaSVpicXhFRXJJTGpib1NZcQ?oc=5",
+    "timestamp": "2026-08-15T08:21:06+00:00",
+    "source": "fars"
+  },
+  "37fc7f0cf23f2cd1efd8d794f196ef87": {
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13YU5iNWI3eEkwS2VXRkJ1NHFOVWlhSU45S29lX0N4QkYwX3lGcGNQSEVXS3JLUUlhc213WHJpb2tVMkQ3eXRkRmdYMlpFOThaSVpicXhFRXJJTGpib1NZcQ?oc=5",
     "timestamp": "2026-08-15T08:21:06+00:00",
     "source": "fars"
@@ -2473,30 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iR0dHRGJ0azJyUzlGcGFfV0lrTkxnQ0pPSXBIbXBqRXljZklwaVd1UmhVdlg3VVNnTmhjZWhNVWFWaVBPZVJUZ0VnV2w2ZUlCSUE?oc=5",
     "timestamp": "2026-08-11T05:02:24+00:00",
     "source": "iranintl"
-  },
-  "f63e398ccd17f545f81ff0aa00efe779": {
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnk3enhDLU5PRHZPNVlfdkVRb0t5ZjFPYmExTFlGcmIzVnh3eDNWQ3loVVF6MEg4ejNZOE92YkxKc0lpNE5pcXRQYnhPRXFWV05QUnpmNE0tMXZkVVU3YndadUxkampNUWx0Q3JqdjY3aC1Wa0pYT0dwVzgyT2JpVDMwVnAteFdDT2NXTXFOLTUwR0x6X01z?oc=5",
-    "timestamp": "2026-08-11T04:24:00+00:00",
-    "source": "ap"
-  },
-  "4c8fae3aea347628603b38213788b1fd": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xTzNTMkp0QlNuTWtHSXdhbUVBWDRiQ1lYVTVoV3FfcDc4SnlUUDNaWDBkSGFXMzY4NXBXZjNCaTNQd2kxSmZpUGViUFdHSnV5N3c?oc=5",
-    "timestamp": "2026-08-11T04:17:08+00:00",
-    "source": "iranintl"
-  },
-  "cd722a7538817952901ff975be726eec": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xTzNTMkp0QlNuTWtHSXdhbUVBWDRiQ1lYVTVoV3FfcDc4SnlUUDNaWDBkSGFXMzY4NXBXZjNCaTNQd2kxSmZpUGViUFdHSnV5N3c?oc=5",
-    "timestamp": "2026-08-11T04:17:08+00:00",
-    "source": "iranintl"
-  },
-  "2d36d2a5950851d0064385c4e7df097d": {
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZm1US05CR2dscjFVYXVxckszQzlrZUJMQ2N5TUJCb1Vka21vclZwRGdweDlDWE52UWtaWkhsMnlvX2lBVkdoWnhDS2oxeVdRdmtsUFZjdEZwYy01bVpxeFNOU2R6MGFsd1RxdFFxbkUyNlBxMU44eGh0ZUFGWGxUcTg2U0hjSkk?oc=5",
-    "timestamp": "2026-08-11T04:02:00+00:00",
-    "source": "ap"
-  },
-  "b620d79cc4fbad4368523326e4c1297e": {
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZm1US05CR2dscjFVYXVxckszQzlrZUJMQ2N5TUJCb1Vka21vclZwRGdweDlDWE52UWtaWkhsMnlvX2lBVkdoWnhDS2oxeVdRdmtsUFZjdEZwYy01bVpxeFNOU2R6MGFsd1RxdFFxbkUyNlBxMU44eGh0ZUFGWGxUcTg2U0hjSkk?oc=5",
-    "timestamp": "2026-08-11T04:02:00+00:00",
-    "source": "ap"
   }
 }
