@@ -1,4 +1,24 @@
 {
+  "2ffe5a7c50922b96939e1b9f9862e908": {
+    "url": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
+    "timestamp": "2026-08-15T07:19:49+00:00",
+    "source": "nyt"
+  },
+  "c77b9040591a4d09a40381ea3ce931c6": {
+    "url": "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank",
+    "timestamp": "2026-08-15T06:37:15+00:00",
+    "source": "afp"
+  },
+  "025e03453ba4efd3999954725bea5e2d": {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
+    "timestamp": "2026-08-15T06:33:00+00:00",
+    "source": "ap"
+  },
+  "7fc153d8cb098c8c25eab6de919cf8bd": {
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTmh2SDh1VDhtM29MOENWUVhsVXJwLVFFMkRBRzV5cjdEUHJIeHpFYVFKUE96WU1TUVF1dmEwajRBQzNrYmw2d0E0UGh3RE5rTVFIVE9SYlBPNUp3SXhNa1pjNWFNd3R5RWNJSXluQmZxZnhmT3Q2eGpoTzBOQW0xMzdnVGdxOHVZODZfdGRiNWRNQkIxdUdSU2U2ZXFvUGU1SFlnYmVxbWdwaU81QWxwSV83OWNHa1pWY1YtVlRIYUdJdFpyV0lVZjlselJ6NWM1TVh1SzFCSVFWQzdUcjR3MmJCd0w1QQ?oc=5",
+    "timestamp": "2026-08-15T06:13:28+00:00",
+    "source": "fars"
+  },
   "1bf4efca9944eb1033903521a43f1a64": {
     "url": "https://www.france24.com/en/asia-pacific/20260815-deadly-earthquake-strikes-indonesia-and-triggers-mass-evacuations",
     "timestamp": "2026-08-15T05:36:19+00:00",
@@ -19,10 +39,25 @@
     "timestamp": "2026-08-15T04:02:05+00:00",
     "source": "radiofarda"
   },
+  "c7b581b18fe886b78a1a61aa2eb44934": {
+    "url": "https://www.nytimes.com/2026/08/15/world/europe/heat-deaths-in-a-cold-country-are-a-warning-to-the-rest-of-europe.html",
+    "timestamp": "2026-08-15T04:01:10+00:00",
+    "source": "nyt"
+  },
+  "ff57f1f0660938170ccd1d50aa1be6e5": {
+    "url": "https://www.nytimes.com/2026/08/15/world/europe/wary-of-trump-europe-seeks-role-in-any-russia-ukraine-talks.html",
+    "timestamp": "2026-08-15T04:01:09+00:00",
+    "source": "nyt"
+  },
   "2f27a4b8404ee899db5647224bb3b31f": {
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
     "timestamp": "2026-08-15T03:55:00+00:00",
     "source": "ap"
+  },
+  "3c80093c99570fc8388062356af86add": {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2Y1MVdnLWFNQjVJSEhYT3VRT3ZMd2FuanpmUGw1SUNpR3hYWi1oMGtVYTdHTV9rZVVaaTZZWVVKSmRCVU1MR1VBaTBpQTc0Q2FKekhqZG5ZOXVxY2Rpcmt5X3VzdHl0WEJrQWlDSEFGU1hVMUFMdTdMWnFfTUpBVkU5VFYyV0NvcFBzd3BOTDBYLVBoZER4MGNrbzIzeXB5a0xNN2ZnZ0NBRDc2bU05Q3dVVTk?oc=5",
+    "timestamp": "2026-08-15T03:08:00+00:00",
+    "source": "reuters"
   },
   "a3328ffdb878888ac702242727b672ad": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43X1EtTjhJeFNrWjA4bmI5MlVZd3lyNXpxVzRmeGVtdElRdTJXMFpGOFF1OVpGM2I2UGtieXJjVThVWEdfVG1xN0gtclhnaVF2S1E?oc=5",
@@ -54,6 +89,11 @@
     "timestamp": "2026-08-14T22:57:05+00:00",
     "source": "fars"
   },
+  "fde1431fd4074052b0ae401a02e27f2b": {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sV0dvbmpDUk4xSmV6c2hUWFFqNVdMejdZbGtzeVhFRnhLTlNQR0hTMlA2TncwbGN2ZHJNWEI0MmQyajQ0Rk1XZ1VaZF9fd1dSSFhONXBVNXg3bFNMZG5HVkVELTdTbDg2em9Z?oc=5",
+    "timestamp": "2026-08-14T22:57:05+00:00",
+    "source": "fars"
+  },
   "61643f0d5b3f32050dd3f3caa2752fae": {
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZqSDNDbk9nUjJMVWd2bEwwTE03eGpyaUN2M3VhQmNEeFhqb0J1SmFFUlJtRE5FMFFJVmhsSWZCZmZwYW9OWWY1c2FDU3hsUUNYTTF4clZiVzRtblRoRmdGcEo3Z2l2Snl0UDJFQWlJeXZPNzd6dTdockZlYUNVVTBGSkEyOUxVNXNMV3d0UGU3SG1mcjk2MnFVTV80TVhLRDlub0tOM3h0OG1QRUluQXI4ZVRJMktwMHc?oc=5",
     "timestamp": "2026-08-14T22:11:00+00:00",
@@ -75,6 +115,11 @@
     "source": "reuters"
   },
   "d700cfe1f29d6e5836e7a77afed4f65d": {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV0FUX2hkdmZwNUJZc3dfTUM3YmlMS1h2Vk84NmJGbVNXRkY5WE94MnpENnFtaV9mTHpGcUhSV2tYMFNQZ1VXbF83SE9GRGZlaXowLTBUMkZZaEotel9nMEt4N2ZrcVhsRzNYeHNiNng1MUhGemRTYkVWX0lYTi1DdW1ZanllRDY4N1lhc1lOUUpvMEItSzNwZndJVUpBeWZ3M0dNVDNoR3BjVG85U1dKYnFwbWlUbWVkSUtySkEwak8?oc=5",
+    "timestamp": "2026-08-14T21:29:47+00:00",
+    "source": "fars"
+  },
+  "c65d39f4df3b9ecebdd85fdff46366ee": {
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV0FUX2hkdmZwNUJZc3dfTUM3YmlMS1h2Vk84NmJGbVNXRkY5WE94MnpENnFtaV9mTHpGcUhSV2tYMFNQZ1VXbF83SE9GRGZlaXowLTBUMkZZaEotel9nMEt4N2ZrcVhsRzNYeHNiNng1MUhGemRTYkVWX0lYTi1DdW1ZanllRDY4N1lhc1lOUUpvMEItSzNwZndJVUpBeWZ3M0dNVDNoR3BjVG85U1dKYnFwbWlUbWVkSUtySkEwak8?oc=5",
     "timestamp": "2026-08-14T21:29:47+00:00",
     "source": "fars"
@@ -269,6 +314,11 @@
     "timestamp": "2026-08-14T11:12:16+00:00",
     "source": "fars"
   },
+  "cea8ac573f6abc8ce50dc1b0735bee20": {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOVlTbzBQVDEyQWg3MGlJTUhxeXdVTG1kdFBmcGJlUDJsR1VoLVB6RVMzejcxX0dQVjFtNTdwTmp6Nm84ZWp1cHZweVNXTWFuZS1oZVk3SkxuQmZvLUVFM2tzbUtncjl0aTM1dXg4bVpLWHpHblhzbnFXRndocU1RV2NDc2NDQk5hR0lSZ3BwOGV3U1ZKRGNPR2J1LVg?oc=5",
+    "timestamp": "2026-08-14T11:12:16+00:00",
+    "source": "fars"
+  },
   "730611f36107067edcd063bd65cae856": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEZWxTcVZ5dFlFQ0hsMmx0Wjh3cFZBX0trTGVhbHBpUXZGWlpwZDJUd29RcjBPNTNfYkpaVC1iclhQNVVPQzM1YVE1ZEhrZ0VtNlE?oc=5",
     "timestamp": "2026-08-14T11:11:07+00:00",
@@ -349,6 +399,11 @@
     "timestamp": "2026-08-14T09:26:35+00:00",
     "source": "fars"
   },
+  "f45e50df40df692da34407045ded58ad": {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUllsS3FsckFsNkM5NTRBakVZV0haUXpLMWVWdlk3S29lZUVRSXVHSU1hUGxiRVVnMTJYLVhXbUJSSzdER0pXRXpaUGpWN0JTS2xuMkJkUk9XTHF2QVZQZzFhUTEzNTEtOGxfNGlxRFlSc0E5ZFhLVWZ6WkdJc0lrNVB1dmlkWnMtZ0dYVnozc0tpMzBzUDU2VlkyOEItbFVJdmNOU2tSXzBvOFlTY0NxbGdJaGw?oc=5",
+    "timestamp": "2026-08-14T09:26:35+00:00",
+    "source": "fars"
+  },
   "2a67b4f4dfd9d81270605f9182734ca1": {
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUjhZc2EwR1Y4V09VTUJxZWtzTTctNnNXZUpZRU40VnpSUUtfdk5nVnlheVBqSE0zY3ctNjUzcE94cm80ZDk2UElSN0dIaFFocTYxVF91WEROb3ViMHdXWjJaR1QzU18weGZ1eWQtaHZuRS1SVERJOWRvZ0Z5TFJjLTVldjcwampxUWF0dVo1UjhmS3hYbXM0ZHR4UzAxc3RBaHhLN1ViX0ZseDA2Y1BxVWlFaW81YjVmVm9tUG9sZFVSc01qWmwtZg?oc=5",
     "timestamp": "2026-08-14T09:14:55+00:00",
@@ -405,6 +460,11 @@
     "source": "fars"
   },
   "29532afd1db74569a4c0a863ddc73969": {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlRFOHAtMGdYNS0tSDA4VHR1dWYtR1JjLXl2R2VnUmE3Mk1VbzdPX3JkWGVPUV95T0I0VGtPTktuWDlJTmNmd1pzeG1HNC1TOG4tU19ZZ3VTbERvcFUzQkZxMTk1LWFka01jNXpsd3E5ZDcyd0F6RE5NMUZUQ0owTjFhMWI2X0toWHNzVkZSWFlFaDdJb09xOENCT3VmUFRwREpaRHA2aFNQNDVOVlFtRmNWODg?oc=5",
+    "timestamp": "2026-08-14T07:40:42+00:00",
+    "source": "fars"
+  },
+  "61457ed094159efa4023a31b5d5c24d3": {
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlRFOHAtMGdYNS0tSDA4VHR1dWYtR1JjLXl2R2VnUmE3Mk1VbzdPX3JkWGVPUV95T0I0VGtPTktuWDlJTmNmd1pzeG1HNC1TOG4tU19ZZ3VTbERvcFUzQkZxMTk1LWFka01jNXpsd3E5ZDcyd0F6RE5NMUZUQ0owTjFhMWI2X0toWHNzVkZSWFlFaDdJb09xOENCT3VmUFRwREpaRHA2aFNQNDVOVlFtRmNWODg?oc=5",
     "timestamp": "2026-08-14T07:40:42+00:00",
     "source": "fars"
@@ -2438,65 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ENDN6SFdSUHU1M1NZNVFnN0UtdG1DaHFHRTR3ckdmX1VFMmctU2s5WGpwaDAzQThJa2toNW1ndGZZYTVDSkF6UW50WTR2d190VmRXZERrbV9RWlpxNkx2VXlFS1hiN3RwSGc?oc=5",
     "timestamp": "2026-08-10T19:22:37+00:00",
     "source": "fars"
-  },
-  "6f9417305cb7980ed2f8b4661b44fb8f": {
-    "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
-    "timestamp": "2026-08-10T19:15:19+00:00",
-    "source": "nyt"
-  },
-  "289f5dcbb62e0d2dd0f3e09bc61bef16": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMVlRtMWJTRG5oaWlnVGc1cDBuSFRsT29ZdHhHN0RPUlVlb01HeDVva214Y2NJdEVyT1I2blZFdmRtNXNTdXZSaENpVHNpbkM1Rmc?oc=5",
-    "timestamp": "2026-08-10T19:01:50+00:00",
-    "source": "iranintl"
-  },
-  "77911fed4a7af81d35bbbd9ad2f96768": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGVjJ5b1RLZFI4U0kxZXVKOVRvSGZjWDlPMF9WTEFCUGVDUHRHVlJrczZZd2M0ZU01bHNqMU0wbGFROGxRQTJ4SjFHd1lTc2RXRnc?oc=5",
-    "timestamp": "2026-08-10T18:34:37+00:00",
-    "source": "iranintl"
-  },
-  "92811f17576b33703f81dde9e494f4b0": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGVjJ5b1RLZFI4U0kxZXVKOVRvSGZjWDlPMF9WTEFCUGVDUHRHVlJrczZZd2M0ZU01bHNqMU0wbGFROGxRQTJ4SjFHd1lTc2RXRnc?oc=5",
-    "timestamp": "2026-08-10T18:34:37+00:00",
-    "source": "iranintl"
-  },
-  "65d117def600b10f2a866368aa48c1f1": {
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHRSRTdObVh1eUFaNml6X3lhU0FnaEJvWHM2V2g2eC0yblF2QktZTnctM1Vud0pqZ2ZzQ0ZZTzBRNUV2TnpFNkV2V3lNUVhfcGlHbmtzT1k5bnJCclRCS1dTYnB5WTdmRk5aaHM4aEktLVFzc1lhallpd1FfM2J1aTE3NzBIejRSaTctUDdETm1hSFBadWk2aTR1ZDk?oc=5",
-    "timestamp": "2026-08-10T18:15:00+00:00",
-    "source": "ap"
-  },
-  "ab99bb526394db4cf6012cabadf0c0fc": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NbHZUZnBxdzRVcGJqT3BENlhHZEdMY0phbVRXdEFPVFluNXZuR1haQmw2YXg5ZlVhdS0xeF94ZEpfNElQNW05V09qRHMxQWdULUE?oc=5",
-    "timestamp": "2026-08-10T18:14:32+00:00",
-    "source": "iranintl"
-  },
-  "478f5da3b14559631d89887334a43cec": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NbHZUZnBxdzRVcGJqT3BENlhHZEdMY0phbVRXdEFPVFluNXZuR1haQmw2YXg5ZlVhdS0xeF94ZEpfNElQNW05V09qRHMxQWdULUE?oc=5",
-    "timestamp": "2026-08-10T18:14:32+00:00",
-    "source": "iranintl"
-  },
-  "cd51dd8e1723a62f8ad20bdb09f90d16": {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUE4QXJjenhzdy1DTVEtby1VRDU5TnoyczNRWGM0SFVEWDVVelIwQ08xRVRyaVpVbWpuR2dKMzZaZG9vU0tqLUJWaVM2OFd5U2FkTUhfQ3hrczVIcVVVeldhNGRfajlrLUFrZWRpOVM2bFZSekxmT2NISmxqSDVmR1kyZkZ5VjZoT2liZFJmSm1sZw?oc=5",
-    "timestamp": "2026-08-10T18:11:00+00:00",
-    "source": "ap"
-  },
-  "2524b63704203994bd3c309742e864b9": {
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUFBcmJEaktPRWUyd2VRaFVob05RVXZic2dIMmIyQ2pxcUNrZ2c2ZERNMENsamM3YXdkQkJMbWJncjV1UUdsZmsxZ0h5MGtzczdCc0lhb2F1b1pkdzlvMzBPTE51ZHlTb01JQlNMRFRwMmdKbkZndmZlY24xN0NPYTZHaEJwUVVuNW5Jby1ONUk?oc=5",
-    "timestamp": "2026-08-10T18:00:07+00:00",
-    "source": "reuters"
-  },
-  "b099ac2cfb9889f8d529bd01c467c16d": {
-    "url": "https://www.france24.com/en/live-news/20260810-russia-bars-only-anti-war-party-from-elections",
-    "timestamp": "2026-08-10T17:49:13+00:00",
-    "source": "afp"
-  },
-  "8723bec2a11a88df3ff3d5b061ec2949": {
-    "url": "https://www.france24.com/en/europe/20260810-russia-bars-only-anti-war-party-from-elections",
-    "timestamp": "2026-08-10T17:49:13+00:00",
-    "source": "afp"
-  },
-  "7a23d3b4998fd461abdc4aad92aef02d": {
-    "url": "https://www.france24.com/en/europe/20260810-tensions-in-the-arctic-greenland-issues-sharp-rebuke-to-trump-linked-oil-company",
-    "timestamp": "2026-08-10T17:47:25+00:00",
-    "source": "afp"
   }
 }
