@@ -1,4 +1,9 @@
 {
+  "1bf4efca9944eb1033903521a43f1a64": {
+    "url": "https://www.france24.com/en/asia-pacific/20260815-deadly-earthquake-strikes-indonesia-and-triggers-mass-evacuations",
+    "timestamp": "2026-08-15T05:36:19+00:00",
+    "source": "afp"
+  },
   "baa00783095d922ce8616832f5b40141": {
     "url": "https://www.france24.com/en/middle-east/20260815-middle-east-live-trump-threatens-us-takeover-of-hormuz-as-iran-vows-to-retain-control",
     "timestamp": "2026-08-15T05:12:23+00:00",
@@ -8,6 +13,11 @@
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QcDlqMmlLYS01U01TVHRFdXVHU01jemhoYm9yQXo3cFlwN2lYZzF0a0dDaXdHaWwxRkp6YUhKX1YwYjlxQVpNVlltTFl5cHIwcWw5WGpEcDFBMC1OZ3c?oc=5",
     "timestamp": "2026-08-15T04:44:10+00:00",
     "source": "iranintl"
+  },
+  "7803826a5b122b535fd016d6c98692cd": {
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CSlFCMGxTZDRtVVo5cUJQMTBBYjhQVk5mdG96VG1MczVkNVZsUlEyQmtBQVVwYWZwSWpoVnEwVVpLQ1NsQXg2UGVuOXRrNVhiR1EwNUd1WQ?oc=5",
+    "timestamp": "2026-08-15T04:02:05+00:00",
+    "source": "radiofarda"
   },
   "2f27a4b8404ee899db5647224bb3b31f": {
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
@@ -55,6 +65,11 @@
     "source": "reuters"
   },
   "d2e5980594f918a1718befae55f60cf7": {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZqSDNDbk9nUjJMVWd2bEwwTE03eGpyaUN2M3VhQmNEeFhqb0J1SmFFUlJtRE5FMFFJVmhsSWZCZmZwYW9OWWY1c2FDU3hsUUNYTTF4clZiVzRtblRoRmdGcEo3Z2l2Snl0UDJFQWlJeXZPNzd6dTdockZlYUNVVTBGSkEyOUxVNXNMV3d0UGU3SG1mcjk2MnFVTV80TVhLRDlub0tOM3h0OG1QRUluQXI4ZVRJMktwMHc?oc=5",
+    "timestamp": "2026-08-14T22:11:00+00:00",
+    "source": "reuters"
+  },
+  "1790e0be971801d21cd626b21ae6255b": {
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZqSDNDbk9nUjJMVWd2bEwwTE03eGpyaUN2M3VhQmNEeFhqb0J1SmFFUlJtRE5FMFFJVmhsSWZCZmZwYW9OWWY1c2FDU3hsUUNYTTF4clZiVzRtblRoRmdGcEo3Z2l2Snl0UDJFQWlJeXZPNzd6dTdockZlYUNVVTBGSkEyOUxVNXNMV3d0UGU3SG1mcjk2MnFVTV80TVhLRDlub0tOM3h0OG1QRUluQXI4ZVRJMktwMHc?oc=5",
     "timestamp": "2026-08-14T22:11:00+00:00",
     "source": "reuters"
@@ -503,11 +518,6 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRUwtUHA0dzh0S1lGMjlleGF6Q2VqWVFLclhMUGRyQ0Z4Z2ZTemxOM1VOV3lhaTJwVkFmVTByakFQNmhubl95UFRZR3d2LWoxdlE?oc=5",
     "timestamp": "2026-08-14T03:08:55+00:00",
     "source": "iranintl"
-  },
-  "7803826a5b122b535fd016d6c98692cd": {
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wWl9INDZHTnkwM3huOFYtRms1SDJ1SXVJQ2RnaVg5QlRTRHJIMl9wMkJORzlSMjBvVDRHYmt5LW1xVXJ6SWVvY1o4RU5kOU52LXRmLXJ5aGRSemVUOVl4cUltSEVBQQ?oc=5",
-    "timestamp": "2026-08-14T02:37:38+00:00",
-    "source": "radiofarda"
   },
   "7df6935e3385fff6b365b5b881664f45": {
     "url": "https://www.france24.com/en/middle-east/20260814-middle-east-live-us-threatens-iran-with-economic-isolation-like-never-seen-before",
@@ -2488,15 +2498,5 @@
     "url": "https://www.france24.com/en/europe/20260810-tensions-in-the-arctic-greenland-issues-sharp-rebuke-to-trump-linked-oil-company",
     "timestamp": "2026-08-10T17:47:25+00:00",
     "source": "afp"
-  },
-  "7c306d3a24cc3323ee588efc5e092189": {
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWlhwTk85MEdiQ3UzOWRkSFpQYTh3a29HT2I2U1dmMVRoY0dVczZWenAxblplYXBrTVdMOThNcVMtUFlwWVVobUV6SlVCT01fUVVUQ3ZlS1FWUXNYQks0LTk3VS1UZDF6aklFTFZTUl9vRHVzMFQzOTd4YlJibmZadnp1MHpyNTdLVWs4UTVUVzNWWlpOYTNLZ043MTRVRm1qMlR1aF9FMEhMbUU?oc=5",
-    "timestamp": "2026-08-10T17:26:00+00:00",
-    "source": "ap"
-  },
-  "9dc050c6d4a4da835369176cc966c4d8": {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaUhMZEhSUHlDeTNnSy1ULU9POGxpNFhwbG1UQml2MExiQUowVVJTMm9lYzZLR1NRRnBXUnZha1o2X05pVjRzMGxRSDFtazRNYzBrQ20zb3FUM3I1N1ByUmdrWUdpLUw3OHkwVmlSQzMxYnFQdzJDcEhKSlhjbWFCWGxzUkZ4aXhaUEtXLUxsZ05HODJya0VUTHFoNkQtOU9hbkZfN2FDdzRwaU5ybUVLMUVpbE9kSWo5REo0?oc=5",
-    "timestamp": "2026-08-10T17:13:43+00:00",
-    "source": "reuters"
   }
 }
