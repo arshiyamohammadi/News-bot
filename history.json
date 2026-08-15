@@ -1,4 +1,9 @@
 {
+  "5d7a90a23cdb49ea53e2436ce1b251aa": {
+    "url": "https://www.france24.com/en/tv-shows/sports/20260815-liverpool-announce-sale-of-stake-in-club-to-jeff-bezos-backed-consortium",
+    "timestamp": "2026-08-15T08:04:46+00:00",
+    "source": "afp"
+  },
   "2ffe5a7c50922b96939e1b9f9862e908": {
     "url": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
     "timestamp": "2026-08-15T07:19:49+00:00",
@@ -30,6 +35,11 @@
     "source": "afp"
   },
   "baa00783095d922ce8616832f5b40141": {
+    "url": "https://www.france24.com/en/middle-east/20260815-middle-east-live-trump-threatens-us-takeover-of-hormuz-as-iran-vows-to-retain-control",
+    "timestamp": "2026-08-15T05:12:23+00:00",
+    "source": "afp"
+  },
+  "910c1816ae0c6541b092b053d99ad006": {
     "url": "https://www.france24.com/en/middle-east/20260815-middle-east-live-trump-threatens-us-takeover-of-hormuz-as-iran-vows-to-retain-control",
     "timestamp": "2026-08-15T05:12:23+00:00",
     "source": "afp"
@@ -435,6 +445,11 @@
     "source": "iranintl"
   },
   "58c9b033fad02a721f820d0f9c478002": {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ1pfMUJ3NjhsWGg5ZkREZEVyWUV2eVkyOTZuV3RscnpXREVqUzNFUlRNdV9iYkt3M2dhaldnb0xkN0wxSlljZXhPMUNELTMyWGlEM2ZVR0k4dWVBS2hlZEN2eEwwVGFwYU01ano1bno4X1hhTy05MkUxcjllUWxROV9wODNib3hVamtjSG01RWM3S250YnhwR0dnTFFxcE5rR1R1ejJ2UGRqajJYemZLNDVrVzRyYTRzaU5JakVvQS1oZFdONHFmdFVYb0tVaGM?oc=5",
+    "timestamp": "2026-08-14T08:36:24+00:00",
+    "source": "fars"
+  },
+  "8631c45ed036c921d64b263f3215574e": {
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ1pfMUJ3NjhsWGg5ZkREZEVyWUV2eVkyOTZuV3RscnpXREVqUzNFUlRNdV9iYkt3M2dhaldnb0xkN0wxSlljZXhPMUNELTMyWGlEM2ZVR0k4dWVBS2hlZEN2eEwwVGFwYU01ano1bno4X1hhTy05MkUxcjllUWxROV9wODNib3hVamtjSG01RWM3S250YnhwR0dnTFFxcE5rR1R1ejJ2UGRqajJYemZLNDVrVzRyYTRzaU5JakVvQS1oZFdONHFmdFVYb0tVaGM?oc=5",
     "timestamp": "2026-08-14T08:36:24+00:00",
     "source": "fars"
@@ -2483,20 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1ZmpzVTN2SV9oX0lhTkpucjVUTmtfa3VSb0dpN0x1OEVsTXJXVjdzckVkRGpzQVBkeGs3bjZVU0dDTXZyNW9lenkzSmNKaDFnTUE?oc=5",
     "timestamp": "2026-08-10T20:33:11+00:00",
     "source": "iranintl"
-  },
-  "cb902b339689c6f76f88e88d3ef69525": {
-    "url": "https://www.france24.com/en/ebola-started-3-months-earlier-than-official-declaration",
-    "timestamp": "2026-08-10T20:26:40+00:00",
-    "source": "afp"
-  },
-  "52b757cfb3dcffadec139ad67c8992cc": {
-    "url": "https://www.france24.com/en/middle-east/20260810-iran-backed-houthis-strike-red-sea-port-of-mocha-threatening-shipping-routes",
-    "timestamp": "2026-08-10T20:26:19+00:00",
-    "source": "afp"
-  },
-  "fd3f2d3d1d95f6f15b5af7651502f412": {
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUE4QXJjenhzdy1DTVEtby1VRDU5TnoyczNRWGM0SFVEWDVVelIwQ08xRVRyaVpVbWpuR2dKMzZaZG9vU0tqLUJWaVM2OFd5U2FkTUhfQ3hrczVIcVVVeldhNGRfajlrLUFrZWRpOVM2bFZSekxmT2NISmxqSDVmR1kyZkZ5VjZoT2liZFJmSm1sZw?oc=5",
-    "timestamp": "2026-08-10T20:20:00+00:00",
-    "source": "ap"
   }
 }
