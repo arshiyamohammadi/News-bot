@@ -1,4 +1,9 @@
 {
+  "631348c82434418693dd7fc08b5b4acb": {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
+    "timestamp": "2026-08-15T01:56:00+00:00",
+    "source": "ap"
+  },
   "439461e16ca08c699825ebc7950e1f8a": {
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2EtYUxGWFNvME5USWtGejIxeFI4bENXODFmX1hnWU5BMl9TbW81Ym1DUzZQZlk3VE1sUlpLQUtjV0x5S3JEcjNBTVBZOHdhVEZlN0pYOVhKTmwzSnc3eTV2VGI3UXNqODRhdlo1UHgyd1otM0RQMzVFQWZoclNWdm9ENkN1bS1zcmQtOGJMR21fTzdZSUtWazROcVRJclBTY050czlRMjVwNFN4ME9nOU9PNmxkdGoxa2pRTVRRN1VKTXpkYXpJ?oc=5",
     "timestamp": "2026-08-14T23:28:48+00:00",
@@ -13,6 +18,11 @@
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sV0dvbmpDUk4xSmV6c2hUWFFqNVdMejdZbGtzeVhFRnhLTlNQR0hTMlA2TncwbGN2ZHJNWEI0MmQyajQ0Rk1XZ1VaZF9fd1dSSFhONXBVNXg3bFNMZG5HVkVELTdTbDg2em9Z?oc=5",
     "timestamp": "2026-08-14T22:57:05+00:00",
     "source": "fars"
+  },
+  "61643f0d5b3f32050dd3f3caa2752fae": {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZqSDNDbk9nUjJMVWd2bEwwTE03eGpyaUN2M3VhQmNEeFhqb0J1SmFFUlJtRE5FMFFJVmhsSWZCZmZwYW9OWWY1c2FDU3hsUUNYTTF4clZiVzRtblRoRmdGcEo3Z2l2Snl0UDJFQWlJeXZPNzd6dTdockZlYUNVVTBGSkEyOUxVNXNMV3d0UGU3SG1mcjk2MnFVTV80TVhLRDlub0tOM3h0OG1QRUluQXI4ZVRJMktwMHc?oc=5",
+    "timestamp": "2026-08-14T22:11:00+00:00",
+    "source": "reuters"
   },
   "d700cfe1f29d6e5836e7a77afed4f65d": {
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV0FUX2hkdmZwNUJZc3dfTUM3YmlMS1h2Vk84NmJGbVNXRkY5WE94MnpENnFtaV9mTHpGcUhSV2tYMFNQZ1VXbF83SE9GRGZlaXowLTBUMkZZaEotel9nMEt4N2ZrcVhsRzNYeHNiNng1MUhGemRTYkVWX0lYTi1DdW1ZanllRDY4N1lhc1lOUUpvMEItSzNwZndJVUpBeWZ3M0dNVDNoR3BjVG85U1dKYnFwbWlUbWVkSUtySkEwak8?oc=5",
@@ -88,6 +98,11 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU2RjbGVmLXd0dFo2ZzJjQW1EeDRYOGVMcHkyb1ctT0pid0VoNUo3RHBUNVlPbHJSdkRRaUk4Z1BtRHV5WDdNb0NsQlQ5eGFLSk90QVlWaXpaSTExNXZNei1Yb0t2YmtGNHRLMnZCbG9xZldJZ1lOejJwTXVIV05lTzYtbWhoamZnRThWdFZ5b3Vrc2tocTlhdVhXS3RFNlZQS0lPREhn?oc=5",
     "timestamp": "2026-08-14T15:48:00+00:00",
     "source": "ap"
+  },
+  "acfa7740daa272befc19b72523b76ca7": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50RVMtZXVpc3BzOGxlSkNWOUZXSWJRWUxKZE1qc3FNZV9LNUxsUll1WmdlYzJhajJ4ZzlZZEFGMFRDamw3ZDBYeV9MMFN0bmNMbUE?oc=5",
+    "timestamp": "2026-08-14T15:43:03+00:00",
+    "source": "iranintl"
   },
   "1a3e187d90a8f3f7748a23f31f23e19b": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Db2wxOWRPYU5TWkRBNmtLSWZXNDlsa0ZCTWs4Y3llNW5rcHM4YmtDanpqZXpMSnoyWUI1M2tfNXgzYVpIdnA5VE9HV20zT19WUHc?oc=5",
@@ -2482,21 +2497,6 @@
   "69fe665f9d4522931db017a78ae8a81f": {
     "url": "https://www.france24.com/en/video/20260810-india-students-clash-with-police-over-exam-leaks",
     "timestamp": "2026-08-10T15:41:47+00:00",
-    "source": "afp"
-  },
-  "3eded0f13396d09454b0001d84d1ebe6": {
-    "url": "https://www.nytimes.com/2026/08/10/world/asia/police-india-protest-jharkhand-jobs.html",
-    "timestamp": "2026-08-10T15:41:28+00:00",
-    "source": "nyt"
-  },
-  "6d6637854e84dcf2e4a8974f6564e6b6": {
-    "url": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
-    "timestamp": "2026-08-10T15:40:38+00:00",
-    "source": "nyt"
-  },
-  "a72a82a3326124e828770d864752d258": {
-    "url": "https://www.france24.com/en/video/20260810-dolphin-tropical-storm-causes-some-flooding-in-eastern-china",
-    "timestamp": "2026-08-10T15:33:21+00:00",
     "source": "afp"
   }
 }
