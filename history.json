@@ -1,4 +1,9 @@
 {
+  "ffed1595d622773abedce8f59d39b2d0": {
+    "url": "https://www.nytimes.com/2026/08/16/world/asia/india-women-protests-online-abuse.html",
+    "timestamp": "2026-08-16T04:01:23+00:00",
+    "source": "nyt"
+  },
   "21d6c9b7674ecf2aa20d6d633b42371e": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Lc3h3cFMyQjFzZG51UnFmM2lsX2hzd0NpX3g0ZU9GWFc0cHlVamZyWDlzTFVQZFBjd29Cb3N4YWtfcFVxN09wWnpwX3hUUmpUUHc?oc=5",
     "timestamp": "2026-08-16T01:09:57+00:00",
@@ -2492,11 +2497,6 @@
   "d8daa0694ae589c8e56d7e06a9e0b696": {
     "url": "https://www.france24.com/en/video/20260811-colombia-thousands-missing-after-deadly-earthquake",
     "timestamp": "2026-08-11T14:32:29+00:00",
-    "source": "afp"
-  },
-  "bd0ed120b45203a570d585d863bcfec3": {
-    "url": "https://www.france24.com/en/death-toll-from-colombia-earthquake-continues-to-rise",
-    "timestamp": "2026-08-11T14:30:35+00:00",
     "source": "afp"
   }
 }
