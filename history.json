@@ -39,6 +39,11 @@
     "timestamp": "2026-08-16T17:50:16+00:00",
     "source": "iranintl"
   },
+  "9863dcd1fd441c4cae0c8280836a1358": {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVozRlpuTURmbFhZTEprd083bUZ6X1d4aFpNSUZFNVlxc1RnQ3J5dHpfaTZvbEhldGZtQWQ5RkxHbWpianVFZGJJUjRPOWpiOW4ta1lodHdhY0FEUThZbm9LRWp6WllKb3BTQ2FodVRLN05FLXVxeWwzSWpsRFFib2RnY0xrVXhVNlBCeVF3MzNfMy1yZ3ZEYkx6RkQyeHFlWG1URXlhMA?oc=5",
+    "timestamp": "2026-08-16T17:43:15+00:00",
+    "source": "reuters"
+  },
   "f923a8fb0a9b0db5b6429778ccc205ba": {
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMzNiYlNyRktPbF9KUmUwSzVTSzhUdXlqbFRDX3VUUWZyMHJOaE5yYkpLcDNudjZjMjZPdGFITUJHS2o2cldYRHhMdWtyX3pVSDFKR3F1UmJZTWoyS2NXeUpIT2Y1eUk1UndXRXlQTjhmcnZ1SXRYRkhEQ2dBaENTVG41RWhfbmIydHN1WVB2ZW45Q1FMLXpuREVTMXVVeXA0MHRFQg?oc=5",
     "timestamp": "2026-08-16T17:39:57+00:00",
@@ -2493,10 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVo4RlREbjZCeDFybnNPaTFlMDl0SnhGblQ3ZjE4NzA2WlVKU0diWDJqN1lPWXFvVk13eDY5TVhKYXROYXVJb2tLRzM0YVFaNXEzRWxLNWI0blFUSHZqbVN6aVRrMWFPR3Foa0hJd1FLZTluRVAtWlp0d3k1U1doeUhRVlRoRFltSzRneHcyYw?oc=5",
     "timestamp": "2026-08-12T14:07:38+00:00",
     "source": "reuters"
-  },
-  "83f83b2faa956f965c3dcecf95eabad7": {
-    "url": "https://www.france24.com/en/putin-threatens-to-seize-european-ships",
-    "timestamp": "2026-08-12T13:47:40+00:00",
-    "source": "afp"
   }
 }
