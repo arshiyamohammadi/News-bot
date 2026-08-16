@@ -4,10 +4,20 @@
     "timestamp": "2026-08-16T19:12:31+00:00",
     "source": "afp"
   },
+  "4bbeefb7a5f137178567e45357346db6": {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQXhFaDhFNUpvdWN5eFRsb2hDeWd2VllSUFh4MzdtQmd2aTZJM1drejljV0RxYWgzNTdpR25hWU5mUnF0NmxMcW5tWnVZMkxDVV9TaWR4Mk82OHVWaC1vMFZUZDR0anMta3pMc0Vsci0wRW9GMDFqM0lKcnhXNDVlTk4wMU5vMUhnbGtld0pFUEFFZGJwZTFiWHozOGtkOFlwQXI1NzlScVVvVWhaeEx5dU54eWhMNFNRVEZkVEpPMG8?oc=5",
+    "timestamp": "2026-08-16T19:02:32+00:00",
+    "source": "reuters"
+  },
   "95088035e34d0948d58abe83d6ccc52c": {
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa2h6Y2ZMWjVSaEtEcWUwU21PeHM0YURBMVZtWlY5UUhTS3FKVXZyRUFCWkhVUXowOHNESXdUUTBNMExySDJaazVDX2FVWHlmTHotenVHanVXYlJvUk1GaUpXMVBubHo5aU1vODF0M1U5S2cxZEFoZ0FsaC0zWkJIS2U5R2pzcy03VkNmZmNZaXhnc0NxUS1haDUyNmFaVHBwSmZqaUpCQlQ5b0pwU2R6ZXdIcUVMdWZn?oc=5",
     "timestamp": "2026-08-16T17:56:07+00:00",
     "source": "fars"
+  },
+  "e7f56154ee5cbd910248c807443af574": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MQlB4dEUwbE9pVEoyOUZhTnFxYlZ2RVlfOG9kSlQxNWxSSmRMMnoxTk9QU2FHRDkxMEdfdGI0ZGVydXU3Zlc3VHIwZTU5cFcwQ1E?oc=5",
+    "timestamp": "2026-08-16T17:50:16+00:00",
+    "source": "iranintl"
   },
   "f923a8fb0a9b0db5b6429778ccc205ba": {
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMzNiYlNyRktPbF9KUmUwSzVTSzhUdXlqbFRDX3VUUWZyMHJOaE5yYkpLcDNudjZjMjZPdGFITUJHS2o2cldYRHhMdWtyX3pVSDFKR3F1UmJZTWoyS2NXeUpIT2Y1eUk1UndXRXlQTjhmcnZ1SXRYRkhEQ2dBaENTVG41RWhfbmIydHN1WVB2ZW45Q1FMLXpuREVTMXVVeXA0MHRFQg?oc=5",
@@ -273,6 +283,11 @@
     "url": "https://www.france24.com/en/video/20260816-chad-opposition-figure-succ%C3%A8s-masra-speaks-to-france-24",
     "timestamp": "2026-08-16T09:23:29+00:00",
     "source": "afp"
+  },
+  "cb2700a5e192bf1786389daf4476f374": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52cDBDWFcxRXJZbW50R2Z3Z1lTMlYzdHZLREdpZlpEZUZndk9CSDFPSm4td2tkQ1RacEZ1V1N1WW5NUjZQWkJqSkRwZmk1a0ZYQlE?oc=5",
+    "timestamp": "2026-08-16T09:08:22+00:00",
+    "source": "iranintl"
   },
   "1387a395f3daf2e0f7c36e8368863037": {
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0o2UU1KNjEzdFpEUmI3WlhvRllVYlZibG5ySnR3U2VaZWxYdjFYSV9fTzJTdFQxTVdtdVZIYW1HSktyZmdJTlliSGVMaVoyTlhxLUduWlNkTUZFYU5RY3dZN0h4Z1pqNVMyU2R0M1QzMEdWeUJzMEhfYTZidTlmdW5kbmcyaGgzbTQ0amNZWW5GRkFSRHp2TjZabWR1LThOUzdNNWZuSzV6VENHRU1Naw?oc=5",
@@ -2482,21 +2497,6 @@
   "fedcda48e45ff002955af8932b266969": {
     "url": "https://www.france24.com/en/video/20260812-colombia-woman-rescued-from-under-earthquake-debris-after-36-hours",
     "timestamp": "2026-08-12T13:32:43+00:00",
-    "source": "afp"
-  },
-  "cf7e42366251b56a452ffe1f783755e9": {
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZkZMS1VuU2djMmpESEVFMlhMZm1lWjEzWlRCVDlwRXRaeVRGMXpxWi1RSFdYT2lCOVZkVGkyYmFxSWp5TnpOUmNNSnR1bDdVUHN6Y2w1cXBORTk1dk45ZzROUHRlVWNicG9zZlZxUWtiMjZhbDZUci1FTVRSdUFpSFYxdHVhOVVVWnJmX3RvbndjandLaUN6cnBPS0k4YzUzdW41M0FVMy1ucHFwYlozRGxCbGRIaE9ZQm5FZDl6TXpQUWQt?oc=5",
-    "timestamp": "2026-08-12T13:32:36+00:00",
-    "source": "reuters"
-  },
-  "f8ef7d67aa2343cb6d769a79454aabe2": {
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVZJNElycHhPbXBfZXNaRzVIUXFMU2hTTE1xRi1jdjBzZHQyMUNhTHVvbXg4aWowUHpqM29PT1E0Tm5haUNRSFJEUFVScGllVU54blNSRzdXUEN0RmNZV0FWclFOMHk0QWxTbjRsOXZPX3RVQXh1OThyU2V0X215R01zRzNDX2taWmc3YWtlcTZ1X0hGbmdUQ19tV1k5SmZEdHlFblBWZUtkUmxlcnc3cWc1ZmVKdWtzN09pUVJxaHFqcFVf?oc=5",
-    "timestamp": "2026-08-12T13:06:17+00:00",
-    "source": "reuters"
-  },
-  "6655691e0e52a1455b5f54b0785c522f": {
-    "url": "https://www.france24.com/en/americas/20260812-colombia-declares-three-days-mourning-for-quake-victims",
-    "timestamp": "2026-08-12T12:55:15+00:00",
     "source": "afp"
   }
 }
