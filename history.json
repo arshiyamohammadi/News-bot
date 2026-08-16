@@ -14,6 +14,11 @@
     "timestamp": "2026-08-16T11:40:44+00:00",
     "source": "fars"
   },
+  "5c38b824514635d3ad35c3e762665a40": {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcF9Wa1NYT2dtVW52UTI3RWVFeS1MbVdwY0RvZC1kWDJYd1BEdlUzanc4Z09Gbmd6cG9NMHhWTVJxYVM1N0pqMHZCOUhHdHdRZUdBeWhzZVVhN3VBYnlOZjY5NmJmWE41UWVHeXljWUlkMFloZnh2VUxCajE0dlFTTjFOTk9ZRVVMSVJXd0thR05XbktGWlBPYmJ1S0U0bDdkQlZLWlBxb2VIUlZO?oc=5",
+    "timestamp": "2026-08-16T11:34:57+00:00",
+    "source": "reuters"
+  },
   "aaa9521c0de225443b0aa9a224b22c7d": {
     "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
     "timestamp": "2026-08-16T11:33:32+00:00",
@@ -2493,10 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWGxsVVpkYUFSLVZLZGhSaEVERjhhVTBXcHVlY2t2TVh6SzhrMFJEd2xaaFBqRGFweGZ2RVpldG9kZWNGVldadXI0ZUVrMF9ya3BmaWtYZ2NXSVFnQ0J1SEFYNnV4S2dJSnVMSlBGWlNZWFMzTXEzQjJDQ2U0UVJ5QkJtMGNYdklKYWNIY05WYURPNWVaLWdOcUhlRkhVeklyQS1pT2hnSUJBcV9kOGJoV3NJNEJySDl5QTRxXzNVcU5KaXN6di1R?oc=5",
     "timestamp": "2026-08-12T01:16:00+00:00",
     "source": "reuters"
-  },
-  "5e4f03d77f26cab7d54fa006db721582": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wNl9BS3UyNzFkSjB6Zlh0UDVic19jeFA2TDl0Y0MteG1FaC11TzB0YThmN1pNVGR4TFVYV0lKMDIyX0NFT3BZQVFuUk9mUWxHY0E?oc=5",
-    "timestamp": "2026-08-12T01:14:18+00:00",
-    "source": "iranintl"
   }
 }
