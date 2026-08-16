@@ -29,6 +29,11 @@
     "timestamp": "2026-08-16T01:34:00+00:00",
     "source": "reuters"
   },
+  "7079ff22d0bf0203a1ce3b08330fe699": {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhGZ1NQNjd5LVA5RWNOTjhXV3IxOGJEanUzM1BwcFNycFczNDdMWUEzYXhDQkk?oc=5",
+    "timestamp": "2026-08-16T01:33:00+00:00",
+    "source": "reuters"
+  },
   "21d6c9b7674ecf2aa20d6d633b42371e": {
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Lc3h3cFMyQjFzZG51UnFmM2lsX2hzd0NpX3g0ZU9GWFc0cHlVamZyWDlzTFVQZFBjd29Cb3N4YWtfcFVxN09wWnpwX3hUUmpUUHc?oc=5",
     "timestamp": "2026-08-16T01:09:57+00:00",
@@ -2493,10 +2498,5 @@
     "url": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
     "timestamp": "2026-08-11T15:42:13+00:00",
     "source": "nyt"
-  },
-  "a3a12da14f2173c01dfb711ec32e57de": {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzI4ZllHeXZmVDVJVE40M0w5NkYtdkFzM0RyYlZvY1pXbEJoc1d4RHNvVWxTem1kMEhGNUxmc0tZZmZ2ZkpZamtDNkd6bjRTVXhCVEF6dGhOSXltR0RQc3RPc0RFUzctZ00xRjAzX0hwNy1oYlU0a0dMYU9iUjdqYXZ4ZWM5YXhBMUhEREduYVo2QkVsT2ktQ19NaFNpUF85TmhFcnF1REktbFZfRklXb0EtbzZsLUZ1Vk53TFRR?oc=5",
-    "timestamp": "2026-08-11T15:34:45+00:00",
-    "source": "reuters"
   }
 }
