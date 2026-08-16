@@ -1,4 +1,19 @@
 {
+  "d0158f853be6f792107d10df7f96f643": {
+    "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+    "timestamp": "2026-08-16T09:02:18+00:00",
+    "source": "nyt"
+  },
+  "7578cbc720d000e55a7f3fc9da26c966": {
+    "url": "https://www.france24.com/en/us-hawaii-narrowly-avoids-direct-hit-as-hurricane-lala-brings-severe-weather",
+    "timestamp": "2026-08-16T08:53:56+00:00",
+    "source": "afp"
+  },
+  "07ae9ed2fa34311337a00b73fab809a8": {
+    "url": "https://www.france24.com/en/west-bank-palestinian-families-besieged-for-a-week-as-settler-violence-continues",
+    "timestamp": "2026-08-16T08:50:57+00:00",
+    "source": "afp"
+  },
   "3114d7eade469d4ef418b4cb50661e1e": {
     "url": "https://www.france24.com/en/indonesian-earthquake-aid-reaches-flores-as-death-toll-climbs",
     "timestamp": "2026-08-16T08:46:45+00:00",
@@ -18,6 +33,11 @@
     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNTh2Y2FZU3BBOVY0QktiRHRKTFN4cWlYR0tyTmtyWlJ6WTJqMU1iSGtMbTdUMjV5N0JVZXJ6OHYwckxkT2VBejE5alBVX2RlODhZUE9RWjAxc1o2UVBlZjNXa0JTcnBCd0FCNklscm1YRDFMZVk4VXd3RnFTMXpUMndLb0tRTDZQcjV1aFF4LVN6SVJ0cGJ6MlN3TlNjVkN3UEQwYWlCVjFRTGhZSzZxZHVxN1VZVjFseHJRUU1BUEpZXzREOGUtQi1UQWNxalM3eG1WUGFIdTBXU0JMNUpWcEFR?oc=5",
     "timestamp": "2026-08-16T07:43:38+00:00",
     "source": "fars"
+  },
+  "0564af373bfc36dcea263d8e6f417155": {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSUxBb3EyOW41YVFzUVIwei1TMV9SMmUzbHV1OXFLSE9hSlhCS1MzdjdSS0tJanE2bE5zMHdicFJSb2pMU21HMW00UjZxaVh1X0JEWFlkOEhKalhvY2ZwQXFMemVkZWxrZGVzUlZ4OFpfVzRva0kwbE9RQUd6QU9qV0FEdFlEM3RrdEdWMWFFYw?oc=5",
+    "timestamp": "2026-08-16T07:04:38+00:00",
+    "source": "reuters"
   },
   "0ba6b987a12ddb360cd2070cbebf9554": {
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhGZ1NQNjd5LVA5RWNOTjhXV3IxOGJEanUzM1BwcFNycFczNDdMWUEzYXhDQkk?oc=5",
@@ -2478,25 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qckZ6ZDJmVW9pbEVFXzlnZ2RBcDNxdklidWVqdjFEUVlSUFg2WHFiMWNpNGlsa2t5QmtXeXNyU3ZjUEpSekRSVDlOMFBUdWI1ckE?oc=5",
     "timestamp": "2026-08-11T18:24:00+00:00",
     "source": "iranintl"
-  },
-  "72291c6451a0531a96fb90d0169037b1": {
-    "url": "https://www.france24.com/en/europe/20260811-fast-and-fearless-baltic-defence-startups-innovate-to-counter-russian-threat",
-    "timestamp": "2026-08-11T17:48:28+00:00",
-    "source": "afp"
-  },
-  "02614c17440c1b2e4bba451c6a0e8137": {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzI4ZllHeXZmVDVJVE40M0w5NkYtdkFzM0RyYlZvY1pXbEJoc1d4RHNvVWxTem1kMEhGNUxmc0tZZmZ2ZkpZamtDNkd6bjRTVXhCVEF6dGhOSXltR0RQc3RPc0RFUzctZ00xRjAzX0hwNy1oYlU0a0dMYU9iUjdqYXZ4ZWM5YXhBMUhEREduYVo2QkVsT2ktQ19NaFNpUF85TmhFcnF1REktbFZfRklXb0EtbzZsLUZ1Vk53TFRR?oc=5",
-    "timestamp": "2026-08-11T17:45:22+00:00",
-    "source": "reuters"
-  },
-  "b168cf307be113cda90925f948ab5ce5": {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzI4ZllHeXZmVDVJVE40M0w5NkYtdkFzM0RyYlZvY1pXbEJoc1d4RHNvVWxTem1kMEhGNUxmc0tZZmZ2ZkpZamtDNkd6bjRTVXhCVEF6dGhOSXltR0RQc3RPc0RFUzctZ00xRjAzX0hwNy1oYlU0a0dMYU9iUjdqYXZ4ZWM5YXhBMUhEREduYVo2QkVsT2ktQ19NaFNpUF85TmhFcnF1REktbFZfRklXb0EtbzZsLUZ1Vk53TFRR?oc=5",
-    "timestamp": "2026-08-11T17:43:51+00:00",
-    "source": "reuters"
-  },
-  "0fb7a96e3563e5889947761d63e3aaf5": {
-    "url": "https://www.france24.com/en/americas/20260811-russia-frees-ex-us-marine-after-four-years-imprisonment-on-disputed-charges",
-    "timestamp": "2026-08-11T17:02:10+00:00",
-    "source": "afp"
   }
 }
