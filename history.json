@@ -4,6 +4,11 @@
     "timestamp": "2026-08-17T04:38:01+00:00",
     "source": "afp"
   },
+  "9c9d1b8d0ea8a08470b9e376a0086cdc": {
+    "url": "https://www.france24.com/en/live-news/20260817-nearly-13-000-displaced-after-deadly-indonesian-quake",
+    "timestamp": "2026-08-17T04:37:14+00:00",
+    "source": "afp"
+  },
   "b670d77611f997fdee7bf340cc21247d": {
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5",
     "timestamp": "2026-08-17T01:17:00+00:00",
@@ -162,6 +167,11 @@
   "81f4308b12ba956201b29dbcde20ef49": {
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVEVhTTk1VHZrSzVZV280LTRiQ0NINElsV0czSEJoWFg4MlFwbzNRZkgzdVFKM3F1b2JidWVZbFN4LWFLVkNQR1BSVFplYjBQb2x1bE84TE01b0wwVFZrT1JCMGc0VWpadER5YVFqSVlPQ2xObllRRVFJQ0pnc1VjNUZSNjlkUElLcVlXLUpnME5MbU9Vc3o2Mi1iYkthTGxtckJLb2Z0RTR6NTM3Q1E?oc=5",
     "timestamp": "2026-08-16T15:11:03+00:00",
+    "source": "fars"
+  },
+  "ea85280917ad73f58f5c414a35c38136": {
+    "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNRW5VUElYR3hDYlg1ZTBwS0JqZFlOa2tadmhycHZtYktCdEZzZmtSZnRQQ3N4NThVX3dxVm5BWDBsVDJCQ2tYNXR4UGFYSldkb1ZHeXF1U3lGdWdJTlJRejVjZXNScU03TW9IdjFHT3BfMHNlUjlMNjVWY2U5bVMtVXh5NWs1UDhtaUc3U0RuXzRobHYwcE4xS01ITXRESEU2ekZrRHpORUlNQ0MyZV9UdHRHSy1ISUVQeXZaZ3lXTmU5eEh4TVhKVmlDRngwbUFpLUdVSEEzRkVNQ0lMUkZkcjRxOVBCV3BNQ281eUcteTkxMjY1U3FERHJfNV9JX2NSVlc1Y2ZaNGlpQ1dYZ1NnUDdxZGg4MkNEc0ltcTFyckRNR1NfaXFtS0R4a0E?oc=5",
+    "timestamp": "2026-08-16T14:49:00+00:00",
     "source": "fars"
   },
   "ba0e4754e361857b4af95843c4f62934": {
@@ -2488,15 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XbDJ1LTVpSkFHbnhEZDlfUTFFbk91dWZBd1lRRzlSM0Rremw2TjFVOGtGMGRUZ2Zwem16OUs0RXNRQ21JblU2SkxaOFZnM1RVVnc?oc=5",
     "timestamp": "2026-08-12T18:08:23+00:00",
     "source": "iranintl"
-  },
-  "d16f4c6ae713abfef19641a69c18f554": {
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XbDJ1LTVpSkFHbnhEZDlfUTFFbk91dWZBd1lRRzlSM0Rremw2TjFVOGtGMGRUZ2Zwem16OUs0RXNRQ21JblU2SkxaOFZnM1RVVnc?oc=5",
-    "timestamp": "2026-08-12T18:08:23+00:00",
-    "source": "iranintl"
-  },
-  "894d698a857cbcf348dea2f9977e670f": {
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWJxb081bl9iYUZrWGltVGsyYkVodFgyX3prR1kzMW1TZTFNS3pld1U5VmR3N21yNzNLOW9FMHVVZnJIalVXTVR6SzVZa3NqbUdpZ3FtMEg3a2o1UFZieVE1azJUZVJ2R0ltckpZNFhXN0hzTDhNemtxNjliMnB5UWhlQ1BLcm05Q1NabDF1LUd5RmQ0bG1hTTY0Yw?oc=5",
-    "timestamp": "2026-08-12T17:37:00+00:00",
-    "source": "ap"
   }
 }
