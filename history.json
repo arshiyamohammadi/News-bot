@@ -24,6 +24,16 @@
     "timestamp": "2026-08-17T04:11:03+00:00",
     "source": "radiofarda"
   },
+  "b56f675b1e805224eaf113ecb2256ef6": {
+    "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
+    "timestamp": "2026-08-17T04:01:19+00:00",
+    "source": "nyt"
+  },
+  "6f0e32aa0374974564ba7aa491c45d8b": {
+    "url": "https://www.nytimes.com/2026/08/17/world/europe/posh-george-nigel-farage-reform.html",
+    "timestamp": "2026-08-17T04:01:15+00:00",
+    "source": "nyt"
+  },
   "b670d77611f997fdee7bf340cc21247d": {
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5",
     "timestamp": "2026-08-17T01:17:00+00:00",
@@ -35,6 +45,11 @@
     "source": "reuters"
   },
   "2b39325ecba7378b324b6e63e5390053": {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
+    "timestamp": "2026-08-17T00:31:00+00:00",
+    "source": "reuters"
+  },
+  "d602ea110cfa8d7e5753c4b82cc63f65": {
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
     "timestamp": "2026-08-17T00:31:00+00:00",
     "source": "reuters"
@@ -478,6 +493,11 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVQMGdnUEljNGo4eDhSbHFoSUtDZ2FVLU5hTHNmZXUwMFVDTTdneTR3S2owc1pSZjBtcHNtVkZKU25oLXlNbWxENHVhM2F1ZUtnUVVicEMzai1MMVgyZk5JLVJPRjRDUklLc21zcjJycVM5endpS2plUjRHS3FhMmFIa29MUlRjRzRpNDlTdnRLS0JuTUE?oc=5",
     "timestamp": "2026-08-16T08:13:40+00:00",
     "source": "reuters"
+  },
+  "778796fc48be66afd7434a6fe63731c4": {
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rY2tTd3NyYTJOaFRESEJPU096NHREYU1RcE1ORW1RblFLM2cwNTVEa1EwNlBxbEtMakpZeEo1bmdZdEZVN2dTN0haNEUtWElWUGc?oc=5",
+    "timestamp": "2026-08-16T08:00:40+00:00",
+    "source": "iranintl"
   },
   "d67ff6a72ac9fbcdba8322a699711390": {
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR2JBdEpEcXZtNm5jSk5rSEFtaTE5VUVyX2FKSExPdmZoV3JuTXVBcjlCbmRnLTA1MHlBMDFYWWhqb3d3VE10QzkwSEljalFKQU1iUDJtUnY0Q0VuUFcwVGN1ak9hc3JkNENjZ29lVFMxVTZ1NmVnZURxNk1XV3hhbEMxeDBJVkFTNl9OWUtNek4xYnBKZ0RfbDFwOTVfUUpKckhDTXgwd2kwVXBN?oc=5",
@@ -2478,25 +2498,5 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sWTF5Vnp6UFhrMlJ4ZGR6NV9YVXgzbWNLXy1sZUFZcFpYNzljREpYTG05Q0htYi1ndG02T0FHVFUwUkZpQUpNclJkMS0xeHJoTkE?oc=5",
     "timestamp": "2026-08-12T19:22:02+00:00",
     "source": "iranintl"
-  },
-  "28f6e05b7d8af53ba9418565dd6a258d": {
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNDNIaWNsbW1pZVZYZ29CdEs4czA3WVBzaEJvQTA4dklTNzJKcGE0NDdvOW5EeG5SZ1VVdGxLUV9DNXZoUHNUWWlUSUdUMFJMeU55ZVI4Y25VMzZydjVNdVVIS0tPU2ZDQnhfVlA2aEhqTWJZUFNNVzU4Nlk1dXFSRG5mTmpOaG9vTGtCQXhpdDlWYWhQd3lMQWVvX3U5VFppN1JMc1JUYW9Ddno2ekFMOTdBLVJzOHJuLVBKZjZEdjBQQUtUa2JFU3FJQ1kwdDVyRVIzeEl0Z193bDdw?oc=5",
-    "timestamp": "2026-08-12T19:21:31+00:00",
-    "source": "fars"
-  },
-  "e93834ce270a3a7b4070640e41ba2c6c": {
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNDNIaWNsbW1pZVZYZ29CdEs4czA3WVBzaEJvQTA4dklTNzJKcGE0NDdvOW5EeG5SZ1VVdGxLUV9DNXZoUHNUWWlUSUdUMFJMeU55ZVI4Y25VMzZydjVNdVVIS0tPU2ZDQnhfVlA2aEhqTWJZUFNNVzU4Nlk1dXFSRG5mTmpOaG9vTGtCQXhpdDlWYWhQd3lMQWVvX3U5VFppN1JMc1JUYW9Ddno2ekFMOTdBLVJzOHJuLVBKZjZEdjBQQUtUa2JFU3FJQ1kwdDVyRVIzeEl0Z193bDdw?oc=5",
-    "timestamp": "2026-08-12T19:21:31+00:00",
-    "source": "fars"
-  },
-  "f1165c8bfc3e837be66d2c82492e713f": {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWZuZFpUQ0JKbW5uc3dBdFd0WUxfSlpDR3FTUElnWXJ0YjE2WFc3SWFLM29sRi1hX2J5WU94WTBhS3RvWl9vMFFWbzd4bF81QnZ3X19Ic04yLXgzbzBlQVZuX0JrRzh3UUJ1V1pQdld1R1pHc1duSWlkWXNkb3BSOUhCRXJPMmhMSmJYYVdsbDlsaU42cnN6dkVCdzhITHdabEZJXy1UbmFsdE5ZNUE?oc=5",
-    "timestamp": "2026-08-12T19:21:00+00:00",
-    "source": "ap"
-  },
-  "b28c32b6b3b9ed590031e9d9a6086d69": {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWZuZFpUQ0JKbW5uc3dBdFd0WUxfSlpDR3FTUElnWXJ0YjE2WFc3SWFLM29sRi1hX2J5WU94WTBhS3RvWl9vMFFWbzd4bF81QnZ3X19Ic04yLXgzbzBlQVZuX0JrRzh3UUJ1V1pQdld1R1pHc1duSWlkWXNkb3BSOUhCRXJPMmhMSmJYYVdsbDlsaU42cnN6dkVCdzhITHdabEZJXy1UbmFsdE5ZNUE?oc=5",
-    "timestamp": "2026-08-12T19:21:00+00:00",
-    "source": "ap"
   }
 }
